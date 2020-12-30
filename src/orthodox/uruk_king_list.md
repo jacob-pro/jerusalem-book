@@ -1,0 +1,45 @@
+# Uruk King List
+
+Museum number IM 65066 (Iraq Museum). Also known as King List 5 [@grayson1980konigslisten, 97]
+
+The list is a fragment of a tablet, the obverse covers the reigns from Kandalanu to Darius I. 
+The reverse spans from Darius III to Seleucus II, and was therefore inscribed sometime after his reign (226 BC)
+
+Origin: Excavated in winter 1959/60 at Uruk-Warka (W 20030, 10j)\
+First translated: in 1962 by J van Dijk [@van1962inschriftenfunde, 53]
+
+## Translation
+
+Obverse [@pritchard1969ancient, 566]:
+```
+[x] years [...]
+    Other name: [...]
+21 years: K[anda]lan
+ 1 year: Sin-shum-lishir
+      and Sin-shar-ishkun
+21 years: Nabopolassar
+43 [ye]ars: Nebuchadnezzar (II)
+2 [ye]ars: Amel-Marduk
+[x] + 2 years, 8 months: Neriglissar
+[...] 3 months: Labashi-Marduk
+[x] + 15 years: Nabonidus
+[9 years: Cy]rus
+[8 years: Cambys]es
+[36 years: Dari]us
+(break)
+```
+
+## Interpretation
+
+| King                                  | Length of Rule                  |
+|---------------------------------------|---------------------------------|
+| Kandalanu                             | 21 Years                        |
+| Sin-shumu-lisir and Sin-sharra-ishkun | 1 Year                          |
+| Nabopolassar                          | 21 Years                        |
+| Nebuchadnezzar II                     | 43 Years                        |
+| Awil-Marduk                           | 2 Years                         |
+| Neriglissar                           | 3? Years (Damaged) and 8 Months |
+| Labashi-Marduk                        | 3 Months                        |
+| Nabonidus                             | 17? Years (Damaged)             |
+
+## References
