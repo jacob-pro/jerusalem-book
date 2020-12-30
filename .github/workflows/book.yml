@@ -8,6 +8,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - run: sudo apt install pandoc pandoc-citeproc -y
+      - run: cargo install rust-script --debug
+
       - name: Setup mdBook
         uses: peaceiris/actions-mdbook@v1
         with:
