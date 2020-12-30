@@ -2,9 +2,65 @@
 
 Museum number BM 25127 [@bm25127], ABC 2 [@grayson2000assyrian, 87], CM 21 [@glassner2004mesopotamian, 214].
 
-Origin: Purchased by the British Museum from an antiquities dealer in 1898\
+Origin: Purchased by the British Museum from an antiquities dealer in 1898
+
 First Translated: 1956 by DJ Wiseman [@wiseman1956chronicles, 50]
 
-## Excerpt
+## Translation
+
+```
+1  [...] when he/they had sent [...] to Babylon, at night
+2  [...] ... they did battle within the city all day.
+3  [...] ... of Sin-sharra-ishkun fled to Assyria.
+4  He appointed [officials with]in the city. On the twelfth day of the month Elul the army of Assyria
+5  [...] entered Shaznaku and set fire to the temple.
+6  [...] and in the month Tishri the gods of Kish went to Babylon.
+7  The [army of] Assyria went to Nippur and Nabopolassar retreated before them.
+8  [The army of As]syria and the Nippureans followed him to Uruk,
+9 they did battle against Nabopolassar in Uruk, and retreated before Nabopolassar.
+10 In the month Iyyar the army of Assyria went down to Akkad. On the twelfth day of the month Tishri
+11 when
+10 the army of Assyria
+11 had marched against Babylon (and) the Babylonians
+12 had come out of Babylon;
+11 on that day,
+12 they did battle against the army of Assyria,
+13 inflicted a major defeat upon the army of Assyria, and plundered them.
+14 For one year there was no king in the land (Babylonia). On the twenty-sixth day of the month Marchesvan Nabopolassar
+15 ascended the throne in Babylon. The accession year of Nabopolassar: In the month Adar
+16-17 Nabopolassar returned to Susa the gods of Susa whom the Assyrians had carried off and settled in Uruk.
+18 The first year of Nabopolassar: On the seventeenth day of the month Nisan panic overcame the city.
+19 Shamash and the gods of Shapazzu went to Babylon.
+20 On the twenty-first day of the month Iyyar the army of Assyria entered Sal[lat] (and) carried off the booty.
+21 On the twentieth day <of the month Sivan/Tammuz> the gods of Sippar went to Babylon.
+22 On the ninth day of the month Ab Nabopolassar and his army [marched] to Sall[at].
+23 He did battle against Sallat but did not capture the city. (Instead) the army of Assyria arrived so
+24 he retreated before them and withdrew.
+25 [The second year] of Nabopolassar: At the beginning of the month Elul the army of Assyria
+26 went down [to Akkad] and camped by the Banitu canal.
+27 They did [battle against Nab]opolassar but achieved nothing.
+28 [...] ... and they withdrew.
+29 [The third year]: On the eighth [day of the month ... ] Der rebelled against Assyria. On the fifteenth day of the month Tishri
+30 [...] ... the king of Assyria and his army went down to Akkad and
+31 [...] ... and took (it) into Nippur. Afterwards Itti-ili
+32 [... he]ard and stationed a garrison in Nippur.
+33 [...] he went up [against] Syria and 
+34 [...]
+33 against
+34 [...] he ravaged [...] ... and set out for Nineveh.
+35 [...] ... who had come to do battle against him
+36 [... whe]n they saw him they bowed down before him.
+37 [...] ...
+38 The rebel king [...]
+39 one hundred days [...]
+40 ... [( ... )] ... when ... [...]
+41 [...] rebel ... [...]
+```
+[@grayson2000assyrian, 87]
+
+## Chronological Information
+
+- Line 14: `For one year there was no king in the land (Babylonia)`
+- Line 14-15: `On the twenty-sixth day of the month Marchesvan Nabopolassar ascended the throne in Babylon`
 
 ## References

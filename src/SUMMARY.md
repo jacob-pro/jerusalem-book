@@ -8,7 +8,7 @@
         - [Uruk King List](orthodox/uruk_king_list.md)
         - [Babylonian Chronicles](orthodox/chronicles.md)
             - [Early Years of Nabopolassar Chronicle](orthodox/early_nabopolassar_chronicle.md)
-        - [Business Tablets]()
+        - [Business Documents]()
         - [Adad-Guppi Stele]()
         - [Hillah Stele]()
         - [Egyptian Chronology]()
