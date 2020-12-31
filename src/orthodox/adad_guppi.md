@@ -58,6 +58,56 @@ Col. I.
 44. to his hands. My two hands I lifted up and to Sin, king of the gods,
 45. reverently with imploration [(I prayed) thus, "Nabu-na'id
 46. (my) son, offspring of my womb, beloved of his mother,]
+Col. II.
+1.  thou hast called him to the kingship, thou hast pronounced his name,
+2.  at the command of thy great godhead may the great gods
+3.  go at his two sides, may they make his enemies to fall,
+4.  forget not, (but) make good E-h̬ul-h̬ul and the finishing of its foundation(?)".
+5.  When in my dream, his two hands had been laid on, Sin, king of the gods,
+6, 7. Spoke to me thus, " With thee I will put into the hands of Nabuna'id, thy son, the return of the gods and the habitation of Harran;
+8.  He shall build E-h̬ul-h̬ul, shall perfect its structure, (and) Harran
+9.  more than (it was) before he shall perfect and restore it to its place.
+10. The hand of Sin, Nin-gal, Nusku, and Sadarnunna
+11. he shall clasp and cause them to enter E-hul-bul ". The word of Sin,
+12. king of the gods, which he spoke to me I honoured, and I myself saw (it fulfilled) ;
+13. Nabu-na'id, (my) only son, offspring of my womb, the rites
+14. forgotten of Sin, Nin-gal, Nusku, and
+15. Sadarnunna he perfected, E-h̬ul-h̬ul
+16. anew he built and perfected its structure, Harran more
+17. than before he perfected and restored it to its place ; the hand
+18. of Sin, Nin-gal, Nusku, and Sadarnunna from
+19. Šuanna his royal city he clasped, and in the midst of Harran
+20. in E-h̬ul-h̬ul the abode of their hearts' ease with gladness
+21. and rejoicing he let them dwell. What from former times Sin, king of the gods,
+22. had not done and had not granted to anybody (he did) for the love of me
+23. who had ever worshipped his godhead, laid hold on the hem of his robe—Sin, king of the gods,
+24. uplifted my head and set upon me a good name in the land,
+25. long days, years of heart's ease he multiplied upon me.
+26. From the time of Aššurbanipal, king of Assyria, until the 9th year
+27. of Nabu-na'id king of Babylon, the son, offspring of my womb
+28. 104 years of happiness, with the reverence which Sin, king of the gods,
+29. placed in me, he made me flourish, my own self: the sight of my two eyes
+30. is clear, I am excellent in understanding, my hand and both feet are sound,
+31. well-chosen are my words, meat and drink
+32. agree with me, my flesh is goodly, glad is my heart.
+33. My descendents to four generations from me flourishing in themselves
+34. I have seen, I am fulfilled (with) offspring. O Sin, king of the gods, for favour
+35. thou hast looked upon me, thou hast lengthened my days: Nabuna'id, king of Babylon,
+36. my son, to Sin my lord I have devoted him. So long as he is alive
+37. let him not offend against thee; the genius of favour, genius of favour which (to be) with me
+38. thou hast appointed and they have caused me to attain offspring, with him (too)
+39. appoint (them), and wickedness and offence against thy great godhead
+40. endure not, (but) let him worship thy great godhead. In the 21 years
+41. of Nabopolassar, king of Babylon, in the 43 years of Nebuchadrezzar,
+42. son of Nabopolassar,a nd 4 years of Neriglissar, king of Babylon,
+43. (when) they exercised the kingship, for 68 years
+44. with all my heart I reverenced them, I kept watch over them,
+45. Nabu-na'id (my) son, offspring of my womb, before Nebuchadrezzar
+46. son of Nabopolassar and (before) Neriglissar, king of Babylon, I caused him to stand,
+47. daytime and night he kept watch over them
+48. what was pleasing to them he performed continually,
+49. my name he made (to be) favourite in their sight, (and) like
+50. [a daughtero of] their [own] they uplifted my head
 ```
 [@gadd1958harran, 47]
 
