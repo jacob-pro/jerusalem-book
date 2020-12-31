@@ -5,7 +5,7 @@ there are 6 that belong to the Neo-Babylonian era, however they do not span the 
 
 ABC – A.K. Grayson, Assyrian and Babylonian Chronicles (1975)
 
-CM – Jean-Jacques Glassner, Chroniques Mésopotamiennes (1993) (translated as Mesopotamian Chronicles, 2004)
+CM –  J.J. Glassner, Chroniques Mésopotamiennes (1993) (translated as Mesopotamian Chronicles, 2004)
 
 BM – British Museum Number 
 

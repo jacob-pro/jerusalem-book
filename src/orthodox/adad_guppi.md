@@ -2,9 +2,9 @@
 
 Nabon H I, B is a stele in the pavement of the North entrance to the Great Mosque at Harran [@gadd1958harran, 35].
  
-Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions], Inscription of Adad-Guppi [@beaulieu1989reign].
+Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions], or the Inscription of Adad-Guppi [@beaulieu1989reign].
 
-Origin: Discovered by DS Rice in 1956
+Origin: Discovered by D S Rice in 1956
 
 First Translation: 1958 by C J Gadd
 
@@ -165,11 +165,32 @@ First Translation: 1958 by C J Gadd
 
 ## Key Information
 
+Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`
+
+Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns:
+
+| King                                  | Reign     |
+|---------------------------------------|-----------|
+| Ashurbanipal                          | 42 Years  |
+| Ashur-etil-ilani                      | 3 Years   |
+| Nabopolassar                          | 21 Years  |
+| Nebuchadnezzar II                     | 43 Years  |
+| Awil-Marduk                           | 2 Years  |
+| Neriglissar                           | 4 Years  |
+
+Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4)
+
+Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of Nabonidus `104 years`
 
 ## Notes
 
-[@van1962inschriftenfunde, 57]
+There is some uncertainty about the accuracy or interpretation of the reigns given for Ashurbanipal and Ashur-etil-ilani.
 
+One possibility is that Ashur-etil-ilani's reign coincided with the last 4 years of Ashurbanipal [@oates1965assyrian, 138] 
+[@van1962inschriftenfunde, 57], however this would mean that the total lengths of 95/104 years would be incorrect due 
+to double counting.
 
+Unfortunately there is currently insufficient evidence to be completely certain about the reign of the last Assyrian 
+kings [@leichty1983inscription, 220]
 
 ## References
