@@ -9,6 +9,8 @@
         - [Babylonian Chronicles](orthodox/chronicles/README.md)
             - [Akitu Chronicle](orthodox/chronicles/bm86379.md)
             - [Early Years of Nabopolassar Chronicle](orthodox/chronicles/bm25127.md)
+            - [Fall of Nineveh Chronicle](orthodox/chronicles/bm21901.md)
+            - [Nebuchadnezzar Chronicle](orthodox/chronicles/bm21956.md)
         - [Business Documents]()
         - [Adad-Guppi Stele]()
         - [Hillah Stele]()
