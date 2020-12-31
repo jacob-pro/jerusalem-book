@@ -167,16 +167,16 @@ First Translation: 1958 by C J Gadd
 
 Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`
 
-Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns:
+Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns / the time that Adad-Guppi served:
 
-| King                                  | Reign     |
-|---------------------------------------|-----------|
-| Ashurbanipal                          | 42 Years  |
-| Ashur-etil-ilani                      | 3 Years   |
-| Nabopolassar                          | 21 Years  |
-| Nebuchadnezzar II                     | 43 Years  |
-| Awil-Marduk                           | 2 Years  |
-| Neriglissar                           | 4 Years  |
+| King                                  | Time Served |
+|---------------------------------------|-------------|
+| Ashurbanipal                          | 42 Years    |
+| Ashur-etil-ilani                      | 3 Years     |
+| Nabopolassar                          | 21 Years    |
+| Nebuchadnezzar II                     | 43 Years    |
+| Awil-Marduk                           | 2 Years     |
+| Neriglissar                           | 4 Years     |
 
 Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4)
 
