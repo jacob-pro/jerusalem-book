@@ -11,6 +11,7 @@ BM – British Museum Number
 
 | Name                                  | ABC | CM  | BM    | Start Year        | End Year          |
 |---------------------------------------|-----|-----|-------|-------------------|-------------------|
+| Akitu Chronicle                       | 16  | 20  | 86379 | Sennacherib ?     | Nabopolassar Acc. |
 | Early Years of Nabopolassar Chronicle | 2   | 21  | 25127 | Nabopolassar Acc. | Nabopolassar 3    |
 | Fall of Nineveh Chronicle             | 3   | 22  | 21901 | Nabopolassar 10   | Nabopolassar 18   |
 | Late Years of Nabopolassar Chronicle  | 4   | 23  | 22047 | Nabopolassar 18   | Nabopolassar 20   |
@@ -18,7 +19,7 @@ BM – British Museum Number
 | Third year of Neriglissar Chronicle   | 6   | 25  | 25124 | Neriglissar 3     | Neriglissar 3     |
 | Nabonidus Chronicle                   | 7   | 26  | 35382 | Nabonidus Acc.    | Nabonidus 17?     |
 
-Regarding these particular chronicles Grayson says [@grayson2000assyrian, 14]:
+Concerning the early chronicles Grayson says [@grayson2000assyrian, 14]:
 
 > In conclusion it may be stated that Chronicles 1-7 represent only a small part of a series of
   late Babylonian chronicles which, like all chronicles of category A, were probably resumes or
