@@ -13,7 +13,7 @@
             - [Nebuchadnezzar Chronicle](orthodox/chronicles/bm21956.md)
             - [Nabonidus Chronicle](orthodox/chronicles/bm35382.md)
         - [Business Documents]()
-        - [Adad-Guppi Stele]()
+        - [Adad-Guppi Stele](orthodox/adad_guppi.md)
         - [Hillah Stele]()
         - [Egyptian Chronology]()
     - [Absolute]()
