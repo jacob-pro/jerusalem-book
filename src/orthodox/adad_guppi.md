@@ -11,7 +11,7 @@ First Translation: 1958 by C J Gadd
 ## Translation
 
 ```
-Col. I.
+   Col. I.
 1.  I (am) the lady Adda-guppi' mother
 2.  of Nabium-na'id, king of Babylon,
 3.  votaress of the gods Sin, Nin-gal, Nusku,
@@ -58,7 +58,7 @@ Col. I.
 44. to his hands. My two hands I lifted up and to Sin, king of the gods,
 45. reverently with imploration [(I prayed) thus, "Nabu-na'id
 46. (my) son, offspring of my womb, beloved of his mother,]
-Col. II.
+   Col. II.
 1.  thou hast called him to the kingship, thou hast pronounced his name,
 2.  at the command of thy great godhead may the great gods
 3.  go at his two sides, may they make his enemies to fall,
@@ -108,6 +108,58 @@ Col. II.
 48. what was pleasing to them he performed continually,
 49. my name he made (to be) favourite in their sight, (and) like
 50. [a daughtero of] their [own] they uplifted my head
+   Col. III.
+1.  I nourished (their spirits), and incense offering
+2.  rich, of sweet savour,
+3.  I appointed for them continually and
+4.  laid ever before them.
+5.  (Now) in the 9th year of Nabu-na'id,
+6.  king of Babylon, the fate
+7.  of herself carried her off, and
+8.  Nabu-na'id, king of Babylon,
+9.  (her) son, issue of her womb, . . . . . . . . . . .
+10. her corpse entombed, and [robes]
+11. splendid, a bright mantle . . . . . . .
+12. gold, bright . . . . . . . .
+13. beautiful stones, [precious] stones,
+14. costly stones . . . . . . . .
+15. sweet oil her corpse he [anointed]
+16. they laid it in a secret place. [Oxen and]
+17. sheep (especially) fattened he [slaughtered]
+18. before it. He assembled [the people]
+19. of Babylon and Borsippa, [with the people]
+20. dwelling in far regions, [kings, princes, and]
+21. governors, from [the border]
+22. of Egypt on the Upper Sea
+23. (even) to the Lower Sea he [made to come up],
+24. mourning and . . . . . . . .
+25. weeping he performed, [dust?]
+26. they cast upon their heads, for 7 days
+27. and 7 nights with . . . . . . . . .
+28. they cut themselves(?), their clothes
+29. were cast down(?). On the seventh day . . . . . . .
+30. the people(?) of all the land their hair(?)
+31. shaved, and . . . . . . . .
+32. their clothes. . . . . . . .
+33. the . . . . . . . . of their clothes . . . . . .
+34. in(?) their places(?) . . . . . . . . . . . . .
+35. they ? to . . . . . . . . . . . . . . . . . .
+36. at meat(?) . . . . . . . . . . . . . . . . . . . . .
+37. perfumes refined he amassed(?) . . . . .
+38. sweet oil upon the heads [of the people]
+39. he poured out, their hearts . . . . . . . .
+40. he made glad, he [cheered(?)]
+41. their minds, the road [to their homes]
+42. he did not(?) withhold(?) . . . . . . . . .
+43. to their own places they went.
+44. Do thou, whether a king or a prince . . . . . . . . .
+         (Remainder too fragmentary for translation until :—)
+51. Fear (the gods), in heaven and earth
+52. pray to them, [neglect] not [the utterance]
+53. of the mouth of Sin and the goddess . . . . .
+54. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+55. . . . . . . . make safe the . . . . . . . . of thy seed
+56. [ever(?)] and for [ever(?)].
 ```
 [@gadd1958harran, 47]
 
