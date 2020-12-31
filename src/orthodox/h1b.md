@@ -184,13 +184,14 @@ Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of 
 
 ## Notes
 
-There is some uncertainty about the accuracy or interpretation of the reigns given for Ashurbanipal and Ashur-etil-ilani.
+There is some uncertainty about the accuracy or interpretation of the reigns given for the Assyrian kings 
+Ashurbanipal and Ashur-etil-ilani.
 
 One possibility is that Ashur-etil-ilani's reign coincided with the last 4 years of Ashurbanipal [@oates1965assyrian, 138] 
 [@van1962inschriftenfunde, 57], however this would mean that the total lengths of 95/104 years would be incorrect due 
-to double counting.
+to double counting. Others disagree and believe the inscription does not contain any error [@gerber1998inschrift].
 
-Unfortunately there is currently insufficient evidence to be completely certain about the reign of the last Assyrian 
+Unfortunately there is limited evidence to be completely certain about the chronology of the last Assyrian 
 kings [@leichty1983inscription, 220]
 
 ## References
