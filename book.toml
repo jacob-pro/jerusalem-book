@@ -5,5 +5,5 @@ multilingual = false
 src = "src"
 title = "The Jerusalem Book"
 
-[preprocessor.foo]
+[preprocessor.bibliography]
 command = "rust-script --debug src/bibliography.rs src/bibliography.bib src/ieee.csl"
