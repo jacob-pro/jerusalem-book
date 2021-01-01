@@ -2,7 +2,7 @@
 
 Nabon H I, B is a stele in the pavement of the North entrance to the Great Mosque at Harran [@gadd1958harran, 35].
  
-Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions], or the Inscription of Adad-Guppi [@beaulieu1989reign].
+Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions, 351], or the Inscription of Adad-Guppi [@beaulieu1989reign].
 
 Origin: Discovered by D S Rice in 1956
 
