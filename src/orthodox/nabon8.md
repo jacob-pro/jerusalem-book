@@ -3,7 +3,7 @@
 Known as Nabonidus inscription No.8 [@tadmor1965inscriptions, 351] [@langdon1912neubabylonischen, 270], 
 or Inscription No. 1 [@beaulieu1989reign].
 
-First Published: 1896 by Fr V Scheil [@schiel1896inscription]
+First Published: 1896 by Fr V Scheil [@schiel1896inscription] and also L Messerschmidt [@messerschmidt1896die]
 
 ## Translation
 
