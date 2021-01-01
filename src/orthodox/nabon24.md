@@ -4,9 +4,9 @@ Nabon H I, B is a stele in the pavement of the North entrance to the Great Mosqu
  
 Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions, 351], or the Inscription of Adad-Guppi [@beaulieu1989reign].
 
-Origin: Discovered by D S Rice in 1956
+Origin: Discovered by D S Rice in 1956.
 
-First Translation: 1958 by C J Gadd
+First Translation: 1958 by C J Gadd.
 
 ## Translation
 
@@ -165,7 +165,7 @@ First Translation: 1958 by C J Gadd
 
 ## Key Information
 
-Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`
+Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`.
 
 Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns / the time that Adad-Guppi served:
 
@@ -178,9 +178,9 @@ Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns
 | Awil-Marduk                           | 2 Years     |
 | Neriglissar                           | 4 Years     |
 
-Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4)
+Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4).
 
-Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of Nabonidus `104 years`
+Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of Nabonidus `104 years`.
 
 ## Notes
 
@@ -192,6 +192,6 @@ One possibility is that Ashur-etil-ilani's reign coincided with the last 4 years
 to double counting. Others disagree and believe the inscription does not contain any error [@gerber1998inschrift].
 
 Unfortunately there is limited evidence to be completely certain about the chronology of the last Assyrian 
-kings [@leichty1983inscription, 220]
+kings [@leichty1983inscription, 220].
 
 ## References

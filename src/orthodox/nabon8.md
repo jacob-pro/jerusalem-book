@@ -3,7 +3,7 @@
 Known as Nabonidus inscription No.8 [@tadmor1965inscriptions, 351] [@langdon1912neubabylonischen, 270], 
 or Inscription No. 1 [@beaulieu1989reign].
 
-First Published: 1896 by Fr V Scheil [@schiel1896inscription] and also L Messerschmidt [@messerschmidt1896die]
+First Published: 1896 by Fr V Scheil [@schiel1896inscription] and also L Messerschmidt [@messerschmidt1896die].
 
 ## Translation
 
@@ -34,10 +34,10 @@ Later the [Adad Guppi Stele](nabon24.md) Col i Lines 37-40 says:
 `Towards E-h̬ul-h̬ul the temple of Sin
 which (is) in Harran, the abode of his heart's delight, he was reconciled, he had
 regard. Sin, king of the gods, looked upon me and
-Nabu-na'id (my) only son, the issue of my womb, to the kingship`
+Nabu-na'id (my) only son, the issue of my womb, to the kingship`.
 
 According to Tadmor the inscription therefore counts 54 years from the 16th year of Nabopolassar to the accession of 
-Nabonidus. [@tadmor1965inscriptions, 355]:
+Nabonidus [@tadmor1965inscriptions, 355]:
 
 > The 54 years are counted from 610, the sixteenth year of Nabopalassar (when Sin "was angry with his
  city and his house and went up to heaven"), to 556, the accession year of Nabunaid.
