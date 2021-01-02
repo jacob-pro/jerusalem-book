@@ -2,7 +2,7 @@
 
 - [Introduction](introduction/README.md)
     - [Significance]()
-    - [Assyriology Basics](introduction/basics.md)
+    - [Calendar Basics](introduction/calendar.md)
 - [Orthodox Babylonian Chronology](orthodox/README.md)
     - [Relative]()
         - [Uruk King List](orthodox/im65066.md)
@@ -10,7 +10,7 @@
             - [Akitu Chronicle](orthodox/chronicles/bm86379.md)
             - [Early Years of Nabopolassar Chronicle](orthodox/chronicles/bm25127.md)
             - [Fall of Nineveh Chronicle](orthodox/chronicles/bm21901.md)
-            - [Nebuchadnezzar Chronicle](orthodox/chronicles/bm21956.md)
+            - [Nebuchadnezzar Chronicle](orthodox/chronicles/bm21946.md)
             - [Nabonidus Chronicle](orthodox/chronicles/bm35382.md)
         - [Business Tablets](orthodox/business.md)
         - [Adad-Guppi Stele](orthodox/nabon24.md)
