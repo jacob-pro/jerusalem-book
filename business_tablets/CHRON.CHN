@@ -1550,10 +1550,10 @@ Number of texts: 11
 Shamash-shum-ukin, year 20. - (648/647 B.C.):
   TuM 2/3, 103. (Ssu.20.01.20, Borsippa)
   *Goetze JNES 3 44:YBC 11317. (Ssu.20.01.22, B.)
+  BRM 1, 38. (Ssu.20.04.15, Borsippa)   # Changed from 20.07.25
   *Brinkman-Kennedy JCS 35 K.155. (Ssu.[20].05.03, B.)
   *Brinkman-Kennedy JCS 35 K.142. (Ssu.20.05.28, Borsippa)
   *Brinkman-Kennedy JCS 35 K.143. (Ssu.20.05.30, B.)
-  BRM 1, 38. (Ssu.20.07.25, Borsippa)
 Number of texts: 6
 
 Shamash-shum-ukin, year not marked. - (667/648 B.C.):
@@ -3332,13 +3332,14 @@ Nabopolassar, year 20. - (606/605 B.C.):
 Number of texts: 32
 
 Nabopolassar, year 21. - (605/604 B.C.):
-  Parker-Dubberstein, Chronology p12:A 5302. (Nbp.21.05.01. KUR.A.DAN.SHU)
   GCCI 2, 181. (<Nbp>.21.01.11, <U.>)
   *Goetze JNES 3 44:YBC 4150. (Nbp.21.02.06, o)
   Strassmaier ZA 4 Nbp n19. (Nbp.21.02.x, [S.])
   Moore, Mich. Coll. 35. (Nbp.21.05.01, <U.>)
+  Parker-Dubberstein, Chronology p12:A 5302. (Nbp.21.05.01. KUR.A.DAN.SHU)  # Corrected order
+  *Kennedy JCS 38 T.21.14. (Nbp.21.05.20, o)   # Added missing tablet (PTS 2761)
   Jursa Iraq 59 n59. (Nbp.21?.x.26, o)
-Number of texts: 6
+Number of texts: 7
 
 Nabopolassar, year not marked. - (626/605 B.C.):
   GCCI 2, 182. (<Nbp>.o.05.12, <U.>)
@@ -5779,6 +5780,7 @@ Nebuchadnezzar II, year 42. - (563/562 B.C.):
   VS 3, 33. (Nbk.42.07.21+x, Bit-sha-Sin-naszir)
   GCCI 1, 75. (Nbk.42.08.11, <U.>)
   GCCI 1, 130. (Nbk.42.08.17, <U.>)
+  TuM 2/3, 238. (Nbk.42.08.o, <N.>)   # Correction from Y43 to Y42 (Krückmann 238)
   VS 3, 34. (<Nbk?>.42.09.06, o)
   GCCI 1, 150. (Nbk.42.09.11, <U.>)
   BE 8/1, 26. (Nbk.42.09.16, Alu-sha-Arba)
@@ -5814,7 +5816,7 @@ Nebuchadnezzar II, year 42. - (563/562 B.C.):
   *Bertin 1159. (Nbk.42.x.15?, <S.>)
   Sack, CDCP n100. (Nbk.42.x.16, U.)
   AUWE 11, 225. (Nbk.42.x.x, U.)
-Number of texts: 79
+Number of texts: 80
 
 Nebuchadnezzar II, year 43. - (562/561 B.C.):
   GCCI 1, 218. (Nbk.43.01.02, <U.>)
@@ -5853,11 +5855,9 @@ Nebuchadnezzar II, year 43. - (562/561 B.C.):
   Beaulieu NABU 1989/3 43. (Nbk.43.06.16, <U.>)
   *Goetze JNES 3 44:NCBT 286. (Nbk.43.06.21, U.)
   TCL 12, 58. (Nbk.43.06.26, U.)
-  TuM 2/3, 238. (Nbk.43.08.o, <N.>)
-  CT 55, 138. (Nbk.43.10.x, Alu-Shamash)
   CT 56, 305. ([Nbk].43.x.01, <S.>)
   CT 57, 536. (Nbk.43.x.x, <S.>)
-Number of texts: 40
+Number of texts: 38
 
 Nebuchadnezzar II, year not marked. - (605/562 B.C.):
   Nbk. 418. (Nbk.o.01.17, <S.>)
@@ -5869,6 +5869,7 @@ Nebuchadnezzar II, year not marked. - (605/562 B.C.):
   CT 55, 228. (<Nbk>.o.08.10+x, <S.>)
   BIN 1, 154. (Nbk.o.08.29, <U.>)
   CT 55, 741. (<Nbk>.o.09.15, <S.>)
+  CT 55, 138. (Nbk.o.10.x, Alu-Shamash)   # Moved because year number is actually not clear (BM 55806)
   *Bertin 2992. (<Nbk>.o.12.08, <S.>)
   UCP 9/1, I, 57. (Nbk.o.12b.07, <U.>)
   CT 55, 742. (<Nbk>.o.o.19, <S.>)
@@ -6133,7 +6134,7 @@ Nebuchadnezzar II, year not marked. - (605/562 B.C.):
   YOS 9, 149. (Nbk.o.o.o, <U.>)
   YOS 9, 85. (Nbk.o.o.o, <U.>)
   YOS 9, 86. (Nbk.o.o.o, <U.>)
-Number of texts: 273
+Number of texts: 274
 
 Nebuchadnezzar II, year broken. - (605/562 B.C.):
   *Bertin 1064. (Nbk.x.01.05, B.)
@@ -6376,21 +6377,14 @@ Total number of dated texts from the reign of Nebuchadnezzar II: 2828
 
 ***** Amel-Marduk (561-560 B.C.)
 Amel-Marduk, year 0. - (562/561 B.C.):
-  EKBK 12. (AwM.00.02.13, <S.>)
-  EKBK 13. (AwM.00.02.14, <B.>)
-  EKBK 14. (AwM.00.02.21, <S.>)
-  Sack ZA 66 287f. (AwM.00.02.22, <U.>)
-  Roth AfO 36/37 n13. (AwM.00.02.26, Borsippa)
-  EKBK 15. (AwM.00.03.09, <S.>)
-  AOATS 4, 56. (AwM.00.04.20, S.)
-  UCP 9/1, II, 29. (AwM.00.04.29, [U.])
+  Cat.BM 8 (AwM.00.05.20, <S.>)   	# Added missing tablet (BM 61325)
   AOATS 4, 79. (AwM.00.05.x, <S.>)
-  Zawadzki ZA 86 218. (AwM.00.06?.05, <S.>)
   Evetts, EvM. 1. (AwM.00.06.26, <S.>)
   ADFU 10, 56. (AwM.00.06?.28, B.)
   Sack, CDCP n65. (AwM.00.07.10, <U.>)
   AUWE 5, 5. (AwM.00.07.16, <U.>)
   AOATS 4, 14. (AwM.00.07.17, B.)
+  AOATS 4, 56. (AwM.00.07.20, S.) 	 # Corrected from month 4 to 7 (BM 80920)
   Evetts, EvM. 2. (AwM.00.07.19, B.)
   BIN 2, 109. (AwM.00.07.20, Harrubati)
   AUWE 5, 4. (AwM.00.09.07, <U.>)
@@ -6405,6 +6399,7 @@ Amel-Marduk, year 0. - (562/561 B.C.):
   AOATS 4, 88. (AwM.00.10.05, B.)
   GCCI 2, 94. (AwM.00.10.18, <U.>)
   GCCI 2, 79. (AwM.00.10.30, <U.>)
+  Zawadzki ZA 86 218. (AwM.00.11?.05, <S.>)		# Corrected month (BM 65270)
   Evetts, EvM. 5. (AwM.00.11.19, <S.>)
   Evetts, EvM. 6. (AwM.00.11.28, B.)
   GCCI 2, 93. (AwM.00.12.01, <U.>)
@@ -6421,9 +6416,10 @@ Amel-Marduk, year 0. - (562/561 B.C.):
   Speleers, Receuil 277. (AwM.00.12.26, Shubat-Gula)
   Evetts, EvM. 8. (AwM.00.12.28, Shubat-Gula)
   Speleers, Receuil 292. (AwM.00.x.08, <S.>)
+  UCP 9/1, II, 29. (AwM.00.x.29, [U.])	 # Month damaged (UCBC 378) (HMA 9-02507)
   ROCT 2, 46. (AwM.00.x.x, o)
   Sack, CDCP n93. (AwM.00.x.x, [U.])
-Number of texts: 47
+Number of texts: 42
 
 Amel-Marduk, year 1. - (561/560 B.C.):
   *Beaulieu Or 60 63:NCBT 1071. (AwM.01.01.05, <L.>)
@@ -6533,9 +6529,10 @@ Amel-Marduk, year 2. - (560/559 B.C.):
   Evetts, EvM. 24. (AwM.02.05.04, B.)
   *Goetze JNES 3 44:YBC 3692. (AwM.02.05.13, B.)
   BE 8/1, 34. (AwM.02.05.17, <B?.>)
+  Cat.BM 7 (AwM.02.10.17, <S.>)   	# Added missing tablet (BM 61325)
   Oberhuber, SAKF 135. (AwM.02.x.01, [U?.])
   OECT 10, 94. (AwM.02.x.x, [H.])
-Number of texts: 24
+Number of texts: 25
 
 Amel-Marduk, year not marked. - (561/560 B.C.):
   Grayson Evil-Merodach Epic Obv. (AwM.o.o.o, o)
@@ -6562,9 +6559,7 @@ Total number of dated texts from the reign of Amel-Marduk: 167
 
 ***** Neriglissar II (559-556 B.C.)
 Neriglissar, year 0. - (560/559 B.C.):
-  AOAT 236, 97. (Ner.00.01.26, <S.>)
   AOAT 236, 91. (Ner.00.02.04, <S.>)
-  Evetts, Ner. 12. (Ner.00.05.06, B.)
   Dougherty YOSR 15 p67. (Ner.00.05.21, B.)
   VS 3, 40. (Ner.00.05.23, [B.])
   AOAT 236, 92. (Ner.00.05.24, <S.>)
@@ -6593,6 +6588,7 @@ Neriglissar, year 0. - (560/559 B.C.):
   Evetts, Ner. 6. (Ner.00.09.[16], <S.>)
   Roth AfO 36/37 n9. (Ner.00.09.18, B.)
   AOAT 236, 78. (Ner.00.09.19, B.)
+  Evetts, Ner. 12. (Ner.00.10.06, B.)	# Correct month from 10 to 5 (BM 30419)
   Evetts, Ner. 7. (Ner.00.10.23, B.)
   Knopf Fs. Hewett pl.26:A. (Ner.00.10.28, <U.>)
   Maul AoF 17 108f:AT n57a. (Ner.00.11.08, B.)
@@ -6604,6 +6600,7 @@ Neriglissar, year 0. - (560/559 B.C.):
   TuM 2/3, 129. (Ner.00.12b.03, <N.>)
   Evetts, Ner. 9. (Ner.00.12b.09, B.)
   CT 57, 174. (Ner.00.x.14, <S.>)
+  AOAT 236, 97. (Ner.00.x.20, <S.>)    # Month damaged (BM 60231)
   BIN 1, 123. (Ner.00.x.22, U.)
   AOAT 236, 99. (Ner.00.x.x, <S.>)
   CT 56, 727. ([Ner].00.x.x, <S.>)
@@ -6836,6 +6833,12 @@ Total number of dated texts from the reign of Neriglissar: 249
 
 ***** La-bashi-Marduk (556 B.C.)
 La-bashi-Marduk, year 0. - (556 B.C.):
+  EKBK 12. (Lab.00.02.13, <S.>)       # Moved from Awel-Marduk
+  EKBK 13. (Lab.00.02.14, <B.>)       # Moved from Awel-Marduk
+  EKBK 14. (Lab.00.02.21, <S.>)       # Moved from Awel-Marduk
+  Sack ZA 66 287f. (Lab.00.02.22, <U.>)			# Moved from Awel-Marduk (YBC 4012)
+  Roth AfO 36/37 n13. (Lab.00.02.26, Borsippa)    # Moved from Awel-Marduk (BM 82629)
+  EKBK 15. (Lab.00.03.09, <S.>)       # Moved from Awel-Marduk
   CT 55, 432. (Lab.00.01.11+x, <S.>)
   *Goetze JNES 3 44:NBC 4534. (Lab.00.01.23, U.)
   Evetts, Lab. n2. (Lab.00.02.12, <S.>)
@@ -6848,15 +6851,14 @@ La-bashi-Marduk, year 0. - (556 B.C.):
   CT 56, 70. (Lab.00.x.03, <S.>)
   Evetts, Lab. n1. (Lab.00.x.x, <S.>)
   Evetts, Lab. n6. (Lab.00.x.x, <S.>)
-Number of texts: 12
+Number of texts: 18
 
 Total number of dated texts from the reign of La-bashi-Marduk: 12
 ----------------------------------------------------------------------
 
 ***** Nabonid (555-539 B.C.)
 Nabonid, year 0. - (556/555 B.C.):
-  AnOr 8, 19. (Nbn.00.06.15 Bitqa-sha-Bel-ethir)
-  BE 8/1, 39. (Nbn.00.02.15, Nashushakuna)
+  BE 8/1, 39. (Nbn.00.02.15, Našušakuna )
   Nbn. 1. (Nbn.00.03.18, <S.>)
   YOS 6, 1. (Nbn.00.03.24, <U.>)
   CT 57, 125. (Nbn.00.03.25, <S.>)
@@ -6874,6 +6876,7 @@ Nabonid, year 0. - (556/555 B.C.):
   YOS 6, 2. (Nbn.00.06.10, U.)
   Nbn. 7. (Nbn.00.06.11, Ri-[x-x])
   VS 6, 60. (Nbn.00.06.12, <B.>)
+  AnOr 8, 19. (Nbn.00.06.15 Bitqa-sha-Bel-ethir)	# Fix ordering
   Liv. 13. (Nbn.00.06.20, B.)
   Dhorme RA 25 n4. (Nbn.00.06.24, Alu-sha-Kutimmi)
   CT 57, 836. (Nbn.00.06.o, <S.>)
@@ -10210,20 +10213,19 @@ Nabonid, year 17. - (539/538 B.C.):
   CT 56, 55. (Nbn.17.07.15, <S.>)
   GCCI 1, 390. (Nbn.17.07.17, U.)
   Nbn. 1054. (Nbn.17.08.10, <S.>)
-  Nbn. 1055. (Nbn.17.09.o, <S.>)
-  CT 57, 168. ([Nbn].17.12.19, <S.>)
-  CT 57, 774. (Nbn.17.12?.x, <S.>)
   Jursa, Landwirschaft n17. (<Nbn>.<17?>.o.o, <S.>)
   CT 55, 766. ([Nbn].17.x.x+06, <S.>)
   VS 4, 55. (Nbn.17.x.08, o)
   Nbn. 1056. (Nbn.17.x.22, Bit-shar-Babili)
   CT 57, 35. (Nbn.17.x.25, <S.>)
+  CT 57, 774. (Nbn.17.x.x, <S.>)	# Uncertain month (BM 56911)
   CT 56, 778. (Nbn.17.x.x, <S.>)
   CT 57, 200. ([Nbn?].17.x.x, <S.>)
   CT 57, 582. ([Nbn?].17.x.x, <S.>)
+  Nbn. 1055. (Nbn.17.x.o, <S.>)		# Uncertain month (See Parker & Dubberstein 13)
   Nbn. 1057. (Nbn.17.x.x, B.)
   Wunsch AfO 44/45 n26. ([Nbn].17.x.x, [B.])
-Number of texts: 93
+Number of texts: 92
 
 Nabonid, year not marked. - (555/539 B.C.):
   Liv. 109. (Nbn.o.o.o <S.>)
@@ -10240,6 +10242,7 @@ Nabonid, year not marked. - (555/539 B.C.):
   CT 57, 519. (<Nbn>.o.10.24, <S.>)
   *Bertin 724. (Nbn.o.11.10, x)
   GCCI 2, 179. (<Nbn>.o.12.14, <U.>)
+  CT 57, 168. ([Nbn].x.12.19, <S.>)	   # Uncertain year (BM 55694)
   YOS 6, 28. (Nbn.o.12b.30, <U.>)
   *AUWE 18, 162. ([Nbn].o.o.o, U.)
   *Durand, DCEP 150. (Nbn.o.o.o, o)
@@ -10374,7 +10377,7 @@ Nabonid, year not marked. - (555/539 B.C.):
   YOS 3, 73. (<Nbn>.o.o.o, <U.>)
   YOS 3, 97. (<Nbn>.o.o.o, <U.>)
   CT 55, 729. (<Nbn>.o.x.01, <S.>)
-Number of texts: 148
+Number of texts: 149
 
 Nabonid, year broken. - (555/539 B.C.):
   AUWE 8, 43. (Nbn.x.x.04 [U.])
@@ -21150,4 +21153,3 @@ Total number of dated texts from the Arsacid Era: 383
 Total number of dated texts from the First Millennium B.C. Babylonia: 18371
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
-
