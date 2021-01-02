@@ -1,7 +1,7 @@
 # Summary
 
 - [Introduction](introduction/README.md)
-    - [Significance]()
+    - [Significance to Jehovah's Witnesses](introduction/significance.md)
     - [Calendar Basics](introduction/calendar.md)
 - [Orthodox Babylonian Chronology](orthodox/README.md)
     - [Relative]()
