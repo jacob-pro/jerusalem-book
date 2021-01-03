@@ -41,7 +41,25 @@ Latest dated texts:
 
 ### Nabopolassar
 
+Earliest dated texts:
+
+- II/13?/Acc - ?, NCBT 557 [@goetze1944additions]
+- VI/22/Acc - Sippar? BM 49656 [@bm49656]
+
+According to Wiseman: [@wiseman1956chronicles, 93]
+
+> The Chronicle (B.M. 25127, 11. I4-I5) expressly states that Nabopolassar
+  sat on the throne of Babylon on the 26th of Marcheswan [VIII] ...
+  Unless a scribal error is assumed it would seem, therefore, that
+  Nabopolassar was acknowledged king at least at Sippar which had become
+  independent of Assyria before the final battle at Babylon.
+
 ![](charts/Nabopolassar.svg)
+
+Latest dated texts:
+
+- V/1/21 - KUR.A.DAN.ŠU, A5302 [@dubberstein1956babylonian, 12]
+- V/20/21 - ?, PTS 2761 (T.21.14 [@kennedy1986documentary])
 
 ### Nebuchadnezzar II
 
@@ -73,7 +91,13 @@ Latest dated texts:
 
 ## List of Abbreviations
 
+A = tablets in the collections of the Oriental Institute, University of Chicago
+
 BM = British Museum
+
+NCBT = tablets in the Babylonian Collection, Yale University Library
+
+PTS = tablets in the collection of the Princeton Theological Seminary
 
 VAT = tablets in the collections of the Staatliche Museen, Berlin
 
