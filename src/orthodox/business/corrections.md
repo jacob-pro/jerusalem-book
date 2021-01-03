@@ -29,7 +29,7 @@ Correction of database from Nebuchadnezzar II 43.08.o to 42.08.o.
 
 ### BM 55806
 
-CT 55, 138 [@pinches1982cuneiform]
+CT 55, 138 [@pinches1982cuneiform55]
 
 Moved from year Nebuchadnezzar II 43 to unknown year: "the year number is far from clear" [@bm55806].
 
@@ -88,8 +88,15 @@ Sack ZA 66 287f [@sack1976some, 287]. Moved from Amel-Marduk to Labashi-Marduk.
 
 Roth AfO 36/37 n13 [@roth1989material] [@bm82629]. Moved from Amel-Marduk to Labashi-Marduk.
 
+### BM 56911
+
+CT 57, 774. [@pinches1982cuneiform57]
+
+Moved from Nabonidus 17.12?.x to 17.x.x, month very damaged [@bm56911]
 
 ## List of Abbreviations
+
+AfO = Archiv für Orientforschung
 
 AOAT = Alter Orient und Altes Testament
 
@@ -112,6 +119,8 @@ MLC = tablets in the collections of the J. Pierpont Morgan Library
 PTS = Princeton Theological Seminary
 
 TuM = Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der Universität Jena
+
+UCP = University of California Publications in Semitic Philology
 
 YBC = tablets in the Babylonian Collection, Yale University Library
 
