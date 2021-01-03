@@ -1,0 +1,114 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(72, 364)">
+<g>
+<rect fill="" height="63.81231671554252" stroke="black" width="24" x="12" y="-63.81231671554252"/>
+</g>
+<g>
+<rect fill="" height="277.18475073313783" stroke="black" width="24" x="60" y="-277.18475073313783"/>
+</g>
+<g>
+<rect fill="" height="297.12609970674487" stroke="black" width="24" x="108" y="-297.12609970674487"/>
+</g>
+<g>
+<rect fill="" height="309.09090909090907" stroke="black" width="24" x="156" y="-309.09090909090907"/>
+</g>
+<g>
+<rect fill="" height="171.49560117302053" stroke="black" width="24" x="204" y="-171.49560117302053"/>
+</g>
+<g>
+<rect fill="" height="233.31378299120234" stroke="black" width="24" x="252" y="-233.31378299120234"/>
+</g>
+<g>
+<rect fill="" height="215.36656891495602" stroke="black" width="24" x="300" y="-215.36656891495602"/>
+</g>
+<g>
+<rect fill="" height="201.40762463343108" stroke="black" width="24" x="348" y="-201.40762463343108"/>
+</g>
+<g>
+<rect fill="" height="227.33137829912025" stroke="black" width="24" x="396" y="-227.33137829912025"/>
+</g>
+<g>
+<rect fill="" height="51.847507331378296" stroke="black" width="24" x="444" y="-51.847507331378296"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="24" x2="24" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="72" x2="72" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="120" x2="120" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="168" x2="168" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="216" x2="216" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="264" x2="264" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="312" x2="312" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="360" x2="360" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="408" x2="408" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="456" x2="456" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="480" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="24" y="20">
+Acc.
+</text>
+<text font-size="12" text-anchor="middle" x="72" y="20">
+1
+</text>
+<text font-size="12" text-anchor="middle" x="120" y="20">
+2
+</text>
+<text font-size="12" text-anchor="middle" x="168" y="20">
+3
+</text>
+<text font-size="12" text-anchor="middle" x="216" y="20">
+4
+</text>
+<text font-size="12" text-anchor="middle" x="264" y="20">
+5
+</text>
+<text font-size="12" text-anchor="middle" x="312" y="20">
+6
+</text>
+<text font-size="12" text-anchor="middle" x="360" y="20">
+7
+</text>
+<text font-size="12" text-anchor="middle" x="408" y="20">
+8
+</text>
+<text font-size="12" text-anchor="middle" x="456" y="20">
+9
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="240" y="30">
+Year
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="0" y2="0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-79.76539589442815" y2="-79.76539589442815"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-159.5307917888563" y2="-159.5307917888563"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-239.29618768328444" y2="-239.29618768328444"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-319.0615835777126" y2="-319.0615835777126"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="0">
+0
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-79.76539589442815">
+40
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-159.5307917888563">
+80
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-239.29618768328444">
+120
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-319.0615835777126">
+160
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -36 -170)" x="-36" y="-182">
+
+</text>
+</g>
+</g>
+</svg>
