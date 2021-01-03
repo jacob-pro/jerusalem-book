@@ -76,6 +76,13 @@ AOAT 236, 97 (Sack No. 97) [@sack1994neriglissar, 54]
 
 Moved from Neriglissar 00.1.26 to an unknown month 00.x.20 [@bm60231].
 
+### EKBK 12-15
+
+Moved from Amel-Marduk to Labashi-Marduk [@strassmaier1893einige].
+
+### YBC 4012
+
+Sack ZA 66 287f [@sack1976some, 287]. Moved from Amel-Marduk to Labashi-Marduk.
 
 
 ## List of Abbreviations
@@ -92,6 +99,8 @@ Cat. BM = Catalogue of the Babylonian Tablets in the British Museum
 
 CT = Cuneiform Texts from Babylonian Tablets
 
+EKBK = Einige kleinere babylonische Keilschrifttexte aus dem Britischen Museum
+
 HMA = Hearst Museum of Anthropology
 
 MLC = tablets in the collections of the J. Pierpont Morgan Library
@@ -99,6 +108,8 @@ MLC = tablets in the collections of the J. Pierpont Morgan Library
 PTS = Princeton Theological Seminary
 
 TuM = Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der Universität Jena
+
+YBC = tablets in the Babylonian Collection, Yale University Library
 
 ZA = Zeitschrift für Assyriologie
 
