@@ -84,6 +84,10 @@ Moved from Amel-Marduk to Labashi-Marduk [@strassmaier1893einige].
 
 Sack ZA 66 287f [@sack1976some, 287]. Moved from Amel-Marduk to Labashi-Marduk.
 
+### BM 82629
+
+Roth AfO 36/37 n13 [@roth1989material] [@bm82629]. Moved from Amel-Marduk to Labashi-Marduk.
+
 
 ## List of Abbreviations
 
