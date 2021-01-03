@@ -13,31 +13,47 @@ and history features).
 
 BRM 1, 38 [@morgan1912babylonian, 46] K.141 [@brinkman1983documentary, 36]
 
-Correction of database from Shamash-shum-ukin 20.07.25 to 20.04.15
+Correction of database from Shamash-shum-ukin 20.07.25 to 20.04.15.
 
 ### PTS 2761
 
 T.21.14 [@kennedy1986documentary, 215]
 
-Added missing Nabopolassar 21.05.20 to the database
+Added missing Nabopolassar 21.05.20 to the database.
 
 ### Krückmann 238
 
 TuM 2/3, 238 [@krückmann1933neubabylonische]
 
-Correction of database from Nebuchadnezzar II 43.08.o to 42.08.o
+Correction of database from Nebuchadnezzar II 43.08.o to 42.08.o.
 
 ### BM 55806
 
 CT 55, 138 [@pinches1982cuneiform, Plate 53]
 
-Moved from year Nebuchadnezzar II 43 to unknown year: "(the year number is far from clear)" [@bm55806]
+Moved from year Nebuchadnezzar II 43 to unknown year: "(the year number is far from clear)" [@bm55806].
+
+### BM 61325
+
+Cat.BM 7 [@leichty1987catalogue, 36]
+
+Added missing Amel-Marduk 02.10.17? [@bm61325] to the database. 
+
+### BM 80920
+
+AOATS 4, 56 [@sack1972amēl]
+
+Correction of database from Amel-Marduk acc.04.20 to acc.07.20 [@bm80920].
 
 ## List of Abbreviations
+
+AOATS = Alter Orient und Altes Testament: Sonderreihe
 
 BM = British Museum
 
 BRM = Babylonian Records in the Library of J. Pierpont Morgan
+
+Cat. BM = Catalogue of the Babylonian Tablets in the British Museum
 
 CT = Cuneiform Texts from Babylonian Tablets
 
