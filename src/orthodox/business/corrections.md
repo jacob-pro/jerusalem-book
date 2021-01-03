@@ -94,6 +94,23 @@ CT 57, 774. [@pinches1982cuneiform57]
 
 Moved from Nabonidus 17.12?.x to 17.x.x, month very damaged [@bm56911]
 
+### Strassmaier Nbn.1055
+
+Nbn. 1055. [@strassmaier1889babylonische, 25]
+
+Moved from Nabonidus 17.9.o to 17.x.o - according to [@dubberstein1956babylonian, 13]:
+
+> No. 1055 is dated to IX/-/17 by Strassmaier on the basis of the giving of the maššartum for the IX/-/17 of Nabunaid
+> (lines 2-4). Since a maššartum was often given some  months in advance (see Strassmaier, Nabonidus, Nos. 219,346,361) 
+> this tablet is useless for exact dating purposes.
+
+### BM 55694
+
+CT 57, 168. [@pinches1982cuneiform57]
+
+Moved from Nabonidus 17.12.19 to an uncertain year [@bm55694].
+
+
 ## List of Abbreviations
 
 AfO = Archiv für Orientforschung
