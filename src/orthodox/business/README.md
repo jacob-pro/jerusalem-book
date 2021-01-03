@@ -23,6 +23,8 @@ Latest dated texts:
 - V/28/20 - Borsippa, BM 134973 [@bm134973] (K.142 [@brinkman1983documentary, 36])
 - V/30/20 - Babylon, BM 40577 [@bm40577] (K.143 [@brinkman1983documentary, 36])
 
+The tablets therefore show that Shamash-shum-ukin ruled for 20 years.
+
 ### Kandalanu
 
 Earliest dated texts:
@@ -38,6 +40,9 @@ Latest dated texts:
 - III/8/21 - Sippar?, BM 50270 [@bm50270] (L.159 [@brinkman1983documentary, 49])
 - VIII/?/21 - Babylon, BM 36514 [@bm36514] **"After Kandalanu"** [@wiseman1956chronicles, 91]
 - VIII/2/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
+
+The tablets therefore show that Kandalanu died somewhere between month III and VIII of his 21st year,
+and that during the 22nd year there was no other king in Babylon.
 
 ### Nabopolassar
 
@@ -61,11 +66,13 @@ Latest dated texts:
 - V/1/21 - KUR.A.DAN.ŠU, A5302 [@dubberstein1956babylonian, 12]
 - V/20/21 - ?, PTS 2761 (T.21.14 [@kennedy1986documentary])
 
+The tablets therefore show that Nabopolassar ruled for 21 years.
+
 ### Nebuchadnezzar II
 
 ![](charts/Nebuchadnezzar%20II.svg)
 
-### Amel-Marduk
+### Awil-Marduk
 
 ![](charts/Amel-Marduk.svg)
 
