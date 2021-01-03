@@ -14,44 +14,67 @@ A more complete survey has been published by J Everling [@everling2013materials]
 [here](https://web.archive.org/web/20030207180625/http://www.nexus.hu:80/enkidu/enkidu.html) in text format.
 From the survey I have generated bar charts counting the tablets dated to each year of each King's reign.
 
-## Shamash-shum-ukin
+### Shamash-shum-ukin
 
 ![](charts/Shamash-shum-ukin.svg)
 
-## Kandalanu
+Latest dated texts:
+
+- V/28/20 - Borsippa, BM 134973 [@bm134973] (K.142 [@brinkman1983documentary, 36])
+- V/30/20 - Babylon, BM 40577 [@bm40577] (K.143 [@brinkman1983documentary, 36])
+
+### Kandalanu
+
+Earliest dated texts:
+
+- X/6/1 - Babylon, VAT 2963 (L.1 [@brinkman1983documentary, 39])
+- XII/10/1 - Sippar?, BM 49326 [@bm49326] (L.2 [@brinkman1983documentary, 39])
 
 ![](charts/Kandalanu.svg)
 
-## Nabopolassar
+Latest dated texts:
+
+- II/25/21 - Borsippa, BM 26377 [@bm26377] (L.158a [@brinkman1986supplement, 103])
+- III/8/21 - Sippar?, BM 50270 [@bm50270] (L.159 [@brinkman1983documentary, 49])
+- VIII/?/21 - Babylon, BM 36514 [@bm36514] **"After Kandalanu"** [@wiseman1956chronicles, 91]
+- VIII/2/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
+
+### Nabopolassar
 
 ![](charts/Nabopolassar.svg)
 
-## Nebuchadnezzar II
+### Nebuchadnezzar II
 
 ![](charts/Nebuchadnezzar%20II.svg)
 
-## Amel-Marduk
+### Amel-Marduk
 
 ![](charts/Amel-Marduk.svg)
 
-## Neriglissar
+### Neriglissar
 
 ![](charts/Neriglissar.svg)
 
-## Labashi-Marduk
+### Labashi-Marduk
 
 ![](charts/La-bashi-Marduk.svg)
 
-## Nabonidus
+### Nabonidus
 
 ![](charts/Nabonid.svg)
 
-## Cyrus II
+### Cyrus II
 
 ![](charts/Cyrus.svg)
 
-## Cambyses II
+### Cambyses II
 
 ![](charts/Cambyses.svg)
+
+## List of Abbreviations
+
+BM = British Museum
+
+VAT = tablets in the collections of the Staatliche Museen, Berlin
 
 ## References
