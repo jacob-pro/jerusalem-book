@@ -171,7 +171,7 @@ The tablets therefore show that Nabonidus ruled for 17 years.
 Earliest dated texts:
 
 - VII/19/Acc - Sippar, BM 56154 [@bm56154]
-- VII/?/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriften])
+- VII/?/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriftencyr])
 
 ![](charts/Cyrus.svg)
 
@@ -181,6 +181,14 @@ Latest dated texts:
 - XI/26/9 - Uruk, YBC 3985 (YOS 7, 84 [@tremayne1925records, 45])
 
 ### Cambyses II
+
+Earliest dated texts:
+
+- VI/12/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencyrcam])
+- VI/16/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencyrcam])
+
+Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later
+months to Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
 
 ![](charts/Cambyses.svg)
 
