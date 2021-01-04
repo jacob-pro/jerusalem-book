@@ -152,11 +152,33 @@ The tablets therefore show that Labashi-Marduk only ruled for part of his access
 
 ### Nabonidus
 
+Earliest dated texts:
+
+- II/15/Acc - Našušakuna, (Clay BE 8/1, 39 [@clay1908babylonian, 32])
+- III/18/Acc - Sippar, BM 75214 [@bm75214]
+
 ![](charts/Nabonid.svg)
+
+Latest dated texts:
+
+- VII/17/17 - Uruk (GCBC 528, GCCI 1, 390 [@dougherty1923archives, 67])
+- VIII/10/17 - Uruk, BM 74972 [@bm74972]
+
+The tablets therefore show that Nabonidus ruled for 17 years.
 
 ### Cyrus II
 
+Earliest dated texts:
+
+- VII/19/Acc - Sippar, BM 56154 [@bm56154]
+- VII/?/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriften])
+
 ![](charts/Cyrus.svg)
+
+Latest dated texts:
+
+- VIII/19/9 - Hursagkalamma, (OECT 10, 123 [@mcewan1984late, 12])
+- XI/26/9 - Uruk, YBC 3985 (YOS 7, 84 [@tremayne1925records, 45])
 
 ### Cambyses II
 
@@ -175,5 +197,7 @@ NCBT = tablets in the Babylonian Collection, Yale University Library
 PTS = tablets in the collection of the Princeton Theological Seminary
 
 VAT = tablets in the collections of the Staatliche Museen, Berlin
+
+YBC = tablets in the Babylonian Collection, Yale University Library
 
 ## References
