@@ -15,6 +15,7 @@
         - [Errors and Corrections](orthodox/business/corrections.md)
     - [Adad-Guppi Stele](orthodox/nabon24.md)
     - [Hillah Stele](orthodox/nabon8.md)
-    - [Egyptian Chronology](orthodox/egypt.md)
+    - [Egyptian Chronology](orthodox/egypt/README.md)
+        - [BM 33041](orthodox/egypt/bm33041.md)
     - [Astronomical Texts]()
     - [Timeline]()
