@@ -110,15 +110,45 @@ Latest dated texts:
 - V/17/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
 - X/19/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
 
+Note that the last date (month X) is an anomaly since of 23 texts from Awil-Marduks second year it is the 
+only one dated later than month V.
+
 The tablets therefore show that Awil-Marduk ruled for 2 years.
 
 ### Neriglissar
 
+Earliest dated texts:
+
+- II/4/Acc - Sippar, BM 75489 [@bm75489]
+- V/21/Acc - Babylon, YBC 3765 [@dougherty1929nabonidus, 67]
+
+Note that the first date (month II) is an anomaly since of 40 texts from Neriglissar's accession year it is the 
+only one dated prior to month V; it is possibly a mistake [@van1998neriglissar, 228].
+
 ![](charts/Neriglissar.svg)
+
+Latest dated texts:
+
+- I/2/4 - Shahrinu, BM 41401 [@bm41401]
+- I/6/4 - Uruk, YBC 3433 [@goetze1944additions, 44]
+
+The tablets therefore show that Neriglissar ruled for 4 years.
 
 ### Labashi-Marduk
 
+Earliest dated texts:
+
+- I/23/Acc - Uruk, NBC 4534 [@goetze1944additions, 44]
+- II/12/Acc - Sippar, BM 67271 [@bm67271]
+
 ![](charts/La-bashi-Marduk.svg)
+
+Latest dated texts:
+
+- III/9/Acc - Sippar (EKBK 15 [@strassmaier1893einige, 18])
+- III/11/Acc - Uruk, YBC 3817 [@goetze1944additions, 44]
+
+The tablets therefore show that Labashi-Marduk only ruled for part of his accession year.
 
 ### Nabonidus
 

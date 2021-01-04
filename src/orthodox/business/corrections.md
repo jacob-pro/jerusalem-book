@@ -94,9 +94,9 @@ CT 57, 774. [@pinches1982cuneiform57]
 
 Moved from Nabonidus 17.12?.x to 17.x.x, month very damaged [@bm56911]
 
-### Strassmaier Nbn.1055
+### BM 74951
 
-Nbn. 1055. [@strassmaier1889babylonische, 25]
+[@bm74951] Nbn. 1055. [@strassmaier1889babylonische, 25]
 
 Moved from Nabonidus 17.9.o to 17.x.o - according to [@dubberstein1956babylonian, 13]:
 
