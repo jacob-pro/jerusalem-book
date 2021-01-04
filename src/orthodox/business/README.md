@@ -186,8 +186,8 @@ The tablets therefore show that Cyrus ruled for 9 years.
 
 Earliest dated texts:
 
-- VI/12/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencyrcam])
-- VI/16/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencyrcam])
+- VI/12/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencam])
+- VI/16/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencam])
 
 Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later
 months to Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
