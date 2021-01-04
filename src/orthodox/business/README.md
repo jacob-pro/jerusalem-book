@@ -70,11 +70,47 @@ The tablets therefore show that Nabopolassar ruled for 21 years.
 
 ### Nebuchadnezzar II
 
+Earliest dated texts:
+
+- VI/12/Acc - Uruk?, (YOS 17, 153 [@weisberg1980texts])
+- VI/18/Acc - Sippar, BM 49524 [@bm49524] [@wiseman1956chronicles, 84]
+
 ![](charts/Nebuchadnezzar%20II.svg)
+
+Latest dated texts:
+
+- VI/21/43 - Uruk, NCBT 286 [@goetze1944additions, 44]
+- VI/26/43 - Uruk, AO 06847 (TCL 12,  58 [@contenau1927contrats])
+
+The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
 ### Awil-Marduk
 
+Earliest dated texts:
+
+- V/?/Acc - Sippar, BM 58872 [@bm58872]
+- V/20/Acc - Sippar, BM 75322 [@bm75322]
+
+Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. 
+R H Sack "proposes that Nebuchadrezzar bought his son into a co-regency before his death", which D J Wiseman
+ agrees "is certainly possible" [@wiseman1974review, 451].
+
+However D B Weisberg disagrees [@weisberg1976review, 68]:
+
+> a possible co-regency of Nebuchadnezzar and Amēl-Marduk does not seem conclusive. ...
+> The dates we have for the end of one rule and the beginning of another must be used with an understanding
+> of the human factors that led to their recording. An Uruk scribe still dating texts to the reign of a deceased
+> king (Nebuchadnezzar) might not have known what was happening at the court. A Sippar scribe dating texts to
+> Amēl-Marduk might have picked up the news more quickly.
+
 ![](charts/Amel-Marduk.svg)
+
+Latest dated texts:
+
+- V/17/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
+- X/19/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
+
+The tablets therefore show that Awil-Marduk ruled for 2 years.
 
 ### Neriglissar
 
@@ -99,6 +135,8 @@ The tablets therefore show that Nabopolassar ruled for 21 years.
 ## List of Abbreviations
 
 A = tablets in the collections of the Oriental Institute, University of Chicago
+
+AO = tablets in the collections of the Musée du Louvre
 
 BM = British Museum
 
