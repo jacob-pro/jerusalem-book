@@ -180,6 +180,8 @@ Latest dated texts:
 - VIII/19/9 - Hursagkalamma, (OECT 10, 123 [@mcewan1984late, 12])
 - XI/26/9 - Uruk, YBC 3985 (YOS 7, 84 [@tremayne1925records, 45])
 
+The tablets therefore show that Cyrus ruled for 9 years.
+
 ### Cambyses II
 
 Earliest dated texts:
