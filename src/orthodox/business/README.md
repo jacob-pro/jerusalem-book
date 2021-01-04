@@ -84,7 +84,7 @@ Latest dated texts:
 
 The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
-### Awil-Marduk
+### Amel-Marduk
 
 Earliest dated texts:
 
@@ -110,10 +110,10 @@ Latest dated texts:
 - V/17/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
 - X/19/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
 
-Note that the last date (month X) is an anomaly since of 23 texts from Awil-Marduks second year it is the 
+Note that the last date (month X) is an anomaly since of 23 texts from Amel-Marduks second year it is the 
 only one dated later than month V.
 
-The tablets therefore show that Awil-Marduk ruled for 2 years.
+The tablets therefore show that Amel-Marduk ruled for 2 years.
 
 ### Neriglissar
 

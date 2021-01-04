@@ -175,7 +175,7 @@ Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns
 | Ashur-etil-ilani                      | 3 Years     |
 | Nabopolassar                          | 21 Years    |
 | Nebuchadnezzar II                     | 43 Years    |
-| Awil-Marduk                           | 2 Years     |
+| Amel-Marduk                           | 2 Years     |
 | Neriglissar                           | 4 Years     |
 
 Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4).
