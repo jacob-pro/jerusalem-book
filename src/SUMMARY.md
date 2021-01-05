@@ -17,6 +17,7 @@
     - [Hillah Stele](orthodox/nabon8.md)
     - [Egyptian Chronology](orthodox/egypt/README.md)
         - [BM 33041](orthodox/egypt/bm33041.md)
+        - [Stelae](orthodox/egypt/stelae.md)
     - [Ptolemy's Royal Canon](orthodox/canon.md)
     - [Astronomical Texts](orthodox/astro.md)
     - [Timeline]()
