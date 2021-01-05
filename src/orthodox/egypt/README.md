@@ -52,13 +52,15 @@ Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra 
 
 Based on the [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we have:
 
-| King        | Sole Reign |
-|-------------|------------|
-| Psamtik I   | 54 Years   |
-| Necho II    | 15 Years   |
-| Psamtik II  | 6 Years    |
-| Apries      | 19 Years   |
-| Amasis II   | 44 Years   |
-| Psamtik III | 6 months   |
+| King        | Sole Reign (Whole years) |
+|-------------|--------------------------|
+| Psamtik I   | 54                       |
+| Necho II    | 15                       |
+| Psamtik II  | 6                        |
+| Apries      | 19                       |
+| Amasis II   | 44                       |
+| Psamtik III | 1                        |
+
+(See also [@parker1957length, 212])
 
 ## References
