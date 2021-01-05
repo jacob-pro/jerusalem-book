@@ -48,6 +48,22 @@ Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra 
 
 [BM 33041](bm33041.md) shows that Nebuchadnezzar marched against Amasis, king of Egypt, during his 37th year.
 
+## Chronology 
+
+Based on [Egyptian Stelae](stelae.md) we have:
+
+| King        | Sole Reign |
+|-------------|------------|
+| Psamtik I   | 54 Years   |
+| Necho II    | 15 Years   |
+| Psamtik II  | 6 Years    |
+| Apries      | 19 Years   |
+| Amasis II   | 44 Years   |
+| Psamtik III | 6 months   |
+
+Note that Apries did not die in his 20th year, but rather entered into a co-regency with Amasis, ruling
+together for at least 3 years [@breasted1909history, 589].
+
 ## References
 
 
