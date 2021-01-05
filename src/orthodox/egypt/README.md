@@ -50,7 +50,7 @@ Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra 
 
 ## Chronology 
 
-Based on [Egyptian Stelae](stelae.md) we have:
+Based on [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we have:
 
 | King        | Sole Reign |
 |-------------|------------|
@@ -65,5 +65,3 @@ Note that Apries did not die in his 20th year, but rather entered into a co-rege
 together for at least 3 years [@breasted1909history, 589].
 
 ## References
-
-
