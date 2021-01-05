@@ -61,7 +61,4 @@ Based on [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md
 | Amasis II   | 44 Years   |
 | Psamtik III | 6 months   |
 
-Note that Apries did not die in his 20th year, but rather entered into a co-regency with Amasis, ruling
-together for at least 3 years [@breasted1909history, 589].
-
 ## References
