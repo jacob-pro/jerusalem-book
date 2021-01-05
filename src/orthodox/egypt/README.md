@@ -50,7 +50,7 @@ Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra 
 
 ## Chronology 
 
-Based on [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we have:
+Based on the [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we have:
 
 | King        | Sole Reign |
 |-------------|------------|
