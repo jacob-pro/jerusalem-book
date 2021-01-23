@@ -12,5 +12,5 @@ This is in itself a very complicated topic and as such I have created a separate
 Shamash-shum-ukin to -651.
 
 [BM 41222](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm41222.md) contains dates from many
-different kings, including matching the 14th year of Shamash-shum-ukin to -653, 1st year of Kandalanu to -646 
-and 7th year of Nabopolassar to -618.
+different kings, and conclusively matches the 14th year of Shamash-shum-ukin to -653, 1st year of Kandalanu to -646 
+and 7th year of Nabopolassar to -618, if we assume that Shamash-shum-ukin ruled for 20 years and Kandalanu 22 years.
