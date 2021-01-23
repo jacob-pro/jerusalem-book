@@ -2,9 +2,9 @@
 
 The aim of this book is to answer the following questions:
 
-- Why do historians claim the destruction of Jerusalem took place in 587/586 BC?
-- Why is there an uncertainty between 587 and 586 BC?
-- Why do Jehovah's Witnesses claim the destruction of Jerusalem actually took place in 607 BC?
+1. Why do historians claim the destruction of Jerusalem took place in 587/586 BC?
+2. Why is there an uncertainty between 587 and 586 BC?
+3. Why do Jehovah's Witnesses claim the destruction of Jerusalem actually took place in 607 BC?
  
 ## About the Author
 
