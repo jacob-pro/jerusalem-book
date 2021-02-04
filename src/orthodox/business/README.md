@@ -20,8 +20,8 @@ From the survey I have generated bar charts counting the tablets dated to each y
 
 Latest dated texts:
 
-- V/28/20 - Borsippa, BM 134973 [@bm134973] (K.142 [@brinkman1983documentary, 36])
-- V/30/20 - Babylon, BM 40577 [@bm40577] (K.143 [@brinkman1983documentary, 36])
+- 28/V/20 - Borsippa, BM 134973 [@bm134973] (K.142 [@brinkman1983documentary, 36])
+- 30/V/20 - Babylon, BM 40577 [@bm40577] (K.143 [@brinkman1983documentary, 36])
 
 The tablets therefore show that Shamash-shum-ukin ruled for 20 years.
 
@@ -29,17 +29,17 @@ The tablets therefore show that Shamash-shum-ukin ruled for 20 years.
 
 Earliest dated texts:
 
-- X/6/1 - Babylon, VAT 2963 (L.1 [@brinkman1983documentary, 39])
-- XII/10/1 - Sippar?, BM 49326 [@bm49326] (L.2 [@brinkman1983documentary, 39])
+- 6/X/1 - Babylon, VAT 2963 (L.1 [@brinkman1983documentary, 39])
+- 10/XII/1 - Sippar?, BM 49326 [@bm49326] (L.2 [@brinkman1983documentary, 39])
 
 ![](charts/Kandalanu.svg)
 
 Latest dated texts:
 
-- II/25/21 - Borsippa, BM 26377 [@bm26377] (L.158a [@brinkman1986supplement, 103])
-- III/8/21 - Sippar?, BM 50270 [@bm50270] (L.159 [@brinkman1983documentary, 49])
-- VIII/?/21 - Babylon, BM 36514 [@bm36514] **"After Kandalanu"** [@wiseman1956chronicles, 91]
-- VIII/2/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
+- 25/II/21 - Borsippa, BM 26377 [@bm26377] (L.158a [@brinkman1986supplement, 103])
+- 8/III/21 - Sippar?, BM 50270 [@bm50270] (L.159 [@brinkman1983documentary, 49])
+- ?/VIII/21 - Babylon, BM 36514 [@bm36514] **"After Kandalanu"** [@wiseman1956chronicles, 91]
+- 2/VIII/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
 
 The tablets therefore show that Kandalanu died somewhere between month III and VIII of his 21st year,
 and that during the 22nd year there was no other king in Babylon.
@@ -48,8 +48,8 @@ and that during the 22nd year there was no other king in Babylon.
 
 Earliest dated texts:
 
-- II/13?/Acc - ?, NCBT 557 [@goetze1944additions]
-- VI/22/Acc - Sippar? BM 49656 [@bm49656]
+- 13?/II/Acc - ?, NCBT 557 [@goetze1944additions]
+- 22/VI/Acc - Sippar? BM 49656 [@bm49656]
 
 According to Wiseman: [@wiseman1956chronicles, 93]
 
@@ -63,8 +63,8 @@ According to Wiseman: [@wiseman1956chronicles, 93]
 
 Latest dated texts:
 
-- V/1/21 - KUR.A.DAN.ŠU, A5302 [@dubberstein1956babylonian, 12]
-- V/20/21 - ?, PTS 2761 (T.21.14 [@kennedy1986documentary])
+- 1/V/21 - KUR.A.DAN.ŠU, A5302 [@dubberstein1956babylonian, 12]
+- 20/V/21 - ?, PTS 2761 (T.21.14 [@kennedy1986documentary])
 
 The tablets therefore show that Nabopolassar ruled for 21 years.
 
@@ -72,15 +72,15 @@ The tablets therefore show that Nabopolassar ruled for 21 years.
 
 Earliest dated texts:
 
-- VI/12/Acc - Uruk?, (YOS 17, 153 [@weisberg1980texts])
-- VI/18/Acc - Sippar, BM 49524 [@bm49524] [@wiseman1956chronicles, 84]
+- 12/VI/Acc - Uruk?, (YOS 17, 153 [@weisberg1980texts])
+- 18/VI/Acc - Sippar, BM 49524 [@bm49524] [@wiseman1956chronicles, 84]
 
 ![](charts/Nebuchadnezzar%20II.svg)
 
 Latest dated texts:
 
-- VI/21/43 - Uruk, NCBT 286 [@goetze1944additions, 44]
-- VI/26/43 - Uruk, AO 06847 (TCL 12,  58 [@contenau1927contrats])
+- 21/VI/43 - Uruk, NCBT 286 [@goetze1944additions, 44]
+- 26/VI/43 - Uruk, AO 06847 (TCL 12,  58 [@contenau1927contrats])
 
 The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
@@ -88,8 +88,8 @@ The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
 Earliest dated texts:
 
-- V/?/Acc - Sippar, BM 58872 [@bm58872]
-- V/20/Acc - Sippar, BM 75322 [@bm75322]
+- ?/V/Acc - Sippar, BM 58872 [@bm58872]
+- 20/V/Acc - Sippar, BM 75322 [@bm75322]
 
 Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. 
 R H Sack "proposes that Nebuchadrezzar bought his son into a co-regency before his death", which D J Wiseman
@@ -107,8 +107,8 @@ However D B Weisberg disagrees [@weisberg1976review, 68]:
 
 Latest dated texts:
 
-- V/17/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
-- X/19/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
+- 17/V/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
+- 19/X/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
 
 Note that the last date (month X) is an anomaly since of 23 texts from Amel-Marduks second year it is the 
 only one dated later than month V.
@@ -119,8 +119,8 @@ The tablets therefore show that Amel-Marduk ruled for 2 years.
 
 Earliest dated texts:
 
-- II/4/Acc - Sippar, BM 75489 [@bm75489]
-- V/21/Acc - Babylon, YBC 3765 [@dougherty1929nabonidus, 67]
+- 4/II/Acc - Sippar, BM 75489 [@bm75489]
+- 21/V/Acc - Babylon, YBC 3765 [@dougherty1929nabonidus, 67]
 
 Note that the first date (month II) is an anomaly since of 40 texts from Neriglissar's accession year it is the 
 only one dated prior to month V; it is possibly a mistake [@van1998neriglissar, 228].
@@ -129,8 +129,8 @@ only one dated prior to month V; it is possibly a mistake [@van1998neriglissar, 
 
 Latest dated texts:
 
-- I/2/4 - Shahrinu, BM 41401 [@bm41401]
-- I/6/4 - Uruk, YBC 3433 [@goetze1944additions, 44]
+- 2/I/4 - Shahrinu, BM 41401 [@bm41401]
+- 6/I/4 - Uruk, YBC 3433 [@goetze1944additions, 44]
 
 The tablets therefore show that Neriglissar ruled for 4 years.
 
@@ -138,15 +138,15 @@ The tablets therefore show that Neriglissar ruled for 4 years.
 
 Earliest dated texts:
 
-- I/23/Acc - Uruk, NBC 4534 [@goetze1944additions, 44]
-- II/12/Acc - Sippar, BM 67271 [@bm67271]
+- 23/I/Acc - Uruk, NBC 4534 [@goetze1944additions, 44]
+- 12/II/Acc - Sippar, BM 67271 [@bm67271]
 
 ![](charts/La-bashi-Marduk.svg)
 
 Latest dated texts:
 
-- III/9/Acc - Sippar (EKBK 15 [@strassmaier1893einige, 18])
-- III/11/Acc - Uruk, YBC 3817 [@goetze1944additions, 44]
+- 9/III/Acc - Sippar (EKBK 15 [@strassmaier1893einige, 18])
+- 11/III/Acc - Uruk, YBC 3817 [@goetze1944additions, 44]
 
 The tablets therefore show that Labashi-Marduk only ruled for part of his accession year.
 
@@ -154,15 +154,15 @@ The tablets therefore show that Labashi-Marduk only ruled for part of his access
 
 Earliest dated texts:
 
-- II/15/Acc - Našušakuna, (Clay BE 8/1, 39 [@clay1908babylonian, 32])
-- III/18/Acc - Sippar, BM 75214 [@bm75214]
+- 15/II/Acc - Našušakuna, (Clay BE 8/1, 39 [@clay1908babylonian, 32])
+- 18/III/Acc - Sippar, BM 75214 [@bm75214]
 
 ![](charts/Nabonid.svg)
 
 Latest dated texts:
 
-- VII/17/17 - Uruk (GCBC 528, GCCI 1, 390 [@dougherty1923archives, 67])
-- VIII/10/17 - Uruk, BM 74972 [@bm74972]
+- 17/VII/17 - Uruk (GCBC 528, GCCI 1, 390 [@dougherty1923archives, 67])
+- 10/VIII/17 - Uruk, BM 74972 [@bm74972]
 
 The tablets therefore show that Nabonidus ruled for 17 years.
 
@@ -170,15 +170,15 @@ The tablets therefore show that Nabonidus ruled for 17 years.
 
 Earliest dated texts:
 
-- VII/19/Acc - Sippar, BM 56154 [@bm56154]
-- VII/?/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriftencyr])
+- 19/VII/Acc - Sippar, BM 56154 [@bm56154]
+- ?/VII/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriftencyr])
 
 ![](charts/Cyrus.svg)
 
 Latest dated texts:
 
-- VIII/19/9 - Hursagkalamma, (OECT 10, 123 [@mcewan1984late, 12])
-- XI/26/9 - Uruk, YBC 3985 (YOS 7, 84 [@tremayne1925records, 45])
+- 19/VIII/9 - Hursagkalamma, (OECT 10, 123 [@mcewan1984late, 12])
+- 26/XI/9 - Uruk, YBC 3985 (YOS 7, 84 [@tremayne1925records, 45])
 
 The tablets therefore show that Cyrus ruled for 9 years.
 
@@ -186,8 +186,8 @@ The tablets therefore show that Cyrus ruled for 9 years.
 
 Earliest dated texts:
 
-- VI/12/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencam])
-- VI/16/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencam])
+- 12/VI/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencam])
+- 16/VI/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencam])
 
 Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later
 months to Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
