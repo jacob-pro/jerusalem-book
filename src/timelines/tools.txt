@@ -1,0 +1,3 @@
+pdftocairo -svg chapter_2_babylon.pdf chapter_2_babylon.svg
+
+inkscape --export-filename=output.svg chapter_2_babylon.pdf
