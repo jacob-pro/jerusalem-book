@@ -10,3 +10,4 @@ command = "rust-script --debug src/bibliography.rs src/bibliography.bib src/ieee
 
 [output.html]
 additional-css = ["src/custom.css"]
+site-url = "/jerusalem-book/"
