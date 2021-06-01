@@ -8,12 +8,20 @@ This is in itself a very complicated topic and as such I have created a separate
 
 ## Summary
 
-[BM 32312](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm32312.md) contains planetary
+[BM 32312 (ADT I Diary No. -651)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm32312.md) contains planetary
 observations from the 16th year of Shamash-shum-ukin dated to -651.
 
-[BM 41222](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm41222.md) contains planetary
+[BM 41222 (ADT V Planetary Text No. 52)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm41222.md) contains planetary
 observations from the reigns of many different kings, and matches the 14th year of Shamash-shum-ukin to -653, 
 1st year of Kandalanu to -646, and 7th year of Nabopolassar to -618.
 
 [BM 76738 and 76813](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm76738_76813.md) contains 
 observations of Saturn through the 1st to 14th years of Kandalanu, dating his 1st year to -646.
+
+[BM 35115, 35789, 45640 (ADT V Lunar Text No.3) (LBAT 1415-7)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm35115_35789_45640.md) 
+contains eclipse observations arranged in 18 year groups from the reigns of many different kings, including Shamash-shum-ukin
+and Kandalanu. The text indicates Shamash-shum-ukin’s reign was 20 years long, and dates his accession year to -667.
+
+[BM 32234 (ADT V Lunar Text No.4) (LBAT 1419)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm32234.md) 
+contains eclipse observations arranged in 18 year groups from the reigns of many different kings, including Nebuchadnezzar.
+The observations date Nebuchadnezzar's 14th year to -590.
