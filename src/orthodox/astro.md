@@ -29,3 +29,7 @@ The observations and predictions date Nebuchadnezzar's 14th year to -590.
 [BM 38462 (ADT V Lunar Text No.6) (LBAT 1420)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm38462.md) 
 contains eclipse reports from the 1st through to 29th year of Nebuchadnezzar.
 The observations and predictions date Nebuchadnezzar's 1st year to -603.
+
+[VAT 4956 (ADT I Diary No. -567)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/vat4956.md) contains
+lunar and planetary observations, lunar six timings, and an eclipse report from the 37th year of 
+Nebuchadnezzar conclusively dated to -567.
