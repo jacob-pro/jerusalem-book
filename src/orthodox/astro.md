@@ -33,3 +33,7 @@ The observations and predictions date Nebuchadnezzar's 1st year to -603.
 [VAT 4956 (ADT I Diary No. -567)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/vat4956.md) contains
 lunar and planetary observations, lunar six timings, and an eclipse report from the 37th year of 
 Nebuchadnezzar conclusively dated to -567.
+
+[BM 33066 (Strm. Kambys. 400) (LBAT 1477)](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) 
+contains lunar six timings, planetary observations, and two eclipse reports from the 7th to 9th year of 
+Cambyses, dating the 7th year to -522.
