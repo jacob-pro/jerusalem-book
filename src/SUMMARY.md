@@ -26,3 +26,5 @@
     - [Biblical Evidence](judean/biblical/README.md)
         - [2 Kings](judean/biblical/2kings.md)
         - [Jeremiah](judean/biblical/jeremiah.md)
+        - [2 Chronicles](judean/biblical/2chronicles.md)
+        - [Daniel](judean/biblical/daniel.md)
