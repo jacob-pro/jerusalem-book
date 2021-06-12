@@ -22,3 +22,7 @@
     - [Ptolemy's Royal Canon](orthodox/canon.md)
     - [Astronomical Texts](orthodox/astro.md)
     - [Timeline](orthodox/timeline.md)
+- [Judean Chronology](judean/README.md)
+    - [Biblical Evidence](judean/biblical/README.md)
+        - [2 Kings](judean/biblical/2kings.md)
+        - [Jeremiah](judean/biblical/jeremiah.md)
