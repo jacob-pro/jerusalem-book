@@ -36,7 +36,7 @@ The key assumptions of his chronology include:
 Concerning the Jeremiah 25:1 issue, Jones agrees with Tadmor:
 
 > The Hebrew words for “first year” in Jer. 25:1
-  are ** השנה הראשנית** (hashshanah haroshniyth).
+  are השנה הראשנית (hashshanah haroshniyth).
   Not being found elsewhere in Scripture, the
   phrase is unique and the feminine singular
   form of the adjective modifying the word “year”

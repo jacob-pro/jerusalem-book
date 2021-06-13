@@ -38,7 +38,7 @@ The key assumptions of his chronology include [@tadmor1956chronology, 226]:
   to equate the 4th year of Jehoiakim with the accession
   year of Nebuchadnezzar (Jer. 25:1)
   rather than with the Babylonian king's
-  first full year. The *hapax eiremenon* **הראשנית השנה**
+  first full year. The *hapax eiremenon* הראשנית השנה
   in Jer. 25:1 would refer therefore
   to the rēš šarrǔti (= accession year)
   of Nebuchadnezzar. [@tadmor1956chronology, 227]
