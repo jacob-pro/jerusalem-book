@@ -28,3 +28,5 @@
         - [Jeremiah](judean/biblical/jeremiah.md)
         - [2 Chronicles](judean/biblical/2chronicles.md)
         - [Daniel](judean/biblical/daniel.md)
+    - [Issues Synchronising Babylonian and Judean Chronology](judean/sync_issues.md)
+    - [Principles of Chronology](judean/principles.md)
