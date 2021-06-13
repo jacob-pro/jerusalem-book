@@ -30,3 +30,4 @@
         - [Daniel](judean/biblical/daniel.md)
     - [Issues Synchronising Babylonian and Judean Chronology](judean/sync_issues.md)
     - [Principles of Chronology](judean/principles.md)
+    - [Solutions to the Judean Chronology](judean/solutions/README.md)
