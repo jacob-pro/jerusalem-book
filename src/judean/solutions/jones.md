@@ -33,7 +33,20 @@ The key assumptions of his chronology include:
 
 ## Discussion
 
-Jones places Nebuchadnezzar's invasion of Judah in the 3rd year of Jehoiakim as per Daniel 1:1.
+Concerning the Jeremiah 25:1 issue, Jones agrees with Tadmor:
+
+> The Hebrew words for “first year” in Jer. 25:1
+  are ** השנה הראשנית** (hashshanah haroshniyth).
+  Not being found elsewhere in Scripture, the
+  phrase is unique and the feminine singular
+  form of the adjective modifying the word “year”
+  can mean either “first or beginning”. Thus the
+  phrase in Jer. 25:1 is seen as not referring to
+  Nebuchadnezzar’s official first year but to his
+  initial year on the throne, the year of his
+  accession. [@jones2019chronology, 125]
+
+Jones places Nebuchadnezzar's first invasion of Judah in the 3rd year of Jehoiakim as per Daniel 1:1.
 However this would actually precede Nebuchadnezzar's reign, and fall in the 20th year of Nabopolasssar.
 
 > It follows then that Daniel 1:1 does not conflict
