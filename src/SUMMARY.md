@@ -33,3 +33,4 @@
     - [Solutions to the Judean Chronology](judean/solutions/README.md)
         - [Tadmor's Chronology](judean/solutions/tadmor.md)
         - [Jones's Chronology](judean/solutions/jones.md)
+        - [Malamat's Chronology](judean/solutions/malamat.md)
