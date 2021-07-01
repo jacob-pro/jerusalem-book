@@ -96,7 +96,120 @@ as described in 2 Kings 23:36 and 2 Chronicles 36:5. [@clines1972regnal, 32]
 
 ### Carchemish
 
+According to [BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 1-10 the battle of Carchemish took place sometime
+during the first 4 months of Nabopolassar's 21st year, in Malamat's chronology this would correspond to Jehoiakim's
+3rd year, rather than his 4th as described in Jeremiah 46:2.
+
+> On the Babylonian source, see *CCK*, pp. 66ff. (BM 21946). Jer. 46:2 places
+  the Battle of Carchemish in Jehoiakim's fourth regnal year, the only substantial
+  instance of a date conflicting with our Tishri reckoning, which would put this
+  battle in his third year (cf. the Chronological Table). See *IEJ* XVIII 1968, p. 147,
+  n. 21, where we have also cited HORN's suggestion to reconcile the difficulty
+  here by attributing this date to the time of the oracular utterance rather than
+  to the battle itself. Although problematic, this might find support in Jer. 36:1-2, 
+  where the date of the Prophet's first scroll, which recorded *inter alia* Oracles
+  on the Nations, is fixed in Jehoiakim's fourth regnal year. The chronological
+  notation at the head of the Oracles on the Nations in Jer. 46:2 thus may well
+  have been harmonized with this. WEIPPERT (*Edom*, p. 653, n. 1238) assumes
+  that the Battle of Carchemish and the subsequent Babylonian campaign, which
+  latter took place in the winter of 605/604 B.C., after the enthronement of Nebuchadnezzar.
+  were regarded in Judah as one continuous military episode, which
+  thus would have fallen already in Jehoiakim's fourth regnal year; but Jeremiah's
+  prophecy specifically deals with the defeat of "the army of Pharaoh Necho"
+  which no longer took part in events half a year after the Battle of Carchemish.
+  [@malamat1975twilight, 127]
+
 ### Subjugation of Judah
+
+Malamat does not offer a definitive date for Nebuchadnezzar's subjugation of Judah:
+
+> The Babylonian subjugation of Judah was not long in coming.
+  The exact date is still a matter of controversy, and even Nebuchadnezzar's
+  Chronicle is indefinite. Military campaigns to the West are
+  recorded for each of the years between 605 and 601 B.C., but no
+  specific names of subjected states are mentioned (except Ashkelon). [@malamat1975twilight, 129]
+
+The first solution (corresponding to Obv. line 8 of [BM 21946](../../orthodox/chronicles/bm21946.md)) 
+is the only one that works with Jehoiakim's 3rd year as per Daniel 1:1:
+
+> a\) Judah was conquered immediately after the Egypdan defeat at
+  the Battle of Carchemish. This is supported by the opening of the
+  Book of Daniel (1:1-4) relating the siege of Jerusalem by Nebuchadnezzar
+  in the third year of Jehoiakim (see Chronological Table),
+  the looting of "vessels of the house of God", and the exiling of
+  certain Judeans. Further the last datum is in accord with a tradition
+  related by Josephus (*Ant*. X; 11, 1; *Contra Apionem* I, 19), that
+  Judean captives; amongst others, were carried off to Babylon after
+  the victory at Carchemish. In another passage (Ant. X, 6, 1), Josephus
+  even specifies that at this same time Nebuchadnezzar conquered all
+  the lands of the West as far as Pelusium on the border of Egypt—but
+  he explicitely adds: "except the land of Judah"; It is difficult,
+  however, to rely upon the chronological accuracy of these traditions
+  (which apparently refer to events occurring several years later).
+  Though Josephus's data largely agree with those of the Babylonian
+  Chronicle, the Chronicle itself does not bear out any widespread
+  conquests in the West while Nebuchadnezzar was still Crown Prince.
+  Immediately after the victory at Carchemish, as we now know,
+  Nebuchadnezzar conquered only the "entire land of Ha\[ma\]th", and
+  not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read.
+
+#### Issues
+
+Nebuchadnezzar would not yet be King until later in that year, so Daniel 1:1 would need to be read proleptically
+[@mercer1989daniel, 183] [@clines1972regnal, 23].
+
+Clines questions whether there is enough time between the battle of Carchemish and Nebuchadnezzar's return
+to Babylon (month VI) following Nabopolassar's death [@mercer1989daniel, 187]:
+
+> It involves the interposition of a Babylonian march to
+  Jerusalem from Hamath (no place further south is mentioned in
+  the Babylonian Chronicle) and a siege of the city in the short
+  interval between May-June (Carchemish) and c. August 25 (news
+  of Nabopolassar's death). Very little time, if any, would be available
+  for the siege itself, when the days spent in marching are
+  reckoned up (see below, under II.2). We do not know where
+  Nebuchadrezzar was when he received news of his father's death,
+  but it must be recalled that only 3 weeks elapsed between Nabopolassar's
+  death and Nebuchadrazzar's arrival in Babylon. [@clines1972regnal, 24]
+
+#### Alternatives
+
+Alternatively Malamat suggests in the 1st year of Nebuchadnezzar (Obv. 15-17) [@malamat1975twilight, 130]:
+
+> b\) Judah submitted a year later, when Nebuchadnezzar devastated
+  Ashkelon, in Kislev of his first regnal year (December 604 B.C.).
+  This date corresponds exactly with the ninth month of the fifth
+  regnal year of Jehoiakim, when a general day of fasting was proclaimed
+  in Jerusalem (Jer. 36:9 ff.; see the Chronological Table).
+  Jeremiah's foreboding words, brought before an emergency council
+  of ministers on the fastday, warned of the impending national calamity—
+  the full drama of which we can trace today by means of the
+  Babylonian Chronicle. But Jehoiakim, belittling Jeremiah's warning
+  "that the king of Babylon will certainly come and destroy this land"
+  (Jer. 36:29), burned the Prophet's scroll of doom, which leads
+  to the conclusion that Judah at this time was still not subdued.
+
+Or in his 2nd year (Obv. 21-23)
+
+> c\) The submission of Judah may have occurred only in the autumn
+  or winter of 603 B.C., during Nebuchadnezzar's campaign in his
+  second regnal year. Unfortunately, the broken state of the Babylonian
+  tablet here does not enable us to confirm this. In this campaign,
+  which was certainly to the West, the Babylonian king set
+  out in the month of Iyyar with a "mighty army" supported by siege
+  machines, indicating that strong opposition was anticipated. Nebuchadnezzar
+  was most probably seeking to subdue all Philistia and
+  gain control of Judah—all as a prelude to his ultimate goal—the
+  conquest of Egypt, his arch-rival. If this be the case, the lacuna
+  here is to be restored with the conquest of a specific city in Philistia,
+  such as Ashdod, Ekron or more probably Gaza (cf. Jer. 25:20;
+  47:5; Zeph. 2:4); the subsequent missing section of the tablet
+  might then relate to the submission of Jehoiakim (cf. II Chron.
+  36:6-7; Dan. 1:1-2—both apparently relating to this event).
+
+But these would be in the 5th or 6th year of Jehoiakim, so do not fit Daniel 1:1,
+and they also take place after Nebuchadnezzar `marched about victoriously in Hattu` in his accession year 
+(Obv. Line 12-14).
 
 ### Seiges of Jerusalem
 
