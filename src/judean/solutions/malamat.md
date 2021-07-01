@@ -213,4 +213,47 @@ and they also take place after Nebuchadnezzar `marched about victoriously in Hat
 
 ### Seiges of Jerusalem
 
+Malamat attempts to reconcile the differing dates and numbers of exiles between Jeremiah 52 and 2 Kings 24-25, by
+viewing them as separate events:
+
+> The biblical sources on the exile of Jehoiachin are in outward
+  contradiction, in both the extent of the exile and its exact date.
+  According to II Kings 24, the exile encompassed 10,000 (*vs*. 14)
+  or 7,000 (*vs*. 16) persons, mostly military, to either of which we
+  must add a thousand armourers and sappers. This mass exile,
+  headed by Jehoiachin and his entourage, occurred according to
+  this source in the eight year of Nebuchadnezzar's reign (*vs*. 12), the
+  year beginning on 1 Nisan 597 B.C.—at least a month after the surrender
+  of Jerusalem. Moreover, II Chronicles 34:10 also implies
+  that Jehoiachin was exiled around the time of the civil new year,
+  and that Nebuchadnezzar had already returned to his capital, surely
+  for the annual festivities. But according to the list of exiles in Jeremiah
+  52 (based undoubtedly on some official source), a mere 3,023
+  "Jews" were exiled—in the *seventh* year of Nebuchadnezzar's reign
+  (*vs* 28). These have generally been regarded as contradicting traditions
+  on one and the same matter, or it has been thought that different
+  chronological systems were employed in the Book of Kings and in
+  Jeremiah 52, respectively —though even then the numbers for the
+  deportees disagree. The discrepancies between the two sources can
+  be reconciled, however, by proposing that the exile evolved in two
+  successive deportations: <br>
+  a\) The first phase (already intimated in Jer. 13:18-19) was a
+  limited deportation prior to or upon the surrender of Jerusalem
+  —still in Nebuchadnezzar's seventh year (Jer. 52:28). The particular
+  appellative here, "Jews"—implying the provincial element of
+  Judah—is brought into perspective by the designation "from Jerusalem",
+  applied to the exiles deported during the final siege, in
+  Nebuchadnezzar's 18th year (*vs*. 29; and see the Chronological
+  Table). Several years after the destruction of Jerusalem, in Nebuchadnezzar's
+  23rd year, the deportees are once again, and quite
+  appropriately, called "Jews" (*vs*. 30). <br>
+  b\) The second, principal phase of the exile, described in the
+  Book of Kings, comprised the cream of Jerusalem and thousands of
+  her defenders, including the armourers and sappers specifically
+  mentioned as exiled from the capital (Jer. 24:1; 29:2). The organization
+  of this mass exile surely necessitated several weeks from
+  the time of the surrender of the city, on 2 Adar, and thus it would
+  have fallen only in Nebuchadnezzar's eighth regnal year, by which
+  time he had already left the country.
+
 ## References
