@@ -111,7 +111,7 @@ On the deportations at the end of Jeremiah, in the 7th and 18th year of Nebuchad
   crown prince, Dan.1:1), as well as his 8th, and
   19th regnal years — which are to be distinguished
   from the minor ones that Jer. 52:28–30
-  lists in his 7th, 18th, and 23rd years.2 These
+  lists in his 7th, 18th, and 23rd years. These
   latter, then, were likely added after the fact to
   complete the historical record.<br>
   If so, the first minor deportation, reported by
