@@ -35,3 +35,4 @@
         - [Jones's Chronology](judean/solutions/jones.md)
         - [Malamat's Chronology](judean/solutions/malamat.md)
         - [Thiele's Chronology](judean/solutions/thiele.md)
+        - [Horn's Chronology](judean/solutions/horn.md)
