@@ -41,12 +41,13 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 | 597 Nisan  | Nebuchadnezzar 8                       | Zedekiah Acc.                         | Exile of Jehoiachin                                              | 1st  |
 | 597 Tishri |                                        | Zedekiah 1                            |                                                                  |      |
 |            |                                        |                                       |                                                                  |      |
+| 589 Tishri |                                        | Zedekiah 9                            | Start of siege (month X)                                         |      |
 | 588 Nisan  | Nebuchadnezzar 17                      |                                       |                                                                  | 10th |
-| 588 Tishri |                                        | Zedekiah 10                           | Start of siege                                                   |      |
+| 588 Tishri |                                        | Zedekiah 10                           |                                                                  |      |
 | 587 Nisan  | Nebuchadnezzar 18                      |                                       |                                                                  | 11th |
-| 587 Tishri |                                        | Zedekiah 11                           | Exile of 832 deserters                                           |      |
-| 586 Nisan  | Nebuchadnezzar 19                      |                                       | Breach of walls of Jerusalem                                     | 12th |
-| 586 Tishri |                                        |                                       | Destruction of temple                                            |      |
+| 587 Tishri |                                        | Zedekiah 11                           | Exile of 832 deserters  (year 18)                                |      |
+| 586 Nisan  | Nebuchadnezzar 19                      |                                       | Breach of walls of Jerusalem (month IV)                          | 12th |
+| 586 Tishri |                                        |                                       |                                                                  |      |
 |            |                                        |                                       |                                                                  |      |
 | 561 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                       | Release of Jehoiachin                                            | 37th |
 
