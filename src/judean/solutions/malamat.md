@@ -7,7 +7,7 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 
 - The Judean kings are reckoned on an accession year system.
 - A Tishri to Tishri year was used for regnal years in Judah 
-  (although the months of the year are still counted on the civil calendar (Nisan)).
+  (although the months of the year are still counted from Nisan).
 
 ## Timeline
 

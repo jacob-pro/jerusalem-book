@@ -64,5 +64,5 @@ The differences between the two chapters include:
 - Jeremiah describes the loot in greater detail (52:20-23 vs 25:16-17)
 - 7 rather than 5 royal advisers were taken. (52:25 vs 25:19)
 - Jeremiah has three additional verses counting the captives (52:28-30)
-- Jehoiakim is released on the 25th day rather than 27th day (52:31 vs 25:27)
+- Jehoiachin is released on the 25th day rather than 27th day (52:31 vs 25:27)
 
