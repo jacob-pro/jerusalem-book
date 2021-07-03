@@ -29,7 +29,7 @@ The key assumptions of his chronology include [@tadmor1956chronology, 226]:
 | 587     | Nebuchadnezzar 18                      | Zedekiah 10                                        | Second year of seige                                                     | 11th |
 | 586     | Nebuchadnezzar 19                      | Zedekiah 11                                        | Breach of walls of Jerusalem (month IV)                                  | 12th |
 |         |                                        |                                                    |                                                                          |      |
-| 561     | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                                    | Release of Jehoiachin (month XII)                                        | 37th |
+| 562     | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                                    | Release of Jehoiachin (month XII)                                        | 36th |
 
 ## Discussion
 
@@ -86,5 +86,12 @@ But he notes that the captives were taken, and that Zedekiah's accession were at
   seem to derive from the same tradition, but no
   satisfactory explanation of its origin has yet been
   offered. [@tadmor1956chronology, 230]
+
+### Release of Jehoiachin
+
+> Actually it was four or two days less than 37 full
+  years, so that the Judean king was released on the eve
+  of the New Year festival, when Amel-Marduk was to
+  be formally enthroned. [@tadmor1956chronology, 230]
 
 ## References

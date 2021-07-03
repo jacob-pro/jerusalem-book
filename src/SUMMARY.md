@@ -37,3 +37,4 @@
         - [Thiele's Chronology](judean/solutions/thiele.md)
         - [Horn's Chronology](judean/solutions/horn.md)
         - [Albright's Chronology](judean/solutions/albright.md)
+        - [Young's Chronology](judean/solutions/albright.md)

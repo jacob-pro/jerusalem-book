@@ -14,8 +14,8 @@ the chronological data, and as a result come to different dates for the destruct
 | Roger C. Young      | When Did Jerusalem Fall? [@young2004did]                                                        | 18                          | 587     |
 | Watchtower Society  | Insight on the Scriptures                                                                       | 18                          | 607(!)  |
 
-We will see that all of the proposed solutions fail to definitively satisfy all the chronological data, and give
-a certain date for the destruction of Jerusalem:
+We will see that all of the proposed solutions fail to definitively satisfy all the chronological data, and therefore 
+give a certain date for the destruction of Jerusalem:
 
 > no definite and unassailable conclusions can be reached until
   a historical record dealing with that event is found [@horn1967babylonian, 16]
