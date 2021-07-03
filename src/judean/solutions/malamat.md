@@ -237,7 +237,7 @@ viewing them as separate events:
   Jeremiah 52, respectively —though even then the numbers for the
   deportees disagree. The discrepancies between the two sources can
   be reconciled, however, by proposing that the exile evolved in two
-  successive deportations: <br>
+  successive deportations: <br><br>
   a\) The first phase (already intimated in Jer. 13:18-19) was a
   limited deportation prior to or upon the surrender of Jerusalem
   —still in Nebuchadnezzar's seventh year (Jer. 52:28). The particular
@@ -247,7 +247,7 @@ viewing them as separate events:
   Nebuchadnezzar's 18th year (*vs*. 29; and see the Chronological
   Table). Several years after the destruction of Jerusalem, in Nebuchadnezzar's
   23rd year, the deportees are once again, and quite
-  appropriately, called "Jews" (*vs*. 30). <br>
+  appropriately, called "Jews" (*vs*. 30). <br><br>
   b\) The second, principal phase of the exile, described in the
   Book of Kings, comprised the cream of Jerusalem and thousands of
   her defenders, including the armourers and sappers specifically

@@ -114,7 +114,7 @@ to travel from Megiddo to Carchemish before the end of Tammuz (month IV):
   Battle of Carchemisch is considered a parenthetical clause, all chronological
   difficulties are removed, and this passage falls in line with the
   rest of the dated historical statements of Jeremiah mentioning
-  Nebuchadnezzar. <br>
+  Nebuchadnezzar. <br><br>
   In this case one has to assume that the parenthetical clause was
   inserted in the introduction to Jeremiah's message to point out that
   the prophetic oracle was pronounced over the Egyptian army which
@@ -156,7 +156,7 @@ would fit in.
   52:12 in the 19th year of Nebuchadnezzar, which coincided
   with the 11th year of Zedekiah of Judah (2 Ki 25:2; Jer 39:2;
   52:5). That year was the autumn-to-autumn year 587/586,
-  as has already been pointed out.<br>
+  as has already been pointed out.<br><br>
   The two deportations of Jews recorded in Jer 52:28-30
   which took place in the 7th and 18th years of Nebuchadnezzar
   must have been secondary and minor deportations, and
