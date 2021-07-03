@@ -67,7 +67,7 @@ Albright seems to think that Judah was not occupied until after the capture of A
 This doesn't explain Obv. 17 where `All the kings of Hattu came into his presence and he received their vast tribute.`
 in the first year, or how Daniel 1:1 would fit in here (it would be the 6th year of Jehoiakim).
 
-### Seiges of Jerusalem
+### Captures of Jehoiachin and Zedekiah
 
 > As a result of the new Chronicle I have slightly changed my own interpretation
   of the regnal years of Nebuchadnezzar given throughout Jeremiah
