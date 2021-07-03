@@ -9,28 +9,28 @@ The key assumptions of his chronology include:
 
 ## Timeline
 
-| Year BC | Babylon                                | Judah                                 | Events                                                           |      |
-|---------|----------------------------------------|---------------------------------------|------------------------------------------------------------------|------|
-| 608     | Nabopolassar 16                        | Josiah 31<br>Jehoahaz Acc.            | Battle of Megiddo (month XII)                                    |      |
-| 609     | Nabopolassar 17                        | Jehoahaz 1<br>Jehoiakim Acc.          | Egyptians attack Harran (month IV)                               |      |
-| 608     | Nabopolassar 18                        | Jehoiakim 1                           |                                                                  |      |
-| 607     | Nabopolassar 19                        | Jehoiakim 2                           |                                                                  |      |
-| 606     | Nabopolassar 20                        | Jehoiakim 3                           | Nebuchadnezzar invades Judah                                     |      |
-| 605     | Nabopolassar 21<br>Nebuchadnezzar Acc. | Jehoiakim 4                           | Battle of Carchemish (month I-V?)                                |      |
-| 604     | Nebuchadnezzar 1                       | Jehoiakim 5                           |                                                                  |      |
-| 603     | Nebuchadnezzar 2                       | Jehoiakim 6                           | Jehoiakim's Rebellion<br>Daniel completes training               |      |
-| 602     | Nebuchadnezzar 3                       | Jehoiakim 7                           |                                                                  |      |
-| 601     | Nebuchadnezzar 4                       | Jehoiakim 8                           |                                                                  |      |
-| 600     | Nebuchadnezzar 5                       | Jehoiakim 9                           |                                                                  |      |
-| 599     | Nebuchadnezzar 6                       | Jehoiakim 10                          |                                                                  |      |
-| 598     | Nebuchadnezzar 7                       | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem, Jehoiachin Captured (month XII)              |      |
-| 597     | Nebuchadnezzar 8                       | Zedekiah Acc.                         |                                                                  | 1st  |
-|         |                                        |                                       |                                                                  |      |
-| 588     | Nebuchadnezzar 17                      | Zedekiah 9                            | Beginning of siege (month X)                                     | 10th |
-| 587     | Nebuchadnezzar 18                      | Zedekiah 10                           | Minor deportation of 832                                         | 11th |
-| 586     | Nebuchadnezzar 19                      | Zedekiah 11                           | Breach of walls of Jerusalem (month IV)                          | 12th |
-|         |                                        |                                       |                                                                  |      |
-| 561     | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                       | Release of Jehoiachin (month XII)                                | 37th |
+| Year BC | Babylon                                | Judah                                 | Events                                                           |         |
+|---------|----------------------------------------|---------------------------------------|------------------------------------------------------------------|---------|
+| 608     | Nabopolassar 16                        | Josiah 31<br>Jehoahaz Acc.            | Battle of Megiddo (month XII)                                    |         |
+| 609     | Nabopolassar 17                        | Jehoahaz 1<br>Jehoiakim Acc.          | Egyptians attack Harran (month IV)                               |         |
+| 608     | Nabopolassar 18                        | Jehoiakim 1                           |                                                                  |         |
+| 607     | Nabopolassar 19                        | Jehoiakim 2                           |                                                                  |         |
+| 606     | Nabopolassar 20                        | Jehoiakim 3                           | Nebuchadnezzar invades Judah                                     |         |
+| 605     | Nabopolassar 21<br>Nebuchadnezzar Acc. | Jehoiakim 4                           | Battle of Carchemish (month I-V?)                                |         |
+| 604     | Nebuchadnezzar 1                       | Jehoiakim 5                           |                                                                  |         |
+| 603     | Nebuchadnezzar 2                       | Jehoiakim 6                           | Jehoiakim's Rebellion<br>Daniel completes training               |         |
+| 602     | Nebuchadnezzar 3                       | Jehoiakim 7                           |                                                                  |         |
+| 601     | Nebuchadnezzar 4                       | Jehoiakim 8                           |                                                                  |         |
+| 600     | Nebuchadnezzar 5                       | Jehoiakim 9                           |                                                                  |         |
+| 599     | Nebuchadnezzar 6                       | Jehoiakim 10                          |                                                                  |         |
+| 598     | Nebuchadnezzar 7                       | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem, Jehoiachin Captured (month XII)              |         |
+| 597     | Nebuchadnezzar 8                       | Zedekiah Acc.                         |                                                                  | 1st-2nd |
+|         |                                        |                                       |                                                                  |         |
+| 588     | Nebuchadnezzar 17                      | Zedekiah 9                            | Beginning of siege (month X)                                     | 10-11th |
+| 587     | Nebuchadnezzar 18                      | Zedekiah 10                           | Minor deportation of 832                                         | 11-12th |
+| 586     | Nebuchadnezzar 19                      | Zedekiah 11                           | Breach of walls of Jerusalem (month IV)                          | 12-13th |
+|         |                                        |                                       |                                                                  |         |
+| 562     | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                       | Release of Jehoiachin (month XII)                                | 36-37th |
 
 ## Discussion
 
@@ -217,5 +217,39 @@ On the deportations at the end of Jeremiah, in the 7th and 18th year of Nebuchad
   been deemed prudent to march the swelling
   number of Egyptian and Jewish prisoners in
   the camp off to Babylon. [@jones2019chronology, 127]
+
+### Release of Jehoiachin
+
+> Moreover, in the first year of his reign, Evil
+  Merodach (Amel-Marduk), Nebuchadnezzar’s
+  son and successor, liberated Jehoiachin from
+  prison and raised him to a position of honor at
+  the palace (562 BC, the 18th Jubilee — Jer.
+  52:31–34). Evil Merodach’s kind, respectful
+  treatment of Jehoiachin after 37 years’ imprisonment
+  further substantiates the correctness of
+  the above assertions. [@jones2019chronology, 128]
+
+Jones appears to be counting 37 years on the Anno Mundi (Year After Creation) calendar
+which begins its new year in Tishri.
+
+> This resulted in
+  fixing the year of “the captivity” as AM 3407. 
+  The relevant Scriptures relating
+  to the reigns of the kings of Judah were then
+  charted in terms of AM years. This resulted in
+  fixing the year of “the captivity” as AM 3407.
+  Inclusively numbering 37 years from this first
+  year of Jeconiah’s (Jehoiachin) captivity brought
+  me to 3443 AM, the first year of the reign of
+  Evil-merodach, son and successor of Nebuchadnezzar
+  (2 Kings 25:27, cp. 2 Kings 24:12, 15).
+  Counting back from 3443 AM, 3418 was found
+  to be Nebuchadnezzar’s 19th year – the very
+  year the Scriptures say he razed Jerusalem
+  (Jer. 52:12–15). As stated above, this destruction
+  took place in Zedekiah’s 11th year (2 Kings
+  25:1–7), thus confirming the synchronization of
+  Judah and Babylon in 3418. [@jones2019chronology, 309]
 
 ## References

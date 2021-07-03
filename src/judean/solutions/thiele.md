@@ -59,7 +59,8 @@ The key assumptions of his chronology include [@thiele1983mysterious, 180]:
 | 586 Nisan  | Nebuchadnezzar 19                      |                                        |                                                  | Zedekiah 11                                      | Breach of walls of Jerusalem (month IV)                            |
 | 586 Tishri |                                        |                                        |                                                  |                                                  |                                                                    |
 |            |                                        | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                                  |                                                  |                                                                    |
-| 561 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                        |                                                  |                                                  | Release of Jehoiachin                                              |
+| 562 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                        |                                                  |                                                  |                                                                    |
+| 562 Tishri |                                        |                                        |                                                  |                                                  | Release of Jehoiachin (month XII)                                  |
 
 ## Discussion
 
