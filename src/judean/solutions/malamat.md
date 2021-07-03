@@ -37,19 +37,20 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 | 599 Nisan  | Nebuchadnezzar 6                       |                                       |                                                                     |      |
 | 599 Tishri |                                        | Jehoiakim 10                          |                                                                     |      |
 | 598 Nisan  | Nebuchadnezzar 7                       |                                       |                                                                     |      |
-| 598 Tishri |                                        | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem<br>Deportation of 3032 Jews                      |      |
-| 597 Nisan  | Nebuchadnezzar 8                       | Zedekiah Acc.                         | Exile of Jehoiachin                                                 | 1st  |
-| 597 Tishri |                                        | Zedekiah 1                            |                                                                     |      |
+| 598 Tishri |                                        | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem<br>Deportation of 3032 Jews                      | 1st  |
+| 597 Nisan  | Nebuchadnezzar 8                       | Zedekiah Acc.                         | Exile of Jehoiachin                                                 |      |
+| 597 Tishri |                                        | Zedekiah 1                            |                                                                     | 2nd  |
 |            |                                        |                                       |                                                                     |      |
 | 589 Tishri |                                        | Zedekiah 9                            | Beginning of siege (month X)                                        |      |
-| 588 Nisan  | Nebuchadnezzar 17                      |                                       |                                                                     | 10th |
-| 588 Tishri |                                        | Zedekiah 10                           |                                                                     |      |
-| 587 Nisan  | Nebuchadnezzar 18                      |                                       | Limited deportation of 832 deserters (year 18)                      | 11th |
-| 587 Tishri |                                        | Zedekiah 11                           |                                                                     |      |
-| 586 Nisan  | Nebuchadnezzar 19                      |                                       | Breach of walls of Jerusalem (month IV)                             | 12th |
-| 586 Tishri |                                        |                                       |                                                                     |      |
+| 588 Nisan  | Nebuchadnezzar 17                      |                                       |                                                                     |      |
+| 588 Tishri |                                        | Zedekiah 10                           |                                                                     | 11th |
+| 587 Nisan  | Nebuchadnezzar 18                      |                                       | Limited deportation of 832 deserters (year 18)                      |      |
+| 587 Tishri |                                        | Zedekiah 11                           |                                                                     | 12th |
+| 586 Nisan  | Nebuchadnezzar 19                      |                                       | Breach of walls of Jerusalem (month IV)                             |      |
+| 586 Tishri |                                        |                                       |                                                                     | 13th |
 |            |                                        |                                       |                                                                     |      |
-| 561 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                       | Release of Jehoiachin                                               | 37th |
+| 562 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                       |                                                                     |      |
+| 562 Tishri |                                        |                                       | Release of Jehoiachin (month XII)                                   | 37th |
 
 ## Discussion
 
