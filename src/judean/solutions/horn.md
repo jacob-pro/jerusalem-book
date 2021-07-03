@@ -170,6 +170,6 @@ would fit in.
   year (the 7th year of Nebuchadnezzar, 599/598, autumn-to-autumn)
   must have been in connection with the harassment
   of Jehoiakim by "bands of the Chaldeans" to which 2 Ki
-  24:2 refers  [@horn1967babylonian, 26]
+  24:2 refers [@horn1967babylonian, 26].
 
 ## References
