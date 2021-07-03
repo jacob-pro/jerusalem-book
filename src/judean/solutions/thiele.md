@@ -20,56 +20,56 @@ The key assumptions of his chronology include [@thiele1983mysterious, 180]:
 
 ## Timeline
 
-| Year BC    | Babylon (Nisan years)                  | Babylon (Tishri years)                 | Judah (Tishri years)                             | Judah (Nisan years)                              | Events                                                           |
-|------------|----------------------------------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------|
-| 610 Nisan  | Nabopolassar 16                        |                                        |                                                  | Josiah 30                                        |                                                                  |
-| 610 Tishri |                                        | Nabopolassar 17                        | Josiah 31<br>Jehoahaz Acc.                       |                                                  |                                                                  |
-| 609 Nisan  | Nabopolassar 17                        |                                        |                                                  | Josiah 31<br>Jehoahaz Acc.<br>Jehoiakim Acc.     | Battle of Megiddo (Month IV)                                     |
-| 609 Tishri |                                        | Nabopolassar 18                        | Jehoiakim Acc.                                   |                                                  |                                                                  |
-| 608 Nisan  | Nabopolassar 18                        |                                        |                                                  | Jehoiakim 1                                      |                                                                  |
-| 608 Tishri |                                        | Nabopolassar 19                        | Jehoiakim 1                                      |                                                  |                                                                  |
-| 607 Nisan  | Nabopolassar 19                        |                                        |                                                  | Jehoiakim 2                                      |                                                                  |
-| 607 Tishri |                                        | Nabopolassar 20                        | Jehoiakim 2                                      |                                                  |                                                                  |
-| 606 Nisan  | Nabopolassar 20                        |                                        |                                                  | Jehoiakim 3                                      |                                                                  |
-| 606 Tishri |                                        | Nabopolassar 21<br>Nebuchadnezzar Acc. | Jehoiakim 3                                      |                                                  |                                                                  |
-| 605 Nisan  | Nabopolassar 21<br>Nebuchadnezzar Acc. |                                        |                                                  | Jehoiakim 4                                      | Battle of Carchemish<br>Subjugation of Judah                     |
-| 605 Tishri |                                        | Nebuchadnezzar 1                       | Jehoiakim 4                                      |                                                  |                                                                  |
-| 604 Nisan  | Nebuchadnezzar 1                       |                                        |                                                  | Jehoiakim 5                                      |                                                                  |
-| 604 Tishri |                                        | Nebuchadnezzar 2                       | Jehoiakim 5                                      |                                                  |                                                                  |
-| 603 Nisan  | Nebuchadnezzar 2                       |                                        |                                                  | Jehoiakim 6                                      |                                                                  |
-| 603 Tishri |                                        | Nebuchadnezzar 3                       | Jehoiakim 6                                      |                                                  |                                                                  |
-| 602 Nisan  | Nebuchadnezzar 3                       |                                        |                                                  | Jehoiakim 7                                      |                                                                  |
-| 602 Tishri |                                        | Nebuchadnezzar 4                       | Jehoiakim 7                                      |                                                  |                                                                  |
-| 601 Nisan  | Nebuchadnezzar 4                       |                                        |                                                  | Jehoiakim 8                                      |                                                                  |
-| 601 Tishri |                                        | Nebuchadnezzar 5                       | Jehoiakim 8                                      |                                                  |                                                                  |
-| 600 Nisan  | Nebuchadnezzar 5                       |                                        |                                                  | Jehoiakim 9                                      |                                                                  |
-| 600 Tishri |                                        | Nebuchadnezzar 6                       | Jehoiakim 9                                      |                                                  |                                                                  |
-| 599 Nisan  | Nebuchadnezzar 6                       |                                        |                                                  | Jehoiakim 10                                     |                                                                  |
-| 599 Tishri |                                        | Nebuchadnezzar 7                       | Jehoiakim 10                                     |                                                  |                                                                  |
-| 598 Nisan  | Nebuchadnezzar 7                       |                                        |                                                  | Jehoiakim 11<br>Jehoiachin Acc.                  |                                                                  |
-| 598 Tishri |                                        | Nebuchadnezzar 8                       | Jehoiakim 11<br>Jehoiachin Acc.<br>Zedekiah Acc. |                                                  | Seige of Jerusalem.<br>Exile of Jehoiachin                       |
-| 597 Nisan  | Nebuchadnezzar 8                       |                                        |                                                  | Zedekiah Acc.                                    |                                                                  |
-| 597 Tishri |                                        |                                        | Zedekiah 1                                       |                                                  |                                                                  |
-|            |                                        |                                        |                                                  |                                                  |                                                                  |
-| 589 Tishri |                                        | Nebuchadnezzar 17                      | Zedekiah 9                                       |                                                  | Start of siege (month X)                                         |
-| 588 Nisan  | Nebuchadnezzar 17                      |                                        |                                                  | Zedekiah 9                                       |                                                                  |
-| 588 Tishri |                                        | Nebuchadnezzar 18                      | Zedekiah 10                                      |                                                  |                                                                  |
-| 587 Nisan  | Nebuchadnezzar 18                      |                                        |                                                  | Zedekiah 10                                      |                                                                  |
-| 587 Tishri |                                        | Nebuchadnezzar 19                      | Zedekiah 11                                      |                                                  |                                                                  |
-| 586 Nisan  | Nebuchadnezzar 19                      |                                        |                                                  | Zedekiah 11                                      | Breach of walls of Jerusalem (month IV)                          |
-| 586 Tishri |                                        |                                        |                                                  |                                                  |                                                                  |
-|            |                                        | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                                  |                                                  |                                                                  |
-| 561 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                        |                                                  |                                                  | Release of Jehoiachin                                            |
+| Year BC    | Babylon (Nisan years)                  | Babylon (Tishri years)                 | Judah (Tishri years)                             | Judah (Nisan years)                              | Events                                                             |
+|------------|----------------------------------------|----------------------------------------|--------------------------------------------------|--------------------------------------------------|------------------------------------------------------------------  |
+| 610 Nisan  | Nabopolassar 16                        |                                        |                                                  | Josiah 30                                        |                                                                    |
+| 610 Tishri |                                        | Nabopolassar 17                        | Josiah 31<br>Jehoahaz Acc.                       |                                                  |                                                                    |
+| 609 Nisan  | Nabopolassar 17                        |                                        |                                                  | Josiah 31<br>Jehoahaz Acc.<br>Jehoiakim Acc.     | Battle of Megiddo (month IV)<br>Egyptians attack Harran (month IV) |
+| 609 Tishri |                                        | Nabopolassar 18                        | Jehoiakim Acc.                                   |                                                  |                                                                    |
+| 608 Nisan  | Nabopolassar 18                        |                                        |                                                  | Jehoiakim 1                                      |                                                                    |
+| 608 Tishri |                                        | Nabopolassar 19                        | Jehoiakim 1                                      |                                                  |                                                                    |
+| 607 Nisan  | Nabopolassar 19                        |                                        |                                                  | Jehoiakim 2                                      |                                                                    |
+| 607 Tishri |                                        | Nabopolassar 20                        | Jehoiakim 2                                      |                                                  |                                                                    |
+| 606 Nisan  | Nabopolassar 20                        |                                        |                                                  | Jehoiakim 3                                      |                                                                    |
+| 606 Tishri |                                        | Nabopolassar 21<br>Nebuchadnezzar Acc. | Jehoiakim 3                                      |                                                  |                                                                    |
+| 605 Nisan  | Nabopolassar 21<br>Nebuchadnezzar Acc. |                                        |                                                  | Jehoiakim 4                                      | Battle of Carchemish (month I-V?), subjugation of Judah            |
+| 605 Tishri |                                        | Nebuchadnezzar 1                       | Jehoiakim 4                                      |                                                  |                                                                    |
+| 604 Nisan  | Nebuchadnezzar 1                       |                                        |                                                  | Jehoiakim 5                                      |                                                                    |
+| 604 Tishri |                                        | Nebuchadnezzar 2                       | Jehoiakim 5                                      |                                                  |                                                                    |
+| 603 Nisan  | Nebuchadnezzar 2                       |                                        |                                                  | Jehoiakim 6                                      |                                                                    |
+| 603 Tishri |                                        | Nebuchadnezzar 3                       | Jehoiakim 6                                      |                                                  |                                                                    |
+| 602 Nisan  | Nebuchadnezzar 3                       |                                        |                                                  | Jehoiakim 7                                      |                                                                    |
+| 602 Tishri |                                        | Nebuchadnezzar 4                       | Jehoiakim 7                                      |                                                  |                                                                    |
+| 601 Nisan  | Nebuchadnezzar 4                       |                                        |                                                  | Jehoiakim 8                                      |                                                                    |
+| 601 Tishri |                                        | Nebuchadnezzar 5                       | Jehoiakim 8                                      |                                                  |                                                                    |
+| 600 Nisan  | Nebuchadnezzar 5                       |                                        |                                                  | Jehoiakim 9                                      |                                                                    |
+| 600 Tishri |                                        | Nebuchadnezzar 6                       | Jehoiakim 9                                      |                                                  |                                                                    |
+| 599 Nisan  | Nebuchadnezzar 6                       |                                        |                                                  | Jehoiakim 10                                     |                                                                    |
+| 599 Tishri |                                        | Nebuchadnezzar 7                       | Jehoiakim 10                                     |                                                  |                                                                    |
+| 598 Nisan  | Nebuchadnezzar 7                       |                                        |                                                  | Jehoiakim 11<br>Jehoiachin Acc.                  |                                                                    |
+| 598 Tishri |                                        | Nebuchadnezzar 8                       | Jehoiakim 11<br>Jehoiachin Acc.<br>Zedekiah Acc. |                                                  | Seige of Jerusalem, Jehoiachin Captured (month XII)                |
+| 597 Nisan  | Nebuchadnezzar 8                       |                                        |                                                  | Zedekiah Acc.                                    |                                                                    |
+| 597 Tishri |                                        |                                        | Zedekiah 1                                       |                                                  |                                                                    |
+|            |                                        |                                        |                                                  |                                                  |                                                                    |
+| 589 Tishri |                                        | Nebuchadnezzar 17                      | Zedekiah 9                                       |                                                  | Start of siege (month X)                                           |
+| 588 Nisan  | Nebuchadnezzar 17                      |                                        |                                                  | Zedekiah 9                                       |                                                                    |
+| 588 Tishri |                                        | Nebuchadnezzar 18                      | Zedekiah 10                                      |                                                  |                                                                    |
+| 587 Nisan  | Nebuchadnezzar 18                      |                                        |                                                  | Zedekiah 10                                      |                                                                    |
+| 587 Tishri |                                        | Nebuchadnezzar 19                      | Zedekiah 11                                      |                                                  |                                                                    |
+| 586 Nisan  | Nebuchadnezzar 19                      |                                        |                                                  | Zedekiah 11                                      | Breach of walls of Jerusalem (month IV)                            |
+| 586 Tishri |                                        |                                        |                                                  |                                                  |                                                                    |
+|            |                                        | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                                  |                                                  |                                                                    |
+| 561 Nisan  | Nebuchadnezzar 43<br>Amel-Marduk Acc.  |                                        |                                                  |                                                  | Release of Jehoiachin                                              |
 
 ## Discussion
 
-### Megiddo
+### Battle of Megiddo
 
 Thiele states that Josiah was killed at Megiddo in Tammuz (IV), afterwards Jehoahaz rules for 3 months into Tishri 
 (month VII) [@thiele1983mysterious, 182]. He does not appear to explain how the Egyptian army made the ~400 
 mile [@clines1972regnal, 30] journey from Megiddo to Carchemish within this timeframe.
 
-### Carchemish and the Subjugation of Judah
+### Battle of Carchemish and the Subjugation of Judah
 
 > Nabopolassar stayed at home in his twenty-first year, beginning with
   Nisan, 605, but sent Nebuchadnezzar with the army against Carchemish. A
@@ -103,7 +103,7 @@ Like Tadmor, Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's ac
   to his official first year but to his initial year on the throne. the year of his
   accession. [@thiele1983mysterious, 184]
 
-### Capture of Jehoiachin
+### Captures of Jehoiachin and Zedekiah
 
 > The biblical account places the capture of Jerusalem in the eighth year of
   Nebuchadnezzar (2 Kings 24:12), but the Babylonian account places it in the
@@ -115,8 +115,6 @@ Like Tadmor, Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's ac
   eighth year according to the reckoning in Kings. The overlap was from Tishri in
   the fall of598 to Nisan in the spring of 597. Since Jerusalem fell in Adar, the last
   month of the Babylonian year, this was in the spring of 597. [@thiele1983mysterious, 186]
-
-### Destruction of Jerusalem
 
 > The last event in the checkered history of the southern kingdom was the
   siege and destruction of Jerusalem by Nebuchadnezzar. This siege began on the
