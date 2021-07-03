@@ -119,3 +119,5 @@ He also does not appear to explain the difference in the number of exiles betwee
   Jewish historians used the postdating system consistently in
   their records for the kings of Babylonia as well as for their
   own kings? [@horn1967babylonian, 23]
+
+## References
