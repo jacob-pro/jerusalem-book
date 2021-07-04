@@ -10,7 +10,7 @@ The aim of this book is to answer the following questions:
 
 My name is Jacob Halsey, I am a software engineer / computer scientist. My interest in this topic stems from
 being encouraged by friends and family to research the Biblical prophecies of Daniel, and from having read the 
-"Daniel Book" [@watch1999pay] many years ago. I am not (and have never been) a baptised member of 
+"Daniel Book" [@watch2006pay] many years ago. I am not (and have never been) a baptised member of 
 Jehovah's Witnesses myself.
 
 ## About the Book

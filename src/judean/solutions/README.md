@@ -12,7 +12,7 @@ the chronological data, and as a result come to different dates for the destruct
 | Siegfried H. Horn   | The Babylonian Chronicle and the Ancient Calendar of the Kingdom of Judah [@horn1967babylonian] | 19                          | 586     |
 | William F. Albright | The Nebuchadnezzar and Neriglissar Chronicles [@albright1956nebuchadnezzar]                     | 18                          | 587     |
 | Roger C. Young      | When Did Jerusalem Fall? [@young2004did]                                                        | 18                          | 587     |
-| Watchtower Society  | Insight on the Scriptures                                                                       | 18                          | 607(!)  |
+| Watchtower Society  | Insight on the Scriptures [@watch2018insight1] [@watch2018insight2]                             | 18                          | 607(!)  |
 
 We will see that all of the proposed solutions fail to definitively satisfy all the chronological data, and therefore 
 we are unable to give a certain date for the destruction of Jerusalem:

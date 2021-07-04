@@ -40,7 +40,7 @@ The key assumptions of his chronology include [@tadmor1956chronology, 226]:
   (B.M. 21901, rev. 1. 66), setting out to
   rescue Assurubalit II in Harran, encountered
   Josiah in Megiddo, defeated him
-  and proceeded to the North.
+  and proceeded to the North. [@tadmor1956chronology, 228]
 
 ### Battle of Carchemish
 
