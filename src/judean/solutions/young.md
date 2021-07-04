@@ -15,7 +15,8 @@ conclusions on Judean chronology [@young2004did, 37]:
 ## Timeline
 
 A = Accession Year Reckoning\
-NA = Non-Accession Year Reckoning\
+NA = Non-Accession Year Reckoning
+
 n = Nisan-to-Nisan years\
 t = Tishri-to-Tishri years
 
