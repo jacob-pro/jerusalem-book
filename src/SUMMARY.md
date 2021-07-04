@@ -38,3 +38,5 @@
         - [Horn's Chronology](judean/solutions/horn.md)
         - [Albright's Chronology](judean/solutions/albright.md)
         - [Young's Chronology](judean/solutions/young.md)
+        - [Watchtower Society Chronology](judean/solutions/watchtower.md)
+- [Watchtower Chronology](watchtower/README.md)

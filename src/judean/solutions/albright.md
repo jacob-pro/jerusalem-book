@@ -26,9 +26,9 @@ The key assumptions of his chronology include [@albright1956nebuchadnezzar, 32]:
 | 598     | Nebuchadnezzar 7                       | Nebuchadnezzar 8                      | Jehoiakim 11<br>Jehoiachin (3 months)              | Seige of Jerusalem, Jehoiachin Captured (month XII)              | 1st?  |
 | 597     | Nebuchadnezzar 8                       | Nebuchadnezzar 9                      | Zedekiah 1                                         |                                                                  | 2nd?  |
 |         |                                        |                                       |                                                    |                                                                  |       |
-| 589     | Nebuchadnezzar 16                      | Nebuchadnezzar 17                     | Zedekiah 9                                         | Beginning of siege (month X)                                     | 11th? |
-| 588     | Nebuchadnezzar 17                      | Nebuchadnezzar 18                     | Zedekiah 10                                        | Second year of seige                                             | 12th? |
-| 587     | Nebuchadnezzar 18                      | Nebuchadnezzar 19                     | Zedekiah 11                                        | Breach of walls of Jerusalem (month IV)                          | 13th? |
+| 589     | Nebuchadnezzar 16                      | Nebuchadnezzar 17                     | Zedekiah 9                                         | Beginning of siege (month X)                                     | 10th? |
+| 588     | Nebuchadnezzar 17                      | Nebuchadnezzar 18                     | Zedekiah 10                                        | Second year of seige                                             | 11th? |
+| 587     | Nebuchadnezzar 18                      | Nebuchadnezzar 19                     | Zedekiah 11                                        | Breach of walls of Jerusalem (month IV)                          | 12th? |
 |         |                                        |                                       |                                                    |                                                                  |       |
 | 562     | Nebuchadnezzar 43<br>Amel-Marduk Acc.  | Nebuchadnezzar 44<br>Amel-Marduk Acc. |                                                    | Release of Jehoiachin (month XII)                                | 37th? |
 
