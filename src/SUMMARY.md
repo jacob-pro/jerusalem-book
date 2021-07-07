@@ -38,5 +38,6 @@
         - [Horn's Chronology](judean/solutions/horn.md)
         - [Albright's Chronology](judean/solutions/albright.md)
         - [Young's Chronology](judean/solutions/young.md)
-        - [Watchtower Society Chronology](judean/solutions/watchtower.md)
+        - [Watchtower Judean Chronology](judean/solutions/watchtower.md)
+    - [Watchtower Interpretation of Daniel 1:1](judean/daniel1_1.md)
 - [Watchtower Chronology](watchtower/README.md)
