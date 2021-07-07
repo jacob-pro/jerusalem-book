@@ -14,7 +14,7 @@ According to the Watchtower 1986 [@watch1986questions]:
 > That 1914 marked the end of the Gentile Times and the establishment of the Kingdom of God in the heavens, as well as 
 > the time for Christ’s foretold presence. 
 
-In addition the "end of the Gentile Times" in 1914 is also used as a prerequisite to a number of
+In addition the "end of the Gentile Times" in 1914 is also used as a foundation for a number of
 other interpretations of prophesy in the "Time of the End" [@watch2006pay, 286]:
 
 Daniel 12:7: "a time, times and half a time" is interpreted as a period of 1260 days running from December 1914 

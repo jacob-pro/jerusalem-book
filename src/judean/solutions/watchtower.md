@@ -1,10 +1,10 @@
-# Watchtower Society Chronology
+# Watchtower Judean Chronology
 
 
 
 ## Timeline
 
-| Year BC* | Babylon (Accession Reckoning)          | Babylon (Non-Accession Reckoning)     | Judah (Non-Accession Reckoning)                    | Events                                                           |       |
+| Year BC<sup>1</sup> | Babylon (Accession Reckoning) | Babylon (Non-Accession Reckoning)   | Judah (Non-Accession Reckoning)                    | Events                                                           |       |
 |----------|----------------------------------------|---------------------------------------|----------------------------------------------------|------------------------------------------------------------------|-------|
 | 629/609  | Nabopolassar 17                        |                                       | Josiah 31<br>Jehoahaz 1 (3 months)                 | Battle of Megiddo.<br>Egyptians attack Harran (month IV)         |       |
 | 628/608  | Nabopolassar 18                        |                                       | Jehoahaz 2<br>Jehoiakim 1                          |                                                                  |       |
@@ -14,25 +14,27 @@
 | 624/604  | Nebuchadnezzar 1                       | Nebuchadnezzar 2                      | Jehoiakim 5                                        |                                                                  |       |
 | 623/603  | Nebuchadnezzar 2                       | Nebuchadnezzar 3                      | Jehoiakim 6                                        |                                                                  |       |
 | 622/602  | Nebuchadnezzar 3                       | Nebuchadnezzar 4                      | Jehoiakim 7                                        |                                                                  |       |
-| 621/601  | Nebuchadnezzar 4                       | Nebuchadnezzar 5                      | Jehoiakim 8                                        | Subjugation of Judah                                             |       |
+| 621/601  | Nebuchadnezzar 4                       | Nebuchadnezzar 5                      | Jehoiakim 8                                        | Subjugation of Judah<sup>2</sup>                                 |       |
 | 620/600  | Nebuchadnezzar 5                       | Nebuchadnezzar 6                      | Jehoiakim 9                                        |                                                                  |       |
 | 619/599  | Nebuchadnezzar 6                       | Nebuchadnezzar 7                      | Jehoiakim 10                                       |                                                                  |       |
-| 618/598  | Nebuchadnezzar 7                       | Nebuchadnezzar 8                      | Jehoiakim 11<br>Jehoiachin (3 months)              | Seige of Jerusalem, Jehoiachin Captured (month XII)              |       |
+| 618/598  | Nebuchadnezzar 7                       | Nebuchadnezzar 8                      | Jehoiakim 11<br>Jehoiachin (3 months)              | Siege of Jerusalem, Jehoiachin Captured (month XII)              |       |
 | 617/597  | Nebuchadnezzar 8                       | Nebuchadnezzar 9                      | Zedekiah 1                                         |                                                                  | 1st   |
 |          |                                        |                                       |                                                    |                                                                  |       |
 | 609/589  | Nebuchadnezzar 16                      | Nebuchadnezzar 17                     | Zedekiah 9                                         | Beginning of siege (month X)                                     | 9th   |
-| 608/588  | Nebuchadnezzar 17                      | Nebuchadnezzar 18                     | Zedekiah 10                                        | Second year of seige                                             | 10th  |
+| 608/588  | Nebuchadnezzar 17                      | Nebuchadnezzar 18                     | Zedekiah 10                                        | Second year of siege                                             | 10th  |
 | 607/587  | Nebuchadnezzar 18                      | Nebuchadnezzar 19                     | Zedekiah 11                                        | Breach of walls of Jerusalem (month IV)                          | 11th  |
 |          |                                        |                                       |                                                    |                                                                  |       |
 | 582/562  | Nebuchadnezzar 43                      |                                       |                                                    |                                                                  | 36th  |
-| 581/561  | Amel-Marduk Acc.**                     |                                       |                                                    | Release of Jehoiachin (month XII)                                | 37th  |
+| 581/561  | Nebuchadnezzar 44!<br>Amel-Marduk Acc.<sup>3</sup> |                           |                                                    | Release of Jehoiachin (month XII)                                | 37th  |
 
-\* As explained in the separate [Watchtower Chronology](../../watchtower/README.md) chapter the Watchtower uses a
+<sup>1</sup> As explained in the [Watchtower Chronology](../../watchtower/README.md) chapter the Watchtower uses a
 different method for determining the destruction of Jerusalem and reign of Nebuchadnezzar, the first year listed
 is that used by the Watchtower, and the second would be the equivalent under the orthodox Babylonian chronology allowing
 easy comparison to the other chronologies in the section.
 
-** This doesn't match the conventional chronology, see [Release of Jehoiachin](#release-of-jehoiachin) below.
+<sup>2</sup> See section [Watchtower Interpretation of Daniel 1:1](../daniel1_1.md).
+
+<sup>3</sup> This doesn't match the conventional chronology, see [Release of Jehoiachin](#release-of-jehoiachin) below.
 
 ## Discussion
 
@@ -86,18 +88,6 @@ accession of Jehoahaz (no earlier than month X), which does not appear to be exp
   fight against the Egyptians. He led his forces to
   victory. This took place in the fourth year of Judean
   King Jehoiakim (625 B.C.E.).—Jer 46:2. [@watch2018insight2, 480]
-
-### Subjugation of Judah
-
-> Second Kings 24:1 shows that Nebuchadnezzar brought pressure upon the Judean king “and so Jehoiakim became his 
-  servant \[or vassal\] for three years. However, he \[Jehoiakim\] turned back and rebelled against him 
-  \[Nebuchadnezzar\].” Evidently it is to this third year of Jehoiakim as a vassal king under Babylon that Daniel 
-  refers at Daniel 1:1. It could not be Jehoiakim’s third year of his 11-year reign over Judah, for at that time 
-  Jehoiakim was a vassal, not to Babylon, but to Egypt’s Pharaoh Necho. It was not until Jehoiakim’s fourth year
-  of rule over Judah that Nebuchadnezzar demolished Egyptian domination over Syria-Palestine by his victory at 
-  Carchemish (625 B.C.E. \[apparently after Nisan\]). (Jer 46:2) Since Jehoiakim’s revolt against Babylon led to his 
-  downfall after about 11 years on the throne, the beginning of his three-year vassalage to Babylon must have begun 
-  toward the end of his eighth year of rule, or early in 620 B.C.E. [@watch2018insight1, 1269]
 
 ### Capture of Jehoiachin
 

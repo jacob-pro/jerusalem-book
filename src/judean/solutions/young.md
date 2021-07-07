@@ -47,7 +47,7 @@ t = Tishri-to-Tishri years
 | 599 Nisan  | Nebuchadnezzar 6                       | Nebuchadnezzar 7                       |                                       |                                                                    |      |
 | 599 Tishri |                                        |                                        | Jehoiakim 11                          |                                                                    |      |
 | 598 Nisan  | Nebuchadnezzar 7                       | Nebuchadnezzar 8                       |                                       |                                                                    |      |
-| 598 Tishri |                                        |                                        | Jehoiakim 12<br>Jehoiachin (3 months) | Seige of Jerusalem, Jehoiachin Captured (month XII)                | 1st  |
+| 598 Tishri |                                        |                                        | Jehoiakim 12<br>Jehoiachin (3 months) | Siege of Jerusalem, Jehoiachin Captured (month XII)                | 1st  |
 | 597 Nisan  | Nebuchadnezzar 8                       | Nebuchadnezzar 9                       |                                       |                                                                    |      |
 | 597 Tishri |                                        |                                        | Zedekiah 1                            |                                                                    | 2nd  |
 |            |                                        |                                        |                                       |                                                                    |      |

@@ -37,7 +37,7 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 | 599 Nisan  | Nebuchadnezzar 6                       |                                       |                                                                     |      |
 | 599 Tishri |                                        | Jehoiakim 10                          |                                                                     |      |
 | 598 Nisan  | Nebuchadnezzar 7                       |                                       |                                                                     |      |
-| 598 Tishri |                                        | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem<br>Deportation of 3032 Jews                      | 1st  |
+| 598 Tishri |                                        | Jehoiakim 11<br>Jehoiachin (3 months) | Siege of Jerusalem<br>Deportation of 3032 Jews                      | 1st  |
 | 597 Nisan  | Nebuchadnezzar 8                       | Zedekiah Acc.                         | Exile of Jehoiachin                                                 |      |
 | 597 Tishri |                                        | Zedekiah 1                            |                                                                     | 2nd  |
 |            |                                        |                                       |                                                                     |      |

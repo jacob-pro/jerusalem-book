@@ -23,7 +23,7 @@ The key assumptions of his chronology include:
 | 601     | Nebuchadnezzar 4                       | Jehoiakim 8                           |                                                                  |         |
 | 600     | Nebuchadnezzar 5                       | Jehoiakim 9                           |                                                                  |         |
 | 599     | Nebuchadnezzar 6                       | Jehoiakim 10                          |                                                                  |         |
-| 598     | Nebuchadnezzar 7                       | Jehoiakim 11<br>Jehoiachin (3 months) | Seige of Jerusalem, Jehoiachin Captured (month XII)              |         |
+| 598     | Nebuchadnezzar 7                       | Jehoiakim 11<br>Jehoiachin (3 months) | Siege of Jerusalem, Jehoiachin Captured (month XII)              |         |
 | 597     | Nebuchadnezzar 8                       | Zedekiah Acc.                         |                                                                  | 1st-2nd |
 |         |                                        |                                       |                                                                  |         |
 | 588     | Nebuchadnezzar 17                      | Zedekiah 9                            | Beginning of siege (month X)                                     | 10-11th |
