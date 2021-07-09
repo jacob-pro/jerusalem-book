@@ -81,9 +81,83 @@ that Jehoiakim became Nebuchadnezzar's "servant for three years" starting in the
 around 624 B.C.E - the 1st year of Nebuchadnezzar which was the 5th year of Jehoiakim. Whereas the Insight book
 states it was in the 8th year of Jehoiakim "or early in 620 B.C.E.".
 
+### Let Your Kingdom Come
+
+> Later writers quote Berossus as saying that after the battle of Carchemish Nebuchadnezzar extended Babylonian 
+  influence into all Syria-Palestine and, when returning to Babylon (in his accession year, 605 B.C.E.), he took 
+  Jewish captives into exile. Thus they figure the 70 years as a period of servitude to Babylon beginning in 605 B.C.E. 
+  That would mean that the 70-year period would expire in 535 B.C.E.<br><br>
+  But there are a number of major problems with this interpretation:<br><br>
+  Though Berossus claims that Nebuchadnezzar took Jewish captives in his accession year, there are no cuneiform 
+  documents supporting this. More significantly, Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews 
+  captive in his seventh year, his 18th year and his 23rd year, not his accession year. Also, Jewish historian 
+  Josephus states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of Syria-Palestine 
+  “excepting Judea,” thus contradicting Berossus and conflicting with the claim that 70 years of Jewish servitude 
+  began in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1.  [@watch1981let, 188]
+
 ## History of the Interpretation
 
+The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 *Equipped for Every Good Work*;
+published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md):
+
+> But Daniel 1:1, 2 fixes the start of this first captivity in
+  the "third year" of Jehoiakim, who started to reign in
+  Judah in 628 B.C. Would not this mean the captivity of
+  Daniel and others started in 626 B.C., Jehoiakim's third
+  year as king of Judah? No, this could not be, because
+  Nebuchadnezzar was not enthroned till the following year,
+  625 B.C. Actually, the opening verse of Daniel means that
+  in "the third year of the reign of Jehoiakim king of Judah"
+  *as a tributary king of Babylon* "came Nebuchadnezzar king
+  of Babylon unto Jerusalem, and besieged it". How so? Because
+  Jehoiakim was put on the throne by Egyptian decree
+  and was tributary to Egypt for several years, but when
+  Babylon defeated Egypt Jehoiakim came under Babylonian
+  control and so remained for three years, after which three
+  year period as tributary to Babylon the Judean king rebelled. 
+  (2 Ki. 24:1) That third year as tributary king to
+  Nebuchadnezzar was the eleventh and last of his total
+  kingship, because the Babylonian monarch came against the
+  rebellious Jewish king and quickly completed the conquest
+  during the three-month reign of Jehoiakim's successor Jehoiachin.
+  Hence 618 B.C. was the time of the first captivity
+  and the starting point of history in the book of Daniel. [@watch1946equipped, 225]
+
+And then regarding Daniel 2:1:
+
+> The time of this dream and its interpretation is stated
+  as the second year of Nebuchadnezzar's reign. Actually,
+  Nebuchadnezzar had been reigning over Babylon alone
+  much longer than two years. Why, at the time of this dream
+  the young captive Daniel had completed his three years of
+  special court training and had been introduced to Nebuchadnezzar
+  and had gained quite a reputation for wisdom,
+  particularly in dreams and visions. In the nineteenth year
+  of his reign Nebuchadnezzar was used as God's executioner
+  to destroy faithless Jerusalem and end Israel's history as
+  an independent Theocratic nation. Then Nebuchadnezzar
+  began reigning in a unique way, as the first of the world
+  rulers of the Gentile times. In the second year of his reign
+  in this special capacity the dream showing the end of Satan's
+  organization and rule and the taking over of power
+  by Christ's kingdom came to Nebuchadnezzar, as recorded
+  at chapter 2 . Here again, as at Daniel 1:1, the peculiarity
+  which the writer of this book has of making a secondary
+  reckoning of the years of a king's reign is demonstrated.
+  He reckons by counting from epochal events within the
+  reign that put the king in a new relationship.  [@watch1946equipped, 226]
+
 ## Criticism
+
+### "Kingship" and Daniel 2:1
+
+> Several commentators take the third year of Jehoiakim as
+  being the last of the three years of servitude to Babylon mentioned
+  in 2 Kgs 24:1. This solution is unlikely, for the text of Daniel
+  states that Nebuchadnezzar besieged Jerusalem "in the third year of
+  the reign of Jehoiakim" (bšnṯ šlwš lmlḵwṯ), not "in the third year
+  of the servitude of Jehoiakim" (bšnṯ šlwš lᶜḇwḏh)—as one might
+  expect if the statement in Dan 1:1 were derived from 2 Kgs 24:1. [@mercer1989daniel, 180]
 
 ### Death of Jehoiakim
 
@@ -160,6 +234,122 @@ And likewise for the captives taken:
 | Siege resulting in Jehoiachin's capture  | 24:14 He took into exile all Jerusalem, **all the princes, all the mighty warriors, and every craftsman and metalworker**—he took 10,000 into exile. **No one was left behind except the poorest people** of the land. |                                                                         |                                                                                                                                                                                                                                                                                                                 |
 | Siege resulting in Zedekiah's capture    | 25:11 Nebuzaradan the chief of the guard took into exile **the rest of the people who were left in the city**, the deserters who had gone over to the king of Babylon, and the rest of the population.                 | 36:20 He carried off captive to Babylon **those who escaped the sword** |                                                                                                                                                                                                                                                                                                                 |
 
+Against this argument the Watchtower states in the Kingdom Come book:
+
+> Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews 
+  captive in his seventh year, his 18th year and his 23rd year, not his accession year. [@watch1981let, 188]
+
+However it is already seen that Jeremiah does not contain a complete count of the captives since
+it contradicts the number (and also year, depending on interpretation) of captives described in 2 Kings 24:14
+(3023 in the 7th year vs 10,000+ in the 8th year), so Jeremiah 52 surely should not be treated as an exhaustive list of
+all captives taken by Nebuchadnezzar. [@watch2018insight1, 415]
+
 ### Nebuchadnezzar's Conquest of Hattu
+
+The Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md) provides a detailed account of
+Nebuchadnezzar's activities during his early years as king:
+
+Accession Year:
+
+> \[The twenty-first year\]: The king of Akkad stayed home (while) Nebuchadnezzar (II), his eldest son (and) the crown prince,
+  mustered \[the army of Akkad\]. He took his army's lead and marched to Carchemish which is on the bank of the Euphrates.
+  He crossed the river \[to encounter the army of Egypt\] which was encamped at Carchemish.
+  \[...\] They did battle together. The army of Egypt retreated before him.
+  He inflicted a \[defeat\] upon them (and) finished them off completely.
+  In the district of Hamath
+  the army of Akkad overtook
+  the remainder of the army of \[Egypt
+  which\] managed to escape \[from\] the defeat and which was not overcome.
+  They (the army of Akkad) inflicted a defeat upon them (so that) a single (Egyptian) man \[did not return\] home.
+  **At that time Nebuchadnezzar (II) conquered all of Ha\[ma\]th.**
+  For twenty-one years Nabopolassar ruled Babylon.
+  **In (his) accession year Nebuchadnezzar (II) returned to Hattu. Until the month Shebat
+  he marched about victoriously
+  in Hattu.**
+  In the month Shebat **he took the vast booty of Hattu** to Babylon.
+  In the month Nisan he took the hand of Bel and the son of Bel (and) celebrated the Akitu festival.
+
+First Year:
+
+> The first year of Nebuchadnezzar (II): In the month Sivan **he mustered his army and
+  marched to Hattu. Until the month Kislev he marched about victoriously in Hattu.
+  All the kings of Hattu came into his presence and he received their vast tribute.**
+  He marched to Ashkelon and in the month Kislev he captured it,
+  seized its king, plundered \[and sac\]ked it.
+  He turned the city into a ruin heap. In the month Shebat he marched away and \[returned\] to Bab\[ylon\].
+
+Second Year:
+
+> The sec\[ond year\]: In the month Iyyar **the king of Akkad strengthened his large army and \[marched to Hattu\]**.
+  He encamped \[...\] ... large siege towers he moved acr\[oss ...
+  ... from the month\] Iyyar until the month **\[... he marched about victoriously in Hattu\]**.
+
+Third Year:
+
+> \[The third year: In the month ..., on\] the thirteenth \[day\] Nabu-shumu-lishir \[...\]
+  \[In the month ... **the king of Akka\]d mustered his army and \[marched\] to Hattu.** \[...
+  ...\] He brought the vast \[booty\] of Hattu into Akkad. \[...\]
+
+Fourth Year:
+
+> The fourth year: **The king of Akkad mustered his army and marched to Hattu. \[He marched about victoriously\] in Hattu.**
+  In the month Kislev he took his army's lead and marched to Egypt. (When) the king of Egypt heard (the news) he m\[ustered\] his army.
+  They fought one another in the battlefield and both sides suffered severe losses (lit. they inflicted a major defeat upon one another). The king of Akkad and his army turned and \[went back\] to Babylon.
+
+Fifth Year:
+
+> The fifth year: **The king of Akkad stayed home** (and) refitted his numerous horses and chariotry.
+
+Sixth Year:
+
+> The sixth year: In the month Kislev **the king of Akkad mustered his army and marched to Hattu.** He despatched his army from Hattu and
+  they went off to the desert. They plundered extensively the possessions, animals, and gods of the numerous Arabs. In the month Adar the king went home.
+
+Seventh Year:
+
+> The seventh year: In the month Kislev **the king of Akkad mustered his army and marched to Hattu.
+  He encamped against the city of Judah** and on the second day of the month Adar he captured the city (and) seized (its) king.
+  A king of his own choice he appointed in the city (and) taking the **vast tribute** he brought it into Babylon.
+
+Notably in the 7th year the chronicle describes the siege of Jerusalem where Jehoiachin is captured, and identifies
+it as being in the area of "Hattu". However from the chronicle we can also see that Nebuchadnezzar also marched through
+Hattu in his accession, 1st-4th, and 6th years, and even more significantly in the 1st year:
+
+> All the kings of Hattu came into his presence and he received their **vast tribute**.
+
+It therefore seems very unlikely that Jehoiakim did not become a vassal of Nebuchadnezzar until his 8th year
+as dated by the Watchtower, instead is it was likely to be sometime as early as the autumn of Nebuchadnezzar's
+accession year (the 4th year of Jehoiakim).
+
+Against this argument the Kingdom Come book says:
+
+> Though Berossus claims that Nebuchadnezzar took Jewish captives in his accession year, there are no cuneiform 
+  documents supporting this.
+
+However the tributes described in the chronicles should be interpreted as including captives, such as in 7th year where
+Nebuchadnezzar took "vast tribute", which we already know must have included captives (Jer 52:28, 2 Kings 24:14).
+
+> In the 'accession year' Nebuchadrezzar went back again to the Hatti
+  land and until the month of Sebat marched unopposed through the Hatti 
+  land; in the month of Sebat he took the heavy tribute of the Hatti territory 
+  to Babylon.<br><br>
+  It is certain that this 'heavy tribute' consisted not only of treasure 
+  but also of prisoners from the conquered countries. To refrain from 
+  doing so would have been altogether too alien from the customs of the
+  kings of Babylon and Assyria. [@larsson1967when]
+
+Finally the the Kingdom Come book argues:
+
+> Jewish historian Josephus states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of 
+  Syria-Palestine “excepting Judea,”
+
+But this wouldn't actually be entirely inconsistent with the chronicle; since it does say that it was `Hamath` not
+`Hatti` that was conquered after the battle of Carchemish:
+
+> Immediately after the victory at Carchemish, as we now know, Nebuchadnezzar conquered only the "entire land of 
+  Ha\[ma\]th", and not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read. [@malamat1975twilight, 130]
+
+It was not until Nebuchadnezzar returned later (albeit in the same year) that he marched through `Hattu`. This also
+doesn't rule out a siege in the 1st or 2nd years of Nebuchadnezzar instead.
 
 ## References
