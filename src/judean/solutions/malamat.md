@@ -153,7 +153,7 @@ is the only one that works with Jehoiakim's 3rd year as per Daniel 1:1:
   conquests in the West while Nebuchadnezzar was still Crown Prince.
   Immediately after the victory at Carchemish, as we now know,
   Nebuchadnezzar conquered only the "entire land of Ha\[ma\]th", and
-  not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read.
+  not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read. [@malamat1975twilight, 129]
 
 #### Issues
 
