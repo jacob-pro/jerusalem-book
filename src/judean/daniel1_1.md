@@ -76,11 +76,6 @@ resulting in Jehoiakim becoming a vassal for 3 years (2 Kings 24:1).
   reports: “In his days Nebuchadnezzar the king of Babylon came up, and so Jehoiakim became his servant for three years. 
   However, he turned back and rebelled against him.”—2 Kings 24:1. [@watch2006pay, 31]
 
-This quote would actually appear to contradict the Insight book page on Jehoiakim above - it seems to be stating
-that Jehoiakim became Nebuchadnezzar's "servant for three years" starting in the year after the battle of Carchemish; 
-around 624 B.C.E - the 1st year of Nebuchadnezzar which was the 5th year of Jehoiakim. Whereas the Insight book
-states it was in the 8th year of Jehoiakim "or early in 620 B.C.E.".
-
 ### Let Your Kingdom Come
 
 > Later writers quote Berossus as saying that after the battle of Carchemish Nebuchadnezzar extended Babylonian 
@@ -96,6 +91,39 @@ states it was in the 8th year of Jehoiakim "or early in 620 B.C.E.".
   began in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1.  [@watch1981let, 188]
 
 ## History of the Interpretation
+
+The idea behind interpreting Daniel 1:1 Jehoiakim as actually referring to the siege
+described in 2 Kings 24:10 may have originated with first-century historian Josephus, who
+dates the beginning of Jehoiakim's servitude to his 8th year:
+
+> But when Nebuchadnezzar had already reigned four years, which was the
+  eighth of Jehoiakim's government over the Hebrews, the king of Babylon made an expedition
+  with mighty forces against the Jews, and required tribute of Jehoiakim, and threatened upon his
+  refusal to make war against him. He was aftrighted at his threatening, and bought his peace with
+  money, and brought the tribute he was ordered to bring for three years.
+  <br><br>
+  2\. But on the third year, upon hearing that the king of the Babylonians made an expedition
+  against the Egyptians, he did not pay his tribute; yet was he disappointed of his hope, for the
+  Egyptians durst not fight at this time...
+  <br><br>
+  3\. Now, a little time afterwards, the king of Babylon made an expedition against Jehoiakim,
+  whom he received \[into the city\], and this out of fear of the foregoing predictions of this
+  prophet, as supposing he should suffer nothing that was terrible, because he neither shut the
+  gates, nor fought against him; yet when he was come into the city, he did not observe the
+  covenants he had made, but he slew such as were in the flower of their age, and such as were of
+  the greatest dignity, together with their king Jehoiakim, whom he commanded to be thrown
+  before the walls, without any burial; and made his son Jehoiachin king of the country, and of the
+  city: he also took the principal persons in dignity for captives, three thousand in number, and led
+  them away to Babylon; among which was the prophet Ezekiel, who was then but young. And
+  this was the end of king Jehoiakim, when he had lived thirty-six years, and of them reigned
+  eleven. But Jehoiachin succeeded him in the kingdom, whose mother's name was Nehushta; she
+  was a citizen of Jerusalem. He reigned three months and ten days.
+  1\. BUT a terror seized on the king of Babylon, who had given the kingdom to Jehoiachin, and
+  that immediately; he was afraid that he should bear him a grudge, because of his killing his
+  father, and thereupon should make the country revolt from him; wherefore he sent an army, and
+  besieged Jehoiachin in Jerusalem; but because he was of a gentle and just disposition, he did not
+  desire to see the city endangered on his account, but he took his mother and kindred, and
+  delivered them to the commanders sent by the king of Babylon... [@whiston1737complete, Ant X 6-7]
 
 The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 *Equipped for Every Good Work*;
 published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md):
