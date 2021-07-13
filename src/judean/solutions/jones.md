@@ -111,7 +111,7 @@ However this would actually precede Nebuchadnezzar's reign, and fall in the 20th
 
 #### Criticism
 
-Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, Chapter 2]:
+Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, 31]:
 
 > Jones (2004, 189) takes the view that the only possible solution to this first problem is that Nebuchadnezzar 
   must have besieged Jerusalem and Daniel must have been exiled in 606 BC. However, this solution creates as many 
