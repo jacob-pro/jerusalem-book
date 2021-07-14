@@ -1,7 +1,5 @@
 # Watchtower Judean Chronology
 
-
-
 ## Timeline
 
 | Year BC<sup>1</sup> | Babylon (Accession Reckoning) | Babylon (Non-Accession Reckoning)   | Judah (Non-Accession Reckoning)                    | Events                                                           |       |
@@ -139,6 +137,12 @@ On the difference in the numbers of captives between 2 Kings and Jeremiah 52:
   or to those who were family heads—their wives
   and children, numbering thousands, not being included
   in the figure. [@watch2018insight1, 415]
+
+Against the idea that Jeremiah 52:28 only refers to the adult males Green says:
+
+> Bright's theory that the 3,023 in Jeremiah refer only to adult males
+  does not narrow the gap because all the classification listed in Kings are
+  certainly men. [@green1982chronology, 64]
 
 ### Capture of Zedekiah
 
