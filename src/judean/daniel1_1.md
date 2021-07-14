@@ -191,9 +191,9 @@ Mercer argues:
   of the servitude of Jehoiakim" (bšnṯ šlwš lᶜḇwḏh)—as one might
   expect if the statement in Dan 1:1 were derived from 2 Kgs 24:1. [@mercer1989daniel, 180]
 
-This causes an even more substantial problem in that Daniel 2:1, Daniel speaks with
-Nebuchadnezzar during "the second year of his kingship" - which would be impossible if Daniel was not taken
-captive until sometime between the 7th or 8th year of Nebuchadnezzar. This forces the Watchtower to then
+This causes an even more substantial problem in that in Daniel 2:1, Daniel speaks with
+Nebuchadnezzar during "the second year of his kingship" - which would be impossible if Daniel was taken captive sometime
+around the 7th or 8th year of Nebuchadnezzar. This forces the Watchtower to 
 use another different interpretation for the meaning of "kingship" in Daniel 2:
 
 > The book of Daniel states that it was in “the second year” of Nebuchadnezzar’s kingship (probably counting from the
@@ -205,7 +205,7 @@ use another different interpretation for the meaning of "kingship" in Daniel 2:
   In the second year of Nebuchadnezzar’s reign as world ruler (606/605 B.C.E.), God sent him a terrifying dream.
   [@watch2006pay, 46]
 
-Possibly in favour of an alternative interpretation of "kingship" Foley says:
+In favour of an alternative interpretations of "kingship" Foley says:
 
 > In understanding the first problem, it may be important that the
   Hebrew word translated reign in Daniel 1:1 (NIV) is malchut which
@@ -230,7 +230,7 @@ However Foley still believes that:
 > it would seem most likely that
   Daniel was taken from Jerusalem late in 605 BC for the purpose of being
   trained in Babylonian ways. He completed this training very successfully,
-  probably in 602 BC  [@foley2014time, 34]
+  probably in 602 BC [@foley2014time, 34]
 
 ### Death of Jehoiakim
 
