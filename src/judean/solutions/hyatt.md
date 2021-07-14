@@ -11,7 +11,7 @@ The key assumptions of his chronology include:
   his formal coronation in Nisan following his accession. [@hyatt1956new, 278]
 
 > Unfortunately there is no way to determine certainly whether the
-  Judeans at this period counted year l of a new king from Tishri 1 (in
+  Judeans at this period counted year 1 of a new king from Tishri 1 (in
   the fall) or Nisan 1 (in the spring)...<br>
   All in all, however, I
   am inclined to think that at the time of Jehoiakim's accession the regnal
@@ -175,7 +175,15 @@ The key assumptions of his chronology include:
 
 ### Captures of Jehoiachin and Zedekiah
 
-> The new document does not name any of the Judean kings, but it is
+> The date, 2 Adar of Nebuchadrezzar's
+  7th year (March 16, 597) is not contrary to the biblical accounts.
+  II Kings 24:12 gives the date as the 8th year of Nebuchadrezzar, whereas
+  Jer 52:28 has the 7th year. It is obvious that Kings uses a system which
+  reckons the accession year as the first year of a king's reign, whereas
+  Jer 52 employs the Babylonian system which does not count the accession
+  year, but reckons as the first year of a king the year beginning with
+  his formal coronation in Nisan following his accession...<br><br>
+  The new document does not name any of the Judean kings, but it is
   obvious that the captured king was Jehoiachin, and the king whom
   Nebuchadrezzar placed on the throne was Zedekiah. According to the
   clear statement of the text, Nebuchadrezzar mustered his army in
@@ -186,5 +194,8 @@ The key assumptions of his chronology include:
   to II Kings 24:8 Jehoiachin had a reign of three months, while
   II Chron 36:9 gives him three months and ten days. From these data,
   it would appear that Jehoiakim died before the beginning of the siege. [@hyatt1956new, 278]
+
+Hyatt doesn't appear to offer any explanation for the difference in the number of exiles 
+between Jeremiah 52 and 2 Kings 24-25.
 
 ## References
