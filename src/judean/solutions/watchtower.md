@@ -4,7 +4,7 @@
 
 | Year BC<sup>1</sup> | Babylon (Accession Reckoning) | Babylon (Non-Accession Reckoning)   | Judah (Non-Accession Reckoning)                    | Events                                                           |       |
 |----------|----------------------------------------|---------------------------------------|----------------------------------------------------|------------------------------------------------------------------|-------|
-| 629/609  | Nabopolassar 17                        |                                       | Josiah 31<br>Jehoahaz 1 (3 months)                 | Battle of Megiddo.<br>Egyptians attack Harran (month IV)         |       |
+| 629/609  | Nabopolassar 17                        |                                       | Josiah 31<br>Jehoahaz 1                            | Battle of Megiddo.<br>Egyptians attack Harran (month IV)         |       |
 | 628/608  | Nabopolassar 18                        |                                       | Jehoahaz 2<br>Jehoiakim 1                          |                                                                  |       |
 | 627/607  | Nabopolassar 19                        |                                       | Jehoiakim 2                                        |                                                                  |       |
 | 626/606  | Nabopolassar 20                        |                                       | Jehoiakim 3                                        |                                                                  |       |
