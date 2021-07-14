@@ -43,20 +43,25 @@ easy comparison to the other chronologies in the section.
   and tried to turn the Egyptian forces back at Megiddo, but he was mortally wounded in the attempt. He was brought 
   back to Jerusalem in a war chariot and died either en route or upon arrival there. [@watch2018insight2, 118]
 
-> Three months later (in 628 B.C.E.) Nechoh removed Josiah’s son and successor Jehoahaz from the Judean throne and 
-  replaced him with his brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to Egypt. 
-  (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, 698]
-
+> After the death of good King Josiah in 628 B.C.E., his three sons and a grandson proved to be bad in their dealings. 
+  [@watch1979royal, 25]
+  
 > Jehoahaz was 23 years old when made king, and he ruled badly for three months in the early part of the year 
   628 B.C.E., until he was imprisoned at Riblah by Pharaoh. Later he was taken to Egypt, where he died in captivity, 
   just as the prophet Jeremiah had foretold.—2Ki 23:31-34; Jer 22:10-12. [@watch2018insight1, 1265]
 
+> Three months later (in 628 B.C.E.) Nechoh removed Josiah’s son and successor Jehoahaz from the Judean throne and 
+  replaced him with his brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to Egypt. 
+  (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, 698]
+
 There appears to be an issue here - according to [BM 21901](../../orthodox/chronicles/bm21901.md) Line 66 the
 Egyptian army crossed the Euphrates to help the king of Assyria in Tammuz (the 4th month). Therefore Josiah
 must have died prior to this when he intercepted Necho at Megiddo - about 500 km before the river, likely around the
-3rd month [@tadmor1956chronology, 228] [@malamat1967last, 139] [@albright1956nebuchadnezzar, 31] 
-[@clines1972regnal, 29] [@horn1967babylonian, 17]. According to the Watchtower chronology Jehoahaz ruled for 3 months
-around the start of 628, such that the 1st year of Jehoiakim did not begin until after Nisan 628 (608).
+3rd month (May 629/609) [@tadmor1956chronology, 228] [@malamat1967last, 139] [@albright1956nebuchadnezzar, 31] 
+[@clines1972regnal, 29] [@horn1967babylonian, 17] [@hyatt1966beginning, 208]. 
+
+But according to the Watchtower chronology Jehoahaz ruled for 3 months
+starting in 628, and therefore the 1st year of Jehoiakim did not begin until after Nisan (March/April) 628.
 This therefore leaves an approximately 6 month gap between the death of Josiah (no later than month IV) and the
 accession of Jehoahaz (no earlier than month X), which does not appear to be explained by the Watchtower. 
 

@@ -240,7 +240,7 @@ that `In the month Kislev [IX] the king of Akkad mustered his army and marched t
 
 According to 2 Chronicles 36:9 and 2 Kings 24:8, Jehoiachin reigned in Jerusalem for 3 months and 10 days, subtracting
 this from the end of his rule on 2/XII, his rule must have began (and Jehoiakim must have died) around the end of 
-month VIII, which would be before Nebuchadnezzar marched to Jerusalem.
+month VIII, which would be before Nebuchadnezzar marched to Jerusalem. [@hyatt1956new, 278]
 
 How can Daniel 1:2 where "Jehovah gave King Jehoiakim of Judah into his hand" (NWT) and
 2 Chronicles 36:6 where "Nebuchadnezzar of Babylon came up against him \[Jehoiakim\] in order to bind him with two copper
