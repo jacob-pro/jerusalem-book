@@ -11,6 +11,7 @@ the chronological data, and as a result come to different dates for the destruct
 | Edwin R. Thiele     | The Mysterious Numbers of the Hebrew Kings (New Revised Edition) [@thiele1983mysterious]        | 19                          | 586     |
 | Siegfried H. Horn   | The Babylonian Chronicle and the Ancient Calendar of the Kingdom of Judah [@horn1967babylonian] | 19                          | 586     |
 | William F. Albright | The Nebuchadnezzar and Neriglissar Chronicles [@albright1956nebuchadnezzar]                     | 18                          | 587     |
+| John P. Hyatt       | New Light on Nebuchadrezzar and Judean History [@hyatt1956new]                                  | 18                          | 587     |
 | Roger C. Young      | When Did Jerusalem Fall? [@young2004did]                                                        | 18                          | 587     |
 | Watchtower Society  | Insight on the Scriptures [@watch2018insight1] [@watch2018insight2]                             | 18                          | 607(!)  |
 

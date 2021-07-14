@@ -37,6 +37,7 @@
         - [Thiele's Chronology](judean/solutions/thiele.md)
         - [Horn's Chronology](judean/solutions/horn.md)
         - [Albright's Chronology](judean/solutions/albright.md)
+        - [Hyatt's Chronology](judean/solutions/hyatt.md)
         - [Young's Chronology](judean/solutions/young.md)
         - [Watchtower Judean Chronology](judean/solutions/watchtower.md)
     - [Watchtower Interpretation of Daniel 1:1](judean/daniel1_1.md)
