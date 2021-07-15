@@ -96,7 +96,16 @@ The idea behind interpreting Daniel 1:1 Jehoiakim as actually referring to the s
 described in 2 Kings 24:10 may have originated with first-century historian Josephus, who
 dates the beginning of Jehoiakim's servitude to his 8th year:
 
-> But when Nebuchadnezzar had already reigned four years, which was the
+> 1\. NOW in the fourth year of the reign of Jehoiakim, one whose name was Nebuchadnezzar
+  took the government over the Babylonians, who at the same time went up with a great army to
+  the city Carchemish, which was at Euphrates, upon a resolution he had taken to fight with Neco
+  king of Egypt, under whom all Syria then was. And when Neco understood the intention of the
+  king of Babylon, and that this expedition was made against him, he did not despise his attempt,
+  but made haste with a great band of men to Euphrates to defend himself from Nebuchadnezzar;
+  and when they had joined battle, he was beaten, and lost many ten thousands \[of his soldiers\] in
+  the battle. So the king of Babylon passed over Euphrates, and took all Syria, as far as Pelusium,
+  excepting Judea.
+  But when Nebuchadnezzar had already reigned four years, which was the
   eighth of Jehoiakim's government over the Hebrews, the king of Babylon made an expedition
   with mighty forces against the Jews, and required tribute of Jehoiakim, and threatened upon his
   refusal to make war against him. He was aftrighted at his threatening, and bought his peace with
@@ -411,18 +420,28 @@ Nebuchadnezzar took "vast tribute", which we already know must have included cap
   doing so would have been altogether too alien from the customs of the
   kings of Babylon and Assyria. [@larsson1967when]
 
-Finally the the Kingdom Come book argues:
+## Alternative Solutions
 
-> Jewish historian Josephus states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of 
-  Syria-Palestine “excepting Judea,”
+Dates for the start of Jehoiakim's servitude proposed by other authors:
 
-But this wouldn't actually be entirely inconsistent with the chronicle; since it does say that it was `Hamath` not
-`Hatti` that was conquered after the battle of Carchemish:
+- [Tadmor](./solutions/tadmor.md#subjugation-of-judah): 1st year of Nebuchadnezzar.
+- [Jones](./solutions/jones.md#battle-of-carchemish-and-subjugation-of-judah): 20th year of Nabopolassar
+  (the year before Nebuchadnezzar's accession).
+- [Malamat](./solutions/malamat.md#subjugation-of-judah): Accession, 1st or 2nd years of Nebuchadnezzar.
+- [Thiele](./solutions/thiele.md#battle-of-carchemish-and-the-subjugation-of-judah): 21st year of Nabopolassar (after 
+  the battle of Carchemish, but prior to Nebuchadnezzar's accession).
+- [Albright](./solutions/albright.md#subjugation-of-judah): 1st or 2nd years of Nebuchadnezzar.
+- [Hyatt](./solutions/hyatt.md#subjugation-of-judah): Accession or 1st years of Nebuchadnezzar.
+- Mercer [@mercer1989daniel, 192]: Midsummer of Nebuchadnezzar's accession year.
+- Larsson [@larsson1967when, 419]: Accession year of Nebuchadnezzar.
 
-> Immediately after the victory at Carchemish, as we now know, Nebuchadnezzar conquered only the "entire land of 
-  Ha\[ma\]th", and not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read. [@malamat1975twilight, 130]
+If the subjugation of Jehoiakim was in the accession year of Nebuchadnezzar, then in the 
+[Watchtower Judean chronology](./solutions/watchtower.md)
+this would fall in the forth year of Jehoiakim, which would be the **third** year if we
+were to count Jehoiakim's reign on the accession year system - successfully integrating Daniel 1:1.
 
-It was not until Nebuchadnezzar returned later (albeit in the same year) that he marched through `Hattu`. This also
-doesn't rule out a siege in the 1st or 2nd years of Nebuchadnezzar instead.
+### Daniel's Training
+
+### Timing of Jehoiakim's Rebellion
 
 ## References

@@ -67,7 +67,7 @@ The key assumptions of his chronology include [@tadmor1956chronology, 226]:
   and Nebuchadnezzar's 4th year and the tribute paid
   to Babylon accords with the new Babylonian chronicle,
   which tells of a submission of Hatti prior to the
-  battle with Egypt.
+  battle with Egypt. [@tadmor1956chronology, 229]
 
 However no attempt at reconciling Daniel 1:1 appears to have been made 
 (with which it would contradict since it says Nebuchadnezzar besieged 
