@@ -54,16 +54,30 @@ easy comparison to the other chronologies in the section.
   replaced him with his brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to Egypt. 
   (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, 698]
 
-There appears to be an issue here - according to [BM 21901](../../orthodox/chronicles/bm21901.md) Line 66 the
+There appears to be a problem here - according to [BM 21901](../../orthodox/chronicles/bm21901.md) Line 66 the
 Egyptian army crossed the Euphrates to help the king of Assyria in Tammuz (the 4th month). Therefore Josiah
 must have died prior to this when he intercepted Necho at Megiddo - about 500 km before the river, likely around the
 3rd month (May 629/609) [@tadmor1956chronology, 228] [@malamat1967last, 139] [@albright1956nebuchadnezzar, 31] 
 [@clines1972regnal, 29] [@horn1967babylonian, 17] [@hyatt1966beginning, 208]. 
 
-But according to the Watchtower chronology Jehoahaz ruled for 3 months
-starting in 628, and therefore the 1st year of Jehoiakim did not begin until after Nisan (March/April) 628.
-This therefore leaves an approximately 6 month gap between the death of Josiah (no later than month IV) and the
-accession of Jehoahaz (no earlier than month X), which does not appear to be explained by the Watchtower. 
+However the Watchtower chronology requires that Josiah died at the start of 628/608, 
+such that following Jehoahaz's rule of 3 months the 1st year of Jehoiakim would begin shortly after Nisan 1
+(March/April) 628. The actual death of Josiah in May 629/609 as indicated by the chronicle would require either
+moving Jehoiakim's reign a year earlier - which would cause serious issues (Jeremiah 25:1, 46:2, 2 Kings 23:36),
+or that there was an unexplained interregnum of at least 6 months between Josiah and Jehoahaz.
+
+In contradiction with their own chronology, the Watchtower has acknowledged and agreed with the 
+interpretation of the chronicle:
+
+> This chronicle states, under the 17th year of Nabopolassar (629 B.C.E.): “In the month Duʼuzu, Ashur-uballit, 
+  king of Assyria, (and) a large \[army of\] E\[gy\]pt \[who had come to his aid\] crossed the river (Euphrates) and 
+  \[marched on\] to conquer Harran.” (Ancient Near Eastern Texts, p.305; brackets and parentheses theirs.) 
+  Actually, Ashur-uballit was trying to reconquer it after having been driven out. This record is in harmony with the 
+  account relative to the activity of Pharaoh Nechoh recorded at 2 Kings 23:29, which activity resulted in the 
+  death of King Josiah of Judah (c. 629 B.C.E.). This text states that “Pharaoh Nechoh the king of Egypt 
+  came up to the king of Assyria by the river Euphrates”—evidently to help him. “The king of Assyria” to whom 
+  Nechoh came may well have been Ashur-uballit II. Their campaign against Haran did not succeed. The Assyrian Empire
+  had ended. [@watch2018insight1, 205]
 
 ### Battle of Carchemish
 

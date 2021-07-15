@@ -88,8 +88,31 @@ The key assumptions of his chronology include:
   initial year on the throne, the year of his
   accession. [@jones2019chronology, 125]
 
-Jones places Nebuchadnezzar's first invasion of Judah in the 3rd year of Jehoiakim as per Daniel 1:1.
-However this would actually precede Nebuchadnezzar's reign, and fall in the 20th year of Nabopolasssar.
+Jones places Nebuchadnezzar's first invasion of Judah in the 3rd year of Jehoiakim as stated in Daniel 1:1, which
+would actually be in the year prior to Nebuchadnezzar's accession. He believes this is necessary to fit 3 years
+of Daniel's training (Daniel 1:5):
+
+> The first step in resolving this issue revolves
+  around the fact that it simply would not be
+  possible that Daniel and his three friends could
+  be so highly elevated in the affairs of the
+  government of Babylonia in chapter 2 (Dan.
+  2:48, 49) and afterward still have to appear
+  before King Nebuchadnezzar to obtain his
+  approval by proving their abilities “to stand in
+  the king’s palace” (Dan. 1:4, 18–20) as though
+  they were yet mere students. But such would
+  be the case were the happenings of chapter 2
+  imbedded somewhere within the three-year
+  time frame of chapter 1. Accordingly, the
+  context of chapter 2 clearly follows *after* chapter
+  1 chronologically.
+  Since chapter 1 encompasses most of a three year
+  span (cp. vv. 4, 5, 18), then the events in
+  chapter 2 must have occurred after Daniel’s
+  schooling. Thus, the second year of Nebuchadnezzar’s
+  reign must take place after Daniel’s
+  and the other princes of Judah’s “graduation”.  [@jones2019chronology, 189] 
 
 > It follows then that Daniel 1:1 does not conflict
   with Jeremiah 25:1 as is often claimed.
