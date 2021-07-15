@@ -173,6 +173,10 @@ The key assumptions of his chronology include:
   (December) that he started the invasion that led to the capture of
   Jerusalem. [@hyatt1956new, 281]
 
+Hyatt doesn't appear to directly explain how he believes this fits in with Daniel 1:1,
+but he is placing the subjugation of Judah in the 4th or 5th years of Jehoiakim,
+rather than the 3rd as specified in Daniel.
+
 ### Captures of Jehoiachin and Zedekiah
 
 > The date, 2 Adar of Nebuchadrezzar's
