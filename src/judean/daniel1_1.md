@@ -132,7 +132,7 @@ dates the beginning of Jehoiakim's servitude to his 8th year:
   father, and thereupon should make the country revolt from him; wherefore he sent an army, and
   besieged Jehoiachin in Jerusalem; but because he was of a gentle and just disposition, he did not
   desire to see the city endangered on his account, but he took his mother and kindred, and
-  delivered them to the commanders sent by the king of Babylon... [@whiston1737complete, Ant X 6-7]
+  delivered them to the commanders sent by the king of Babylon... [@whiston1737complete, {Ant X 6-7}]
 
 The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 *Equipped for Every Good Work*;
 published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md):
@@ -190,7 +190,7 @@ And then regarding Daniel 2:1:
 
 First of all the Watchtower Society is reading Daniel 1:1 in a strange way - where "kingship" is understood to refer
 not to the length of Jehoiakim's rule over Judah, but to his time as a vassal to Nebuchadnezzar. Against this
-Mercer argues:
+interpretation Mercer argues:
 
 > Several commentators take the third year of Jehoiakim as
   being the last of the three years of servitude to Babylon mentioned
@@ -214,7 +214,7 @@ use another different interpretation for the meaning of "kingship" in Daniel 2:
   In the second year of Nebuchadnezzar’s reign as world ruler (606/605 B.C.E.), God sent him a terrifying dream.
   [@watch2006pay, 46]
 
-In favour of an alternative interpretations of "kingship" Foley says:
+Regarding the translation of "kingship" / "reign" in Daniel Foley says:
 
 > In understanding the first problem, it may be important that the
   Hebrew word translated reign in Daniel 1:1 (NIV) is malchut which
@@ -234,7 +234,19 @@ In favour of an alternative interpretations of "kingship" Foley says:
   Hebrew word for reign in Daniel 2:1 is also malchut , so 603 BC must
   be the second year of Nebuchadnezzar. [@foley2014time, 33]
 
-However Foley still believes that:
+> Three major Hebrew words translate as “reign” in the NIV. The first of these
+  is yom, the word that means “days” or “years”; for example, 1 Chronicles
+  7:2 translated “during the reign of David” is more literally translated
+  “during the days (or years) of David.” The second word, malak, occurs 350
+  times, and in the book of Kings is usually translated “began to reign” and
+  may be a word that specifically targets the regnal years of a king. This word
+  is used once in Daniel in Daniel 9:2 with reference to the first year of the
+  reign of Darius the Mede. The third word, malchut , occurs ninety times and
+  seems to be a somewhat less specific word for “kingship” or alternatively for
+  periods of reign calculated using exclusive reckoning. In the book of Daniel
+  it is used in Daniel 1:1, 2:1, 5:26, 6:28 (twice), 8:1, and 8:23.  [@foley2014time, {Appendix 6}]
+
+However he still concludes that:
 
 > it would seem most likely that
   Daniel was taken from Jerusalem late in 605 BC for the purpose of being
