@@ -9,14 +9,13 @@ jobs:
       image: ghcr.io/jacob-pro/mdbook-bibfile-referencing:latest
     steps:
       - uses: actions/checkout@v2
-      - run: echo $(ls)
-      - run: mdbook-bibfile-referencing --help
-      - run: pandoc --version
-      - run: mdbook build
 
-#      - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
-#        name: Deploy
-#        uses: peaceiris/actions-gh-pages@v3
-#        with:
-#          github_token: ${{ secrets.GITHUB_TOKEN }}
-#          publish_dir: ./book
+      - name: Build book
+        run: mdbook build
+
+      - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
+        name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./book
