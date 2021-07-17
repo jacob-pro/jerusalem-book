@@ -443,7 +443,7 @@ Daniel were converting Jehoiakim's reign to the Babylonian accession year system
 ### Daniel's Training
 
 Assuming that Daniel was taken at some point in Nebuchadnezzar's accession year then we can
-count inclusively 3 years of training (Daniel 1:5), but this would be a maximum of about 2 ½ years actual length.
+count inclusively 3 years of training (Daniel 1:5), but this would be a maximum of about 2 ½ years actual length:
 
 | Nebuchadnezzar | Event                                    | Years of Training |
 |----------------|------------------------------------------|-------------------|
@@ -498,5 +498,57 @@ There is of course the question of whether this actually matters - do the events
   end of the three-year period. [@mercer1989daniel, 187]
 
 ### Timing of Jehoiakim's Rebellion
+
+> The revolt in 601 might have
+  been connected with the new ascendency of Egypt,
+  whose new strength is evident from the defeat inflicted
+  by Necho on the attacking armies of Babylon in that
+  year. [@tadmor1956chronology, 229]
+
+> In his 3rd and 4th years Nebuchadrezzar was back in Hatti. In the
+  latter year he came into direct conflict with the Egyptian army. After
+  telling of his marching unopposed in Hatti, the chronicle goes on to say:
+  "In the month Kislev \[beginning November 20, 601\] he took the lead
+  of his army and marched to Egypt. The king of Egypt heard, and
+  mustered his army. In open battle they smote the breast of each other
+  and inflicted great destruction upon each other. The king of Akkad
+  and his army turned around, and went back to Babylon" (Rev. 11. 6-7).
+  The laconic account of the next year is that the king of Akkad remained
+  at home "and gathered together his chariots and horses in great numbers"
+  (Rev. 1. 8). The outcome of this battle must have been defeat for the
+  Babylonian army, or at best a draw. This battle must lie back of Jehoiakim's
+  change of allegiance, when he withheld tribute from Babylonia,
+  probably making an alliance with Egypt. II Kings 24:1 says that this
+  occurred three years after Jehoiakim became the servant of Nebuchadrezzar;
+  three full years after the submission of Jehoiakim in either 605
+  or 604 would bring us to this date. It is impossible to tell whether Jehoiakim's
+  change of allegiance brought on the invasion by Nebuchadrezzar,
+  or whether Jehoiakim rebelled after he saw the success of Egypt.
+  The latter seems more logical. [@hyatt1956new, 280]
+
+> At an unspecified time in his fourth year (30
+  Mar. 601-18 Mar. 600), Nebuchadnezzar returned to Palestine. It
+  was during this campaign (in late 601) that Babylon and Egypt
+  fought to a standstill, and Nebuchadnezzar withdrew to Babylon
+  with no tribute. It was also during this campaign that Jehoiakim
+  of Judah, who had paid tribute for the past three years, rebelled
+  against the Babylonians. This understanding fits 2 Kgs 24:1, which
+  states: "In his \[Jehoiakim's\] days Nebuchadnezzar king of Babylon
+  came up, and Jehohiakim became his servant for three years; but
+  then he turned and rebelled against him." [@mercer1989daniel, 188]
+
+> The impetus behind Jehoiakim's rebellion was probably his
+  renewal of ties with his original overlord, Necho of Egypt, who
+  had made him king (2 Kgs 23:34-35). Jehoiakim's ability to extradite
+  gives evidence that he was at one time a vassal of Egypt (cf.
+  Jer 26:22-23). Necho also imposed a very modest amount of
+  tribute. Jehoiakim was a part of the pro-Egyptian party in
+  Jerusalem and probably hoped that Necho would help him against
+  the Babylonians. This renewed alliance would explain Nebuchadnezzar's
+  march to Egypt in 601. [@mercer1989daniel, 190]
+
+It would seem likely that Jehoiakim's rebellion was connected with the Egyptian war in Nebuchadnezzar's 4th year,
+counting back 3 full years during which Jehoiakim paid tribute to Nebuchadnezzar would mean that he must have become
+vassal somewhere around the accession or 1st year of Nebuchadnezzar.
 
 ## References
