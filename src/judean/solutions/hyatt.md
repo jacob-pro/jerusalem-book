@@ -171,7 +171,7 @@ The key assumptions of his chronology include:
   animals, and gods" (Rev. 1. 10). He returned to his own land in
   Adar (February-March 598), and it was at the end of the same year
   (December) that he started the invasion that led to the capture of
-  Jerusalem. [@hyatt1956new, 281]
+  Jerusalem. [@hyatt1956new, 280]
 
 Hyatt doesn't appear to directly explain how he believes this fits in with Daniel 1:1,
 but he is placing the subjugation of Judah in the 4th or 5th years of Jehoiakim,
