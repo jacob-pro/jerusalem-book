@@ -209,6 +209,10 @@ Or in his 2nd year (Obv. 21-23)
   might then relate to the submission of Jehoiakim (cf. II Chron.
   36:6-7; Dan. 1:1-2—both apparently relating to this event).
 
+> In Dan. 1:1, with the slight emendation of 'In the *third* year' to 'In the *sixth* year' (שש < שלוש) of the 
+  reign of Jehoiakim, the date of Nebuchadnezzar's siege of Jerusalem would correspond with that suggested above for 
+  the subjugation of Judah, i.e. the autumn or winter of 603 B.C. [@malamat1967last, 142]
+
 But these would be in the 5th or 6th year of Jehoiakim, so do not fit Daniel 1:1,
 and they also take place after Nebuchadnezzar `marched about victoriously in Hattu` in his accession year 
 (Obv. Line 12-14).
