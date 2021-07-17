@@ -435,12 +435,67 @@ Dates for the start of Jehoiakim's servitude proposed by other authors:
 - Mercer [@mercer1989daniel, 192]: Midsummer of Nebuchadnezzar's accession year.
 - Larsson [@larsson1967when, 419]: Accession year of Nebuchadnezzar.
 
-If the subjugation of Jehoiakim was in the accession year of Nebuchadnezzar, then in the 
-[Watchtower Judean chronology](./solutions/watchtower.md)
-this would fall in the forth year of Jehoiakim, which would be the **third** year if we
-were to count Jehoiakim's reign on the accession year system - successfully integrating Daniel 1:1.
+If we took the [Watchtower Judean chronology](./solutions/watchtower.md) but 
+instead dated the subjugation of Jehoiakim to the accession year of Nebuchadnezzar,
+then this would fall in the forth year of Jehoiakim, which would actually be the **third** year if we assumed
+Daniel were converting Jehoiakim's reign to the Babylonian accession year system - successfully integrating Daniel 1:1.
 
 ### Daniel's Training
+
+Assuming that Daniel was taken at some point in Nebuchadnezzar's accession year then we can
+count inclusively 3 years of training (Daniel 1:5), but this would be a maximum of about 2 ½ years actual length.
+
+| Nebuchadnezzar | Event                                    | Years of Training |
+|----------------|------------------------------------------|-------------------|
+| Accession      | Nebuchadnezzar became king in month 6    | 1st               |
+| 1st            |                                          | 2nd               |
+| 2nd            | Daniel interprets Nebuchadnezzar's dream | 3rd               |
+
+There is of course the question of whether this actually matters - do the events in chapter 2 do have to follow the
+3 years training or could they have taken place concurrently?
+
+> it simply would not be
+  possible that Daniel and his three friends could
+  be so highly elevated in the affairs of the
+  government of Babylonia in chapter 2 (Dan.
+  2:48, 49) and afterward still have to appear
+  before King Nebuchadnezzar to obtain his
+  approval by proving their abilities “to stand in
+  the king’s palace” (Dan. 1:4, 18–20) as though
+  they were yet mere students. But such would
+  be the case were the happenings of chapter 2
+  imbedded somewhere within the three-year
+  time frame of chapter 1. [@jones2019chronology, 189]
+
+> Further, it may be urged that the dates in Daniel are not
+  self-consistent, and that it is not worth attempting to justify the
+  date in Dan. 1:1. If Daniel was taken to Babylon c. June-July
+  605, and immediately began his three-year education (1:5), he
+  cannot have completed his education before the end of the '2nd
+  year of Nebuchadnezzar' (ended 9 April, 602) in which the king
+  had his dream (2:1) and Daniel, already graduated (1:18ff.), gave
+  its interpretation. This conclusion could be avoided only if it were
+  maintained that the '3 years' of 1:15 (sic) are counted inclusively; but
+  against that must be set the evidence for a fixed period of 3 full
+  years' education, at least in the Persian court. [@clines1972regnal, 28]
+
+> Some commentators hold that the three years of Dan 1:5 were not
+  three full years (e-g., Driver, p. 17; Young, pp. 55-56). They would say that Daniel
+  was trained during the latter part of Nebuchadnezzar's accession year, all of his first
+  year, and part of his second year. That then would harmonize Dan 1:5 and 2:1. The
+  fact that the three years were a specific period of time set up for education would
+  suggest, however, that the years were three whole years, not a part of three. There is
+  also some evidence that in the Persian period the length of training was indeed three
+  full years (Montgomery, p. 122). [@mercer1989daniel, 187]
+
+> It should be noted, however, that Dan 2 does not necessarily
+  follow Dan 1 chronologically. In addition, the text of Dan 2
+  suggests that he was not finished with his training. After all,
+  Daniel was evidently not among those who were unable to interpret
+  the dream (vv. 2-1 1; cf. v. 27), nor had he even been informed of the
+  matter (v. 15). Thus it is entirely possible that Dan 2 records an
+  incident that took place after the story in Dan 1:8-17, but before the
+  end of the three-year period. [@mercer1989daniel, 187]
 
 ### Timing of Jehoiakim's Rebellion
 
