@@ -5,18 +5,13 @@ on: [push, pull_request]
 jobs:
   deploy:
     runs-on: ubuntu-18.04
+    container:
+      image: ghcr.io/jacob-pro/mdbook-bibfile-referencing:latest
     steps:
       - uses: actions/checkout@v2
 
-      - run: sudo apt install pandoc pandoc-citeproc -y
-      - run: cargo install rust-script --debug
-
-      - name: Setup mdBook
-        uses: peaceiris/actions-mdbook@v1
-        with:
-          mdbook-version: 'latest'
-
-      - run: mdbook build
+      - name: Build book
+        run: mdbook build
 
       - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         name: Deploy

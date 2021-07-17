@@ -6,7 +6,7 @@ src = "src"
 title = "The Jerusalem Book"
 
 [preprocessor.bibliography]
-command = "rust-script --debug src/bibliography.rs src/bibliography.bib src/ieee.csl"
+command = "mdbook-bibfile-referencing src/bibliography.bib src/ieee.csl"
 
 [output.html]
 additional-css = ["src/custom.css"]
