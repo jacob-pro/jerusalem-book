@@ -9,7 +9,8 @@ jobs:
       image: ghcr.io/jacob-pro/mdbook-bibfile-referencing:latest
     steps:
       - uses: actions/checkout@v2
-      - run: echo $(pwd)
+      - run: echo $(ls)
+      - run: mdbook-bibfile-referencing --help
       - run: mdbook build
 
 #      - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
