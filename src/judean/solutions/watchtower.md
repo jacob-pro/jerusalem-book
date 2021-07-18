@@ -123,7 +123,7 @@ interpretation of the chronicle:
 
 > The Bible record is quite detailed in its account of the first punitive expedition against the kingdom of Judah by 
   Nebuchadnezzar (or Nebuchadrezzar) in his seventh regnal year (or eighth year from his accession to the throne). 
-  (Jer. 52:28; 2 Ki. 24:12) [@watch1969babylonian]
+  (Jer. 52:28; 2 Ki. 24:12) [@watch1969babylonian, 88]
 
 On the difference in the numbers of captives between 2 Kings and Jeremiah 52:
 
