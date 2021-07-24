@@ -47,6 +47,8 @@
         - [Reign of Cyrus](watchtower/70_years/cyrus.md)
         - [Return of the Exiles](watchtower/70_years/return.md)
         - [Summary and Implications](watchtower/70_years/summary.md)
+    - [History of the Watchtower Chronology](watchtower/history/README.md)
+    - [Criticism of Orthodox Babylonian Chronology](watchtower/criticisms/README.md)
 - [Watchtower Internals]()
 - [Appendix]()
     - [Letter Concerning VAT 4956 in the Watchtower 2011](appendix/letter_vat4956.md)
