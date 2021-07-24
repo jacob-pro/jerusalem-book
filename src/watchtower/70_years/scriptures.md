@@ -18,7 +18,7 @@ Jeremiah 25:7-13
   voices of bride and bridegroom, the sound of millstones and the light of the lamp. 11 This whole country will become 
   a desolate wasteland, and **these nations will serve the king of Babylon seventy years**.
   <br><br>
-  12 “But when the seventy years are fulfilled, I will punish the king of Babylon and his nation, the land of the 
+  12 “But **when the seventy years are fulfilled, I will punish the king of Babylon and his nation**, the land of the 
   Babylonians, for their guilt,” declares the Lord, “and will make it desolate forever. 13 I will bring on that land 
   all the things I have spoken against it, all that are written in this book and prophesied by Jeremiah against all 
   the nations. 
