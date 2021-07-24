@@ -42,3 +42,8 @@
         - [Watchtower Judean Chronology](judean/solutions/watchtower.md)
     - [Watchtower Interpretation of Daniel 1:1](judean/daniel1_1.md)
 - [Watchtower Chronology](watchtower/README.md)
+    - [Jeremiah’s 70 Year Prophesy](watchtower/70_years/README.md)
+        - [Key Scriptures](watchtower/70_years/scriptures.md)
+- [Watchtower Internals]()
+- [Appendix]()
+    - [Letter Concerning VAT 4956 in the Watchtower 2011](appendix/letter_vat4956.md)
