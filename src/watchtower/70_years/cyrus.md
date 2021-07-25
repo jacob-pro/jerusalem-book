@@ -35,9 +35,18 @@ Herodotus:
   destroyed, and Cyrus himself fell, after reigning
   nine and twenty years. [@rawlinson1909history1, {204, Book I 214}]
 
+Africanus:
+
+> Cyrus igitur anno imperii sui primo, qui Olympiadis quinquagesimæ quintæ primus item annus erat, per Zorobabelem, 
+  cujus etiam æqualis idem et socius erat Jesus Josedeci filius, expleta jam septuaginta annorum summa, populi Judaici 
+  partem aliquam primum dimisit, ut apud Esdram Hebræum historicum legimus. [@routh1846reliquiae2, 271]
+
+(Cyrus was in the first year of his reign which was the fifty-fifth Olympiad the first year = 560 BC. 
+[@finegan1998handbook, {156, 288}])
+
 ### Problems
 
-Using the Olympiad numbers Africanus dates the 20th year to 445 BC:
+Using the Olympiad numbers Africanus also dates the 20th year of Artaxerxes to 445 BC:
 
 > For from Nehemiah, who was despatched
   by Artaxerxes to build Jerusalem in
@@ -68,9 +77,20 @@ of Daniel's 70 weeks prophesy (Daniel 9:24):
   the end of the period of God’s special favor to the Jews in 36 C.E. Thus, the 70 weeks of years closed with the 
   conversion of Cornelius, 490 years from the year 455 B.C.E.—Ac 10:30-33, 44-48; 11:1. [@watch2018insight1, 463]
 
+Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection to 29/30 AD 
+[@finegan1998handbook, 158]). However this is also in contradiction with the Insight book which says:
+
+> Jesus’ birth would come about six months later in the fall of 2 B.C.E., his ministry would start about 30 years
+  later in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
+  [@watch2018insight2, 58]
+
 For the Watchtower's chronology to work it also means dismissing other reigns and dates given by the same
-ancient historians such as [those for the 26th dynasty of Egypt](../../orthodox/egypt/historians.md), since otherwise 
-Necho would not have been Pharaoh at the time of the battle of Megiddo or Carchemish.
+historians [for the 26th dynasty of Egypt](../../orthodox/egypt/historians.md), since otherwise 
+Necho could not have been Pharaoh at the time of the battle of Megiddo or Carchemish.
+
+In summary the Watchtower doesn't make clear why the Olympiad numbers given by the ancient historians for Cyrus' reign
+should be trusted, whilst at the same time implicitly rejecting the other dates that the historians provide for Persian, 
+Egyptian, and Christian history.
 
 ## BM 33066
 
