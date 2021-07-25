@@ -11,9 +11,9 @@ day of the 8th month (III, Line 18), these dates are accepted by the Watchtower
 Cyrus' accession was therefore around the end of October 539 BC, and his first year as king of Babylon would have began
 in the spring of 538 BC.
 
-## Watchtower's Date
+## The Watchtower's Date
 
-The Watchtower however lists the year 537 BC as the time of the Jews return to Jerusalem:
+The Watchtower lists the year 537 BC as the time that the Jews returned to Jerusalem:
 
 > During Cyrus’ first year his decree releasing
   the Jews from exile was given. And, as considered
@@ -56,5 +56,34 @@ The Watchtower however lists the year 537 BC as the time of the Jews return to J
   month (Tishri) of the year 537 B.C.E., September
   29 according to the Gregorian calendar.
   —Ezr 3:2-6. [@watch2018insight1, {800, Ezrah}]
+
+## Issues
+
+The Watchtower does not appear to provide any valid justification as to how they can be sure it was the
+year 537 BC that the Jews returned to Jerusalem and not some other point within Cyrus reign (539-530 BC).
+
+For example some historians suggest that Cyrus issued his decree near the start of his first year, and therefore the 
+exiles had returned by the 7th month in 538 BC:
+
+> It is a reasonable hypothesis, therefore, that work was begun on the
+  Temple site under the direction of Sheshbazzar as soon as the returning
+  exiles reached Jerusalem, probably in 538 since, though Cyrus' first year
+  ran from spring 538 to spring 537, he had taken Babylon in October 539,
+  and it is unlikely that he would have allowed any great time to elapse
+  before he issued the decree. According to the Book of Ezra, Zerubbabel,
+  Joshua the high priest, and others assembled in Jerusalem in the seventh
+  month. There they built an altar and re-established the giving of burnt-offerings
+  on it, celebrating in particular the observances of the festival of
+  Succoth (Booths or Tabernacles) (Ezra 3:1—6; I Esdras 5:46—52). In the
+  Jewish calendar, Succoth was kept in the seventh month, Tishri, to mark
+  the time of harvest (Lev. 23:33-6; Deut. 16:13—15). This strongly
+  suggests that the 'seventh month' in which Zerubbabel built the altar
+  was Tishri in 538, rather than simply the seventh month after the return
+  [@boardman2008cambridge, 432]
+
+Whereas other writers 
+
+[@steinmann2008chronological]
+
 
 ## References
