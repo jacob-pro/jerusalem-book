@@ -4,7 +4,7 @@ There are a number of texts that describe various astronomical events, such as p
 lunar eclipses etc, which allow us to date the reigns of the Babylonian Kings.
 
 This is in itself a very complicated topic and as such I have created a separate project to analyse them: 
-[Astro Tablets](https://github.com/jacob-pro/astro-tablets).
+[astro-tablets](https://github.com/jacob-pro/astro-tablets).
 
 ## Summary
 

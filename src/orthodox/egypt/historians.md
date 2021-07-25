@@ -2,20 +2,20 @@
 
 ## Herodotus
 
-Psamtik I [@rawlinson1909history, 32]:
+Psamtik I [@rawlinson1909history2, 32]:
 
 > Psammetichus ruled Egypt for fifty-four
   years, during twenty-nine of which he
   pressed the siege of Azôtus without intermission,
   till finally he took the place.
 
-Necho II [@rawlinson1909history, 34]:
+Necho II [@rawlinson1909history2, 34]:
 
 > After having reigned in all sixteen years, Necôs
   died, and at his death bequeathed the throne to
   his son Psammis. 
 
-Psamtik II and Apries [@rawlinson1909history, 36]:
+Psamtik II and Apries [@rawlinson1909history2, 36]:
 
 > Psammis reigned only six years. He attacked
   Ethiopia, and died almost directly afterwards.
@@ -25,7 +25,7 @@ Psamtik II and Apries [@rawlinson1909history, 36]:
   kings that ever ruled over Egypt. The length
   of his reign was twenty-five years,
 
-Amasis: [@rawlinson1909history, 59]:
+Amasis: [@rawlinson1909history2, 59]:
 
 > Psammenitus, son of Amasis, lay encamped
   at the mouth of the Nile, called the
@@ -35,7 +35,7 @@ Amasis: [@rawlinson1909history, 59]:
   forty and four years, during all which time no
   great misfortune had befallen him.
 
-Psammenitus: [@rawlinson1909history, 62]:
+Psammenitus: [@rawlinson1909history2, 62]:
 
 > Ten days after the fort had fallen, Cambyses
   resolved to try the spirit of Psammenitus,
