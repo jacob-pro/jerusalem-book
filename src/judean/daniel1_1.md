@@ -32,13 +32,13 @@ resulting in Jehoiakim becoming a vassal for 3 years (2 Kings 24:1).
   tradition (recorded by Josephus) that Nebuchadnezzar killed Jehoiakim and commanded that his dead body be thrown 
   outside Jerusalem’s walls. (Jewish Antiquities, X, 97 [vi, 3]) By whatever means Jehoiakim’s death came, it 
   appears that the copper fetters Nebuchadnezzar had brought along to bind Jehoiakim were not used as planned.—2Ch 36:6.
-  [@watch2018insight1, 1269]
+  [@watch2018insight1, {1269, JEHOIAKIM}]
 
 > Very little is known of his early life, but he \[Daniel\] tells of being taken to Babylon, likely as a teenage 
   prince, along with other royal offspring and nobles. (Da 1:3-6) This was in Jehoiakim’s third year (as tributary 
   king to Babylon), which third year started in the spring of 618 B.C.E. (Da 1:1) With Jehoiakim’s inglorious death, 
   Jehoiachin, his son, ruled for a few months before surrendering. Early in 617 B.C.E., Jehoiachin and other “foremost 
-  men,” also young Daniel (2Ki 24:15), were taken into captivity by Nebuchadnezzar. [@watch2018insight1, 576]
+  men,” also young Daniel (2Ki 24:15), were taken into captivity by Nebuchadnezzar. [@watch2018insight1, {576, DANIEL}]
 
 > At the age of 18 Jehoiachin became king and continued the bad practices of his father. (2Ki 24:8, 9; 2Ch 36:9, ftn) 
   Jehoiachin’s father, Jehoiakim, had been under subjection to Babylonian King Nebuchadnezzar but rebelled in his 
@@ -50,7 +50,7 @@ resulting in Jehoiakim becoming a vassal for 3 years (2 Kings 24:1).
   month of Adar, according to a Babylonian chronicle). (2Ki 24:11, 12; 2Ch 36:9; Assyrian and Babylonian Chronicles, 
   by A. Grayson, 1975, p. 102) In fulfillment of Jehovah’s word through Jeremiah, he was taken into Babylonian exile. 
   (Jer 22:24-27; 24:1; 27:19, 20; 29:1, 2) Other members of the royal household, court officials, craftsmen, and 
-  warriors were also exiled.—2Ki 24:14-16; [@watch2018insight1, 1267]
+  warriors were also exiled.—2Ki 24:14-16; [@watch2018insight1, {1267, JEHOIACHIN}]
 
 ### Daniel Book
 
@@ -207,8 +207,8 @@ use another different interpretation for the meaning of "kingship" in Daniel 2:
 
 > The book of Daniel states that it was in “the second year” of Nebuchadnezzar’s kingship (probably counting from the
   destruction of Jerusalem in 607 B.C.E. and therefore actually referring to his 20th regnal year) that Nebuchadnezzar 
-  had the dream about the golden-headed image. [@watch2018insight2, 481] also [@watch2018insight1, 576] 
-  [@watch2018insight1, 1186] [@watch2007highlights, 18]
+  had the dream about the golden-headed image. [@watch2018insight2, {481, NEBUCHADNEZZAR}] also 
+  [@watch2018insight1, {576, DANIEL}] [@watch2018insight1, {1186, IMAGE}] [@watch2007highlights, 18]
 
 > He had effectively become world ruler in 607 B.C.E. when Jehovah God allowed him to destroy Jerusalem and its temple. 
   In the second year of Nebuchadnezzar’s reign as world ruler (606/605 B.C.E.), God sent him a terrifying dream.
@@ -255,7 +255,8 @@ However he still concludes that:
 
 ### Death of Jehoiakim
 
-As acknowledged in the Insight book [@watch2018insight2, 480], [BM 21946](../orthodox/chronicles/bm21946.md) states
+As acknowledged in the Insight book [@watch2018insight2, {480, NEBUCHADNEZZAR}], 
+[BM 21946](../orthodox/chronicles/bm21946.md) states
 that `In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu`, and then that 
 `on the second day of the month Adar [XII] he captured the city (and) seized (its) king.`
 
@@ -302,9 +303,9 @@ the Babylonian account:
   (2 Kings 24:1,2,6,10 NWT)
 
 According to the Watchtower Society Jehoiakim began his three years servitude in his 8th year "early in 620 B.C.E."
-[@watch2018insight1, 1269] and then rebelled at the end of the three years resulting in the siege of Jerusalem in 
-"618 B.C.E." [@watch2018insight1, 1267]. The Insight book also states that it "appears that Jehoiakim died during the 
-siege of the city" (or as shown above, he actually died just before it began).
+[@watch2018insight1, {1269, JEHOIAKIM}] and then rebelled at the end of the three years resulting in the siege of 
+Jerusalem in "618 B.C.E." [@watch2018insight1, {1267, JEHOIACHIN}]. The Insight book also states that it "appears that 
+Jehoiakim died during the siege of the city" (or as shown above, he actually died just before it began).
 
 When therefore would the multiple attacks of marauder bands have occured if Jehoiakim's rebellion (at the end of three 
 years servitude) is immediately followed by his death and the accession of Jehoiachin?
@@ -336,7 +337,7 @@ Against this argument the Watchtower states in the Kingdom Come book:
 However it is already seen that Jeremiah does not contain a complete count of the captives since
 it contradicts the number (and also year, depending on interpretation) of captives described in 2 Kings 24:14
 (3023 in the 7th year vs 10,000+ in the 8th year), so Jeremiah 52 surely should not be treated as an exhaustive list of
-all captives taken by Nebuchadnezzar. [@watch2018insight1, 415]
+all captives taken by Nebuchadnezzar. [@watch2018insight1, {415, CAPTIVITY}]
 
 ### Nebuchadnezzar's Conquest of Hattu
 

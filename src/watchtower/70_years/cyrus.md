@@ -21,7 +21,7 @@ They have therefore offered a couple of different sources:
   corresponded to Olympiad 55, year 1 (560/559 B.C.E.), while Cyrus’ last year is placed at Olympiad 62, year 2 
   (531/530 B.C.E.). Cuneiform tablets give Cyrus a rule of nine years over Babylon, which would therefore substantiate 
   the year 539 as the date of his conquest of Babylon.—Handbook of Biblical Chronology, by Jack Finegan, 1964, 
-  pp. 112, 168-170; Babylonian Chronology, 626 B.C.–A.D. 75, p. 14 [@watch2018insight1, 454]
+  pp. 112, 168-170; Babylonian Chronology, 626 B.C.–A.D. 75, p. 14 [@watch2018insight1, {454, CHRONOLOGY}]
 
 Diodorus:
 
@@ -75,14 +75,15 @@ of Daniel's 70 weeks prophesy (Daniel 9:24):
   demonstrated under the heading SEVENTY WEEKS, the prophecy pointed to Jesus’ appearance as the Messiah in the year 
   29 C.E.; his death at “the half of the week” or in the middle of the last week of years, that is, in 33 C.E.; and 
   the end of the period of God’s special favor to the Jews in 36 C.E. Thus, the 70 weeks of years closed with the 
-  conversion of Cornelius, 490 years from the year 455 B.C.E.—Ac 10:30-33, 44-48; 11:1. [@watch2018insight1, 463]
+  conversion of Cornelius, 490 years from the year 455 B.C.E.—Ac 10:30-33, 44-48; 11:1. 
+  [@watch2018insight1, {463, CHRONOLOGY}]
 
 Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection to 29/30 AD 
 [@finegan1998handbook, 158]). However this is also in contradiction with the Insight book which says:
 
 > Jesus’ birth would come about six months later in the fall of 2 B.C.E., his ministry would start about 30 years
   later in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
-  [@watch2018insight2, 58]
+  [@watch2018insight2, {58, JESUS CHRIST}]
 
 For the Watchtower's chronology to work it also means dismissing other reigns and dates given by the same
 historians [for the 26th dynasty of Egypt](../../orthodox/egypt/historians.md), since otherwise 

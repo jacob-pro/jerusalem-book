@@ -41,18 +41,18 @@ easy comparison to the other chronologies in the section.
 > Toward the close of Josiah’s 31-year reign (659-629 B.C.E.), Pharaoh Necho led his army northward to the aid of the 
   Assyrians. For a reason not revealed in the Bible, King Josiah disregarded “the words of Necho from the mouth of God” 
   and tried to turn the Egyptian forces back at Megiddo, but he was mortally wounded in the attempt. He was brought 
-  back to Jerusalem in a war chariot and died either en route or upon arrival there. [@watch2018insight2, 118]
+  back to Jerusalem in a war chariot and died either en route or upon arrival there. [@watch2018insight2, {118, JOSIAH}]
 
 > After the death of good King Josiah in 628 B.C.E., his three sons and a grandson proved to be bad in their dealings. 
   [@watch1979royal, 25]
   
 > Jehoahaz was 23 years old when made king, and he ruled badly for three months in the early part of the year 
   628 B.C.E., until he was imprisoned at Riblah by Pharaoh. Later he was taken to Egypt, where he died in captivity, 
-  just as the prophet Jeremiah had foretold.—2Ki 23:31-34; Jer 22:10-12. [@watch2018insight1, 1265]
+  just as the prophet Jeremiah had foretold.—2Ki 23:31-34; Jer 22:10-12. [@watch2018insight1, {1265, JEHOAHAZ}]
 
 > Three months later (in 628 B.C.E.) Nechoh removed Josiah’s son and successor Jehoahaz from the Judean throne and 
   replaced him with his brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to Egypt. 
-  (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, 698]
+  (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, {698, EGYPT, EGYPTIAN}]
 
 There appears to be a problem here - according to [BM 21901](../../orthodox/chronicles/bm21901.md) Line 66 the
 Egyptian army crossed the Euphrates to help the king of Assyria in Tammuz (the 4th month). Therefore Josiah
@@ -77,7 +77,7 @@ interpretation of the chronicle:
   death of King Josiah of Judah (c. 629 B.C.E.). This text states that “Pharaoh Nechoh the king of Egypt 
   came up to the king of Assyria by the river Euphrates”—evidently to help him. “The king of Assyria” to whom 
   Nechoh came may well have been Ashur-uballit II. Their campaign against Haran did not succeed. The Assyrian Empire
-  had ended. [@watch2018insight1, 205]
+  had ended. [@watch2018insight1, {205, ASSYRIA}]
 
 ### Battle of Carchemish
 
@@ -86,7 +86,7 @@ interpretation of the chronicle:
   Necho in a battle over the domination of Syria-
   Palestine. The battle took place at Carchemish by
   the Euphrates, over 600 km (370 mi) N of Jerusalem.
-  (Jer 46:1, 2) [@watch2018insight1, 1268]
+  (Jer 46:1, 2) [@watch2018insight1, {1268, JEHOIAKIM}]
 
 > In 625 B.C.E. a decisive
   battle was fought at Carchemish between
@@ -97,14 +97,14 @@ interpretation of the chronicle:
   imperial strength in these regions. The Bible
   account at Jeremiah 46:2 is paralleled by that of
   the Babylonian Chronicles (B.M. 21946), both describing
-  the defeat of the Egyptian army.  [@watch2018insight1, 418]
+  the defeat of the Egyptian army.  [@watch2018insight1, {418, CARCHEMISH}]
 
 > During the 21st year
   of Nabopolassar’s reign, Nebuchadnezzar marched
   with the Babylonian army to Carchemish, there to
   fight against the Egyptians. He led his forces to
   victory. This took place in the fourth year of Judean
-  King Jehoiakim (625 B.C.E.).—Jer 46:2. [@watch2018insight2, 480]
+  King Jehoiakim (625 B.C.E.).—Jer 46:2. [@watch2018insight2, {480, NEBUCHADNEZZAR}]
 
 ### Capture of Jehoiachin
 
@@ -119,7 +119,7 @@ interpretation of the chronicle:
   to Nebuchadnezzar (in the month of Adar
   \[February-March\] during Nebuchadnezzar’s seventh
   regnal year \[ending in Nisan 617 B.C.E.\], according
-  to the Babylonian Chronicles). [@watch2018insight2, 480]
+  to the Babylonian Chronicles). [@watch2018insight2, {480, NEBUCHADNEZZAR}]
 
 > The Bible record is quite detailed in its account of the first punitive expedition against the kingdom of Judah by 
   Nebuchadnezzar (or Nebuchadrezzar) in his seventh regnal year (or eighth year from his accession to the throne). 
@@ -155,7 +155,7 @@ On the difference in the numbers of captives between 2 Kings and Jeremiah 52:
   52:28 apparently refers to those of a certain rank,
   or to those who were family heads—their wives
   and children, numbering thousands, not being included
-  in the figure. [@watch2018insight1, 415]
+  in the figure. [@watch2018insight1, {415, CAPTIVITY}]
 
 Against the idea that Jeremiah 52:28 only refers to the adult males Green says:
 
@@ -182,7 +182,7 @@ Against the idea that Jeremiah 52:28 only refers to the adult males Green says:
   11th year of Zedekiah’s reign (Nebuchadnezzar’s
   19th year if counting from his accession year or
   his 18th regnal year), a breach was made in Jerusalem’s
-  wall. [@watch2018insight2, 481]
+  wall. [@watch2018insight2, {481, NEBUCHADNEZZAR}]
 
 And again on the number of exiles:
 
@@ -195,16 +195,17 @@ And again on the number of exiles:
   listed as exiles that were led off, the number
   given being only 832, probably heads of households,
   their wives and children not being counted.
-  —Jer 52:29. [@watch2018insight1, 416]
+  —Jer 52:29. [@watch2018insight1, {416, CAPTIVITY}]
 
 ### Release of Jehoiachin
 
 > Second ruler of the Neo-Babylonian Empire; son of Nabopolassar and father of Awil-Marduk (Evil-merodach), 
-  who succeeded him to the throne. Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.) [@watch2018insight2, 480]
+  who succeeded him to the throne. Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.) 
+  [@watch2018insight2, {480, NEBUCHADNEZZAR}]
 
 > The Babylonian king who succeeded Nebuchadnezzar to the throne in 581 B.C.E. In the year of his becoming king, 
   Evil-merodach extended kindness to Jehoiachin the king of Judah by releasing him from the house of detention. 
-  That was in the 37th year of Jehoiachin’s exile in Babylon. [@watch2018insight1, 773]
+  That was in the 37th year of Jehoiachin’s exile in Babylon. [@watch2018insight1, {773, EVIL-MERODACH}]
 
 > In the fifth year of Jehoiachin’s exile, Ezekiel
   began his prophetic work. (Eze 1:2) About 32
@@ -214,7 +215,7 @@ And again on the number of exiles:
   a position of favor above all the other captive
   kings. Thereafter he ate at Evil-merodach’s table
   and received a daily allowance.—2Ki 25:27-30;
-  Jer 52:31-34. [@watch2018insight1, 1267]
+  Jer 52:31-34. [@watch2018insight1, {1267, JEHOIACHIN}]
 
 The Insight book appears to imply there was a gap of up to one year between the death of Nebuchadnezzar in his 
 43rd year (the year spanning 582-581), and the accession of Evil-Merodach (Amel-Marduk) in the year spanning (581-580). 
