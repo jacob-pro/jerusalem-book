@@ -44,9 +44,48 @@ Africanus:
 (Cyrus was in the first year of his reign which was the fifty-fifth Olympiad the first year = 560 BC. 
 [@finegan1998handbook, {156, 288}])
 
-### Problems
+### Uncertainty
 
-Using the Olympiad numbers Africanus also dates the 20th year of Artaxerxes to 445 BC:
+This information alone isn't sufficiently precise to give us the date 539 BC exactly. As we discussed in 
+[Principles of Chronology](../../judean/principles.md) there are many different ways of reckoning a king's regnal
+years, and the method of counting used in Persia is not currently known. So with information given by the ancient
+historians alone (of Cyrus reign beginning in 560/559 BC, and lasting 29 years), we can only really say he captured 
+Babylon somewhere around 541-539 BC.
+
+> Discussions about or references to dating methods in
+  Achaemenid Persia as a rule assume complete adaptation
+  to the Babylonian system. Babylonia's influence on Persia
+  is no doubt momentous. Paraphrasing Horace (Ep.
+  2.1.156), one could justifiably say, _Babylonia captaferum
+  victorem cepit_. But in this same spirit, Oppenheim observes
+  that the historian's task should also be "to gauge
+  the extent and intensity of the impact of the older civilization
+  on the new empire in the Ancient Near East, rooted
+  as it was in Iranian soil" (1985, 530).
+  <br><br>
+  Although Babylonian dominance seems overwhelming
+  with regard to dating methods, this paper has scoured
+  sources from all over the Achaemenid Empire in an attempt
+  to detect signs of accession dating in Persia. In
+  particular, the statements in Thucydides and Nehemiah
+  raise a challenge as to how else to explain the sources.
+  But the paper also reveals how woefully scant the evidence
+  is. It is difficult to imagine what type of source
+  could ever emerge to bring certainty in the matter here
+  discussed. [@depuydt1995evidence, 199]
+
+Also to further complicate the issue other sources give Cyrus a 30 year reign instead, again this isn't necessarily
+a contradiction; it just depends on how the writers were counting the reign.
+
+> He was told by the magi, who are classed as wise and
+  learned men among the Persians, that his grasping
+  for the sun three times portended that he would reign
+  for thirty years! And thus it happened; for he lived
+  to his seventieth year, having begun to reign at forty. [@cicero1923divinatione {275, XXIII, 46}]
+
+### Contradictions
+
+Using the system of Olympiad numbers Africanus also dates the 20th year of Artaxerxes to 445 BC:
 
 > For from Nehemiah, who was despatched
   by Artaxerxes to build Jerusalem in
