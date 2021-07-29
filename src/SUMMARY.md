@@ -46,7 +46,7 @@
         - [Key Scriptures](watchtower/70_years/scriptures.md)
         - [Reign of Cyrus](watchtower/70_years/cyrus.md)
         - [Return of the Exiles](watchtower/70_years/return.md)
-        - [Summary and Implications](watchtower/70_years/summary.md)
+        - [Accuracy of the Prophesy](watchtower/70_years/accuracy.md)
     - [History of the Watchtower Chronology](watchtower/history/README.md)
     - [Criticism of Orthodox Babylonian Chronology](watchtower/criticisms/README.md)
 - [Watchtower Internals]()

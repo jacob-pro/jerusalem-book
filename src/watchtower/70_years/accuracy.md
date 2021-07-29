@@ -1,6 +1,37 @@
-# Summary and Implications
+# Accuracy of the Prophesy
 
-## Accuracy
+Requiring a period of 70 years between the destruction of Jerusalem in Nebuchadnezzar's 18th/19th year
+and the return of Jewish captives (somewhere around) Cyrus' first year is clearly incompatible
+with all the chronological data we have for [the Neo-Babylonian period](../../orthodox/README.md). There is no
+historical evidence to suggest that this prophesy of 70 years (as interpreted) came true.
+
+## Alternative Interpretations
+
+There are some alternative interpretations of Jeremiah's prophesy that could in theory satisfy the historical evidence
+however the Watchtower has chosen to reject these:
+
+> However, based primarily on such secular records, some persons figure that Jerusalem was destroyed in 587/6 B.C.E. 
+  and that the Jews came under Babylonian domination in Nebuchadnezzar’s accession year, which they calculate as being 
+  605 B.C.E. They thus hold 605 B.C.E. to be the date when Jeremiah 25:11 began to be fulfilled: “All the land shall 
+  be a desolation; and they shall serve among the Gentiles seventy years.” (Bagster’s Greek Septuagint) If that were so 
+  and the Gentile Times were counted from then, it would put the end of the prophetic “seven times” in the World War 
+  year of 1916. Yet, as stated, we believe that there is much stronger reason for accepting the information in God’s 
+  inspired Word, which points to the Gentile Times’ beginning in October 607 B.C.E. and ending in October of 1914 C.E.
+  [@watch1981let, 138]
+
+> Instead of saying 70 years “at Babylon,” many translations read “for Babylon.” (NIV) Some historians therefore claim 
+  that this 70-year period applies to the Babylonian Empire. According to secular chronology, the Babylonians dominated 
+  the land of ancient Judah and Jerusalem for some 70 years, from about 609 B.C.E. until 539 B.C.E. when the capital 
+  city of Babylon was captured.
+  <br><br>
+  The Bible, however, shows that the 70 years were to be a period of severe punishment from God—aimed specifically at 
+  the people of Judah and Jerusalem, who were in a covenant to obey him. (Exodus 19:3-6) When they refused to turn from 
+  their bad ways, God said: “I will summon ... Nebuchadnezzar king of Babylon ... against this land and its 
+  inhabitants and against all the surrounding nations.” (Jeremiah 25:4, 5, 8, 9, NIV) While nearby nations would also 
+  suffer Babylon’s wrath, the destruction of Jerusalem and the 70-year exile to follow were called by Jeremiah “the 
+  punishment of my people,” for Jerusalem had “sinned greatly.”—Lamentations 1:8; 3:42; 4:6, NIV. [@watch2011when1, 27]
+
+## Discussion in the _Awake!_ 2012
 
 The series "The Bible—A Book of Accurate Prophecy" in the _Awake!_ magazine attempts to demonstrate the 
 "divine inspiration" of Jeremiah's 70 year prophesy.
@@ -129,7 +160,23 @@ And further on in his article:
 
 The _Awake!_ claims that their 607-537 BC period for a deserted Jerusalem is supported by Stern's 604-538 BC period
 during which cities destroyed by Babylon were not resettled. However as can be seen Stern does not believe
-Jerusalem was destroyed or unoccupied until 586 BC. The year 604 is referring to the city of Ashkelon being plundered
-in the first year of Nebuchadnezzar (see [BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 18). 
+Jerusalem was destroyed or unoccupied until 586 BC. The year 604 BC is referring to the Philistine city of Ashkelon 
+being plundered in the first year of Nebuchadnezzar (see [BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 18). 
+
+## Discussion in _The Bible—God’s Word or Man's?_
+
+Jeremiah's prophesy is discussed in Chapter 9 "Prophecies That Came True":
+
+> <sup>7. How does archaeology testify to the fulfillment of the prophecies of Isaiah and Jeremiah concerning 
+  Jerusalem?</sup>
+  <br><br>
+  7 The Archaeological Encyclopedia of the Holy Land notes that when the Babylonian onslaught was over, “the destruction 
+  of the city \[Jerusalem\] was a total one.” Archaeologist W. F. Albright states: “Excavation and surface exploration 
+  in Judah have proved that the towns of Judah were not only completely destroyed by the Chaldeans in their two 
+  invasions, but were not reoccupied for generations—often never again in history.” Thus, archaeology confirms the 
+  shocking fulfillment of this prophecy. [@watch1989bible, 120]
+
+Whilst the chapter states that Jeremiah's prophesy is confirmed by archaeology, the provided evidence only demonstrates
+that Jerusalem was destroyed, not that there was a 70 year period as claimed by the Watchtower.
 
 ## References
