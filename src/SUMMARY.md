@@ -48,7 +48,7 @@
         - [Return of the Exiles](watchtower/70_years/return.md)
         - [Accuracy of the Prophesy](watchtower/70_years/accuracy.md)
     - [History of the Watchtower Chronology](watchtower/history/README.md)
-        - [Russell and Barber (1875+)](watchtower/history/russel.md)
+        - [Russell and Barbour (1875+)](watchtower/history/russell.md)
         - [The Truth Shall Make You Free (1943)](watchtower/history/1943.md)
         - [The Kingdom Is At Hand (1944)](watchtower/history/1944.md)
         - [The Watchtower 1949](watchtower/history/1949.md)
