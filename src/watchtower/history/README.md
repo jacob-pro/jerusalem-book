@@ -54,6 +54,6 @@ terminated in 1914, the first of which was published in 1844 by E B Elliott.
   our probable date of the opening of the Millennium. [@elliott1847horae, 265]
 
 This section will now track how the Watchtower's interpretation of the '_Gentile Times_' prophesy developed
-and changed over time, starting with Charles Taze Russell's publications in 1877.
+and changed over time, starting with Charles Taze Russell's publications in the late 19th century.
 
 ## References

@@ -66,6 +66,14 @@ Volume II (first published in 1889) to the ‘Gentile times’, he explains:
 
 ## Issues
 
+### Ptolemy’s canon
+
+As we saw in the [Ptolemy’s canon](../../orthodox/canon.md) section, the canon shows the first year of Cyrus was 538 BC
+and not 536 BC as claimed by Russell.
+
+Furthermore if Russell had actually read the text he would have seen that the canon gives Nebuchadnezzar's
+1st year as 604 BC. which is incompatible with his belief in a 70 year exile.
+
 ### Year Zero
 
 Russell made an error in his calculation of 2520 years from 606 BC, since there was no year zero, it should actually
