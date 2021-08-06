@@ -53,7 +53,7 @@
         - [The Kingdom Is At Hand (1944)](watchtower/history/1944.md)
         - [The Watchtower 1949](watchtower/history/1949.md)
         - [The Watchtower 1952](watchtower/history/1952.md)
-        - [The Watchtower 1952](watchtower/history/1955.md)
+        - [The Watchtower 1955](watchtower/history/1955.md)
         - [The Watchtower 1968](watchtower/history/1968.md)
         - [The Watchtower 1971](watchtower/history/1971.md)
     - [Criticism of Orthodox Babylonian Chronology](watchtower/criticisms/README.md)
