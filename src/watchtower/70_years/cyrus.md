@@ -6,6 +6,8 @@ They have therefore offered a couple of different sources:
 
 ## Olympiad Numbers
 
+According to the Watchtower [@watch2011when1, 28] [@watch2018insight1, {454, CHRONOLOGY}]: 
+
 > Diodorus of Sicily (c. 80-20 B.C.E.) wrote that Cyrus became king of Persia
   in “the opening year of the Fifty-fifth Olympiad.” (Historical Library,
   Book IX, 21) That year was 560 B.C.E. The Greek historian
@@ -14,32 +16,32 @@ They have therefore offered a couple of different sources:
   during his 30th year, in 530 B.C.E. (Histories, Book I, Clio, 214)
   Cuneiform tablets show that Cyrus ruled Babylon for nine years
   before his death. Thus, nine years prior to his death in 530 B.C.E.
-  takes us back to 539 B.C.E. as the year Cyrus conquered Babylon. [@watch2011when1, 28]
+  takes us back to 539 B.C.E. as the year Cyrus conquered Babylon.
 
 > The date of 539 B.C.E. for the fall of Babylon can be arrived at not only by Ptolemy’s canon but by other sources as 
   well. The historian Diodorus, as well as Africanus and Eusebius, shows that Cyrus’ first year as king of Persia 
   corresponded to Olympiad 55, year 1 (560/559 B.C.E.), while Cyrus’ last year is placed at Olympiad 62, year 2 
   (531/530 B.C.E.). Cuneiform tablets give Cyrus a rule of nine years over Babylon, which would therefore substantiate 
   the year 539 as the date of his conquest of Babylon.—Handbook of Biblical Chronology, by Jack Finegan, 1964, 
-  pp. 112, 168-170; Babylonian Chronology, 626 B.C.–A.D. 75, p. 14 [@watch2018insight1, {454, CHRONOLOGY}]
+  pp. 112, 168-170; Babylonian Chronology, 626 B.C.–A.D. 75, p. 14
 
-Diodorus:
+Diodorus [@diodorus1989diodorus, {31, IX 21}]:
 
 > Cyrus became king of the Persians in the opening year of the Fifty-fifth Olympiad, as may be found in the Library of 
   Diodorus and in the histories of Thallus and Castor and Polybius and Phlegon and all others who have used the 
-  reckoning by Olympiads. For all these writers agree as to the date. [@diodorus1989diodorus, {31, IX 21}]
+  reckoning by Olympiads. For all these writers agree as to the date.
 
-Herodotus:
+Herodotus [@rawlinson1909history1, {204, Book I 214}]:
 
 > The greater part of the army of the Persians was
   destroyed, and Cyrus himself fell, after reigning
-  nine and twenty years. [@rawlinson1909history1, {204, Book I 214}]
+  nine and twenty years.
 
-Africanus:
+Africanus [@routh1846reliquiae2, 271]:
 
 > Cyrus igitur anno imperii sui primo, qui Olympiadis quinquagesimæ quintæ primus item annus erat, per Zorobabelem, 
   cujus etiam æqualis idem et socius erat Jesus Josedeci filius, expleta jam septuaginta annorum summa, populi Judaici 
-  partem aliquam primum dimisit, ut apud Esdram Hebræum historicum legimus. [@routh1846reliquiae2, 271]
+  partem aliquam primum dimisit, ut apud Esdram Hebræum historicum legimus.
 
 (Cyrus was in the first year of his reign which was the fifty-fifth Olympiad the first year = 560 BC. 
 [@finegan1998handbook, {156, 288}])
@@ -48,9 +50,7 @@ Africanus:
 
 This information alone isn't sufficiently precise to give us the date 539 BC exactly. As we discussed in 
 [Principles of Chronology](../../judean/principles.md) there are many different ways of reckoning a king's regnal
-years, and the method of counting used in Persia is not currently known. So with information given by the ancient
-historians alone (of Cyrus reign beginning in 560/559 BC, and lasting 29 years), we can only really say he captured 
-Babylon somewhere around 541-539 BC.
+years, and the method of counting used in Persia is not currently known [@depuydt1995evidence, 199]: 
 
 > Discussions about or references to dating methods in
   Achaemenid Persia as a rule assume complete adaptation
@@ -72,20 +72,23 @@ Babylon somewhere around 541-539 BC.
   But the paper also reveals how woefully scant the evidence
   is. It is difficult to imagine what type of source
   could ever emerge to bring certainty in the matter here
-  discussed. [@depuydt1995evidence, 199]
+  discussed.
 
-Also to further complicate the issue other sources give Cyrus a 30 year reign instead, again this isn't necessarily
+So with information given by the ancient historians alone (of Cyrus reign beginning in 560/559 BC, and lasting 29 
+years), we can only really say he captured Babylon somewhere around 541-539 BC. Also to further complicate the issue 
+other sources give Cyrus a 30 year reign instead [@cicero1923divinatione {275, XXIII, 46}], again this isn't necessarily
 a contradiction; it just depends on how the writers were counting the reign.
 
 > He was told by the magi, who are classed as wise and
   learned men among the Persians, that his grasping
   for the sun three times portended that he would reign
   for thirty years! And thus it happened; for he lived
-  to his seventieth year, having begun to reign at forty. [@cicero1923divinatione {275, XXIII, 46}]
+  to his seventieth year, having begun to reign at forty.
 
 ### Contradictions
 
-Using the system of Olympiad numbers Africanus also dates the 20th year of Artaxerxes to 445 BC:
+Using the system of Olympiad numbers Africanus also dates the 20th year of Artaxerxes to 445 BC 
+[@roberts1886ante6, {135, Africanus III XVI}]:
 
 > For from Nehemiah, who was despatched
   by Artaxerxes to build Jerusalem in
@@ -99,12 +102,12 @@ Using the system of Olympiad numbers Africanus also dates the 20th year of Artax
   as they measure the years by the
   course of the moon ; so that, as is easy to show,
   their year consists of 354 days, while the solar
-  year has 365¼days. [@roberts1886ante6, {135, Africanus III XVI}]
+  year has 365¼days.
 
 <sup>(1st olympiad = 776 BC, 83rd Olympiad = 448 BC, 4th year = 445 BC)</sup>
 
 However this is in direct contradiction with the Insight book chronology chapter, and the Watchtower's interpretation
-of Daniel's 70 weeks prophesy (Daniel 9:24):
+of Daniel's 70 weeks prophesy (Daniel 9:24) [@watch2018insight1, {463, CHRONOLOGY}]:
 
 > The next date of major importance is the 20th year of Artaxerxes (Longimanus), the year Nehemiah received permission 
   to go and rebuild Jerusalem. (Ne 2:1, 5-8) The reasons for favoring the date of 455 B.C.E. for this year as against 
@@ -115,15 +118,14 @@ of Daniel's 70 weeks prophesy (Daniel 9:24):
   29 C.E.; his death at “the half of the week” or in the middle of the last week of years, that is, in 33 C.E.; and 
   the end of the period of God’s special favor to the Jews in 36 C.E. Thus, the 70 weeks of years closed with the 
   conversion of Cornelius, 490 years from the year 455 B.C.E.—Ac 10:30-33, 44-48; 11:1. 
-  [@watch2018insight1, {463, CHRONOLOGY}]
-
+  
 Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection to 29/30 AD 
-[@finegan1998handbook, 158]). However this is also in contradiction with the Insight book which says:
+[@finegan1998handbook, 158]). However this is also in contradiction with the Insight book which says
+[@watch2018insight2, {58, JESUS CHRIST}]:
 
 > Jesus’ birth would come about six months later in the fall of 2 B.C.E., his ministry would start about 30 years
   later in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
-  [@watch2018insight2, {58, JESUS CHRIST}]
-
+  
 For the Watchtower's chronology to work it also means dismissing other reigns and dates given by the same
 historians [for the 26th dynasty of Egypt](../../orthodox/egypt/historians.md), since otherwise 
 Necho could not have been Pharaoh at the time of the battle of Megiddo or Carchemish.
@@ -133,6 +135,8 @@ should be trusted, whilst at the same time implicitly rejecting the other dates 
 Egyptian, and Christian history.
 
 ## BM 33066
+
+The Watchtower says [@watch2011when1, 28] [@watch2018insight1, 453]:
 
 > A Babylonian astronomical
   clay tablet (BM 33066) confirms the date of Cyrus’ death in
@@ -145,7 +149,7 @@ Egyptian, and Christian history.
   523 B.C.E. as the beginning of Cambyses’ seventh year. That
   would make his first regnal year 529 B.C.E. So Cyrus’ last year
   would have been 530 B.C.E., making 539 B.C.E. his first year of
-  ruling Babylon. [@watch2011when1, 28]
+  ruling Babylon.
 
 > A Babylonian clay tablet is helpful for connecting Babylonian chronology with Biblical chronology. This tablet 
   contains the following astronomical information for the seventh year of Cambyses II son of Cyrus II: “Year 7, 
@@ -163,7 +167,7 @@ Egyptian, and Christian history.
   his accession year, and the last year of Cyrus II as king of Babylon, was 530 B.C.E. The latest tablet dated in 
   the reign of Cyrus II is from the 5th month, 23rd day of his 9th year. (Babylonian Chronology, 626 B.C.–A.D. 75, 
   by R. Parker and W. Dubberstein, 1971, p. 14) As the ninth year of Cyrus II as king of Babylon was 530 B.C.E., his 
-  first year according to that reckoning was 538 B.C.E. and his accession year was 539 B.C.E. [@watch2018insight1, 453]
+  first year according to that reckoning was 538 B.C.E. and his accession year was 539 B.C.E.
 
 BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the 
 [Astronomical Texts](../../orthodox/astro.md) section, and covered in my 

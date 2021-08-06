@@ -4,36 +4,37 @@ Charles Taze Russell was the founder of the Watchtower Society and Bible Student
 interpretation of Daniel 4's '_seven times_' as a 2520 year prophecy spanning 606 BC to 1914 AD was taken from
 the Adventist writer Nelson Barbour.
 
-In the September 1875 edition of _Herald of the Morning_ Barbour wrote:
+In the September 1875 edition of _Herald of the Morning_ Barbour wrote [@barbour1875herald, 52]:
 
 > I believe that though the gospel dispensation will end in 1878, the Jews will not be restored
   to Palestine, until 1881; and that the “times of the Gentiles,” viz. their seven prophetic times of
   2520, or twice 1260 years, which began where God gave all, into the hands of Nebuchadnezzar,
-  606 B.C.; do not end until A.D. 1914; or 40 years from this. [@barbour1875herald, 52]
+  606 B.C.; do not end until A.D. 1914; or 40 years from this.
 
 In 1876 Russell read this, and spent time discussing it with Barbour [@watchtower1993proclaimers, 46]. 
-Russell adopted the same views and in the October 1876 edition of _Bible Examiner_ he wrote:
+Russell adopted the same views and in the October 1876 edition of _Bible Examiner_ he wrote [@russell1876gentile, 27]:
 
 > if three and one-half times are 1260 years, seven times would be twice as much, i.e. 2520
   years. At the commencement of our Christian era. 606 years of time had passed, (70 years
   captivity, and 536 from Cyrus to Christ) which deducted from 2520, would show that the
-  seven times will end in A.D. 1914 [@russell1876gentile, 27]
+  seven times will end in A.D. 1914
 
 Together in 1877 Barbour and Russell published the book _Three Worlds, and The Harvest of This World_, in it they
-reiterated the same interpretations of the prophesy along with an explanation of the chronology that it was based on:
+reiterated the same interpretations of the prophesy along with an explanation of the chronology that it was based on
+[@barbour1877three, {83, 194}]:
 
 > The seventy years captivity ended in the first year of Cyrus, which was B.C. 536. They
   therefore commenced seventy years before, or B.C. 606. Hence, it was in B.C. 606, that God’s
   kingdom ended, the diadem was removed, and all the earth given up to the Gentiles. 2520
-  years from B.C. 606, will end in A.D. 1914, or forty years from 1874. [@barbour1877three, 83]
+  years from B.C. 606, will end in A.D. 1914, or forty years from 1874.
 
 > The fact that the first year of Cyrus was B.C. 536, is based on Ptolemy’s canon, supported by
   the eclipses by which the dates of the Grecian and Persian era have been regulated. And the
   accuracy of Ptolemy’s canon is now accepted by all the scientific and literary world, Hence,
-  from the days of Nebuchadnezzar to the Christian era, there is but one chronology. [@barbour1877three, 194]
+  from the days of Nebuchadnezzar to the Christian era, there is but one chronology.
 
 Russell later dedicated an entire chapter of Millennial Dawn (later renamed as Studies in the Scriptures) 
-Volume II (first published in 1889) to the ‘Gentile times’, he explains:
+Volume II (first published in 1889) to the ‘Gentile times’, he explains [@russell1889millenial2, 79]:
 
 > The Bible evidence is clear and strong that the “Times of the Gentiles” is a period of 2520
   years, from the year B.C. 606 to and including A.D. 1914. This lease of universal dominion
@@ -62,7 +63,7 @@ Volume II (first published in 1889) to the ‘Gentile times’, he explains:
   it B.C. 536. And if B.C. 536 was the year in which the seventy years of Jerusalem’s desolation
   ended and the restoration of the Jews began, it follows that their kingdom was overthrown
   just seventy years before B.C. 536, i.e., 536 plus 70, or B.C. 606. This gives us the date of the
-  beginning of the Times of the Gentiles—B.C. 606. [@russell1889millenial2, 79]
+  beginning of the Times of the Gentiles—B.C. 606.
 
 ## Issues
 
@@ -101,7 +102,7 @@ starts with the statement that 'we may not be sure' if there was a year zero or 
   our calculation of Gentile Times. [@watch1912ending]
 
 Again this is still incorrect - it is a fact there was no year 0, Dionysius began his calendar from 1 BC. 
-The article ends with an extract from a sermon given by Russell in 1904:
+The article ends with an extract from a sermon given by Russell in 1904 [@watch1912ending]:
 
 > Many of our readers will recall our reference to this subject
   in a sermon preached at Allegheny, Pa., January 11, 1904. and 
@@ -130,7 +131,6 @@ The article ends with an extract from a sermon given by Russell in 1904:
   strife and anarchy "such as never was since there was a
   nation" may be the final ending of the Gentile Times or the
   beginning of Messiah’s reign. \[See Vol. 2, SCRIPTURE STUDIES.\]
-  [@watch1912ending]
 
 In the March 1915 Watchtower changes to the Studies in the Scriptures series were listed, including some replacements
 of 1914 with 1915 [@watch1915changes] [@russell1915studies2]:

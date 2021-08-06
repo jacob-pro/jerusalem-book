@@ -13,7 +13,8 @@ in the spring of 538 BC.
 
 ## The Watchtower's Date
 
-The Watchtower lists the year 537 BC as the time that the Jews returned to Jerusalem:
+The Watchtower lists the year 537 BC as the time that the Jews returned to Jerusalem 
+[@watch2018insight1, {458, Chronology}] [@watch2018insight1, {568, Cyrus}]:
 
 > During Cyrus’ first year his decree releasing
   the Jews from exile was given. And, as considered
@@ -24,7 +25,7 @@ The Watchtower lists the year 537 BC as the time that the Jews returned to Jerus
   the four-month journey to Jerusalem, and
   still arrive there by the seventh month (Tishri,
   or about October 1) of 537 B.C.E.—Ezr 1:1-11;
-  2:64-70; 3:1. [@watch2018insight1, {458, Chronology}]
+  2:64-70; 3:1.
 
 > In view of the Bible record, Cyrus’ decree
   freeing the Jews to return to Jerusalem likely was
@@ -38,12 +39,12 @@ The Watchtower lists the year 537 BC as the time that the Jews returned to Jerus
   3:1, 6) This marked the end of the prophesied 70
   years of Judah’s desolation that began in the
   same month, Tishri, of 607 B.C.E.—2Ki 25:22-26;
-  2Ch 36:20, 21. [@watch2018insight1, {568, Cyrus}]
+  2Ch 36:20, 21.
 
 ## Alternatives
 
 Some historians suggest that Cyrus issued his decree near the start of his first year, and therefore the 
-exiles had returned by the 7th month in 538 BC:
+exiles had returned by the 7th month in 538 BC [@boardman2008cambridge, 432]:
 
 > It is a reasonable hypothesis, therefore, that work was begun on the
   Temple site under the direction of Sheshbazzar as soon as the returning
@@ -59,10 +60,9 @@ exiles had returned by the 7th month in 538 BC:
   the time of harvest (Lev. 23:33-6; Deut. 16:13—15). This strongly
   suggests that the 'seventh month' in which Zerubbabel built the altar
   was Tishri in 538, rather than simply the seventh month after the return
-  [@boardman2008cambridge, 432]
-
+ 
 On the other hand Steinmann argues that it would have taken 5 years from Cyrus decree before the exiles
-returned to Jerusalem, which would be 533 BC:
+returned to Jerusalem, which would be 533 BC [@steinmann2008chronological]:
 
 > Thus it is possible with external information to determine when Sheshbazzar
   and Zerubbabel led the Judean exiles back to Jerusalem and the Persian
@@ -97,7 +97,7 @@ returned to Jerusalem, which would be 533 BC:
   allowing for the opposition to persuade Persian authorities to halt the work.
   Thus from the text of Ezra and the evidence of the sabbatical year cycles
   of the post-exilic era we can be reasonably certain that Sheshbazzar and
-  Zerubbabel and the people with them returned in 533 BC. [@steinmann2008chronological]
+  Zerubbabel and the people with them returned in 533 BC.
 
 Furthermore as we have already seen the Watchtower is assuming that the Bible writers were counting the reign of
 Nebuchadnezzar, king of Babylon, inclusive of his accession year [@watch2018insight2, {481, NEBUCHADNEZZAR}]
@@ -109,7 +109,8 @@ issued as early as the October of 539 BC up to Nisan in 538 BC?
 
 As we have seen the date that the exiles returned to Jerusalem is used by the Watchtower to calculate
 the destruction of Jerusalem (by counting back 70 years). How can the Watchtower be so sure that this date was 537 BC
-and not one of the other possibilities?
+and not one of the other possibilities? The Watchtower offers two reasons, however both are invalid 
+[@watch2018insight1, {800, Ezrah}] [@watch1964comely, 80]:
 
 > The 70th year of Jerusalem’s desolation,
   the last enforced sabbath on the land, would end
@@ -126,7 +127,7 @@ and not one of the other possibilities?
   and set up the altar on the first day of the seventh
   month (Tishri) of the year 537 B.C.E., September
   29 according to the Gregorian calendar.
-  —Ezr 3:2-6. [@watch2018insight1, {800, Ezrah}]
+  —Ezr 3:2-6.
 
 > Jehovah God had decreed that their land should rest without inhabitants for seventy years. Its seventieth year of 
   sabbath-keeping began in the early autumn of 538 B.C., about the time of the Jewish Day of Atonement. Cyrus’ decree 
@@ -143,21 +144,21 @@ and not one of the other possibilities?
   537 B.C., and in that way the exiled Israelites could make arrangements to travel in the convenient dry season from 
   April through September. They evidently made the four-month-long journey from Babylon during the dry months, for by 
   October they were back and settled in their beloved homeland, before the first day of their seventh lunar 
-  month.—Ezra 3:1. [@watch1964comely, 80]
+  month.—Ezra 3:1.
 
-The Watchtower offers two reasons, however both are invalid. The first is the speculation that Cyrus must have issued 
+The first is the speculation that Cyrus must have issued 
 his decree at the end of the rainy season - even if this were true, we have seen above that
 this does not mean the Jews must have returned in 537 BC, for example Cyrus could have issued his decree in the 
 first few months of his first year, such that the Jews would have had plenty
 of time to make travel to Jerusalem before the 7th month of 538 BC (as described by The Cambridge Ancient History). 
 
-The second reason given is that "The desolation had to last until the 70th year ended" however this is an example
-of **circular reasoning**, since the Watchtower only knows when the 70 years began by counting backwards from when
-they ended. As stated in the Watchtower 2011:
+The second reason given is that "The desolation had to last until the 70th year ended" however this is based upon
+circular reasoning, since the Watchtower only knows when the 70 years began by counting backwards from when
+they ended. As stated in the Watchtower 2011 [@watch2011when1, {27-28}]:
 
 > When Did “the Seventy Years” Start?
   <br>...<br> 
   So this event evidently marked the starting point of the 70 years. 
-  And what year was that? To answer, we need to see when that period ended. [@watch2011when1, {27-28}]
+  And what year was that? To answer, we need to see when that period ended.
 
 ## References
