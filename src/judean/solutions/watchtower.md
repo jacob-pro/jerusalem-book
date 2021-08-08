@@ -79,6 +79,9 @@ interpretation of the chronicle:
   Nechoh came may well have been Ashur-uballit II. Their campaign against Haran did not succeed. The Assyrian Empire
   had ended. [@watch2018insight1, {205, ASSYRIA}]
 
+I raised this issue in a [letter to the Watchtower](../../appendix/letter_josiah.md), 
+however they declined to answer my question.
+
 ### Battle of Carchemish
 
 > The fourth year of the reign of Jehoiakim
