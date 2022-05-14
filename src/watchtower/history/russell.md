@@ -1,7 +1,7 @@
 # Russell and Barbour (1875+)
 
 Charles Taze Russell was the founder of the Watchtower Society and Bible Student movement. His 
-interpretation of Daniel 4's '_seven times_' as a 2520 year prophecy spanning 606 BC to 1914 AD was taken from
+interpretation of Daniel 4's 'seven times' as a 2520-year prophecy spanning 606 BC to 1914 AD was taken from
 the Adventist writer Nelson Barbour.
 
 In the September 1875 edition of _Herald of the Morning_ Barbour wrote [@barbour1875herald, 52]:
@@ -19,8 +19,8 @@ Russell adopted the same views and in the October 1876 edition of _Bible Examine
   captivity, and 536 from Cyrus to Christ) which deducted from 2520, would show that the
   seven times will end in A.D. 1914
 
-Together in 1877 Barbour and Russell published the book _Three Worlds, and The Harvest of This World_, in it they
-reiterated the same interpretations of the prophesy along with an explanation of the chronology that it was based on
+Together in 1877 Barbour and Russell published the book _Three Worlds, and The Harvest of This World_ in which they
+reiterated the same interpretations of the prophecy along with an explanation of the chronology that it was based on
 [@barbour1877three, {83, 194}]:
 
 > The seventy years captivity ended in the first year of Cyrus, which was B.C. 536. They
@@ -33,8 +33,8 @@ reiterated the same interpretations of the prophesy along with an explanation of
   accuracy of Ptolemy’s canon is now accepted by all the scientific and literary world, Hence,
   from the days of Nebuchadnezzar to the Christian era, there is but one chronology.
 
-Russell later dedicated an entire chapter of Millennial Dawn (later renamed as Studies in the Scriptures) 
-Volume II (first published in 1889) to the ‘Gentile times’, he explains [@russell1889millenial2, 79]:
+Russell later dedicated an entire chapter of _Millennial Dawn_ (later published as _Studies in the Scriptures_) 
+Volume II (first edition in 1889) to the ‘Gentile times’, he explains [@russell1889millennial2, 79]:
 
 > The Bible evidence is clear and strong that the “Times of the Gentiles” is a period of 2520
   years, from the year B.C. 606 to and including A.D. 1914. This lease of universal dominion
@@ -69,18 +69,18 @@ Volume II (first published in 1889) to the ‘Gentile times’, he explains [@ru
 
 ### Ptolemy’s canon
 
-As we saw in the [Ptolemy’s canon](../../orthodox/canon.md) section, the canon shows the first year of Cyrus was 538 BC
-and not 536 BC as claimed by Russell.
+As we saw in the [Ptolemy’s canon](../../orthodox/canon.md) section, the canon shows the first year of Cyrus is
+dated to 538 BC and not 536 BC as falsely claimed by Russell.
 
-Furthermore if Russell had actually read the text he would have seen that the canon gives Nebuchadnezzar's
-1st year as 604 BC. which is incompatible with his belief in a 70 year exile.
+Furthermore, if Russell had actually read the text he would have seen that the canon dates Nebuchadnezzar's
+1st year to 604 BC, which is incompatible with his belief in a 70-year exile.
 
 ### Year Zero
 
-Russell made an error in his calculation of 2520 years from 606 BC, since there was no year zero, it should actually
-terminate at 1915, not 1914!
+Russell made an error in his calculation counting 2520 years from 606 BC, since there was no year zero, he should 
+actually have arrived at 1915 AD, not 1914.
 
-An article in the Watchtower 1912 discusses this issue in detail, it
+An article in the 1912 Watchtower [@watch1912ending] discusses this issue in detail, it
 starts with the statement that 'we may not be sure' if there was a year zero or not:
 
 > So matters continued with little effort to arrange an exact
@@ -99,9 +99,9 @@ starts with the statement that 'we may not be sure' if there was a year zero or 
   the B.C. dates December 31st, B.C. 0, or December 31st,
   B.C. 1. For all ordinary purposes this question would be
   rather immaterial. But it has a very important bearing on
-  our calculation of Gentile Times. [@watch1912ending]
+  our calculation of Gentile Times.
 
-Again this is still incorrect - it is a fact there was no year 0, Dionysius began his calendar from 1 BC. 
+Again this is still incorrect - it is a certain fact there was no year 0; Dionysius began his calendar from 1 BC. 
 The article ends with an extract from a sermon given by Russell in 1904 [@watch1912ending]:
 
 > Many of our readers will recall our reference to this subject
@@ -132,8 +132,9 @@ The article ends with an extract from a sermon given by Russell in 1904 [@watch1
   nation" may be the final ending of the Gentile Times or the
   beginning of Messiah’s reign. \[See Vol. 2, SCRIPTURE STUDIES.\]
 
-In the March 1915 Watchtower changes to the Studies in the Scriptures series were listed, including some replacements
-of 1914 with 1915 [@watch1915changes] [@russell1915studies2]:
+In the March 1915 Watchtower changes to the _Studies in the Scriptures_ series were listed, including some replacements
+of '1914' with '1915' [@watch1915changes] [@russell1915studies2], indicating Russell had recognized his error, but also
+that the year 1914 had not met his prophetic expectations:
 
 > We call attention to a few slight changes which have been made in four pages of Vol. II. and six pages of Vol. III., 
   “Studies in the Scriptures.” These are all trivial and do not alter the real sense and lesson, but conform to the 
@@ -146,4 +147,3 @@ of 1914 with 1915 [@watch1915changes] [@russell1915studies2]:
   Vol II., page 221, line 25, "full favour until A.D. 1914" reads "full favour until after 1915." 
 
 ## References
-
