@@ -32,10 +32,10 @@ however the Watchtower has chosen to reject these [@watch1981let, 138] [@watch20
 
 ## Discussion in the _Awake!_ 2012
 
-The series "The Bible—A Book of Accurate Prophecy" in the _Awake!_ magazine attempts to demonstrate the 
-"divine inspiration" of Jeremiah's 70 year prophesy.
+The series 'The Bible — A Book of Accurate Prophecy' in the _Awake!_ magazine attempts to demonstrate the 
+'divine inspiration' of Jeremiah's 70 year prophesy.
 
-Regarding the 70 year period (Jeremiah 25:11) the _Awake!_ says [@watch2012accurate, 13]:
+Regarding the 70-year period (Jeremiah 25:11) the _Awake!_ says [@watch2012accurate, 13]:
 
 > Fulfillment: After an extended siege, Nebuchadnezzar sacked Jerusalem in 607 B.C.E. He also conquered other 
   Judean cities, including Lachish and Azekah. (Jeremiah 34:6, 7) He deported most of the survivors to Babylon, where 
@@ -53,8 +53,8 @@ However as we have seen there is no evidence for the dating the destruction of J
 assuming the 70 year prophesy did come true, assuming that the Jews returned in the 2nd year of Cyrus, and 
 then counting back 70 years from 537 BC.
 
-Then the "What history reveals" contains the statement that Nebuchadnezzar "ruled from 624 to 582 B.C.E.", but no 
-historical evidence for this has been provided (independent of Jeremiah's prophesy which this paragraph is trying
+Then the 'What history reveals' section contains the statement that Nebuchadnezzar 'ruled from 624 to 582 B.C.E.', but 
+no historical evidence for this has been provided (independent of Jeremiah's prophesy which this paragraph is trying
 to prove the accuracy of).
 
 Regarding the return of the exiles (Jeremiah 29:10) the _Awake!_ says [@watch2012accurate, 14]:
@@ -164,7 +164,7 @@ being plundered in the first year of Nebuchadnezzar (see [BM 21946](../../orthod
 
 ## Discussion in _The Bible—God’s Word or Man's?_
 
-Jeremiah's prophesy is discussed in Chapter 9 "Prophecies That Came True" [@watch1989bible, 120]:
+Jeremiah's prophesy is discussed in Chapter 9 'Prophecies That Came True' [@watch1989bible, 120]:
 
 > <sup>7. How does archaeology testify to the fulfillment of the prophecies of Isaiah and Jeremiah concerning 
   Jerusalem?</sup>

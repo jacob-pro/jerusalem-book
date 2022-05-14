@@ -102,7 +102,7 @@ returned to Jerusalem, which would be 533 BC [@steinmann2008chronological]:
 Furthermore as we have already seen the Watchtower is assuming that the Bible writers were counting the reign of
 Nebuchadnezzar, king of Babylon, inclusive of his accession year [@watch2018insight2, {481, NEBUCHADNEZZAR}]
 (see section [Watchtower Judean Chronology](../../judean/solutions/watchtower.md)). We must therefore ask
-if the Bible writers were doing the same when they refer "the first year of Cyrus"; could the edict have been
+if the Bible writers were doing the same when they refer 'the first year of Cyrus'; could the edict have been
 issued as early as the October of 539 BC up to Nisan in 538 BC?
  
 ## Issues
@@ -152,7 +152,7 @@ this does not mean the Jews must have returned in 537 BC, for example Cyrus coul
 first few months of his first year, such that the Jews would have had plenty
 of time to make travel to Jerusalem before the 7th month of 538 BC (as described by The Cambridge Ancient History). 
 
-The second reason given is that "The desolation had to last until the 70th year ended" however this is based upon
+The second reason given is that 'The desolation had to last until the 70th year ended' however this is based upon
 circular reasoning, since the Watchtower only knows when the 70 years began by counting backwards from when
 they ended. As stated in the Watchtower 2011 [@watch2011when1, {27-28}]:
 

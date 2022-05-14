@@ -181,7 +181,7 @@ have fallen to Cyrus in 539 BC.
 ### Problems
 
 As we will see later in this chapter (section [Criticism of Orthodox Babylonian Chronology](../criticisms/README.md))
-the Watchtower using these sources as a base for their "Biblical chronology" contradicts their own arguments; in short:
+the Watchtower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
 
 - It is not clear how the Watchtower can justify using 
   [BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md)
