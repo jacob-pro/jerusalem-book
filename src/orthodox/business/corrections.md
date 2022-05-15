@@ -41,7 +41,7 @@ Added missing tablet Amel-Marduk 00.5.20 [@bm75322] to the database.
 
 ### BM 80920
 
-AOATS 4, 56 (Sack No. 56) [@sack1972amēl]
+AOATS 4, 56 (Sack No. 56) [@sack1972amel]
 
 Correction of database from Amel-Marduk acc.04.20 to acc.07.20 [@bm80920].
 
@@ -53,7 +53,7 @@ Correction of database to Amel-Marduk from 00.06?.05 to 00.11?.05 [@bm65270]
 
 ### HMA 9-02507
 
-UCP 9/1, II, 29. (UCBC 378) [@lutz1931selected, 53] or Sack No. 70 [@sack1972amēl, 99] 
+UCP 9/1, II, 29. (UCBC 378) [@lutz1931selected, 53] or Sack No. 70 [@sack1972amel, 99] 
 
 Moved from Amel-Marduk 00.4.29 to an unknown month - "The tablet is eroded and the sign is not very clear".
 

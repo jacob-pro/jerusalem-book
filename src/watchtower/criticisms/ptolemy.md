@@ -39,6 +39,43 @@ they instead directly cited the canon:
 
 ## Watchtower (1969)
 
+The first major criticism of Ptolemy's canon is in the 1969 article 'Babylonian Chronology — How Reliable?'
+[@watch1969babylonian, 90], it claims that the chronology of Ptolemy's canon leads to a 'gap' in Assyrian chronology:
+
+> On the other hand, those who hold to a strict Ptolemaic reckoning are obliged to explain a sizable gap of their own. 
+  This gap develops when they attempt to harmonize Babylonian and Assyrian history so as to arrive at 625 B.C.E. for the 
+  start of the Neo-Babylonian period.
+  <br/>
+  The Babylonian Chronicle states that Nineveh, Assyria’s capital, fell to the Babylonian forces in Nabopolassar’s 
+  fourteenth year. Following Ptolemy, the secular historians date that event in 612 B.C.E. At the same time, on the 
+  basis of astronomical calculations, they also hold to the year 763 B.C.E. as an absolute date representing the 
+  ninth year of Assyrian king Assur-dan III. So, they should be able to count forward from that year and show that 
+  Assyrian rule at Nineveh did extend as far as 612 B.C.E. But can they? Well, with the help of eponym and king lists 
+  and other source material, they manage to set up a chronology that reaches as far as 668 B.C.E., the year they assign 
+  for the start of Ashurbanipal’s reign. But from that point forward there is considerable confusion.
+
+The Watchtower alleges that there is a 'gap' in the reign of Sinsharishkun:
+
+> As might be expected, the above sources also give varied dates for the reign of Ashurbanipal’s probable successor, 
+  Ashur-etillu-ilani. And so, too, for the reign of Sin-shar-ishkun, apparently the king at the time of Nineveh’s fall. 
+  Some historians extend this last king’s reign for as long as eighteen years, though dated tablets have been found only 
+  up to his seventh year. 
+  <br/>
+  Thus historians are willing to exhibit much flexibility in order to hold to both the Ptolemaic chronology and their 
+  pivotal date of 763 B.C.E., even to the point of conjecturing longer reigns for these final rulers of the Assyrian 
+  empire than the evidence at hand will support. They have an awkward gap on their hands—one that is not easy to fill.
+
+However, what is known is that Sinsharishkun's accession year occurred around 627 BC (the year prior 
+to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246]. The evidence includes:
+
+- The [Uruk King List](../../orthodox/im65066.md) names Sinsharishkun as king in the year prior to Nabopolassar.
+- The chronicle [BM 25127](../../orthodox/chronicles/bm25127.md) (lines 1-14) names Sinsharishkun as being in command of 
+  the Assyrian army in the months prior to Nabopolassar's accession [@gadd1958harran, 71].
+
+The Watchtower is correct that Sinsharishkun died during Nineveh's fall (see the chronicle 
+[BM 21901](../../orthodox/chronicles/bm21901.md)), if fails to mention that this event is dated to Nabopolassar's 14th 
+year in 612 BC, hence proving Sinsharishkun did indeed reign for more than 7 years (approximately 16).
+
 ## Let Your Kingdom Come (1981)
 
 ## Watchtower (2011)
