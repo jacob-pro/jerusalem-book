@@ -8,10 +8,10 @@ The aim of this book is to answer the following questions:
  
 ## About the Author
 
-My name is Jacob Halsey, I am a software engineer / computer scientist. My interest in this topic stems from
+My name is Jacob Halsey, I am a software engineer, my interest in this topic stems from
 being encouraged by friends and family to research the biblical prophecies of Daniel, and from having read the 
 "Daniel Book" [@watch2006pay] many years ago. I am not (and have never been) a baptised member of 
-Jehovah's Witnesses myself.
+Jehovah's Witnesses myself, all opinions expressed are my own.
 
 ## About the Book
 
@@ -25,6 +25,6 @@ If you notice any errors, have suggestions for improvements, or any other questi
 If you are unable to access the materials referenced in this book please look into 
 [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) and [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis).
 Also note that some books on the [HathiTrust](https://www.hathitrust.org/) library are only available when accessed
- from a USA IP address.
+from a USA IP address.
 
 ## References

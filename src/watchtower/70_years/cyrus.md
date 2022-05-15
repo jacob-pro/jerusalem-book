@@ -190,6 +190,6 @@ the Watchtower using these sources as a base for their 'Biblical chronology' con
   whilst rejecting the dates of [seven other astronomical texts](../../orthodox/astro.md).
 - Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make much sense
   given that for the 70 year prophesy to be correct relies on the assumption that the business tablets do not
-  constitute a "continuous chronological record".
+  constitute a 'continuous chronological record'.
 
 ## References

@@ -99,12 +99,12 @@ returned to Jerusalem, which would be 533 BC [@steinmann2008chronological]:
   of the post-exilic era we can be reasonably certain that Sheshbazzar and
   Zerubbabel and the people with them returned in 533 BC.
 
-Furthermore as we have already seen the Watchtower is assuming that the Bible writers were counting the reign of
+Furthermore, as we have already seen the Watchtower is assuming that the Bible writers were counting the reign of
 Nebuchadnezzar, king of Babylon, inclusive of his accession year [@watch2018insight2, {481, NEBUCHADNEZZAR}]
 (see section [Watchtower Judean Chronology](../../judean/solutions/watchtower.md)). We must therefore ask
 if the Bible writers were doing the same when they refer 'the first year of Cyrus'; could the edict have been
-issued as early as the October of 539 BC up to Nisan in 538 BC?
- 
+issued as early as the period from October 539 BC up to Nisan in 538 BC?
+
 ## Issues
 
 As we have seen the date that the exiles returned to Jerusalem is used by the Watchtower to calculate

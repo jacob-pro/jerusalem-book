@@ -85,13 +85,44 @@ there is no indication Ptolemy's canon is incorrect.
 ## The Watchtower (1971)
 
 In a 1971 article the Watchtower ended the illusion that the year 539 BC could be found from the Nabonidus chronicle.
-But despite having attempted to discredit Ptolemy's canon only two years before, they strangely returned to directly
+But despite having attempted to discredit Ptolemy's canon only two years before, they returned to directly
 referencing it as a source for their chronology [@watch1971testimony, 316]:
 
 > Also other sources, including Ptolemy’s canon, point to the year 539 B.C.E. as the date for Babylon’s fall.
 
-## Let Your Kingdom Come (1981)
-
 ## Watchtower (2011)
+
+In the 2011 article 'When Was Ancient Jerusalem Destroyed?' the Watchtower returns to criticising the canon,
+implying that by omitting certain kings its chronology might not be accurate [@watch2011when1, 30-31]:
+
+> How does Ptolemy’s list compare with that cuneiform record? The box “How Does Ptolemy’s Canon Compare With Ancient 
+  Tablets?” (see below) shows a portion of the canon and compares this with an ancient cuneiform document. Notice that 
+  Ptolemy lists only four kings between the Babylonian rulers Kandalanu and Nabonidus. However, the Uruk King List​—a 
+  part of the cuneiform record—​reveals that seven kings ruled in between. Were their reigns brief and negligible? 
+  One of them, according to cuneiform economic tablets, ruled for seven years.⁸
+  <br><br>
+  There is also strong evidence from cuneiform documents that prior to the reign of Nabopolassar (the first king of the 
+  Neo-Babylonian period), another king (Ashur-etel-ilani) ruled for four years in Babylonia. Also, for more than a 
+  year, there was no king in the land.⁹ Yet, all of this is left out of Ptolemy’s canon.
+  <br><br>
+  Why did Ptolemy omit some rulers? Evidently, he did not consider them to be legitimate rulers of Babylon.¹⁰ For 
+  example, he excluded Labashi-Marduk, a Neo-Babylonian king. But according to cuneiform documents, the kings whom 
+  Ptolemy omitted actually ruled over Babylonia.
+  <br><br>
+  <sup>
+    8. Sin-sharra-ishkun ruled for seven years, and 57 economic tablets of this king are dated from his accession year 
+    through year seven. See Journal of Cuneiform Studies, Volume 35, 1983, pages 54-59.
+    <br>
+    9. The economic tablet C.B.M. 2152 is dated in the fourth year of Ashur-etel-ilani. (Legal and Commercial 
+    Transactions Dated in the Assyrian, Neo-Babylonian and Persian Periods​—Chiefly From Nippur, by A.T. Clay, 1908, 
+    page 74.) Also the Harran Inscriptions of Nabonidus, (H1B), I, line 30, has him listed just before Nabopolassar. 
+    (Anatolian Studies, Vol. VIII, 1958, pages 35, 47.) For the kingless period, see Chronicle 2, line 14, of Assyrian 
+    and Babylonian Chronicles, pages 87-88.
+    10. Some scholars contend that certain kings were omitted by Ptolemy​—who supposedly listed only kings of 
+    Babylon—​because these were called by the title “King of Assyria.” However, as you will note in the box on page 
+    30, several kings included in Ptolemy’s canon also had the title “King of Assyria.” Economic tablets, cuneiform 
+    letters, and inscriptions clearly reveal that kings Ashur-etel-ilani, Sin-shumu-lishir, and Sin-sharra-ishkun ruled 
+    over Babylonia.
+  </sup>
 
 ## References
