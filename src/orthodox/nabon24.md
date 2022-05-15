@@ -167,31 +167,33 @@ First Translation: 1958 by C J Gadd.
 
 Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`.
 
-Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns / the time that Adad-Guppi served:
+Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns / the time that Adad-Guppi lived 
+through:
 
-| King                                  | Time Served |
-|---------------------------------------|-------------|
-| Ashurbanipal                          | 42 Years    |
-| Ashur-etil-ilani                      | 3 Years     |
-| Nabopolassar                          | 21 Years    |
-| Nebuchadnezzar II                     | 43 Years    |
-| Amel-Marduk                           | 2 Years     |
-| Neriglissar                           | 4 Years     |
+| King                                  | Length   |
+|---------------------------------------|----------|
+| Ashurbanipal                          | 42 Years |
+| Ashur-etil-ilani                      | 3 Years  |
+| Nabopolassar                          | 21 Years |
+| Nebuchadnezzar II                     | 43 Years |
+| Amel-Marduk                           | 2 Years  |
+| Neriglissar                           | 4 Years  |
 
 Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4).
 
 Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of Nabonidus `104 years`.
 
-## Notes
+## Errors
 
-There is some uncertainty about the accuracy or interpretation of the reigns given for the Assyrian kings 
-Ashurbanipal and Ashur-etil-ilani.
+It would appear the scribes made an error in counting the length of Adad Guippi's life; according to the standard
+chronology if she was born in the 20th year of Ashurbanipal (649 BC) and died in the 9th year of Nabonidus (547 BC)
+this would mean she died 102 years old [@gadd1958harran, 71].
 
-One possibility is that Ashur-etil-ilani's reign coincided with the last 4 years of Ashurbanipal [@oates1965assyrian, 138] 
-[@van1962inschriftenfunde, 57], however this would mean that the total lengths of 95/104 years would be incorrect due 
-to double counting. Others disagree and believe the inscription does not contain any error [@gerber1998inschrift].
+There is a great degree of uncertainty concerning the end of Ashurbanipal's reign and that of his successors
+Ashur-etil-ilani, Sinsharishkun and Sin-shumu-lishir, but it would appear very likely that there was some kind of 
+overlap between them, which would explain the miscounting [@oates1965assyrian, 138, 141]
+[@van1962inschriftenfunde, 57] [@borger1965aufstieg, 61] [@gerber1998inschrift, 74].
 
-Unfortunately there is limited evidence to be completely certain about the chronology of the last Assyrian 
-kings [@leichty1983inscription, 220].
+Nevertheless, the lengths for the Babylonian kings are consistent with all other data.
 
 ## References

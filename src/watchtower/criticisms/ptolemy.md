@@ -15,32 +15,26 @@ by Barbour and the Russell as the source of their chronology [@barbour1877three.
   year of the reign of Cyrus is a very clearly fixed date — both secular and religious histories with marked unanimity 
   agreeing with Ptolemy’s Canon, which places it B.C. 536.
 
-## Watchtower (1952 - 1971)
+## The Watchtower (1952 - 1968)
 
-As we saw in the [History of the Watchtower Chronology](../history/README.md) from 1952 up to 1971 the Watchtower
-were now claiming that Babylon fell in 539 BC [@watch1968book, 490]:
+The [Watchtower history section](../history/README.md) shows that from 1952 onwards the Watchtower began to use
+the date 539 BC for the fall of Babylon [@watch1968book, 490], supposedly based on the Nabonidus chronicle:
 
 > The fixing of 539 B.C.E. as the year when this historical event occurred is based on a stone document known as the 
   Nabonidus (Nabunaid) Chronicle. 
 
-The [Nabonidus Chronicle](../../orthodox/chronicles/bm35382.md) doesn't actually contain anything datable
-to the Julian calendar, but footnotes in each of these issues of the Watchtower actually cite
+But the [Nabonidus Chronicle](../../orthodox/chronicles/bm35382.md) doesn't actually contain anything datable
+to the Julian calendar; the footnotes in each of these issues of the Watchtower instead cite
 Parker and Dubberstein's tables, which were in turn principally based upon Ptolemy's canon 
-[@dubberstein1942babylonian, 8], and would have been used to map the dates in the Nabonidus chronicle:
+[@dubberstein1942babylonian, 8], and would have been used to map the date in the Nabonidus chronicle to 539 BC:
 
 > The general basis for the chronology of the period here treated is furnished by the Ptolemaic Canon, with help from 
   classical sources.
 
-When the Watchtower 1971 ceased claiming the Nabonidus chronicle could be used to date the fall of Babylon
-they instead directly cited the canon:
+## The Watchtower (1969)
 
-> Also other sources, including Ptolemy’s canon, point to the year 539 B.C.E. as the date for Babylon’s fall. 
-  [@watch1971testimony, 316]
-
-## Watchtower (1969)
-
-The first major criticism of Ptolemy's canon is in the 1969 article 'Babylonian Chronology — How Reliable?'
-[@watch1969babylonian, 90], it claims that the chronology of Ptolemy's canon leads to a 'gap' in Assyrian chronology:
+Despite having explicitly and implicitly based their chronology on Ptolemy's canon until this point, the 1969 article 
+'Babylonian Chronology — How Reliable?' [@watch1969babylonian, 90] starts to question its reliability:
 
 > On the other hand, those who hold to a strict Ptolemaic reckoning are obliged to explain a sizable gap of their own. 
   This gap develops when they attempt to harmonize Babylonian and Assyrian history so as to arrive at 625 B.C.E. for the 
@@ -54,7 +48,9 @@ The first major criticism of Ptolemy's canon is in the 1969 article 'Babylonian 
   and other source material, they manage to set up a chronology that reaches as far as 668 B.C.E., the year they assign 
   for the start of Ashurbanipal’s reign. But from that point forward there is considerable confusion.
 
-The Watchtower alleges that there is a 'gap' in the reign of Sinsharishkun:
+The Watchtower is correct to state that Ashurbanipal's accession year is accepted to be 669 BC, but that the length and 
+circumstances of the end of his reign remain disputed [@oates1965assyrian, 135] [@reade1970accession, 1]. But they then 
+suggest that using the chronology of Ptolemy's canon leads to an unexplained 'gap' in the reign of Sinsharishkun:
 
 > As might be expected, the above sources also give varied dates for the reign of Ashurbanipal’s probable successor, 
   Ashur-etillu-ilani. And so, too, for the reign of Sin-shar-ishkun, apparently the king at the time of Nineveh’s fall. 
@@ -65,23 +61,34 @@ The Watchtower alleges that there is a 'gap' in the reign of Sinsharishkun:
   pivotal date of 763 B.C.E., even to the point of conjecturing longer reigns for these final rulers of the Assyrian 
   empire than the evidence at hand will support. They have an awkward gap on their hands—one that is not easy to fill.
 
-However, what is known is that Sinsharishkun's accession year occurred somewhere around 627 BC (the year prior 
-to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246]. The evidence includes:
+This is odd, because the dispute among scholars concerns the extent to which the reigns of the late Assyrian kings
+(Ashurbanipal, Ashur-etil-ilani, Sinsharishkun and Sin-shumu-lishir) must overlap, not whether there is any gap 
+between them. It is generally accepted that Sinsharishkun's accession year occurred somewhere around 627 BC (the year 
+prior to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246]. The evidence includes:
 
 - The [Uruk King List](../../orthodox/im65066.md) names Sinsharishkun as king in the year prior to Nabopolassar.
 - The chronicle [BM 25127](../../orthodox/chronicles/bm25127.md) (lines 1-14) names Sinsharishkun as being in command of 
   the Assyrian army in the months prior to Nabopolassar's accession [@gadd1958harran, 71].
 
-The Watchtower is correct that Sinsharishkun died during Nineveh's fall (see the chronicle 
-[BM 21901](../../orthodox/chronicles/bm21901.md)), but it fails to mention that this event is dated to Nabopolassar's 
-14th year in 612 BC, hence proving Sinsharishkun reigned in Assyria for approximately 16 years.
+The Watchtower itself points out that Sinsharishkun died during Nineveh's fall (see the chronicle 
+[BM 21901](../../orthodox/chronicles/bm21901.md)) which is dated to Nabopolassar's 14th year in 612 BC. So we can now 
+see why Sinsharishkun's reign in Assyria must span approximately 16 years, it has not been 'extended' without evidence.
 
 The dated texts from the first 7 years of Sinsharishkun's reign are those found in the cities of Babylon,
 Nippur, Uruk, Sippar [@everling2013materials, 17], it was during these 7 years that Nabopolassar king of Babylon and
 Sinsharishkun king of Assyria were at war. The cities were under siege and changed control multiple times 
 [@oppenheim1955siege, 85], but by Nabopolassar's 7th year Assyria had 'lost its last foothold in Babylonia' 
-[@naaman1991chronology, 251, 265]. There is therefore a 'gap' in the texts dated to the later part of Sinsharishkun's 
-reign, but this is simply because he was no longer king of the Babylonian cities anymore.
+[@naaman1991chronology, 251, 265]. So while there is indeed a 'gap' in the texts dated to the later part of 
+Sinsharishkun's reign, but this is simply because he was no longer king of the Babylonian cities anymore; 
+there is no indication Ptolemy's canon is incorrect.
+
+## The Watchtower (1971)
+
+In a 1971 article the Watchtower ended the illusion that the year 539 BC could be found from the Nabonidus chronicle.
+But despite having attempted to discredit Ptolemy's canon only two years before, they strangely returned to directly
+referencing it as a source for their chronology [@watch1971testimony, 316]:
+
+> Also other sources, including Ptolemy’s canon, point to the year 539 B.C.E. as the date for Babylon’s fall.
 
 ## Let Your Kingdom Come (1981)
 
