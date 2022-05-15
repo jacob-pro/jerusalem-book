@@ -42,7 +42,7 @@ Latest dated texts:
 - 2/VIII/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
 
 The tablets therefore show that Kandalanu died somewhere between month III and VIII of his 21st year,
-and that during the 22nd year there was no other king in Babylon.
+and that during the 22nd year there was no other king in Babylon [@naaman1991chronology, 244]. 
 
 ### Nabopolassar
 
