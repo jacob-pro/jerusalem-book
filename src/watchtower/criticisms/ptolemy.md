@@ -65,7 +65,7 @@ The Watchtower alleges that there is a 'gap' in the reign of Sinsharishkun:
   pivotal date of 763 B.C.E., even to the point of conjecturing longer reigns for these final rulers of the Assyrian 
   empire than the evidence at hand will support. They have an awkward gap on their hands—one that is not easy to fill.
 
-However, what is known is that Sinsharishkun's accession year occurred around 627 BC (the year prior 
+However, what is known is that Sinsharishkun's accession year occurred somewhere around 627 BC (the year prior 
 to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246]. The evidence includes:
 
 - The [Uruk King List](../../orthodox/im65066.md) names Sinsharishkun as king in the year prior to Nabopolassar.
@@ -73,8 +73,15 @@ to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 24
   the Assyrian army in the months prior to Nabopolassar's accession [@gadd1958harran, 71].
 
 The Watchtower is correct that Sinsharishkun died during Nineveh's fall (see the chronicle 
-[BM 21901](../../orthodox/chronicles/bm21901.md)), if fails to mention that this event is dated to Nabopolassar's 14th 
-year in 612 BC, hence proving Sinsharishkun did indeed reign for more than 7 years (approximately 16).
+[BM 21901](../../orthodox/chronicles/bm21901.md)), but it fails to mention that this event is dated to Nabopolassar's 
+14th year in 612 BC, hence proving Sinsharishkun reigned in Assyria for approximately 16 years.
+
+The dated texts from the first 7 years of Sinsharishkun's reign are those found in the cities of Babylon,
+Nippur, Uruk, Sippar [@everling2013materials, 17], it was during these 7 years that Nabopolassar king of Babylon and
+Sinsharishkun king of Assyria were at war. The cities were under siege and changed control multiple times 
+[@oppenheim1955siege, 85], but by Nabopolassar's 7th year Assyria had 'lost its last foothold in Babylonia' 
+[@naaman1991chronology, 251, 265]. There is therefore a 'gap' in the texts dated to the later part of Sinsharishkun's 
+reign, but this is simply because he was no longer king of the Babylonian cities anymore.
 
 ## Let Your Kingdom Come (1981)
 

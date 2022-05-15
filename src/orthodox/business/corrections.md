@@ -23,7 +23,7 @@ Added missing tablet Nabopolassar 21.05.20 to the database.
 
 ### Krückmann 238
 
-TuM 2/3, 238 [@krückmann1933neubabylonische]
+TuM 2/3, 238 [@kruckmann1933neubabylonische]
 
 Correction of database from Nebuchadnezzar II 43.08.o to 42.08.o.
 
