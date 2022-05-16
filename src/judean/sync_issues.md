@@ -9,7 +9,7 @@ with the Babylonian chronicles. Some of the main issues include:
 - The 4th year of Jehoiakim = 1st year of Nebuchadnezzar (Jeremiah 25:1)
 - Pharaoh Necho was defeated at Carchemish in the 4th year of Jehoiakim (Jeremiah 46:2)
 - (Between month I-V) 21st year of Nabopolassar (= accession year of Nebuchadnezzar) Egypt was defeated
-  at Carchemish ([Nebuchadnezzar Chronicle / BM 21946 Obv. 1-10](../orthodox/chronicles/bm21946.md))
+  at Carchemish ([Nebuchadnezzar Chronicle / BM 21946 Obv. 1-10](../standard/chronicles/bm21946.md))
 
 Was the 4th year of Jehoiakim (and therefore the battle of Carchemish) in the accession or 1st year of Nebuchadnezzar?
 
@@ -18,7 +18,7 @@ Was the 4th year of Jehoiakim (and therefore the battle of Carchemish) in the ac
 - Jehoiachin taken captive in the 8th year of Nebuchadnezzar (2 Kings 24:12)
 - Nebuchadnezzar took 3023 Jews into exile in his 7th year (Jeremiah 52:28)
 - Nebuchadnezzar seized the king of Judah on 2/XII of his 7th year
-  ([Nebuchadnezzar Chronicle / BM 21946 Rev. 11-12](../orthodox/chronicles/bm21946.md))
+  ([Nebuchadnezzar Chronicle / BM 21946 Rev. 11-12](../standard/chronicles/bm21946.md))
 
 Was Jehoiachin (and other captives) taken in the 7th or 8th year of Nebuchadnezzar?
 

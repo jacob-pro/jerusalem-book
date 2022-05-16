@@ -85,7 +85,7 @@ mile [@clines1972regnal, 30] journey from Megiddo to Carchemish within this time
   Jeremiah 46:2. [@thiele1983mysterious, 183]
 
 It would unfortunately appear Thiele is referencing the earlier translation of 
-[BM 21946](../../orthodox/chronicles/bm21946.md), which has Ḫatti-country in Obv. 8.
+[BM 21946](../../standard/chronicles/bm21946.md), which has Ḫatti-country in Obv. 8.
 However as noted by Malamat:
 
 > the Chronicle itself does not bear out any widespread

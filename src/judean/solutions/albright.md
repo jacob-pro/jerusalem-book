@@ -56,7 +56,7 @@ would therefore refer actually to Nebuchadnezzar's accession year.
 ### Subjugation of Judah
 
 Albright seems to think that Judah was not occupied until after the capture of Ashkelon
-([BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 18), perhaps in the 2nd year of Nebuchadnezzar:
+([BM 21946](../../standard/chronicles/bm21946.md) Obv. 18), perhaps in the 2nd year of Nebuchadnezzar:
 
 > It is most unlikely that
   the Chaldaeans occupied Judah before the capture and destruction of

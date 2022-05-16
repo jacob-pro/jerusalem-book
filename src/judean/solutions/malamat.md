@@ -56,7 +56,7 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 
 ### Battle of Megiddo
 
-According to [BM 21901](../../orthodox/chronicles/bm21901.md) line 66, the Egyptian army crossed the river 
+According to [BM 21901](../../standard/chronicles/bm21901.md) line 66, the Egyptian army crossed the river 
 Euphrates in Tammuz (IV) of Nabopolassar's 17th year. Malamat therefore argues that the battle of
 Megiddo took place in Sivan (III):
 
@@ -98,7 +98,7 @@ as described in 2 Kings 23:36 and 2 Chronicles 36:5. [@clines1972regnal, 32]
 
 ### Battle of Carchemish
 
-According to [BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 1-10 the battle of Carchemish took place sometime
+According to [BM 21946](../../standard/chronicles/bm21946.md) Obv. 1-10 the battle of Carchemish took place sometime
 during the first 4 months of Nabopolassar's 21st year, in Malamat's chronology this would correspond to Jehoiakim's
 3rd year, rather than his 4th as described in Jeremiah 46:2.
 
@@ -131,7 +131,7 @@ Malamat does not offer a definitive date for Nebuchadnezzar's subjugation of Jud
   recorded for each of the years between 605 and 601 B.C., but no
   specific names of subjected states are mentioned (except Ashkelon). [@malamat1975twilight, 129]
 
-The first solution (corresponding to Obv. line 8 of [BM 21946](../../orthodox/chronicles/bm21946.md)) 
+The first solution (corresponding to Obv. line 8 of [BM 21946](../../standard/chronicles/bm21946.md)) 
 is the only one that works with Jehoiakim's 3rd year as per Daniel 1:1:
 
 > a\) Judah was conquered immediately after the Egypdan defeat at

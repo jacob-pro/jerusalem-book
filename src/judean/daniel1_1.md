@@ -135,7 +135,7 @@ dates the beginning of Jehoiakim's servitude to his 8th year:
   delivered them to the commanders sent by the king of Babylon... [@whiston1737complete, {Ant X 6-7}]
 
 The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 *Equipped for Every Good Work*;
-published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md):
+published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../standard/chronicles/bm21946.md):
 
 > But Daniel 1:1, 2 fixes the start of this first captivity in
   the "third year" of Jehoiakim, who started to reign in
@@ -256,7 +256,7 @@ However he still concludes that:
 ### Death of Jehoiakim
 
 As acknowledged in the Insight book [@watch2018insight2, {480, NEBUCHADNEZZAR}], 
-[BM 21946](../orthodox/chronicles/bm21946.md) states
+[BM 21946](../standard/chronicles/bm21946.md) states
 that `In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu`, and then that 
 `on the second day of the month Adar [XII] he captured the city (and) seized (its) king.`
 
@@ -341,7 +341,7 @@ all captives taken by Nebuchadnezzar. [@watch2018insight1, {415, CAPTIVITY}]
 
 ### Nebuchadnezzar's Conquest of Hattu
 
-The Nebuchadnezzar Chronicle [BM 21946](../orthodox/chronicles/bm21946.md) provides a detailed account of
+The Nebuchadnezzar Chronicle [BM 21946](../standard/chronicles/bm21946.md) provides a detailed account of
 Nebuchadnezzar's activities during his early years as king:
 
 Accession Year:

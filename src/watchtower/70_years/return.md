@@ -4,7 +4,7 @@
 
 The Watchtower accepts the year 539 BC as the date of the fall of Babylon to Cyrus 
 [@watch2018insight1, {453, Chronology}] [@watch2011when1, 28]. 
-The [Nabonidus Chronicle](../../orthodox/chronicles/bm35382.md) describes the fall in detail;
+The [Nabonidus Chronicle](../../standard/chronicles/bm35382.md) describes the fall in detail;
 the Babylonian army was defeated in the 7th month (III, Lines 12-18), and Cyrus entered the city of Babylon on the 3rd 
 day of the 8th month (III, Line 18), these dates are accepted by the Watchtower 
 [@watch2018insight1, {568, Cyrus}] [@watch2018insight2, {459, Nabonidus}].

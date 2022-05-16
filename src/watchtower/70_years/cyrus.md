@@ -127,7 +127,7 @@ Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection
   later in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
   
 For the Watchtower's chronology to work it also means dismissing other reigns and dates given by the same
-historians [for the 26th dynasty of Egypt](../../orthodox/egypt/historians.md), since otherwise 
+historians [for the 26th dynasty of Egypt](../../standard/egypt/historians.md), since otherwise 
 Necho could not have been Pharaoh at the time of the battle of Megiddo or Carchemish.
 
 In summary the Watchtower doesn't make clear why the Olympiad numbers given by the ancient historians for Cyrus' reign
@@ -170,24 +170,24 @@ The Watchtower says [@watch2011when1, 28] [@watch2018insight1, 453]:
   first year according to that reckoning was 538 B.C.E. and his accession year was 539 B.C.E.
 
 BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the 
-[Astronomical Texts](../../orthodox/astro.md) section, and covered in my 
+[Astronomical Texts](../../standard/astro.md) section, and covered in my 
 [astro-tablets](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) project.
 It does indeed date the 7th year of Cambyses to 523 BC.
 
-The Watchtower offers the Babylonian [Business Tablets](../../orthodox/business/README.md) as the sole source for the 
+The Watchtower offers the Babylonian [Business Tablets](../../standard/business/README.md) as the sole source for the 
 length of Cyrus' reign as king of Babylon, the last tablets being dated to his 9th year. Counting backwards Babylon must
 have fallen to Cyrus in 539 BC.
 
 ### Problems
 
-As we will see later in this chapter (section [Criticism of Orthodox Babylonian Chronology](../criticisms/README.md))
+As we will see later in this chapter (section [Criticism of Standard Babylonian Chronology](../criticisms/README.md))
 the Watchtower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
 
 - It is not clear how the Watchtower can justify using 
   [BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md)
   (which has a number of serious inaccuracies [@britton2008remarks, 7])
   to be a valid source of chronological information,
-  whilst rejecting the dates of [seven other astronomical texts](../../orthodox/astro.md).
+  whilst rejecting the dates of [seven other astronomical texts](../../standard/astro.md).
 - Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make much sense
   given that for the 70 year prophesy to be correct relies on the assumption that the business tablets do not
   constitute a 'continuous chronological record'.

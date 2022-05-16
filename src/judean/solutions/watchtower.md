@@ -27,7 +27,7 @@
 
 <sup>1</sup> As explained in the [Watchtower Chronology](../../watchtower/README.md) chapter the Watchtower uses a
 different method for determining the destruction of Jerusalem and reign of Nebuchadnezzar, the first year listed
-is that used by the Watchtower, and the second would be the equivalent under the orthodox Babylonian chronology allowing
+is that used by the Watchtower, and the second would be the equivalent under the standard Babylonian chronology allowing
 easy comparison to the other chronologies in the section.
 
 <sup>2</sup> See section [Watchtower Interpretation of Daniel 1:1](../daniel1_1.md).
@@ -54,7 +54,7 @@ easy comparison to the other chronologies in the section.
   replaced him with his brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to Egypt. 
   (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)  [@watch2018insight1, {698, EGYPT, EGYPTIAN}]
 
-There appears to be a problem here - according to [BM 21901](../../orthodox/chronicles/bm21901.md) Line 66 the
+There appears to be a problem here - according to [BM 21901](../../standard/chronicles/bm21901.md) Line 66 the
 Egyptian army crossed the Euphrates to help the king of Assyria in Tammuz (the 4th month). Therefore Josiah
 must have died prior to this when he intercepted Necho at Megiddo - about 500 km before the river, likely around the
 3rd month (May 629/609) [@tadmor1956chronology, 228] [@malamat1967last, 139] [@albright1956nebuchadnezzar, 31] 

@@ -2,7 +2,7 @@
 
 Requiring a period of 70 years between the destruction of Jerusalem in Nebuchadnezzar's 18th/19th year
 and the return of Jewish captives (somewhere around) Cyrus' first year is clearly incompatible
-with all the chronological data we have for [the Neo-Babylonian period](../../orthodox/README.md). There is no
+with all the chronological data we have for [the Neo-Babylonian period](../../standard/README.md). There is no
 historical evidence to suggest that this prophesy of 70 years (as interpreted) came true.
 
 ## Alternative Interpretations
@@ -160,7 +160,7 @@ And further on in his article [@stern2000babylonian, 51]:
 The _Awake!_ claims that their 607-537 BC period for a deserted Jerusalem is supported by Stern's 604-538 BC period
 during which cities destroyed by Babylon were not resettled. However as can be seen Stern does not believe
 Jerusalem was destroyed or unoccupied until 586 BC. The year 604 BC is referring to the Philistine city of Ashkelon 
-being plundered in the first year of Nebuchadnezzar (see [BM 21946](../../orthodox/chronicles/bm21946.md) Obv. 18). 
+being plundered in the first year of Nebuchadnezzar (see [BM 21946](../../standard/chronicles/bm21946.md) Obv. 18). 
 
 ## Discussion in _The Bible—God’s Word or Man's?_
 

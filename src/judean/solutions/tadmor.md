@@ -76,7 +76,7 @@ Jerusalem in the 3rd year rather than 5th of Jehoiakim).
 ### Captures of Jehoiachin and Zedekiah
 
 Tadmor's synchronistic table lists the siege of Jerusalem and capture of Jehoiachin as 2/XII of Nebuchadnezzar's
-7th year, based on [BM 21946](../../orthodox/chronicles/bm21946.md) Rev. 11-13.
+7th year, based on [BM 21946](../../standard/chronicles/bm21946.md) Rev. 11-13.
 But he notes that the captives were taken, and that Zedekiah's accession were at the beginning in the new year 
 (Nisan, Nebuchadnezzar year 8) - which would match 2 Kings 24:12, and 2 Chronicles 36:10.
 

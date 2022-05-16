@@ -23,7 +23,7 @@ the date 539 BC for the fall of Babylon [@watch1968book, 490], supposedly based 
 > The fixing of 539 B.C.E. as the year when this historical event occurred is based on a stone document known as the 
   Nabonidus (Nabunaid) Chronicle. 
 
-But the [Nabonidus Chronicle](../../orthodox/chronicles/bm35382.md) doesn't actually contain anything datable
+But the [Nabonidus Chronicle](../../standard/chronicles/bm35382.md) doesn't actually contain anything datable
 to the Julian calendar; the footnotes in each of these issues of the Watchtower instead cite
 Parker and Dubberstein's tables, which were in turn principally based upon Ptolemy's canon 
 [@dubberstein1942babylonian, 8], and would have been used to map the date in the Nabonidus chronicle to 539 BC:
@@ -66,12 +66,12 @@ This is odd, because the dispute among scholars concerns the extent to which the
 between them. It is generally accepted that Sinsharishkun's accession year occurred somewhere around 627 BC (the year 
 prior to Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246]. The evidence includes:
 
-- The [Uruk King List](../../orthodox/im65066.md) names Sinsharishkun as king in the year prior to Nabopolassar.
-- The chronicle [BM 25127](../../orthodox/chronicles/bm25127.md) (lines 1-14) names Sinsharishkun as being in command of 
+- The [Uruk King List](../../standard/im65066.md) names Sinsharishkun as king in the year prior to Nabopolassar.
+- The chronicle [BM 25127](../../standard/chronicles/bm25127.md) (lines 1-14) names Sinsharishkun as being in command of 
   the Assyrian army in the months prior to Nabopolassar's accession [@gadd1958harran, 71].
 
 The Watchtower itself points out that Sinsharishkun died during Nineveh's fall (see the chronicle 
-[BM 21901](../../orthodox/chronicles/bm21901.md)) which is dated to Nabopolassar's 14th year in 612 BC. So we can now 
+[BM 21901](../../standard/chronicles/bm21901.md)) which is dated to Nabopolassar's 14th year in 612 BC. So we can now 
 see why Sinsharishkun's reign in Assyria must span approximately 16 years, it has not been 'extended' without evidence.
 
 The dated texts from the first 7 years of Sinsharishkun's reign are those found in the cities of Babylon,
@@ -118,11 +118,27 @@ implying that by omitting certain kings its chronology might not be accurate [@w
     page 74.) Also the Harran Inscriptions of Nabonidus, (H1B), I, line 30, has him listed just before Nabopolassar. 
     (Anatolian Studies, Vol. VIII, 1958, pages 35, 47.) For the kingless period, see Chronicle 2, line 14, of Assyrian 
     and Babylonian Chronicles, pages 87-88.
+    <br>
     10. Some scholars contend that certain kings were omitted by Ptolemy​—who supposedly listed only kings of 
     Babylon—​because these were called by the title “King of Assyria.” However, as you will note in the box on page 
     30, several kings included in Ptolemy’s canon also had the title “King of Assyria.” Economic tablets, cuneiform 
     letters, and inscriptions clearly reveal that kings Ashur-etel-ilani, Sin-shumu-lishir, and Sin-sharra-ishkun ruled 
     over Babylonia.
   </sup>
+
+The Watchtower is being disingenuous here because the answers to why these kings were omitted by Ptolemy's canon is
+available in the very sources they have cited. Ptolemy's canon only lists one Babylonian king per year, it does not 
+include contested kings or those who just ruled for part of the year. When the full information from the texts is 
+shown the solution is obvious:
+
+| [Ptolemy's Canon](../../standard/canon.md) | [Chronicle](../../standard/chronicles/bm25127.md) | [Uruk King List](../../standard/im65066.md) | [Business Tablets](../../standard/business.md) |
+|--------------------------------------------|---------------------------------------------------|---------------------------------------------|------------------------------------------------|
+| Kandalanu 21st                             |                                                   | Kandalanu 21 years                          | Kandalanu 21                                   |
+| Kandalanu 22nd                             | 'For one year there was no king in the land'      | Sin-shumu-lisir and Sinsharishkun 1 year    | `arki` ('After') Kandalanu 22                  |
+| Nabopolassar 1st                           | 'first year of Nabopolassar'                      | Nabopolassar 21 years                       | Nabopolassar 1st                               |
+
+As already explained above, the reigns of the Assyrian king Sinsharishkun and Babylonian king Nabopolassar overlapped;
+whilst at various points during the first 7 years of his reign Sinsharishkun besieged and controlled various Babylonian
+cities, at no point was he the sole uncontested king of Babylonia, he died during Nabopolassar's 14th year.
 
 ## References
