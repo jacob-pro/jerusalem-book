@@ -320,7 +320,7 @@ Year
 </g>
 <g>
 <g>
-<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="0" y2="0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-56.7139282735613" y2="-56.7139282735613"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-113.4278565471226" y2="-113.4278565471226"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-170.14178482068388" y2="-170.14178482068388"/>
@@ -329,7 +329,7 @@ Year
 </g>
 <line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
 <g>
-<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="0">
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
 0
 </text>
 <text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-56.7139282735613">

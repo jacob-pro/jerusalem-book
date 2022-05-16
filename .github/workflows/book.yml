@@ -4,7 +4,7 @@ on: [push, pull_request]
 
 jobs:
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     container:
       image: ghcr.io/jacob-pro/mdbook-bibfile-referencing:latest
     steps:

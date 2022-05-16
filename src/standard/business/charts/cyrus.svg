@@ -82,7 +82,7 @@ Year
 </g>
 <g>
 <g>
-<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="0" y2="0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-79.76539589442815" y2="-79.76539589442815"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-159.5307917888563" y2="-159.5307917888563"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-239.29618768328444" y2="-239.29618768328444"/>
@@ -90,7 +90,7 @@ Year
 </g>
 <line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
 <g>
-<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="0">
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
 0
 </text>
 <text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-79.76539589442815">

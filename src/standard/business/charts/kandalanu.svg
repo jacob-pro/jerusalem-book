@@ -1,7 +1,7 @@
 <svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
 <g transform="translate(72, 364)">
 <g>
-<rect fill="" height="0" stroke="black" width="10.434782608695652" x="5.217391304347826" y="0"/>
+<rect fill="" height="0" stroke="black" width="10.434782608695652" x="5.217391304347826" y="-0"/>
 </g>
 <g>
 <rect fill="" height="51.515151515151516" stroke="black" width="10.434782608695652" x="26.086956521739133" y="-51.515151515151516"/>
@@ -173,7 +173,7 @@ Year
 </g>
 <g>
 <g>
-<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="0" y2="0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-68.68686868686868" y2="-68.68686868686868"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-137.37373737373736" y2="-137.37373737373736"/>
 <line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-206.06060606060606" y2="-206.06060606060606"/>
@@ -181,7 +181,7 @@ Year
 </g>
 <line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
 <g>
-<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="0">
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
 0
 </text>
 <text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-68.68686868686868">

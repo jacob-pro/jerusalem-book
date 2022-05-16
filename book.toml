@@ -11,3 +11,6 @@ command = "mdbook-bibfile-referencing src/bibliography.bib src/ieee.csl"
 [output.html]
 additional-css = ["src/custom.css"]
 site-url = "/jerusalem-book/"
+
+[output.linkcheck]
+warning-policy = "error"

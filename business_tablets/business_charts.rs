@@ -44,7 +44,8 @@ fn main() -> std::io::Result<()> {
         for bar in bars {
             view = view.add(bar);
         }
-        Page::single(&view).save(format!("../src/orthodox/business/charts/{}.svg", k)).unwrap();
+        let name = k.to_ascii_lowercase().replace(" ", "_");
+        Page::single(&view).save(format!("../src/standard/business/charts/{}.svg", name)).unwrap();
     }
 
     Ok(())
