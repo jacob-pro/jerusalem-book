@@ -1,8 +1,8 @@
 # Business Tablets
 
-The majority of recovered cuneiform texts were written for administrative, legal, and economic purposes.
-By looking at the dates that they contain, combined with other data such as the city they were from, can
-show us useful chronological information.
+The majority of recovered cuneiform texts were written for administrative, legal, and economic purposes. By looking at
+the dates that they contain, combined with other data such as the city they were from, can show us useful chronological
+information.
 
 For example the dates have been used in the following publications:
 
@@ -10,9 +10,9 @@ For example the dates have been used in the following publications:
 - A Survey of Dated Babylonian Economic Texts, 721-626 B.C. [@brinkman1983documentary] [@brinkman1986supplement]
 - Part II: A Survey of Babylonian Texts, 626-605 B.C. [@kennedy1986documentary]
 
-A more complete survey has been published by J Everling [@everling2013materials], originally available 
-[here](https://web.archive.org/web/20030207180625/http://www.nexus.hu:80/enkidu/enkidu.html) in text format.
-From the survey I have generated bar charts counting the tablets dated to each year of each King's reign.
+A more complete survey has been published by J Everling [@everling2013materials], originally available
+[here](https://web.archive.org/web/20030207180625/http://www.nexus.hu:80/enkidu/enkidu.html) in text format. From the
+survey I have generated bar charts counting the tablets dated to each year of each King's reign.
 
 ### Shamash-shum-ukin
 
@@ -41,8 +41,8 @@ Latest dated texts:
 - ?/VIII/21 - Babylon, BM 36514 [@bm36514] **"After Kandalanu"** [@wiseman1956chronicles, 91]
 - 2/VIII/22 - Babylon, BM 40039 [@bm40039] **"After Kandalanu"** [@wiseman1956chronicles, 91]
 
-The tablets therefore show that Kandalanu died somewhere between month III and VIII of his 21st year,
-and that during the 22nd year there was no other king in Babylon [@naaman1991chronology, 244]. 
+The tablets therefore show that Kandalanu died somewhere between month III and VIII of his 21st year, and that during
+the 22nd year there was no other king in Babylon [@naaman1991chronology, 244].
 
 ### Nabopolassar
 
@@ -53,11 +53,9 @@ Earliest dated texts:
 
 According to Wiseman: [@wiseman1956chronicles, 93]
 
-> The Chronicle (B.M. 25127, 11. I4-I5) expressly states that Nabopolassar
-  sat on the throne of Babylon on the 26th of Marcheswan [VIII] ...
-  Unless a scribal error is assumed it would seem, therefore, that
-  Nabopolassar was acknowledged king at least at Sippar which had become
-  independent of Assyria before the final battle at Babylon.
+> The Chronicle (B.M. 25127, 11. I4-I5) expressly states that Nabopolassar sat on the throne of Babylon on the 26th of
+> Marcheswan \[VIII\] ... Unless a scribal error is assumed it would seem, therefore, that Nabopolassar was acknowledged
+> king at least at Sippar which had become independent of Assyria before the final battle at Babylon.
 
 ![](charts/Nabopolassar.svg)
 
@@ -80,7 +78,7 @@ Earliest dated texts:
 Latest dated texts:
 
 - 21/VI/43 - Uruk, NCBT 286 [@goetze1944additions, 44]
-- 26/VI/43 - Uruk, AO 06847 (TCL 12,  58 [@contenau1927contrats])
+- 26/VI/43 - Uruk, AO 06847 (TCL 12, 58 [@contenau1927contrats])
 
 The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
@@ -91,17 +89,17 @@ Earliest dated texts:
 - ?/V/Acc - Sippar, BM 58872 [@bm58872]
 - 20/V/Acc - Sippar, BM 75322 [@bm75322]
 
-Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. 
-R H Sack "proposes that Nebuchadrezzar bought his son into a co-regency before his death", which D J Wiseman
- agrees "is certainly possible" [@wiseman1974review, 451].
+Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R H Sack 'proposes that
+Nebuchadrezzar bought his son into a co-regency before his death', which D J Wiseman agrees 'is certainly possible'
+[@wiseman1974review, 451].
 
 However D B Weisberg disagrees [@weisberg1976review, 68]:
 
-> a possible co-regency of Nebuchadnezzar and Amēl-Marduk does not seem conclusive. ...
-> The dates we have for the end of one rule and the beginning of another must be used with an understanding
-> of the human factors that led to their recording. An Uruk scribe still dating texts to the reign of a deceased
-> king (Nebuchadnezzar) might not have known what was happening at the court. A Sippar scribe dating texts to
-> Amēl-Marduk might have picked up the news more quickly.
+> a possible co-regency of Nebuchadnezzar and Amēl-Marduk does not seem conclusive. ... The dates we have for the end of
+> one rule and the beginning of another must be used with an understanding of the human factors that led to their
+> recording. An Uruk scribe still dating texts to the reign of a deceased king (Nebuchadnezzar) might not have known
+> what was happening at the court. A Sippar scribe dating texts to Amēl-Marduk might have picked up the news more
+> quickly.
 
 ![](charts/Amel-Marduk.svg)
 
@@ -110,8 +108,8 @@ Latest dated texts:
 - 17/V/2 - Babylon? (BE 8/1, 34. [@clay1908babylonian, 76])
 - 19/X/2 - Sippar, BM 61325 [@bm61325] (Cat.BM 7 [@leichty1987catalogue, 36])
 
-Note that the last date (month X) is an anomaly since of 23 texts from Amel-Marduks second year it is the 
-only one dated later than month V.
+Note that the last date (month X) is an anomaly since of 23 texts from Amel-Marduks second year it is the only one dated
+later than month V.
 
 The tablets therefore show that Amel-Marduk ruled for 2 years.
 
@@ -122,8 +120,8 @@ Earliest dated texts:
 - 4/II/Acc - Sippar, BM 75489 [@bm75489]
 - 21/V/Acc - Babylon, YBC 3765 [@dougherty1929nabonidus, 67]
 
-Note that the first date (month II) is an anomaly since of 40 texts from Neriglissar's accession year it is the 
-only one dated prior to month V; it is possibly a mistake [@van1998neriglissar, 228].
+Note that the first date (month II) is an anomaly since of 40 texts from Neriglissar's accession year it is the only one
+dated prior to month V; it is possibly a mistake [@van1998neriglissar, 228].
 
 ![](charts/Neriglissar.svg)
 
@@ -189,8 +187,8 @@ Earliest dated texts:
 - 12/VI/Acc - Babylon, (Strassmaier, Camb 1890, 1 [@strassmaier1890inschriftencam])
 - 16/VI/Acc - Babylon, (Strassmaier, Camb 1890, 2 [@strassmaier1890inschriftencam])
 
-Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later
-months to Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
+Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later months to
+Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
 
 ![](charts/Cambyses.svg)
 

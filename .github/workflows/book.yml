@@ -10,8 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
+      - name: Check book
+        run: make check
+
       - name: Build book
-        run: mdbook build
+        run: make build
 
       - if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master' }}
         name: Deploy

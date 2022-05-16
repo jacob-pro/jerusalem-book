@@ -1,12 +1,13 @@
 # Adad-Guppi Stele
 
 Nabon H I, B is a stele in the pavement of the North entrance to the Great Mosque at Harran [@gadd1958harran, 35].
- 
-Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions, 351], or the Inscription of Adad-Guppi [@beaulieu1989reign].
 
-Origin: Discovered by D S Rice in 1956.
+Also known as Nabonidus inscription No.24 [@tadmor1965inscriptions, 351], or the Inscription of Adad-Guppi
+[@beaulieu1989reign].
 
-First Translation: 1958 by C J Gadd.
+Origin: Discovered by D.S. Rice in 1956.
+
+First Translation: 1958 by C.J. Gadd.
 
 ## Translation
 
@@ -161,23 +162,24 @@ First Translation: 1958 by C J Gadd.
 55. . . . . . . . make safe the . . . . . . . . of thy seed
 56. [ever(?)] and for [ever(?)].
 ```
+
 [@gadd1958harran, 47]
 
 ## Key Information
 
 Col I Line 29: `the 20th year of Aššurbanipal, king of Assyria, that I was born`.
 
-Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns / the time that Adad-Guppi lived 
+Col I Lines 29-37 (and partially repeated in Col II Lines 40-47) give the reigns of the kings that Adad-Guppi lived
 through:
 
-| King                                  | Length   |
-|---------------------------------------|----------|
-| Ashurbanipal                          | 42 Years |
-| Ashur-etil-ilani                      | 3 Years  |
-| Nabopolassar                          | 21 Years |
-| Nebuchadnezzar II                     | 43 Years |
-| Amel-Marduk                           | 2 Years  |
-| Neriglissar                           | 4 Years  |
+| King              | Length   |
+| ----------------- | -------- |
+| Ashurbanipal      | 42 Years |
+| Ashur-etil-ilani  | 3 Years  |
+| Nabopolassar      | 21 Years |
+| Nebuchadnezzar II | 43 Years |
+| Amel-Marduk       | 2 Years  |
+| Neriglissar       | 4 Years  |
 
 Col I Line 33: `95 years` from her birth (Ashurbanipal Year 20) to end of Neriglissar (Year 4).
 
@@ -186,13 +188,13 @@ Col II Lines 26-28: From her birth (Ashurbanipal Year 20) until the 9th year of 
 ## Errors
 
 It would appear the scribes made an error in counting the length of Adad Guippi's life; according to the standard
-chronology if she was born in the 20th year of Ashurbanipal (649 BC) and died in the 9th year of Nabonidus (547 BC)
-this would mean she died 102 years old [@gadd1958harran, 71].
+chronology if she was born in the 20th year of Ashurbanipal (649 BC) and died in the 9th year of Nabonidus (547 BC) this
+would mean she died 102 years old [@gadd1958harran, 71].
 
 There is a great degree of uncertainty concerning the end of Ashurbanipal's reign and that of his successors
-Ashur-etil-ilani, Sinsharishkun and Sin-shumu-lishir, but it would appear very likely that there was some kind of 
-overlap between them, which would explain the miscounting [@oates1965assyrian, 138, 141]
-[@van1962inschriftenfunde, 57] [@borger1965aufstieg, 61] [@gerber1998inschrift, 74].
+Ashur-etil-ilani, Sinsharishkun and Sin-shumu-lishir, but it would appear very likely that there was some kind of
+overlap between them, which would explain the miscounting [@oates1965assyrian, 138, 141] [@van1962inschriftenfunde, 57]
+[@borger1965aufstieg, 61] [@gerber1998inschrift, 74].
 
 Nevertheless, the lengths for the Babylonian kings are consistent with all other data.
 

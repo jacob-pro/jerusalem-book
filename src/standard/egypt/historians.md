@@ -4,44 +4,29 @@
 
 Psamtik I [@rawlinson1909history2, 32]:
 
-> Psammetichus ruled Egypt for fifty-four
-  years, during twenty-nine of which he
-  pressed the siege of Azôtus without intermission,
-  till finally he took the place.
+> Psammetichus ruled Egypt for fifty-four years, during twenty-nine of which he pressed the siege of Azôtus without
+> intermission, till finally he took the place.
 
 Necho II [@rawlinson1909history2, 34]:
 
-> After having reigned in all sixteen years, Necôs
-  died, and at his death bequeathed the throne to
-  his son Psammis. 
+> After having reigned in all sixteen years, Necôs died, and at his death bequeathed the throne to his son Psammis.
 
 Psamtik II and Apries [@rawlinson1909history2, 36]:
 
-> Psammis reigned only six years. He attacked
-  Ethiopia, and died almost directly afterwards.
-  Apries, his son, succeeded him upon the
-  throne, who, excepting Psammetichus, his greatgrandfather,
-  was the most prosperous of all the
-  kings that ever ruled over Egypt. The length
-  of his reign was twenty-five years,
+> Psammis reigned only six years. He attacked Ethiopia, and died almost directly afterwards. Apries, his son, succeeded
+> him upon the throne, who, excepting Psammetichus, his greatgrandfather, was the most prosperous of all the kings that
+> ever ruled over Egypt. The length of his reign was twenty-five years,
 
 Amasis: [@rawlinson1909history2, 59]:
 
-> Psammenitus, son of Amasis, lay encamped
-  at the mouth of the Nile, called the
-  Pelusiac, awaiting Cambyses. For Cambyses,
-  when he went up against Egypt, found Amasis
-  no longer in life: he had died after ruling Egypt
-  forty and four years, during all which time no
-  great misfortune had befallen him.
+> Psammenitus, son of Amasis, lay encamped at the mouth of the Nile, called the Pelusiac, awaiting Cambyses. For
+> Cambyses, when he went up against Egypt, found Amasis no longer in life: he had died after ruling Egypt forty and four
+> years, during all which time no great misfortune had befallen him.
 
 Psammenitus: [@rawlinson1909history2, 62]:
 
-> Ten days after the fort had fallen, Cambyses
-  resolved to try the spirit of Psammenitus,
-  the Egyptian king, whose whole reign had been
-  but six months.
-
+> Ten days after the fort had fallen, Cambyses resolved to try the spirit of Psammenitus, the Egyptian king, whose whole
+> reign had been but six months.
 
 ## Manetho
 
@@ -99,7 +84,7 @@ Total, 167 years.
 ## Comparison
 
 | King        | Stelae                  | Herodotus | Africanus | Eusebius 1 | Eusebius 2 |
-|-------------|-------------------------|-----------|-----------|------------|------------|
+| ----------- | ----------------------- | --------- | --------- | ---------- | ---------- |
 | Psamtik I   | 54 years                | 54 years  | 54 years  | 45 years   | 44 years   |
 | Necho II    | + Psamtik II = 21 years | 16 years  | 6 years   | 6 years    | 6 years    |
 | Psamtik II  | + Necho = 21 years      | 6 years   | 6 years   | 17 years   | 17 years   |
@@ -107,8 +92,8 @@ Total, 167 years.
 | Amasis II   |                         | 44 years  | 44 years  | 42 years   | 42 years   |
 | Psamtik III |                         | 6 months  | 6 months  |            |            |
 
-We can see that Herodotus and the Egyptian Stelae in agreement with the exception of Apries, although Herodotus is
-not necessarily incorrect; Apries did not die in his 20th year, but rather entered into a co-regency with Amasis, ruling
+We can see that Herodotus and the Egyptian Stelae in agreement with the exception of Apries, although Herodotus is not
+necessarily incorrect; Apries did not die in his 20th year, but rather entered into a co-regency with Amasis, ruling
 together for at least 3 further years [@breasted1909history, 589].
 
 ## Cambyses

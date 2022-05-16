@@ -5,7 +5,7 @@ Origin: authentic manuscript discovered in 1609 [@depuydt1995more].
 ## Key Dates
 
 | King               | Years Reigned | Year 1 |      |
-|--------------------|---------------|--------|------|
+| ------------------ | ------------- | ------ | ---- |
 | Shamash-shuma-ukin | 20            | 667 BC | -666 |
 | Kandalanu          | 22            | 647 BC | -646 |
 | Nabopolassar       | 21            | 625 BC | -624 |
@@ -17,4 +17,3 @@ Origin: authentic manuscript discovered in 1609 [@depuydt1995more].
 | Cambyses           | 8             | 529 BC | -528 |
 
 ## References
-

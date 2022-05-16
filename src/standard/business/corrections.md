@@ -1,13 +1,13 @@
 # Errors and Corrections
 
-Since there are thousands of dateable texts in the survey it is not surprising that there will have been some errors
-in the process of copying, translating, and collating the texts. 
+Since there are thousands of dateable texts in the survey it is not surprising that there will have been some errors in
+the process of copying, translating, and collating the texts.
 
-I have applied a number of corrections to my own copy of Everling's survey which using Git can be tracked here: 
-[CHRON.CHN](https://github.com/jacob-pro/jerusalem-book/blob/master/business_tablets/CHRON.CHN) (try using the blame
-and history features).
+I have applied a number of corrections to my own copy of Everling's survey which using Git can be tracked here:
+[CHRON.CHN](https://github.com/jacob-pro/jerusalem-book/blob/master/business_tablets/CHRON.CHN) (try using the 'blame'
+and 'history' features).
 
-## Change List 
+## Change List
 
 ### MLC 1739
 
@@ -37,7 +37,7 @@ Moved from year Nebuchadnezzar II 43 to unknown year: "the year number is far fr
 
 Cat.BM 8 [@leichty1988catalogue, 31]
 
-Added missing tablet Amel-Marduk 00.5.20 [@bm75322] to the database. 
+Added missing tablet Amel-Marduk 00.5.20 [@bm75322] to the database.
 
 ### BM 80920
 
@@ -53,26 +53,26 @@ Correction of database to Amel-Marduk from 00.06?.05 to 00.11?.05 [@bm65270]
 
 ### HMA 9-02507
 
-UCP 9/1, II, 29. (UCBC 378) [@lutz1931selected, 53] or Sack No. 70 [@sack1972amel, 99] 
+UCP 9/1, II, 29. (UCBC 378) [@lutz1931selected, 53] or Sack No. 70 [@sack1972amel, 99]
 
-Moved from Amel-Marduk 00.4.29 to an unknown month - "The tablet is eroded and the sign is not very clear".
+Moved from Amel-Marduk 00.4.29 to an unknown month - 'The tablet is eroded and the sign is not very clear'.
 
 ### BM 61325
 
 Cat.BM 7 [@leichty1987catalogue, 36]
 
-Added missing tablet Amel-Marduk 02.10.17? [@bm61325] to the database. 
+Added missing tablet Amel-Marduk 02.10.17? [@bm61325] to the database.
 
 ### BM 30419
 
 Evetts, Ner. 12. [@evetts1892inscriptions]
 
-Correction of database from Neriglissar 00.05.06 to 00.10.06 - "Probably dated month 10 (written ITU.A[B]), rather
- than month 5 as given by Evetts and Sack." [@bm30419]. 
+Correction of database from Neriglissar 00.05.06 to 00.10.06 - 'Probably dated month 10 (written ITU.A[B]), rather than
+month 5 as given by Evetts and Sack.' [@bm30419].
 
 ### BM 60231
 
-AOAT 236, 97 (Sack No. 97) [@sack1994neriglissar, 54] 
+AOAT 236, 97 (Sack No. 97) [@sack1994neriglissar, 54]
 
 Moved from Neriglissar 00.1.26 to an unknown month 00.x.20 [@bm60231].
 
@@ -101,7 +101,7 @@ Moved from Nabonidus 17.12?.x to 17.x.x, month very damaged [@bm56911]
 Moved from Nabonidus 17.9.o to 17.x.o - according to [@dubberstein1956babylonian, 13]:
 
 > No. 1055 is dated to IX/-/17 by Strassmaier on the basis of the giving of the maššartum for the IX/-/17 of Nabunaid
-> (lines 2-4). Since a maššartum was often given some  months in advance (see Strassmaier, Nabonidus, Nos. 219,346,361) 
+> (lines 2-4). Since a maššartum was often given some months in advance (see Strassmaier, Nabonidus, Nos. 219,346,361)
 > this tablet is useless for exact dating purposes.
 
 ### BM 55694
@@ -109,7 +109,6 @@ Moved from Nabonidus 17.9.o to 17.x.o - according to [@dubberstein1956babylonian
 CT 57, 168. [@pinches1982cuneiform57]
 
 Moved from Nabonidus 17.12.19 to an uncertain year [@bm55694].
-
 
 ## List of Abbreviations
 
@@ -135,7 +134,8 @@ MLC = tablets in the collections of the J. Pierpont Morgan Library
 
 PTS = Princeton Theological Seminary
 
-TuM = Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der Universität Jena
+TuM = Texte und Materialien der Frau Professor Hilprecht Collection of Babylonian Antiquities im Eigentum der
+Universität Jena
 
 UCP = University of California Publications in Semitic Philology
 

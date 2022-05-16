@@ -8,8 +8,8 @@ The 26th dynasty of Egypt, also known as the Saite period, runs in parallel to t
 
 2 Kings 23:29:
 
-> While Josiah was king, Pharaoh Necho king of Egypt went up to the Euphrates River to help the king of Assyria. 
-> King Josiah marched out to meet him in battle, but Necho faced him and killed him at Megiddo.
+> While Josiah was king, Pharaoh Necho king of Egypt went up to the Euphrates River to help the king of Assyria. King
+> Josiah marched out to meet him in battle, but Necho faced him and killed him at Megiddo.
 
 [BM 21901](../chronicles/bm21901.md) Lines 66-67:
 
@@ -22,16 +22,16 @@ Pharoah Necho was at the battle of Megiddo during the 17th year of Nabopolassar.
 
 Jeremiah 46:2:
 
-> This is the message against the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the 
-> Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:
+> This is the message against the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates
+> River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah king of Judah:
 
 [BM 21946](../chronicles/bm21946.md) Obv. Lines 1-5:
 
-> [The twenty-first year]: The king of Akkad stayed home (while) Nebuchadnezzar (II), his eldest son (and) the crown prince,
-  mustered [the army of Akkad]. He took his army's lead and marched to Carchemish which is on the bank of the Euphrates.
-  He crossed the river [to encounter the army of Egypt] which was encamped at Carchemish.
-  [...] They did battle together. The army of Egypt retreated before him.
-  He inflicted a [defeat] upon them (and) finished them off completely.
+> [The twenty-first year]: The king of Akkad stayed home (while) Nebuchadnezzar (II), his eldest son (and) the crown
+> prince, mustered [the army of Akkad]. He took his army's lead and marched to Carchemish which is on the bank of the
+> Euphrates. He crossed the river [to encounter the army of Egypt] which was encamped at Carchemish. [...] They did
+> battle together. The army of Egypt retreated before him. He inflicted a [defeat] upon them (and) finished them off
+> completely.
 
 Pharoah Necho was at the battle of Carchemish, during the 21st year of Nabopolassar.
 
@@ -39,8 +39,8 @@ Pharoah Necho was at the battle of Carchemish, during the 21st year of Nabopolas
 
 Jeremiah 44:30:
 
-> ‘I am going to deliver Pharaoh Hophra king of Egypt into the hands of his enemies who want to kill him, 
-> just as I gave Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon
+> ‘I am going to deliver Pharaoh Hophra king of Egypt into the hands of his enemies who want to kill him, just as I gave
+> Zedekiah king of Judah into the hands of Nebuchadnezzar king of Babylon
 
 Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra (=Apries) is king of Egypt.
 
@@ -48,19 +48,18 @@ Following the destruction of Jerusalem (in Nebuchadnezzar’s 19th year) Hophra 
 
 [BM 33041](bm33041.md) shows that Nebuchadnezzar marched against Amasis, king of Egypt, during his 37th year.
 
-## Chronology 
+## Chronology
 
-Based on the [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we have:
+Based on the [Egyptian Stelae](stelae.md) and the [Ancient Historians](historians.md) we can construct the following
+table [@parker1957length, 212]:
 
 | King        | Sole Reign (Whole years) |
-|-------------|--------------------------|
+| ----------- | ------------------------ |
 | Psamtik I   | 54                       |
 | Necho II    | 15                       |
 | Psamtik II  | 6                        |
 | Apries      | 19                       |
 | Amasis II   | 44                       |
 | Psamtik III | 1                        |
-
-(See also [@parker1957length, 212])
 
 ## References
