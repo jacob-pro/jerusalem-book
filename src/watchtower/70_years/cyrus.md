@@ -174,13 +174,13 @@ BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the
 [astro-tablets](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) project.
 It does indeed date the 7th year of Cambyses to 523 BC.
 
-The Watchtower offers the Babylonian [Business Tablets](../../standard/business/README.md) as the sole source for the 
+The Watchtower offers the Babylonian [Business Tablets](../../standard/business/business.md) as the sole source for the 
 length of Cyrus' reign as king of Babylon, the last tablets being dated to his 9th year. Counting backwards Babylon must
 have fallen to Cyrus in 539 BC.
 
 ### Problems
 
-As we will see later in this chapter (section [Criticism of Standard Babylonian Chronology](../criticisms/README.md))
+As we will see later in this chapter (section [Criticism of Standard Babylonian Chronology](../criticisms/criticisms.md))
 the Watchtower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
 
 - It is not clear how the Watchtower can justify using 

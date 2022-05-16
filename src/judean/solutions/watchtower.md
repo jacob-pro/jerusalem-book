@@ -25,7 +25,7 @@
 | 582/562             | Nebuchadnezzar 43                                  |                                   |                                       |                                                          | 36th |
 | 581/561             | Nebuchadnezzar 44!<br>Amel-Marduk Acc.<sup>3</sup> |                                   |                                       | Release of Jehoiachin (month XII)                        | 37th |
 
-<sup>1</sup> As explained in the [Watchtower Chronology](../../watchtower/README.md) chapter the Watchtower uses a
+<sup>1</sup> As explained in the [Watchtower Chronology](../../watchtower/watchtower.md) chapter the Watchtower uses a
 different method for determining the destruction of Jerusalem and reign of Nebuchadnezzar, the first year listed
 is that used by the Watchtower, and the second would be the equivalent under the standard Babylonian chronology allowing
 easy comparison to the other chronologies in the section.

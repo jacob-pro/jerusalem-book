@@ -2,8 +2,8 @@
 
 Requiring a period of 70 years between the destruction of Jerusalem in Nebuchadnezzar's 18th/19th year
 and the return of Jewish captives (somewhere around) Cyrus' first year is clearly incompatible
-with all the chronological data we have for [the Neo-Babylonian period](../../standard/README.md). There is no
-historical evidence to suggest that this prophesy of 70 years (as interpreted) came true.
+with all the chronological data we have for [the Neo-Babylonian period](../../standard/standard.md). There is no
+historical evidence to suggest that this 70-year prophesy (as interpreted) came true.
 
 ## Alternative Interpretations
 

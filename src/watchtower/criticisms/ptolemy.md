@@ -17,7 +17,7 @@ by Barbour and the Russell as the source of their chronology [@barbour1877three.
 
 ## The Watchtower (1952 - 1968)
 
-The [Watchtower history section](../history/README.md) shows that from 1952 onwards the Watchtower began to use
+The [Watchtower history section](../history/history.md) shows that from 1952 onwards the Watchtower began to use
 the date 539 BC for the fall of Babylon [@watch1968book, 490], supposedly based on the Nabonidus chronicle:
 
 > The fixing of 539 B.C.E. as the year when this historical event occurred is based on a stone document known as the 
