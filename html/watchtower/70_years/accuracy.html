@@ -1,0 +1,388 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Accuracy of the Prophesy - The Jerusalem Book</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../src/custom.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../introduction/introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../introduction/significance.html"><strong aria-hidden="true">1.1.</strong> Significance to Jehovah's Witnesses</a></li><li class="chapter-item expanded "><a href="../../introduction/calendar.html"><strong aria-hidden="true">1.2.</strong> Calendar Basics</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/standard.html"><strong aria-hidden="true">2.</strong> Standard Babylonian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/im65066.html"><strong aria-hidden="true">2.1.</strong> Uruk King List</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/chronicles.html"><strong aria-hidden="true">2.2.</strong> Babylonian Chronicles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/chronicles/bm86379.html"><strong aria-hidden="true">2.2.1.</strong> Akitu Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm25127.html"><strong aria-hidden="true">2.2.2.</strong> Early Years of Nabopolassar Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm21901.html"><strong aria-hidden="true">2.2.3.</strong> Fall of Nineveh Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm21946.html"><strong aria-hidden="true">2.2.4.</strong> Nebuchadnezzar Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm35382.html"><strong aria-hidden="true">2.2.5.</strong> Nabonidus Chronicle</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/business/business.html"><strong aria-hidden="true">2.3.</strong> Business Tablets</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/business/corrections.html"><strong aria-hidden="true">2.3.1.</strong> Errors and Corrections</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/nabon24.html"><strong aria-hidden="true">2.4.</strong> Adad-Guppi Stele</a></li><li class="chapter-item expanded "><a href="../../standard/nabon8.html"><strong aria-hidden="true">2.5.</strong> Hillah Stele</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/egypt.html"><strong aria-hidden="true">2.6.</strong> Egyptian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/egypt/bm33041.html"><strong aria-hidden="true">2.6.1.</strong> BM 33041</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/stelae.html"><strong aria-hidden="true">2.6.2.</strong> Stelae</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/historians.html"><strong aria-hidden="true">2.6.3.</strong> Ancient Historians</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/canon.html"><strong aria-hidden="true">2.7.</strong> Ptolemy's Royal Canon</a></li><li class="chapter-item expanded "><a href="../../standard/astro.html"><strong aria-hidden="true">2.8.</strong> Astronomical Texts</a></li><li class="chapter-item expanded "><a href="../../standard/timeline.html"><strong aria-hidden="true">2.9.</strong> Timeline</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/judean.html"><strong aria-hidden="true">3.</strong> Judean Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/biblical/biblical.html"><strong aria-hidden="true">3.1.</strong> Biblical Evidence</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/biblical/2kings.html"><strong aria-hidden="true">3.1.1.</strong> 2 Kings</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/jeremiah.html"><strong aria-hidden="true">3.1.2.</strong> Jeremiah</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/2chronicles.html"><strong aria-hidden="true">3.1.3.</strong> 2 Chronicles</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/daniel.html"><strong aria-hidden="true">3.1.4.</strong> Daniel</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/sync_issues.html"><strong aria-hidden="true">3.2.</strong> Issues Synchronising Babylonian and Judean Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/principles.html"><strong aria-hidden="true">3.3.</strong> Principles of Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/solutions.html"><strong aria-hidden="true">3.4.</strong> Solutions to the Judean Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/solutions/tadmor.html"><strong aria-hidden="true">3.4.1.</strong> Tadmor's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/jones.html"><strong aria-hidden="true">3.4.2.</strong> Jones's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/malamat.html"><strong aria-hidden="true">3.4.3.</strong> Malamat's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/thiele.html"><strong aria-hidden="true">3.4.4.</strong> Thiele's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/horn.html"><strong aria-hidden="true">3.4.5.</strong> Horn's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/albright.html"><strong aria-hidden="true">3.4.6.</strong> Albright's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/hyatt.html"><strong aria-hidden="true">3.4.7.</strong> Hyatt's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/young.html"><strong aria-hidden="true">3.4.8.</strong> Young's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/watchtower.html"><strong aria-hidden="true">3.4.9.</strong> Watchtower Judean Chronology</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/daniel1_1.html"><strong aria-hidden="true">3.5.</strong> Watchtower Interpretation of Daniel 1:1</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/watchtower.html"><strong aria-hidden="true">4.</strong> Watchtower Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/70_years/70_years.html"><strong aria-hidden="true">4.1.</strong> Jeremiah’s 70 Year Prophesy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/70_years/scriptures.html"><strong aria-hidden="true">4.1.1.</strong> Key Scriptures</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/cyrus.html"><strong aria-hidden="true">4.1.2.</strong> Reign of Cyrus</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/return.html"><strong aria-hidden="true">4.1.3.</strong> Return of the Exiles</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/accuracy.html" class="active"><strong aria-hidden="true">4.1.4.</strong> Accuracy of the Prophesy</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/history/history.html"><strong aria-hidden="true">4.2.</strong> History of the Watchtower Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/history/russell.html"><strong aria-hidden="true">4.2.1.</strong> Russell and Barbour (1875+)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1943.html"><strong aria-hidden="true">4.2.2.</strong> The Truth Shall Make You Free (1943)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1944.html"><strong aria-hidden="true">4.2.3.</strong> The Kingdom Is At Hand (1944)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1949.html"><strong aria-hidden="true">4.2.4.</strong> The Watchtower 1949</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1952.html"><strong aria-hidden="true">4.2.5.</strong> The Watchtower 1952</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1955.html"><strong aria-hidden="true">4.2.6.</strong> The Watchtower 1955</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1968.html"><strong aria-hidden="true">4.2.7.</strong> The Watchtower 1968</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1971.html"><strong aria-hidden="true">4.2.8.</strong> The Watchtower 1971</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/criticisms.html"><strong aria-hidden="true">4.3.</strong> Criticism of Standard Babylonian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/criticisms/ptolemy.html"><strong aria-hidden="true">4.3.1.</strong> Criticism of Ptolemy's Canon</a></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/business.html"><strong aria-hidden="true">4.3.2.</strong> Criticism of the Business Tablet Record</a></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/astro.html"><strong aria-hidden="true">4.3.3.</strong> Criticism of the Astronomical Diaries</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/criticisms/vat4956.html"><strong aria-hidden="true">4.3.3.1.</strong> Alternative Dating of VAT 4956</a></li></ol></li></ol></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">5.</strong> Controversies</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Appendix</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../appendix/letter_vat4956.html"><strong aria-hidden="true">6.1.</strong> Letter Concerning VAT 4956 in the Watchtower 2011</a></li><li class="chapter-item expanded "><a href="../../appendix/letter_josiah.html"><strong aria-hidden="true">6.2.</strong> Letter Concerning the Date of Josiah's Death</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Jerusalem Book</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="accuracy-of-the-prophesy"><a class="header" href="#accuracy-of-the-prophesy">Accuracy of the Prophesy</a></h1>
+<p>Requiring a period of 70 years between the destruction of Jerusalem in
+Nebuchadnezzar’s 18th/19th year and the return of Jewish captives
+(somewhere around) Cyrus’ first year is clearly incompatible with all
+the chronological data we have for <a href="../../standard/standard.html">the Neo-Babylonian
+period</a>. There is no historical evidence to
+suggest that this 70-year prophesy (as interpreted) came true.</p>
+<h2 id="alternative-interpretations"><a class="header" href="#alternative-interpretations">Alternative Interpretations</a></h2>
+<p>There are some alternative interpretations of Jeremiah’s prophesy that
+could in theory satisfy the historical evidence however the Watchtower
+has chosen to reject these [1, p. 138] [2, p. 27]:</p>
+<blockquote>
+<p>However, based primarily on such secular records, some persons figure
+that Jerusalem was destroyed in 587/6 B.C.E. and that the Jews came
+under Babylonian domination in Nebuchadnezzar’s accession year, which
+they calculate as being 605 B.C.E. They thus hold 605 B.C.E. to be the
+date when Jeremiah 25:11 began to be fulfilled: “All the land shall be
+a desolation; and they shall serve among the Gentiles seventy years.”
+(Bagster’s Greek Septuagint) If that were so and the Gentile Times
+were counted from then, it would put the end of the prophetic “seven
+times” in the World War year of 1916. Yet, as stated, we believe that
+there is much stronger reason for accepting the information in God’s
+inspired Word, which points to the Gentile Times’ beginning in October
+607 B.C.E. and ending in October of 1914 C.E.</p>
+</blockquote>
+<blockquote>
+<p>Instead of saying 70 years “at Babylon,” many translations read “for
+Babylon.” (NIV) Some historians therefore claim that this 70-year
+period applies to the Babylonian Empire. According to secular
+chronology, the Babylonians dominated the land of ancient Judah and
+Jerusalem for some 70 years, from about 609 B.C.E. until 539 B.C.E.
+when the capital city of Babylon was captured. <br><br> The Bible,
+however, shows that the 70 years were to be a period of severe
+punishment from God—aimed specifically at the people of Judah and
+Jerusalem, who were in a covenant to obey him. (Exodus 19:3-6) When
+they refused to turn from their bad ways, God said: “I will summon …
+Nebuchadnezzar king of Babylon … against this land and its inhabitants
+and against all the surrounding nations.” (Jeremiah 25:4, 5, 8, 9,
+NIV) While nearby nations would also suffer Babylon’s wrath, the
+destruction of Jerusalem and the 70-year exile to follow were called
+by Jeremiah “the punishment of my people,” for Jerusalem had “sinned
+greatly.”—Lamentations 1:8; 3:42; 4:6, NIV.</p>
+</blockquote>
+<h2 id="discussion-in-the-awake-2012"><a class="header" href="#discussion-in-the-awake-2012">Discussion in the <em>Awake!</em> 2012</a></h2>
+<p>The series ‘The Bible — A Book of Accurate Prophecy’ in the <em>Awake!</em>
+magazine attempts to demonstrate the ‘divine inspiration’ of Jeremiah’s
+70 year prophesy.</p>
+<p>Regarding the 70-year period (Jeremiah 25:11) the <em>Awake!</em> says [3, p.
+13]:</p>
+<blockquote>
+<p>Fulfillment: After an extended siege, Nebuchadnezzar sacked Jerusalem
+in 607 B.C.E. He also conquered other Judean cities, including Lachish
+and Azekah. (Jeremiah 34:6, 7) He deported most of the survivors to
+Babylon, where they were held captive for 70 years.<br> What history
+reveals:<br> ● The Bible identifies Nebuchadnezzar as being the king
+of Babylon about the time of Jerusalem’s destruction. Archaeological
+evidence supports the Bible’s testimony about his existence. A cameo
+made of onyx stone is on display in Florence, Italy. It bears an
+inscription that says in part: “In honour of Merodach, his lord,
+Nebuchadnezzar, king of Babylon, in his life-time had this made.”
+Nebuchadnezzar ruled from 624 to 582 B.C.E.<br> ● The book The Bible
+and Archaeology says that excavations and surveys in Lachish confirm
+the following: “The final destruction was violent, and so fierce was
+the fire which destroyed the city [Lachish] that the limestone of
+the buildings turned to lime.</p>
+</blockquote>
+<p>However, as we have seen there is no evidence for the dating the
+destruction of Jerusalem to 607 BC without making the unsupported
+assumptions that the 70 year prophesy did come true and that the Jews
+returned during the 2nd year of Cyrus, and then counting back 70 years
+from 537 BC.</p>
+<p>Then the ‘What history reveals’ section contains the statement that
+Nebuchadnezzar ‘ruled from 624 to 582 B.C.E.’, but no historical
+evidence for this has been provided (independent of Jeremiah’s prophesy
+which this paragraph is trying to prove the accuracy of).</p>
+<p>Regarding the return of the exiles (Jeremiah 29:10) the <em>Awake!</em> says
+[3, p. 14]:</p>
+<blockquote>
+<p>Fulfillment: After 70 years of exile, from 607 to 537 B.C.E., King
+Cyrus of Persia released the Jewish captives and allowed them to
+return to their homeland to rebuild the temple in Jerusalem.—Ezra
+1:2-4.<br> What history reveals:<br> ● Did the Israelites remain
+captive in Babylon for 70 years as the Bible foretold? Note the
+comments of a leading Israeli archaeologist, Ephraim Stern. “From 604
+B.C.E. to 538 B.C.E.—there is a complete gap in evidence suggesting
+occupation. In all that time, not a single town destroyed by the
+Babylonians was resettled.” The so-called gap in which there was no
+occupation or resettling of conquered territory corresponds closely to
+Israel’s exile in Babylon from 607 to 537 B.C.E.—2 Chronicles 36:20,
+21.<br> ● Ancient nations throughout Mesopotamia wrote on tablets made
+of soft clay. One hardened clay tablet, known as the Cyrus Cylinder,
+dates back to about 539 B.C.E., the same year that King Cyrus of
+Persia overthrew the Babylonian Empire. One inscription reads: “I am
+Cyrus, . . . king of Babylon.” The same inscription goes on to report:
+“I returned to [certain previously named] sacred cities on the other
+side of the Tigris, the sanctuaries of which have been ruins for a
+long time, the images which (used) to live therein . . . I (also)
+gathered all their (former) inhabitants and returned (to them) their
+habitations.” This secular source harmonizes with the Bible prophecy
+that states that the Jewish exiles would be repatriated to their
+homeland—a prophecy recorded about 200 years in advance.</p>
+</blockquote>
+<p>The quotation of Stern would appear to be grossly misleading, in full
+context he actually says [4, p. 46]:</p>
+<blockquote>
+<p>The savage Babylonian destruction of Jerusalem is well documented both
+in the Bible (in the books of Jeremiah and Lamentations) and in the
+archaeological record. When Nebuchadnezzar first placed the city under
+siege in 597 B.C.E., the city quickly capitulated, thereby avoiding a
+general destruction. But in response to a revolt by Judah’s King
+Zedekiah, Nebuchadnezzar dispatched an army that, after an 18- month
+siege, captured and destroyed the city in 586 B.C.E. The evidence of
+this destruction is widely confirmed in Jerusalem excavations.
+<br><br> On his first swing through Judah, Nebuchadnezzar had
+destroyed much of Philistia-Ekron, Tel Barash, Tell Jemmeh, Ruqeish
+and Tel Sera’. Particularly devastated was Ashkelon, which the
+Babylonians sacked in 604 B.C.E. <br><br> Similar evidence of
+Babylonian destruction can be found throughout the Beersheba Valley,
+in the Aravah (the valley south of the Dead Sea) and in the Jordan
+River valley. From south to north, we can trace the effects of
+Babylonian might-at Tell el-Kheleifeh on the coast of the Red Sea, at
+Ein Gedi on the shore of the Dead Sea, and further north at Dan, the
+source of the Jordan River. The same is true in excavations at major
+northern sites Hazor; Megiddo, overlooking the Jezreel Valley; and
+Dor, on the Mediterranean coast-and in central Judah, where, in
+addition to Jerusalem, we may look at Rarnat Rahel and Lachish, among
+other sites. <br><br> But the strange thing is that above the remains
+left by these destructions, we find no evidence of occupation until
+the Persian period, which began in about 538 B.C.E. For roughly half a
+century-from 604 B.C.E. to 538 B.C.E.-there is a complete gap in
+evidence suggesting occupation. In all that time, not a single town
+destroyed by the Babylonians was resettled. This is true even of the
+old Assyrian fortresses along the Way of the Sea (the Via Maris); they
+were reoccupied only in the Persian period, as shown by the recently
+excavated fort at Rishon le-Zion.</p>
+</blockquote>
+<p>And further on in his article [4, p. 51]:</p>
+<blockquote>
+<p>The destruction of Judah is followed by the Persian period, when,
+following the eclipse of the Babylonians by the comparatively benign
+Persians, the Jewish exiles were permitted to return to Palestine.
+<br><br> I do not mean to imply that the country was uninhabited
+during the period between the Babylonian destruction and the Persian
+period. There were undoubtedly some settlements, but the population
+was very small. Many towns and villages were either completely or
+partly destroyed. The rest were barely functioning. International
+trade virtually ceased. Only two regions appear to have been spared
+this fate-the northern part of Judah (the region of Benjamin) and
+probably the land of Ammon, although the latter region awaits further
+investigation.</p>
+</blockquote>
+<p>The <em>Awake!</em> claims that their 607-537 BC period for a deserted
+Jerusalem is supported by Stern’s 604-538 BC period during which cities
+destroyed by Babylon were not resettled. However, as can be seen Stern
+does not believe Jerusalem was destroyed or unoccupied until 586 BC. The
+year 604 BC is referring to the Philistine city of Ashkelon being
+plundered in the first year of Nebuchadnezzar (see <a href="../../standard/chronicles/bm21946.html">BM
+21946</a> Obv. 18).</p>
+<h2 id="discussion-in-the-biblegods-word-or-mans"><a class="header" href="#discussion-in-the-biblegods-word-or-mans">Discussion in <em>The Bible—God’s Word or Man’s?</em></a></h2>
+<p>Jeremiah’s prophesy is discussed in Chapter 9 ‘Prophecies That Came
+True’ [5, p. 120]:</p>
+<blockquote>
+<p>7 The Archaeological Encyclopedia of the Holy Land notes that when the
+Babylonian onslaught was over, “the destruction of the city
+[Jerusalem] was a total one.” Archaeologist W. F. Albright states:
+“Excavation and surface exploration in Judah have proved that the
+towns of Judah were not only completely destroyed by the Chaldeans in
+their two invasions, but were not reoccupied for generations—often
+never again in history.” Thus, archaeology confirms the shocking
+fulfillment of this prophecy.</p>
+</blockquote>
+<p>Whilst the chapter states that Jeremiah’s prophesy is confirmed by
+archaeology, the provided evidence only demonstrates that Jerusalem was
+destroyed, not that there was a 70-year period between as claimed by the
+Watchtower.</p>
+<h2 id="references"><a class="header" href="#references">References</a></h2>
+<p>[1] <em>Let your Kingdom Come</em>. Watch Tower Bible; Tract Society, 1981,
+[Online]. Available:
+<a href="https://wol.jw.org/en/wol/publication/r1/lp-e/kc">https://wol.jw.org/en/wol/publication/r1/lp-e/kc</a>.</p>
+<p>[2] “When Was Ancient Jerusalem Destroyed?—Part One,” <em>The Watchtower
+Announcing Jehovah’s Kingdom</em>, pp. 26–31, Oct. 2011, [Online].
+Available:
+<a href="https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/">https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/</a>.</p>
+<p>[3] “The Bible—A Book of Accurate Prophecy, Part 2 Flee From Babylon!”
+<em>Awake!</em>, pp. 12–14, Jun. 2012, [Online]. Available:
+<a href="https://www.jw.org/en/library/magazines/g201206/The-Bible-A-Book-of-Accurate-Prophecy-Part-2/">https://www.jw.org/en/library/magazines/g201206/The-Bible-A-Book-of-Accurate-Prophecy-Part-2/</a>.</p>
+<p>[4] E. Stern, “The Babylonian Gap,” <em>Biblical Archaeology Review</em>,
+vol. 26, no. 6, p. 45, 2000, [Online]. Available:
+<a href="https://www.proquest.com/docview/214915704">https://www.proquest.com/docview/214915704</a>.</p>
+<p>[5] <em>The Bible—God’s Word or Man’s?</em> Watch Tower Bible; Tract Society,
+1989, [Online]. Available:
+<a href="https://wol.jw.org/en/wol/publication/r1/lp-e/gm">https://wol.jw.org/en/wol/publication/r1/lp-e/gm</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../watchtower/70_years/return.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../watchtower/history/history.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../watchtower/70_years/return.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../watchtower/history/history.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>

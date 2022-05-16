@@ -1,0 +1,75 @@
+<svg viewBox="0 0 600 400" xmlns="http://www.w3.org/2000/svg">
+<g transform="translate(72, 364)">
+<g>
+<rect fill="" height="271.13237639553427" stroke="black" width="48" x="24" y="-271.13237639553427"/>
+</g>
+<g>
+<rect fill="" height="309.09090909090907" stroke="black" width="48" x="120" y="-309.09090909090907"/>
+</g>
+<g>
+<rect fill="" height="292.822966507177" stroke="black" width="48" x="216" y="-292.822966507177"/>
+</g>
+<g>
+<rect fill="" height="265.7097288676236" stroke="black" width="48" x="312" y="-265.7097288676236"/>
+</g>
+<g>
+<rect fill="" height="21.69059011164274" stroke="black" width="48" x="408" y="-21.69059011164274"/>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="48" x2="48" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="144" x2="144" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="240" x2="240" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="336" x2="336" y1="0" y2="10"/>
+<line stroke="black" stroke-width="1" x1="432" x2="432" y1="0" y2="10"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="480" y1="0" y2="0"/>
+<g>
+<text font-size="12" text-anchor="middle" x="48" y="20">
+Acc.
+</text>
+<text font-size="12" text-anchor="middle" x="144" y="20">
+1
+</text>
+<text font-size="12" text-anchor="middle" x="240" y="20">
+2
+</text>
+<text font-size="12" text-anchor="middle" x="336" y="20">
+3
+</text>
+<text font-size="12" text-anchor="middle" x="432" y="20">
+4
+</text>
+</g>
+<text font-size="12" text-anchor="middle" x="240" y="30">
+Year
+</text>
+</g>
+<g>
+<g>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-0" y2="-0"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-108.45295055821371" y2="-108.45295055821371"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-216.90590111642743" y2="-216.90590111642743"/>
+<line stroke="black" stroke-width="1" x1="0" x2="-10" y1="-325.35885167464113" y2="-325.35885167464113"/>
+</g>
+<line stroke="black" stroke-width="1" x1="0" x2="0" y1="0" y2="-340"/>
+<g>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-0">
+0
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-108.45295055821371">
+20
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-216.90590111642743">
+40
+</text>
+<text dominant-baseline="middle" font-size="12" text-anchor="end" x="-15" y="-325.35885167464113">
+60
+</text>
+</g>
+<text font-size="12" text-anchor="middle" transform="rotate(-90 -24 -170)" x="-24" y="-182">
+
+</text>
+</g>
+</g>
+</svg>

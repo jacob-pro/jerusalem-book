@@ -1,0 +1,275 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js light">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Stelae - The Jerusalem Book</title>
+
+
+        <!-- Custom HTML head -->
+        
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="icon" href="../../favicon.svg">
+        <link rel="shortcut icon" href="../../favicon.png">
+        <link rel="stylesheet" href="../../css/variables.css">
+        <link rel="stylesheet" href="../../css/general.css">
+        <link rel="stylesheet" href="../../css/chrome.css">
+        <link rel="stylesheet" href="../../css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="../../FontAwesome/css/font-awesome.css">
+        <link rel="stylesheet" href="../../fonts/fonts.css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="../../highlight.css">
+        <link rel="stylesheet" href="../../tomorrow-night.css">
+        <link rel="stylesheet" href="../../ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        <link rel="stylesheet" href="../../src/custom.css">
+
+    </head>
+    <body>
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "../../";
+            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            var html = document.querySelector('html');
+            html.classList.remove('no-js')
+            html.classList.remove('light')
+            html.classList.add(theme);
+            html.classList.add('js');
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="chapter-item expanded "><a href="../../introduction/introduction.html"><strong aria-hidden="true">1.</strong> Introduction</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../introduction/significance.html"><strong aria-hidden="true">1.1.</strong> Significance to Jehovah's Witnesses</a></li><li class="chapter-item expanded "><a href="../../introduction/calendar.html"><strong aria-hidden="true">1.2.</strong> Calendar Basics</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/standard.html"><strong aria-hidden="true">2.</strong> Standard Babylonian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/im65066.html"><strong aria-hidden="true">2.1.</strong> Uruk King List</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/chronicles.html"><strong aria-hidden="true">2.2.</strong> Babylonian Chronicles</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/chronicles/bm86379.html"><strong aria-hidden="true">2.2.1.</strong> Akitu Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm25127.html"><strong aria-hidden="true">2.2.2.</strong> Early Years of Nabopolassar Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm21901.html"><strong aria-hidden="true">2.2.3.</strong> Fall of Nineveh Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm21946.html"><strong aria-hidden="true">2.2.4.</strong> Nebuchadnezzar Chronicle</a></li><li class="chapter-item expanded "><a href="../../standard/chronicles/bm35382.html"><strong aria-hidden="true">2.2.5.</strong> Nabonidus Chronicle</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/business/business.html"><strong aria-hidden="true">2.3.</strong> Business Tablets</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/business/corrections.html"><strong aria-hidden="true">2.3.1.</strong> Errors and Corrections</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/nabon24.html"><strong aria-hidden="true">2.4.</strong> Adad-Guppi Stele</a></li><li class="chapter-item expanded "><a href="../../standard/nabon8.html"><strong aria-hidden="true">2.5.</strong> Hillah Stele</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/egypt.html"><strong aria-hidden="true">2.6.</strong> Egyptian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../standard/egypt/bm33041.html"><strong aria-hidden="true">2.6.1.</strong> BM 33041</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/stelae.html" class="active"><strong aria-hidden="true">2.6.2.</strong> Stelae</a></li><li class="chapter-item expanded "><a href="../../standard/egypt/historians.html"><strong aria-hidden="true">2.6.3.</strong> Ancient Historians</a></li></ol></li><li class="chapter-item expanded "><a href="../../standard/canon.html"><strong aria-hidden="true">2.7.</strong> Ptolemy's Royal Canon</a></li><li class="chapter-item expanded "><a href="../../standard/astro.html"><strong aria-hidden="true">2.8.</strong> Astronomical Texts</a></li><li class="chapter-item expanded "><a href="../../standard/timeline.html"><strong aria-hidden="true">2.9.</strong> Timeline</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/judean.html"><strong aria-hidden="true">3.</strong> Judean Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/biblical/biblical.html"><strong aria-hidden="true">3.1.</strong> Biblical Evidence</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/biblical/2kings.html"><strong aria-hidden="true">3.1.1.</strong> 2 Kings</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/jeremiah.html"><strong aria-hidden="true">3.1.2.</strong> Jeremiah</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/2chronicles.html"><strong aria-hidden="true">3.1.3.</strong> 2 Chronicles</a></li><li class="chapter-item expanded "><a href="../../judean/biblical/daniel.html"><strong aria-hidden="true">3.1.4.</strong> Daniel</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/sync_issues.html"><strong aria-hidden="true">3.2.</strong> Issues Synchronising Babylonian and Judean Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/principles.html"><strong aria-hidden="true">3.3.</strong> Principles of Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/solutions.html"><strong aria-hidden="true">3.4.</strong> Solutions to the Judean Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../judean/solutions/tadmor.html"><strong aria-hidden="true">3.4.1.</strong> Tadmor's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/jones.html"><strong aria-hidden="true">3.4.2.</strong> Jones's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/malamat.html"><strong aria-hidden="true">3.4.3.</strong> Malamat's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/thiele.html"><strong aria-hidden="true">3.4.4.</strong> Thiele's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/horn.html"><strong aria-hidden="true">3.4.5.</strong> Horn's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/albright.html"><strong aria-hidden="true">3.4.6.</strong> Albright's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/hyatt.html"><strong aria-hidden="true">3.4.7.</strong> Hyatt's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/young.html"><strong aria-hidden="true">3.4.8.</strong> Young's Chronology</a></li><li class="chapter-item expanded "><a href="../../judean/solutions/watchtower.html"><strong aria-hidden="true">3.4.9.</strong> Watchtower Judean Chronology</a></li></ol></li><li class="chapter-item expanded "><a href="../../judean/daniel1_1.html"><strong aria-hidden="true">3.5.</strong> Watchtower Interpretation of Daniel 1:1</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/watchtower.html"><strong aria-hidden="true">4.</strong> Watchtower Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/70_years/70_years.html"><strong aria-hidden="true">4.1.</strong> Jeremiah’s 70 Year Prophesy</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/70_years/scriptures.html"><strong aria-hidden="true">4.1.1.</strong> Key Scriptures</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/cyrus.html"><strong aria-hidden="true">4.1.2.</strong> Reign of Cyrus</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/return.html"><strong aria-hidden="true">4.1.3.</strong> Return of the Exiles</a></li><li class="chapter-item expanded "><a href="../../watchtower/70_years/accuracy.html"><strong aria-hidden="true">4.1.4.</strong> Accuracy of the Prophesy</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/history/history.html"><strong aria-hidden="true">4.2.</strong> History of the Watchtower Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/history/russell.html"><strong aria-hidden="true">4.2.1.</strong> Russell and Barbour (1875+)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1943.html"><strong aria-hidden="true">4.2.2.</strong> The Truth Shall Make You Free (1943)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1944.html"><strong aria-hidden="true">4.2.3.</strong> The Kingdom Is At Hand (1944)</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1949.html"><strong aria-hidden="true">4.2.4.</strong> The Watchtower 1949</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1952.html"><strong aria-hidden="true">4.2.5.</strong> The Watchtower 1952</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1955.html"><strong aria-hidden="true">4.2.6.</strong> The Watchtower 1955</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1968.html"><strong aria-hidden="true">4.2.7.</strong> The Watchtower 1968</a></li><li class="chapter-item expanded "><a href="../../watchtower/history/1971.html"><strong aria-hidden="true">4.2.8.</strong> The Watchtower 1971</a></li></ol></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/criticisms.html"><strong aria-hidden="true">4.3.</strong> Criticism of Standard Babylonian Chronology</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/criticisms/ptolemy.html"><strong aria-hidden="true">4.3.1.</strong> Criticism of Ptolemy's Canon</a></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/business.html"><strong aria-hidden="true">4.3.2.</strong> Criticism of the Business Tablet Record</a></li><li class="chapter-item expanded "><a href="../../watchtower/criticisms/astro.html"><strong aria-hidden="true">4.3.3.</strong> Criticism of the Astronomical Diaries</a></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../watchtower/criticisms/vat4956.html"><strong aria-hidden="true">4.3.3.1.</strong> Alternative Dating of VAT 4956</a></li></ol></li></ol></li></ol></li><li class="chapter-item expanded "><div><strong aria-hidden="true">5.</strong> Controversies</div></li><li class="chapter-item expanded "><div><strong aria-hidden="true">6.</strong> Appendix</div></li><li><ol class="section"><li class="chapter-item expanded "><a href="../../appendix/letter_vat4956.html"><strong aria-hidden="true">6.1.</strong> Letter Concerning VAT 4956 in the Watchtower 2011</a></li><li class="chapter-item expanded "><a href="../../appendix/letter_josiah.html"><strong aria-hidden="true">6.2.</strong> Letter Concerning the Date of Josiah's Death</a></li></ol></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar" class="menu-bar sticky bordered">
+                    <div class="left-buttons">
+                        <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                            <i class="fa fa-bars"></i>
+                        </button>
+                        <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                            <i class="fa fa-paint-brush"></i>
+                        </button>
+                        <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                        </ul>
+                        <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                            <i class="fa fa-search"></i>
+                        </button>
+                    </div>
+
+                    <h1 class="menu-title">The Jerusalem Book</h1>
+
+                    <div class="right-buttons">
+                        <a href="../../print.html" title="Print this book" aria-label="Print this book">
+                            <i id="print-button" class="fa fa-print"></i>
+                        </a>
+
+                    </div>
+                </div>
+
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1 id="stelae"><a class="header" href="#stelae">Stelae</a></h1>
+<h2 id="louvre-no-193"><a class="header" href="#louvre-no-193">Louvre, No. 193</a></h2>
+<p>Serapeum Stela [1, p. 497]:</p>
+<pre><code>1.  Year 16, fourth month of the first season (fourth month), day 16, under the majesty of Horns: Wise-hearted (Śyʾ-yb); King of Upper and Lower Egypt; Favorite of the Two Goddesses: Triumphant; Golden Horus: Beloved-of-the-Gods;
+2.  Uhemibre; Son of Re, of his body, his beloved: Necho, living forever, beloved of Apis, son of Osiris.
+3.  The day of the interment of this god. This god was conducted in peace to the necropolis, to let him assume his place in his temple in the western desert of
+4.  &quot;Life-of-the-Two-Lands,&quot; after there had been done for him all that is done in the pure house, as it was done formerly. He was born
+5.  in the year 53, second month of the second season (sixth month), day 19, under the majesty of the King of Upper and Lower Egypt: Wahibre; Son of Re: Psamtik (I), triumphant.
+6.  He was [rece]ived into the house of Ptah in the year 54, third month of the first season (third month), day 12. He departed from life
+7.  [in the year] 16, second month of the first season (second month), day 6. The total of his length of life was 16 years, 7 months, and 17 days. The majesty of
+8.  the King of Upper and Lower Egypt, Necho, living forever, made all the coffins and every thing excellent and profitable for this august god.
+9.  He built for him his place in the necropolis, of fine limestone of Ayan, of excellent workmanship. Never happened the like
+10. since the beginning. That he might be given all life, stability, satisfaction, health, and joy of heart, like Re, forever and ever.
+</code></pre>
+<p>Lines 4-5 - Birth:
+<code>He was born in the year 53, second month of the second season (sixth month), day 19, under ... Psamtik</code></p>
+<p>Lines 6-7 - Death:
+<code>He departed from life [in the year] 16, second month of the first season (second month), day 6 ... Necho</code></p>
+<p>Line 7 - Lifespan:
+<code>The total of his length of life was 16 years, 7 months, and 17 days.</code></p>
+<blockquote>
+<p>This would indicate that Psamtik ruled an even number of complete
+years, but we cannot suppose that Psamtik I died on the last day of
+the year; it is evident that he died in the fifty-fifth year of his
+reign, and that the fraction of that incomplete year was, after his
+death, included in the first year of his successor, Necho. It is thus
+clear that the years of the king’s reign in the Twenty-sixth Dynasty
+began on New Year’s Day.</p>
+</blockquote>
+<p>Therefore Psamtik I ruled for 54 complete years, before being succeeded
+by Necho in the 55th year.</p>
+<h2 id="louvre-no-240"><a class="header" href="#louvre-no-240">Louvre, No. 240</a></h2>
+<p>Serapeum Stela [1, p. 501]:</p>
+<pre><code>1. Year 12, second month of the third season (tenth month), day 21, under the majesty of King Apries^ (Ḥꜥꜥ-yb-Re),
+2. beloved of Apis, son of Osiris. The god was conducted in peace to the Beautiful West
+3. to let him assum'e his place in the necropolis, the western desert of Memphis; after there had been done for him all that is done in
+4. the pure house. Never was done the like before. The majesty of this god went forth to heaven
+5. in the year 12, fourth month of the second season (eighth month), day 12. He was born in the year 16, second month of the first season (second month), day 7, under the majesty of
+6. King Necho, living forever. He was installed in the house of Ptah
+7. in the year I, third month of the third season (eleventh month), day 9, under the majesty of Psamtik II.
+8. The beautiful life of this god, was 17 years, 6 months, 5 days. The Good God, Wahibre (Apries), made all the coffins,
+9. everything, excellent, and every profitable thing, for this august god; that he (the king) might be given life and health therefore, forever.
+</code></pre>
+<p>Line 6 - Birth:
+<code>He was born in the year 16, second month of the first season (second month), day 7, under the majesty of King Necho</code></p>
+<p>Line 5 - Death:
+<code>went forth to heaven in the year 12 [Apries], fourth month of the second season (eighth month), day 12.</code></p>
+<p>Line 8 - Lifespan:
+<code>The beautiful life of this god, was 17 years, 6 months, 5 days.</code></p>
+<blockquote>
+<p>The combined, reigns of Necho and Psamtik II, therefore, lasted
+exactly twenty-one years.</p>
+</blockquote>
+<h2 id="mortuary-stelae-of-the-priest-psamtik"><a class="header" href="#mortuary-stelae-of-the-priest-psamtik">Mortuary Stelae of the Priest Psamtik</a></h2>
+<p>[1, p. 518]</p>
+<blockquote>
+<p>Year I, third month of the third season, day I, under the majesty of
+the King of Upper and Lower Egypt, Uhemibre (Wḥm-yb-Rꜥ), Son of Re,
+Necho (N-kʾw). On this good day was born the divine father, Psamtik,
+begotten of Ahuben (Y ꜥ ḥ-wbn), born of Enkhetesi (ꜥ nḫs). His good
+life was 65 years, 10 months, 2 days. Year 27, fourth month of the
+second season, day 28, was his day of departure from life. He was
+introduced into the Good House, and he spent 42 days under the hand of
+Anubis, lord of Tazoser. He was conducted in peace to the Beautiful
+West in the first month of the third season (ninth month), day ⸢—⸣;
+and his life in the necropolis is forever and ever.</p>
+</blockquote>
+<p>Birth: <code>Year I, third month of the third season, day I, under ... Necho</code></p>
+<p>Death: <code>Year 27 [Amasis], fourth month of the second season, day 28</code></p>
+<p>Age: <code>65 years, 10 months, 2 days</code></p>
+<blockquote>
+<p>hence, Necho’s accession was exactly forty years before that of
+Amasis.</p>
+</blockquote>
+<h2 id="references"><a class="header" href="#references">References</a></h2>
+<p>[1] J. H. Breasted, <em>Ancient records of Egypt, Historical documents
+from the earliest times to the Persian conquest</em>, vol. 4. University of
+Chicago Press, 1906, [Online]. Available:
+<a href="https://archive.org/details/cu31924082479258">https://archive.org/details/cu31924082479258</a>.</p>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                            <a rel="prev" href="../../standard/egypt/bm33041.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+
+                            <a rel="next" href="../../standard/egypt/historians.html" class="mobile-nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                                <i class="fa fa-angle-right"></i>
+                            </a>
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                    <a rel="prev" href="../../standard/egypt/bm33041.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+
+                    <a rel="next" href="../../standard/egypt/historians.html" class="nav-chapters next" title="Next chapter" aria-label="Next chapter" aria-keyshortcuts="Right">
+                        <i class="fa fa-angle-right"></i>
+                    </a>
+            </nav>
+
+        </div>
+
+
+
+
+        <script type="text/javascript">
+            window.playground_copyable = true;
+        </script>
+
+
+        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+
+
+    </body>
+</html>
