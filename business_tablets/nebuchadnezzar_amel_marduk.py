@@ -128,4 +128,4 @@ data = [tablets_to_data(43, NEBUCHADNEZZAR), tablets_to_data(43, AMEL)]
 do_plot("Standard Chronology", data, [43, 44], "../src/graphics/nebuchadnezzar_amel_marduk.svg")
 
 data = [tablets_to_data(43, NEBUCHADNEZZAR), tablets_to_data(44, AMEL)]
-do_plot("Watchtower Chronology?", data, [43, 44, 45], "../src/graphics/nebuchadnezzar_amel_marduk2.svg")
+do_plot("Watchtower Chronology?", data, [43, 44], "../src/graphics/nebuchadnezzar_amel_marduk2.svg")
