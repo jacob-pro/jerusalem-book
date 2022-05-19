@@ -1,7 +1,14 @@
 # Errors and Corrections
 
 Since there are thousands of dateable texts in the survey it is not surprising that there will have been some errors in
-the process of copying, translating, and collating the texts.
+the process of copying, translating, and collating the texts. Walker writes [@walker1996corrections]:
+
+> Note that in Neo-Babylonian texts there is always the possibility of confusion (because of inaccuracy in either
+> reading or writing) between months IV, VII, and XI, between months V and X, and between months IX and XII. The
+> handbooks which suggest that these month-names are clearly distinguishable in the cuneiform script do not give warning
+> of the range of possible error that arise from sloppy, defective, or cursive writing. Readings which are critical to
+> chronology should be collated again and again, preferably by different Assyriologists experienced in working with
+> Neo-Babylonian texts.
 
 I have applied a number of corrections to my own copy of Everling's survey which using Git can be tracked here:
 [CHRON.CHN](https://github.com/jacob-pro/jerusalem-book/blob/master/business_tablets/CHRON.CHN) (try using the 'blame'
@@ -31,7 +38,8 @@ Correction of database from Nebuchadnezzar II 43.08.o to 42.08.o.
 
 CT 55, 138 [@pinches1982cuneiform55]
 
-Moved from year Nebuchadnezzar II 43 to unknown year: "the year number is far from clear" [@bm55806].
+Moved from year Nebuchadnezzar II 43 to unknown year: "the year number is far from clear" [@bm55806]
+[@walker1996corrections, 3]
 
 ### BM 75322
 
@@ -43,13 +51,13 @@ Added missing tablet Amel-Marduk 00.5.20 [@bm75322] to the database.
 
 AOATS 4, 56 (Sack No. 56) [@sack1972amel]
 
-Correction of database from Amel-Marduk acc.04.20 to acc.07.20 [@bm80920].
+Correction of database from Amel-Marduk acc.04.20 to acc.07.20 [@bm80920] [@walker1996corrections, 8].
 
 ### BM 65270
 
 Zawadzki ZA 86 218 [@zawadzki1996two, 218]
 
-Correction of database to Amel-Marduk from 00.06?.05 to 00.11?.05 [@bm65270]
+Correction of database to Amel-Marduk from 00.06?.05 to 00.11?.05 [@bm65270].
 
 ### HMA 9-02507
 

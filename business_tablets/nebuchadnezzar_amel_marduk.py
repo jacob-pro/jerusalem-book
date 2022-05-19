@@ -115,7 +115,7 @@ def tablets_to_data(year: int, tablets: List[Tablet]):
 
 def do_plot(title, data, ticks, output):
     fig, ax1 = plt.subplots()
-    ax1.eventplot(data, color=['b', 'g'], linelengths = 1, lineoffsets = [0, -1])
+    ax1.eventplot(data, color=['b', 'g'], linelengths = 1, lineoffsets = [0, -0.5])
     ax1.set_title(title)
     ax1.set_xlabel('Nebuchadnezzar II Years')
     ax1.xaxis.set_ticks(ticks)
@@ -125,7 +125,7 @@ def do_plot(title, data, ticks, output):
 
 
 data = [tablets_to_data(43, NEBUCHADNEZZAR), tablets_to_data(43, AMEL)]
-do_plot("Standard Scheme", data, [43, 44], "../src/graphics/nebuchadnezzar_amel_marduk.svg")
+do_plot("Standard Chronology", data, [43, 44], "../src/graphics/nebuchadnezzar_amel_marduk.svg")
 
 data = [tablets_to_data(43, NEBUCHADNEZZAR), tablets_to_data(44, AMEL)]
-do_plot("Watchtower Scheme", data, [43, 44, 45], "../src/graphics/nebuchadnezzar_amel_marduk2.svg")
+do_plot("Watchtower Chronology?", data, [43, 44, 45], "../src/graphics/nebuchadnezzar_amel_marduk2.svg")

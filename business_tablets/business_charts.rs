@@ -45,7 +45,7 @@ fn main() -> std::io::Result<()> {
             view = view.add(bar);
         }
         let name = k.to_ascii_lowercase().replace(" ", "_");
-        Page::single(&view).save(format!("../src/standard/business/charts/{}.svg", name)).unwrap();
+        Page::single(&view).save(format!("../src/graphics/{}.svg", name)).unwrap();
     }
 
     Ok(())

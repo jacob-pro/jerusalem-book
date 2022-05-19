@@ -16,7 +16,7 @@ survey I have generated bar charts counting the tablets dated to each year of ea
 
 ### Shamash-shum-ukin
 
-![](charts/shamash-shum-ukin.svg)
+![](../../graphics/shamash-shum-ukin.svg)
 
 Latest dated texts:
 
@@ -32,7 +32,7 @@ Earliest dated texts:
 - 6/X/1 - Babylon, VAT 2963 (L.1 [@brinkman1983documentary, 39])
 - 10/XII/1 - Sippar?, BM 49326 [@bm49326] (L.2 [@brinkman1983documentary, 39])
 
-![](charts/kandalanu.svg)
+![](../../graphics/kandalanu.svg)
 
 Latest dated texts:
 
@@ -57,7 +57,7 @@ According to Wiseman: [@wiseman1956chronicles, 93]
 > Marcheswan \[VIII\] ... Unless a scribal error is assumed it would seem, therefore, that Nabopolassar was acknowledged
 > king at least at Sippar which had become independent of Assyria before the final battle at Babylon.
 
-![](charts/nabopolassar.svg)
+![](../../graphics/nabopolassar.svg)
 
 Latest dated texts:
 
@@ -73,7 +73,7 @@ Earliest dated texts:
 - 12/VI/Acc - Uruk?, (YOS 17, 153 [@weisberg1980texts])
 - 18/VI/Acc - Sippar, BM 49524 [@bm49524] [@wiseman1956chronicles, 84]
 
-![](charts/nebuchadnezzar_ii.svg)
+![](../../graphics/nebuchadnezzar_ii.svg)
 
 Latest dated texts:
 
@@ -101,7 +101,7 @@ However, Weisberg disagrees in his review of Sack's book [@weisberg1976review, 6
 > what was happening at the court. A Sippar scribe dating texts to Amēl-Marduk might have picked up the news more
 > quickly.
 
-![](charts/amel-marduk.svg)
+![](../../graphics/amel-marduk.svg)
 
 Latest dated texts:
 
@@ -123,7 +123,7 @@ Earliest dated texts:
 Note that the first date (month II) is an anomaly since of 40 texts from Neriglissar's accession year it is the only one
 dated prior to month V; it is possibly a mistake [@van1998neriglissar, 228].
 
-![](charts/neriglissar.svg)
+![](../../graphics/neriglissar.svg)
 
 Latest dated texts:
 
@@ -139,7 +139,7 @@ Earliest dated texts:
 - 23/I/Acc - Uruk, NBC 4534 [@goetze1944additions, 44]
 - 12/II/Acc - Sippar, BM 67271 [@bm67271]
 
-![](charts/la-bashi-marduk.svg)
+![](../../graphics/la-bashi-marduk.svg)
 
 Latest dated texts:
 
@@ -155,7 +155,7 @@ Earliest dated texts:
 - 15/II/Acc - Našušakuna, (Clay BE 8/1, 39 [@clay1908babylonian, 32])
 - 18/III/Acc - Sippar, BM 75214 [@bm75214]
 
-![](charts/nabonid.svg)
+![](../../graphics/nabonid.svg)
 
 Latest dated texts:
 
@@ -171,7 +171,7 @@ Earliest dated texts:
 - 19/VII/Acc - Sippar, BM 56154 [@bm56154]
 - ?/VII/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [@strassmaier1890inschriftencyr])
 
-![](charts/cyrus.svg)
+![](../../graphics/cyrus.svg)
 
 Latest dated texts:
 
@@ -190,7 +190,7 @@ Earliest dated texts:
 Note there is an overlap between the tablets dated to Cambyses in month VI, with the tablets dated in later months to
 Cyrus suggesting a co-regency [@dandamayev1992iranians, 93] although this is disputed [@peat1989cyrus].
 
-![](charts/cambyses.svg)
+![](../../graphics/cambyses.svg)
 
 ## List of Abbreviations
 
