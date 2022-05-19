@@ -89,11 +89,11 @@ Earliest dated texts:
 - ?/V/Acc - Sippar, BM 58872 [@bm58872]
 - 20/V/Acc - Sippar, BM 75322 [@bm75322]
 
-Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R H Sack 'proposes that
-Nebuchadrezzar bought his son into a co-regency before his death', which D J Wiseman agrees 'is certainly possible'
+Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R.H. Sack 'proposes that
+Nebuchadrezzar bought his son into a co-regency before his death', which Wiseman agrees 'is certainly possible'
 [@wiseman1974review, 451].
 
-However D B Weisberg disagrees [@weisberg1976review, 68]:
+However, Weisberg disagrees in his review of Sack's book [@weisberg1976review, 68]:
 
 > a possible co-regency of Nebuchadnezzar and Amēl-Marduk does not seem conclusive. ... The dates we have for the end of
 > one rule and the beginning of another must be used with an understanding of the human factors that led to their
