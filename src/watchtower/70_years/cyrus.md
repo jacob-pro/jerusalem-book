@@ -1,7 +1,7 @@
-# Reign of Cyrus
+# Reign of Cyrus II
 
 In order to determine when the 70 years of Jeremiah (25:11) ended and the Jews returned to Jerusalem (2 Chronicles
-36:23, Ezra 1:1) the Watchtower needs to date the reign of Cyrus, and his conquest of Babylon. They have therefore
+36:23, Ezra 1:1) the Watchtower needs to date the reign of Cyrus II, and his conquest of Babylon. They have therefore
 offered a couple of different sources:
 
 ## Olympiad Numbers
@@ -146,16 +146,15 @@ have fallen to Cyrus in 539 BC.
 
 ### Problems
 
-As we will see later in this chapter (section
-[Criticism of Standard Babylonian Chronology](../criticisms/criticisms.md)) the Watchtower using these sources as a base
-for their 'Biblical chronology' contradicts their own arguments; in short:
+As we will see later in the [Criticism of Standard Babylonian Chronology](../criticisms/criticisms.md) section, the
+Watchtower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
 
 - It is not clear how the Watchtower can justify using
   [BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) (which has a number of serious
   inaccuracies [@britton2008remarks, 7]) to be a valid source of chronological information, whilst rejecting the dates
   of [seven other astronomical texts](../../standard/astro.md).
-- Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make much sense given
-  that for the 70 year prophesy to be correct relies on the assumption that the business tablets do not constitute a
-  'continuous chronological record'.
+- Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make sense given that
+  the Watchtower also relies on the assumption that the business tablets do not constitute a 'continuous chronological
+  record'.
 
 ## References

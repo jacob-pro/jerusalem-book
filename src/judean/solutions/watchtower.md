@@ -32,7 +32,7 @@ comparison to the other chronologies in the section.
 
 <sup>2</sup> See section [Watchtower Interpretation of Daniel 1:1](../daniel1_1.md).
 
-<sup>3</sup> This doesn't match the conventional chronology, see [Release of Jehoiachin](#release-of-jehoiachin) below.
+<sup>3</sup> This is somewhat unclear, see [Release of Jehoiachin](#release-of-jehoiachin) below.
 
 ## Discussion
 
@@ -109,7 +109,7 @@ question.
 > Nebuchadnezzar (or Nebuchadrezzar) in his seventh regnal year (or eighth year from his accession to the throne). (Jer.
 > 52:28; 2 Ki. 24:12) [@watch1969babylonian, 88]
 
-On the difference in the numbers of captives between 2 Kings and Jeremiah 52:
+Regarding the difference in the numbers of captives between 2 Kings and Jeremiah 52 [@watch2018insight1, 415]:
 
 > But it was more than a decade later, in 617 B.C.E., that the first captives from Jerusalem were taken into exile at
 > Babylon. Nebuchadnezzar came against the rebellious city and carried off the upper class of the population, including
@@ -123,12 +123,11 @@ On the difference in the numbers of captives between 2 Kings and Jeremiah 52:
 > note, including the prophet Jeremiah, also remained in Jerusalem. In view of the large number of captives recorded at
 > 2 Kings 24:14, the figure 3,023 given at Jeremiah 52:28 apparently refers to those of a certain rank, or to those who
 > were family heads—their wives and children, numbering thousands, not being included in the figure.
-> [@watch2018insight1, 415]
 
-Against the idea that Jeremiah 52:28 only refers to the adult males Green says:
+Against the idea that Jeremiah 52:28 only refers to the adult males Green says [@green1982chronology, 64]:
 
 > Bright's theory that the 3,023 in Jeremiah refer only to adult males does not narrow the gap because all the
-> classification listed in Kings are certainly men. [@green1982chronology, 64]
+> classification listed in Kings are certainly men.
 
 ### Capture of Zedekiah
 
@@ -141,33 +140,33 @@ Against the idea that Jeremiah 52:28 only refers to the adult males Green says:
 > (Nebuchadnezzar’s 19th year if counting from his accession year or his 18th regnal year), a breach was made in
 > Jerusalem’s wall. [@watch2018insight2, 481]
 
-And again on the number of exiles:
+And again on the number of exiles [@watch2018insight1, 416]:
 
 > Zedekiah’s sons, the princes of Judah, court officials, certain priests, and many other prominent citizens were put to
 > death at the order of the king of Babylon. (2Ki 25:7, 18-21; Jer 52:10, 24-27) All of this could account for the
 > rather low number of those actually listed as exiles that were led off, the number given being only 832, probably
-> heads of households, their wives and children not being counted. —Jer 52:29. [@watch2018insight1, 416]
+> heads of households, their wives and children not being counted. —Jer 52:29.
 
 ### Release of Jehoiachin
 
+The Watchtower's chronology appears to be somewhat unclear and possibly contradictory when it comes to the start of
+Amel-Marduk's reign and hence release of Jehoiachin. The _Insight_ book claims that Nebuchadnezzar ruled for 43 years
+ending in 582 BC [@watch2018insight2, 480]:
+
 > Second ruler of the Neo-Babylonian Empire; son of Nabopolassar and father of Awil-Marduk (Evil-merodach), who
-> succeeded him to the throne. Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.) [@watch2018insight2, 480]
+> succeeded him to the throne. Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.)
+
+But it also claims that Amel-Marduk's accession year spanned the year 581 BC to 580 BC, leaving a one-year gap between
+[@watch2018insight1, 773] [@watch2018insight1, 1267], this would surely require extending Nebuchadnezzar's reign to 44
+years instead?
 
 > The Babylonian king who succeeded Nebuchadnezzar to the throne in 581 B.C.E. In the year of his becoming king,
 > Evil-merodach extended kindness to Jehoiachin the king of Judah by releasing him from the house of detention. That was
-> in the 37th year of Jehoiachin’s exile in Babylon. [@watch2018insight1, 773]
+> in the 37th year of Jehoiachin’s exile in Babylon.
 
 > In the fifth year of Jehoiachin’s exile, Ezekiel began his prophetic work. (Eze 1:2) About 32 years later, evidently
 > in 580 B.C.E., Jehoiachin was released from prison by Nebuchadnezzar’s successor Evil-merodach (Awil-Marduk) and given
 > a position of favor above all the other captive kings. Thereafter he ate at Evil-merodach’s table and received a daily
-> allowance.—2Ki 25:27-30; Jer 52:31-34. [@watch2018insight1, 1267]
-
-The Insight book appears to imply there was a gap of up to one year between the death of Nebuchadnezzar in his 43rd year
-(the year spanning 582-581), and the accession of Evil-Merodach (Amel-Marduk) in the year spanning (581-580). This would
-be consistent with the arguments made in the Watchtower 2011:
-
-> For example, the documents show that Nebuchadnezzar II was still ruling in his tenth month—six months after his
-> successor is assumed to have begun reigning. <br><br> Could others have ruled between the reigns of these kings? If
-> so, additional years would have to be added to the Neo-Babylonian period. [@watch2011when2]
+> allowance.—2Ki 25:27-30; Jer 52:31-34.
 
 ## References

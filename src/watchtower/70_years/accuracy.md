@@ -1,9 +1,9 @@
 # Accuracy of the Prophesy
 
 Requiring a period of 70 years between the destruction of Jerusalem in Nebuchadnezzar's 18th/19th year and the return of
-Jewish captives (somewhere around) Cyrus' first year is clearly incompatible with all the chronological data we have for
-[the Neo-Babylonian period](../../standard/standard.md). There is no historical evidence to suggest that this 70-year
-prophesy (as interpreted) came true.
+Jewish captives (somewhere around) Cyrus II's first year is clearly incompatible with all the chronological data we have
+for [the Neo-Babylonian period](../../standard/standard.md). There is no historical evidence to suggest that this
+70-year prophesy (as interpreted) came true.
 
 ## Alternative Interpretations
 
@@ -47,8 +47,8 @@ Regarding the 70-year period (Jeremiah 25:11) the _Awake!_ says [@watch2012accur
 > that the limestone of the buildings turned to lime.
 
 However, as we have seen there is no evidence for the dating the destruction of Jerusalem to 607 BC without making the
-unsupported assumptions that the 70 year prophesy did come true and that the Jews returned during the 2nd year of Cyrus,
-and then counting back 70 years from 537 BC.
+unsupported assumptions that the 70 year prophesy did come true and that the Jews returned during the 2nd year of Cyrus
+II, and then counting back 70 years from 537 BC.
 
 Then the 'What history reveals' section contains the statement that Nebuchadnezzar 'ruled from 624 to 582 B.C.E.', but
 no historical evidence for this has been provided (independent of Jeremiah's prophesy which this paragraph is trying to

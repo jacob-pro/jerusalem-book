@@ -44,7 +44,7 @@
 - [Watchtower Chronology](watchtower/watchtower.md)
   - [Jeremiah’s 70 Year Prophesy](watchtower/70_years/70_years.md)
     - [Key Scriptures](watchtower/70_years/scriptures.md)
-    - [Reign of Cyrus](watchtower/70_years/cyrus.md)
+    - [Reign of Cyrus II](watchtower/70_years/cyrus.md)
     - [Return of the Exiles](watchtower/70_years/return.md)
     - [Accuracy of the Prophesy](watchtower/70_years/accuracy.md)
   - [History of the Watchtower Chronology](watchtower/history/history.md)

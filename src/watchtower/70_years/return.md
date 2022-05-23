@@ -2,7 +2,7 @@
 
 ## Background
 
-The Watchtower accepts the year 539 BC as the date of the fall of Babylon to Cyrus [@watch2018insight1, 453]
+The Watchtower accepts the year 539 BC as the date of the fall of Babylon to Cyrus II [@watch2018insight1, 453]
 [@watch2011when1, 28]. The [Nabonidus Chronicle](../../standard/chronicles/bm35382.md) describes the fall in detail; the
 Babylonian army was defeated in the 7th month (III, Lines 12-18), and Cyrus entered the city of Babylon on the 3rd day
 of the 8th month (III, Line 18), these dates are accepted by the Watchtower [@watch2018insight1, 568]
@@ -41,7 +41,7 @@ returned by the 7th month in 538 BC [@boardman2008cambridge, 432]:
 > time of harvest (Lev. 23:33-6; Deut. 16:13—15). This strongly suggests that the 'seventh month' in which Zerubbabel
 > built the altar was Tishri in 538, rather than simply the seventh month after the return
 
-On the other hand Steinmann argues that it would have taken 5 years from Cyrus decree before the exiles returned to
+On the other hand Steinmann argues that it would have taken 5 years from Cyrus' decree before the exiles returned to
 Jerusalem, which would be 533 BC [@steinmann2008chronological]:
 
 > Thus it is possible with external information to determine when Sheshbazzar and Zerubbabel led the Judean exiles back

@@ -25,7 +25,7 @@ land of Judah became unworked and deserted [@watch2011when1, 27]:
 > Sabbath rest.
 
 They believe that the 70 years ended when the Jews had returned to Jerusalem, which they date to the 2nd year of Cyrus
-in 537 BC (following the proclamation in the first year) [@watch2011when1, 28]:
+II in 537 BC (following the proclamation in the first year) [@watch2011when1, 28]:
 
 > Ezra reflected on the prophecies of Jeremiah and linked the end of “the seventy years” to the time when “the LORD
 > moved the heart of Cyrus king of Persia to make a proclamation.” (2 Chronicles 36:21, 22, NIV) When were the Jews
