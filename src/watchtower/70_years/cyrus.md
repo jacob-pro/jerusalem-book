@@ -81,7 +81,7 @@ Using the system of Olympiad numbers Africanus also dates the 20th year of Artax
 <sup>(1st olympiad = 776 BC, 83rd Olympiad = 448 BC, 4th year = 445 BC)</sup>
 
 However, this is in direct contradiction with the Insight book chronology chapter, and the Watchtower's interpretation
-of Daniel's 70 weeks prophesy (Daniel 9:24) [@watch2018insight1, 463]:
+of Daniel's 70 weeks prophecy (Daniel 9:24) [@watch2018insight1, 463]:
 
 > The next date of major importance is the 20th year of Artaxerxes (Longimanus), the year Nehemiah received permission
 > to go and rebuild Jerusalem. (Ne 2:1, 5-8) The reasons for favoring the date of 455 B.C.E. for this year as against

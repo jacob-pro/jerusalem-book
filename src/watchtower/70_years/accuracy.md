@@ -1,13 +1,13 @@
-# Accuracy of the Prophesy
+# Accuracy of the Prophecy
 
 Requiring a period of 70 years between the destruction of Jerusalem in Nebuchadnezzar's 18th/19th year and the return of
 Jewish captives (somewhere around) Cyrus II's first year is clearly incompatible with all the chronological data we have
 for [the Neo-Babylonian period](../../standard/standard.md). There is no historical evidence to suggest that this
-70-year prophesy (as interpreted) came true.
+70-year prophecy (as interpreted) came true.
 
 ## Alternative Interpretations
 
-There are some alternative interpretations of Jeremiah's prophesy that could in theory satisfy the historical evidence
+There are some alternative interpretations of Jeremiah's prophecy that could in theory satisfy the historical evidence
 however the Watchtower has chosen to reject these [@watch1981let, 138] [@watch2011when1, 27]:
 
 > However, based primarily on such secular records, some persons figure that Jerusalem was destroyed in 587/6 B.C.E. and
@@ -32,7 +32,7 @@ however the Watchtower has chosen to reject these [@watch1981let, 138] [@watch20
 ## Discussion in the _Awake!_ 2012
 
 The series 'The Bible — A Book of Accurate Prophecy' in the _Awake!_ magazine attempts to demonstrate the 'divine
-inspiration' of Jeremiah's 70 year prophesy.
+inspiration' of Jeremiah's 70-year prophecy.
 
 Regarding the 70-year period (Jeremiah 25:11) the _Awake!_ says [@watch2012accurate, 13]:
 
@@ -47,11 +47,11 @@ Regarding the 70-year period (Jeremiah 25:11) the _Awake!_ says [@watch2012accur
 > that the limestone of the buildings turned to lime.
 
 However, as we have seen there is no evidence for the dating the destruction of Jerusalem to 607 BC without making the
-unsupported assumptions that the 70 year prophesy did come true and that the Jews returned during the 2nd year of Cyrus
+unsupported assumptions that the 70-year prophecy did come true and that the Jews returned during the 2nd year of Cyrus
 II, and then counting back 70 years from 537 BC.
 
 Then the 'What history reveals' section contains the statement that Nebuchadnezzar 'ruled from 624 to 582 B.C.E.', but
-no historical evidence for this has been provided (independent of Jeremiah's prophesy which this paragraph is trying to
+no historical evidence for this has been provided (independent of Jeremiah's prophecy which this paragraph is trying to
 prove the accuracy of).
 
 Regarding the return of the exiles (Jeremiah 29:10) the _Awake!_ says [@watch2012accurate, 14]:
@@ -110,7 +110,7 @@ plundered in the first year of Nebuchadnezzar (see [BM 21946](../../standard/chr
 
 ## Discussion in _The Bible—God’s Word or Man's?_
 
-Jeremiah's prophesy is discussed in Chapter 9 'Prophecies That Came True' [@watch1989bible, 120]:
+Jeremiah's prophecy is discussed in Chapter 9 'Prophecies That Came True' [@watch1989bible, 120]:
 
 > 7 The Archaeological Encyclopedia of the Holy Land notes that when the Babylonian onslaught was over, “the destruction
 > of the city \[Jerusalem\] was a total one.” Archaeologist W. F. Albright states: “Excavation and surface exploration
@@ -118,7 +118,7 @@ Jeremiah's prophesy is discussed in Chapter 9 'Prophecies That Came True' [@watc
 > invasions, but were not reoccupied for generations—often never again in history.” Thus, archaeology confirms the
 > shocking fulfillment of this prophecy.
 
-Whilst the chapter states that Jeremiah's prophesy is confirmed by archaeology, the provided evidence only demonstrates
+Whilst the chapter states that Jeremiah's prophecy is confirmed by archaeology, the provided evidence only demonstrates
 that Jerusalem was destroyed, not that there was a 70-year period between as claimed by the Watchtower.
 
 ## References
