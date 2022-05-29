@@ -38,7 +38,7 @@ website 'the year number is far from clear' [@bm55806], so it is not of much use
 in the [business tablets](../../standard/business/business.md#amel-marduk) section, in the context of the standard
 chronology there are actually only two tablets overlapping by about a month:
 
-![](../../graphics/nebuchadnezzar_amel_marduk.svg)
+![](../../graphics/transitions/nebuchadnezzar_amel_marduk.svg)
 
 Despite citing Sack's book, the Watchtower neglects to mention his interpretation of the small overlap as indicating
 'that Nebuchadrezzar bought his son into a co-regency before his death'.
@@ -50,7 +50,7 @@ since the Bible's internal chronology limits Nebuchadnezzar's reign to around 43
 Jehoiachin's 37 years of captivity), the alternative chronology as implied by the Watchtower could only really add one
 additional year here:
 
-![](../../graphics/nebuchadnezzar_amel_marduk2.svg)
+![](../../graphics/transitions/nebuchadnezzar_amel_marduk2.svg)
 
 This would leave an unexplained 11-month gap between the last tablets dated to Nebuchadnezzar and first for Amel-Marduk,
 which seems unusual given the substantial quantity discovered from the rest of their reigns.

@@ -154,7 +154,8 @@ Watchtower using these sources as a base for their 'Biblical chronology' contrad
   inaccuracies [@britton2008remarks, 7]) to be a valid source of chronological information, whilst rejecting the dates
   of [seven other astronomical texts](../../standard/astro.md).
 - Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make sense given that
-  the Watchtower also relies on the assumption that the business tablets do not constitute a 'continuous chronological
-  record'.
+  the Watchtower also claims that the business tablets do not constitute a 'continuous chronological record', especially
+  when the texts between [Cyrus II and Cambyses II overlap](../../standard/business/business.md#cambyses-ii)
+  [@watch2011when2, 23].
 
 ## References
