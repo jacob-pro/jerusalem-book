@@ -24,8 +24,8 @@ a second Addaru (XII₂), was occasionally inserted by decree of the King. Prior
 irregular intervals, a list of known intercalary months is contained in Babylonian Chronology 626 B.C.-A.D. 75
 [@dubberstein1956babylonian, 4].
 
-The Babylonian day began at sunset. Each month starts "when the thin crescent of the new moon was first visible in the
-sky at sunset" [@dubberstein1956babylonian, 1]. The moon becomes visible between about 15 to 48 hours after conjunction
+The Babylonian day began at sunset. Each month starts 'when the thin crescent of the new moon was first visible in the
+sky at sunset' [@dubberstein1956babylonian, 1]. The moon becomes visible between about 15 to 48 hours after conjunction
 (at Mediterranean latitudes), although first sighting may also be delayed by weather conditions, but not by more than
 one day [@ossendrijver2016translating, 131].
 
