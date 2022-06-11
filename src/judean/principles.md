@@ -1,5 +1,8 @@
 # Principles of Chronology
 
+In order to attempt to reconcile the Biblical data with itself and the chronology of Babylon we must first understand
+some basic principles of ancient chronology and calendars. As explained by Thiele [@thiele1983mysterious, 43]:
+
 > In working out the chronology of a nation, a primary requisite is that the chronological procedure of that nation be
 > understood. The following items must be definitely established: (1) the year from which a king began to count the
 > years of his reign—whether from the time of his actual accession, from the following year, or from some other time;
@@ -12,7 +15,6 @@
 > might be secured. An understanding of each of the above items is necessary to a correct reconstruction of the
 > chronologies of Israel and Judah, for unless one is acquainted with the type of chronological procedure in use, a
 > wrong interpretation is likely to be placed on the available data and cause an erroneous pattern to ensue.
-> [@thiele1983mysterious, 43]
 
 ## Accession and Non-Accession Year Reckoning
 

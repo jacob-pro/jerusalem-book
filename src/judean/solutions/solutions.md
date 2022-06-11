@@ -15,12 +15,12 @@ a result come to different dates for the destruction of Jerusalem, including:
 | Roger C. Young      | When Did Jerusalem Fall? [@young2004did]                                                        | 18                          | 587     |
 | Watchtower Society  | Insight on the Scriptures [@watch2018insight1] [@watch2018insight2]                             | 18                          | 607\*   |
 
-<sup>\* The Watchtower does believe that Jerusalem was captured in Nebuchadnezzar's 18th regnal year
-[@watch2018insight2, 481], but uses a very different system to date this on the Julian calendar - this is discussed in
-[Chapter 4](../../watchtower/watchtower.md).</sup>
+\* While the Watchtower claims Jerusalem was captured in Nebuchadnezzar's 18th regnal year [@watch2018insight2, 481],
+they reject the standard chronology for Babylonia.
 
-We will see that all the proposed solutions fail to definitively satisfy all the chronological data, and therefore we
-are unable to give a certain date for the destruction of Jerusalem [@horn1967babylonian, 16]:
+We will see that all the proposed solutions fail to definitively satisfy all the chronological data, which explains why
+there is no consensus among historians on a certain date for the destruction of Jerusalem. As summarised by Horn
+[@horn1967babylonian, 16]:
 
 > no definite and unassailable conclusions can be reached until a historical record dealing with that event is found
 

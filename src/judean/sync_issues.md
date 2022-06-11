@@ -1,7 +1,8 @@
 # Issues Synchronising Babylonian and Judean Chronology
 
 At first, it would appear that there are significant contradictions, both internally within the Bible, and when
-synchronising with the Babylonian chronicles. The key issues include:
+synchronising with the Babylonian texts, that make it very hard to put together a coherent timeline of events. The key
+issues include:
 
 ## Battle of Carchemish
 
@@ -12,7 +13,7 @@ synchronising with the Babylonian chronicles. The key issues include:
 
 Was the 4th year of Jehoiakim (and therefore the battle of Carchemish) in the accession or 1st year of Nebuchadnezzar?
 
-## Second Siege of Jerusalem
+## Siege of Jerusalem (Resulting in Jehoiachin’s Capture)
 
 - Jehoiachin taken captive in the 8th year of Nebuchadnezzar (2 Kings 24:12)
 - Nebuchadnezzar took 3023 Jews into exile in his 7th year (Jeremiah 52:28)
@@ -21,7 +22,7 @@ Was the 4th year of Jehoiakim (and therefore the battle of Carchemish) in the ac
 
 Were Jehoiachin and the other captives taken in the 7th or 8th year of Nebuchadnezzar?
 
-## Third Siege of Jerusalem
+## Siege of Jerusalem (Resulting in Zedekiah’s Capture)
 
 - On 7th (or 10th) day, month V in the 19th year of Nebuchadnezzar, Nebuzaradan came to Jerusalem (2 Kings 25:8)
   (Jeremiah 25:12) and took Jews into exile.
