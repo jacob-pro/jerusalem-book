@@ -1,4 +1,3 @@
 # The Jerusalem Book
 
-Available online at: 
-https://jacob-pro.github.io/jerusalem-book/
+Available online at: https://www.jhalsey.com/jerusalem-book/
