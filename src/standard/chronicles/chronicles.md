@@ -3,9 +3,9 @@
 The Babylonian Chronicles are a series of tablets recording historical events. Of the surviving chronicles there are 6
 that belong to the Neo-Babylonian era, however they do not span the entire period.
 
-ABC – A.K. Grayson, Assyrian and Babylonian Chronicles (1975)
+ABC – A.K. Grayson, _Assyrian and Babylonian Chronicles_ (1975)
 
-CM – J.J. Glassner, Chroniques Mésopotamiennes (1993) (translated as Mesopotamian Chronicles, 2004)
+CM – J.J. Glassner, _Chroniques Mésopotamiennes_ (1993) (translated as _Mesopotamian Chronicles_, 2004)
 
 BM – British Museum Number
 

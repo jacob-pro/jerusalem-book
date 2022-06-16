@@ -100,14 +100,14 @@ Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession year 
 
 ### Captures of Jehoiachin and Zedekiah
 
-Regarding Jehoiachin's capture [@thiele1983mysterious, 186]:
+Jehoiachin's capture is explained in the context of Nisan vs Tishri years [@thiele1983mysterious, 186]:
 
 > The biblical account places the capture of Jerusalem in the eighth year of Nebuchadnezzar (2 Kings 24:12), but the
 > Babylonian account places it in the seventh year. The Babylonian account is in accord with Nisan regnal years and the
 > biblical account starts the years of Nebuchadnezzar with Tishri. The last half of the Babylonian Nisan year overlaps
 > the first half of the Hebrew Tishri year. Thus Jerusalem fell to Nebuchadnezzar in his seventh year according to his
-> own reckoning but in his eighth year according to the reckoning in Kings. The overlap was from Tishri in the fall
-> of598 to Nisan in the spring of 597. Since Jerusalem fell in Adar, the last month of the Babylonian year, this was in
+> own reckoning but in his eighth year according to the reckoning in Kings. The overlap was from Tishri in the fall of
+> 598 to Nisan in the spring of 597. Since Jerusalem fell in Adar, the last month of the Babylonian year, this was in
 > the spring of 597.
 
 And likewise for Zedekiah [@thiele1983mysterious, 190]:
@@ -126,12 +126,12 @@ And likewise for Zedekiah [@thiele1983mysterious, 190]:
 > Jerusalem reached the captives in Babylon on the fifth day of the tenth month of the twelfth year of their captivity
 > (Ezek. 33:21), 8 January 585. Zedekiah's reign thus was from 597 to 586.
 
-Thiele does not seem to offer any explanation for how the captives described in Jeremiah 52:28-30 fit in with the sieges
-— there is no reference to this in his scripture index [@thiele1983mysterious, 253].
+Thiele does not offer any explanation for how the difference in the number of captives in Jeremiah 52:28-30 — there is
+no reference to this in his scripture index [@thiele1983mysterious, 253].
 
 ### Release of Jehoiachin
 
-Thiele counts Jehoiachin's captivity on a Tishri calendar [@thiele1983mysterious, 190]:
+Thiele counts Jehoiachin's 37 years of captivity on a Tishri-to-Tishri calendar [@thiele1983mysterious, 190]:
 
 > It should be noted that, according to the reckoning of Kings, the thirty-seventh year of Jehoiachin's captivity was
 > from Tishri 562, to Tishri 561. But according to Ezekiel's and Jeremiah's method of reckoning, the thirty-seventh year

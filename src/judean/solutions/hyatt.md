@@ -142,7 +142,6 @@ The captures of the Judean kings are explained in the context of accession vs no
 > possibly less. According to II Kings 24:8 Jehoiachin had a reign of three months, while II Chron 36:9 gives him three
 > months and ten days. From these data, it would appear that Jehoiakim died before the beginning of the siege.
 
-However, Hyatt doesn't appear to offer any explanation for the difference in the number of exiles between Jeremiah 52
-and 2 Kings 24-25.
+Hyatt does not appear to explain the difference in the number of captives between Jeremiah 52:28-30 and 2 Kings.
 
 ## References

@@ -65,17 +65,21 @@ He doesn't attempt to reconcile this date (the 5th year of Jehoiakim) with Danie
 ### Captures of Jehoiachin and Zedekiah
 
 Tadmor's synchronistic table lists the siege of Jerusalem and capture of Jehoiachin as 2/XII of Nebuchadnezzar's 7th
-year, based on [BM 21946](../../standard/chronicles/bm21946.md) Rev. 11-13. But he claims that the exile of captives,
-and Zedekiah's accession did not actually take place until the beginning of the new year (Nisan, Nebuchadnezzar year 8)
-— which would match 2 Kings 24:12, and 2 Chronicles 36:10.
+year, based on [BM 21946 Rev. 11-13](../../standard/chronicles/bm21946.md).
 
-He is not however able to explain the difference in the number of captives in Jeremiah 52 [@tadmor1956chronology, 230]:
+But he claims that the exile of captives and Zedekiah's accession did not actually take place until the beginning of the
+new year, thereby explaining the 8th year of Nebuchadnezzar in 2 Kings 24:12, and 2 Chronicles 36:10.
+
+He doesn't have an explanation for the difference in the number of captives in Jeremiah 52 [@tadmor1956chronology, 230]:
 
 > The statements in Jer. 52:28 and 52:29 that 3023 Judeans had been exiled in the 7th and 18th (instead of the correct
 > 8th and 19th) years of Nebuchadnezzar seem to derive from the same tradition, but no satisfactory explanation of its
 > origin has yet been offered.
 
-Regarding Jehoiachin's release Tadmor says [@tadmor1956chronology, 230]:
+### Release of Jehoiachin
+
+Tadmor counts Jehoiachin's captivity at 36 years, rather than the 37 years documented in 2 Kings [@tadmor1956chronology,
+230]:
 
 > Actually it was four or two days less than 37 full years, so that the Judean king was released on the eve of the New
 > Year festival, when Amel-Marduk was to be formally enthroned.

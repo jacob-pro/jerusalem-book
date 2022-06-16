@@ -73,7 +73,7 @@ actually place in the 7th and 18th years [@albright1956nebuchadnezzar, 32]:
 > western subordinates began to reckon his regnal years in 605/4 instead of a year later. The chronology of Jeremiah
 > would then be the normal Western calculation, and not a specifically Jewish way of counting years.
 
-But he does not appear to explain the difference in the number of exiles between Jeremiah 52 and 2 Kings 24-25.
+Albright does not appear to explain the difference in the number of captives between Jeremiah 52:28-30 and 2 Kings.
 
 ### Criticism
 

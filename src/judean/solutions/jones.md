@@ -119,7 +119,7 @@ the beginning of the 8th year [@jones2019chronology, 126]:
 > to Babylon. Hence, this very brief but undefined time after 1 Nisan of the next year would fall in the eighth year of
 > Nebuchadnezzar
 
-On the deportations described at the end of Jeremiah Jones says [@jones2019chronology, 127]:
+On the deportations described at the end of Jeremiah 52 Jones says [@jones2019chronology, 127]:
 
 > Yet, inconceivably, the later portion of Jeremiah 52 seems to record the fall of Jerusalem as having taken place in
 > the 18th year of Nebuchadnezzar rather than in his 19th (which was Zedekiah’s 11th). To begin with, these verses are

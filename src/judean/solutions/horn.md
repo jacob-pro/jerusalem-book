@@ -121,7 +121,7 @@ Jehoiachin's capture is explained in the context of Nisan vs Tishri years [@horn
 > Hence, both documents, the Babylonian Chronicles as well as 2 Ki 24:12, contain accurate information in spite of their
 > apparent contradictions.
 
-Horn claims that the deportations in Jeremiah refer to a separate event [@horn1967babylonian, 26]:
+Horn claims that the deportations in Jeremiah 52 refer to a separate event [@horn1967babylonian, 26]:
 
 > The fall and final destruction of Jerusalem is dated in 2 Ki 25:8 and in Jer 52:12 in the 19th year of Nebuchadnezzar,
 > which coincided with the 11th year of Zedekiah of Judah (2 Ki 25:2; Jer 39:2; 52:5). That year was the

@@ -85,13 +85,13 @@ Regarding Carchemish [@young2004did, 36]:
 
 ### Subjugation of Judah
 
-Horn does not appear to explain where the subjugation of Judah (2 Kings 24:1 and Daniel 1:1) would fit into his
+Young does not appear to explain where the subjugation of Judah (2 Kings 24:1 and Daniel 1:1) would fit into his
 timeline.
 
 ### Sieges of Jerusalem
 
 Young's chronology would place Jehoiakim in his 12th year at the time of his death, he does not explain how this fits in
-with 2 Kings 23:36.
+with 2 Kings 23:36 (11 years).
 
 Young reads the deportations in Jeremiah 52:28-30 as corresponding to the same years as the captives were taken in 2
 Kings, however he does not appear to justify the difference in numbers [@young2004did, 36]:
@@ -116,7 +116,7 @@ Kings, however he does not appear to justify the difference in numbers [@young20
 
 ### Release of Jehoiachin
 
-Young counts the 37 years of Jehoiachin on a Tishri-to-Tishri calendar [@young2004did, 32]:
+Young counts Jehoiachin's 37 years of captivity on a Tishri-to-Tishri calendar [@young2004did, 32]:
 
 > The final synchronism in these chapters is 2 Kgs 25:27, which says that Jehoiachin, in the thirty-seventh year of his
 > captivity, was released from prison by Evil-Merodach in the twelfth month of the year that he became king. The
