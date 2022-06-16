@@ -4,7 +4,7 @@ The majority of recovered cuneiform texts were written for administrative, legal
 the dates that they contain, combined with other data such as the city they were from, can show us useful chronological
 information.
 
-For example the dates have been used in the following publications:
+For example the dates have been used for this purpose in the following publications:
 
 - Babylonian Chronology 626 B.C.-A.D. 75 [@dubberstein1956babylonian, 10]
 - A Survey of Dated Babylonian Economic Texts, 721-626 B.C. [@brinkman1983documentary] [@brinkman1986supplement]

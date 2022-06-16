@@ -1,13 +1,13 @@
 # Judean Chronology
 
-This chapter will look at the chronology of the Kingdom of Judah before and up to the destruction of Jerusalem by
+This section will look at the chronology of the Kingdom of Judah before and up to the destruction of Jerusalem by
 Nebuchadnezzar II. The goal is to answer the second question - why is there is a dispute between the 587 BC and 586 BC
 dates for the destruction of Jerusalem?
 
 The answer is that are discrepancies or ambiguities within the Bibles' chronology that make it difficult to determine
-precisely whether the destruction took place in the 18th or 19th regnal year of Nebuchadnezzar, and it is only through
-the reign of Nebuchadnezzar that historians are able to obtain a date on the Julian calendar. As explained by Young
-[@young2004did, 21]:
+precisely whether the destruction took place in the 18th or 19th regnal year of Nebuchadnezzar, and since it is only
+through the reign of Nebuchadnezzar that historians are able to date the events on the Julian calendar, it means we
+cannot be certain if the destruction took place in 586 or 587 BC. As explained by Young [@young2004did, 21]:
 
 > The Babylonian records describing the destruction of Jerusalem by the army of Nebuchadnezzar have not been found. As a
 > consequence, all dates for that event must be derived from the scriptural record, as tied to the last events prior to

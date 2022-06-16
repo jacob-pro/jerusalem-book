@@ -5,10 +5,7 @@ Siegfried Herbert Horn (1908-1993) was a Seventh-day Adventist biblical archaeol
 The key assumptions of his chronology [@horn1967babylonian, 23-24] include:
 
 - The Judean kings are reckoned on an accession year system.
-
-> The kingdom of Judah in the pre-exilic period used an autumn-to-autumn civil year, and applied it to the reckoning of
-> the regnal years not only of their own kings but also of foreign kings as well, and this practice remained in force
-> among many post-exilic Jews.
+- The kingdom of Judah used Tishri-to-Tishri years for both their own kings and foregin kings.
 
 ## Timeline
 
@@ -79,8 +76,12 @@ But was there enough time for Neco and the Egyptian army to travel from Megiddo 
 
 ### Battle of Carchemish
 
+Horn reads Jeremiah 25:1 literally [@horn1967babylonian, 26]:
+
 > In Jer 25:1, the 4th year of Jehoiakim of Judah is equated with the 1st year of Nebuchadnezzar. This was the
-> autumn-to-autumn year 605/604. [@horn1967babylonian, 26]
+> autumn-to-autumn year 605/604.
+
+But this leads to a discrepancy with Jeremiah 46:2 [@horn1967babylonian, 25]:
 
 > The only problem text seems to be Jer 46:2, 'which states that the Battle of Carchemish took place in the 4th year of
 > Jehoiakim, which according to the Jewish calendar was the year 605/604, autumn-to-autumn. But we know now that the
@@ -100,14 +101,16 @@ But was there enough time for Neco and the Egyptian army to travel from Megiddo 
 > interpreted in such a way that the chronological difficulties, which otherwise exist, can be removed. That translators
 > from the LXX to our time have applied the date as referring to the battle is no proof that the traditional reading is
 > correct. Since numerous parallels of similar parenthetical clauses have been recognized in many other Biblical
-> passages, this one need not be rejected as an isolated case. [@horn1967babylonian, 25]
+> passages, this one need not be rejected as an isolated case.
 
 ### Subjugation of Judah
 
-Horn does not appear to explain where the subjugation of Judah (2 Kings 24:1, Daniel 1:1) during Jehoiakim's reign,
-would fit in.
+Horn does not appear to explain where the subjugation of Judah during Jehoiakim's reign (2 Kings 24:1, Daniel 1:1),
+would fit into his timeline.
 
 ### Captures of Jehoiachin and Zedekiah
+
+Jehoiachin's capture is explained in the context of Nisan vs Tishri years [@horn1967babylonian, 25]:
 
 > This double reckoning of Nebuchadnezzar's regnal years by the Babylonian and Jewish annalists accounts for the
 > apparent discrepancy between the data with regard to the date of Jehoiachin's capture; for the Babylonian Chronicles
@@ -115,7 +118,9 @@ would fit in.
 > Nebuchadnezzar according to the Babylonian spring calendar lasted from March 27, 598 to April 12, 597, but according
 > to the Jewish autumn calendar it had already ended in the autumn of 598, when Nebuchadnezzar's 8th year had begun.
 > Hence, both documents, the Babylonian Chronicles as well as 2 Ki 24:12, contain accurate information in spite of their
-> apparent contradictions. [@horn1967babylonian, 25]
+> apparent contradictions.
+
+Horn claims that the deportations in Jeremiah refer to a separate event [@horn1967babylonian, 26]:
 
 > The fall and final destruction of Jerusalem is dated in 2 Ki 25:8 and in Jer 52:12 in the 19th year of Nebuchadnezzar,
 > which coincided with the 11th year of Zedekiah of Judah (2 Ki 25:2; Jer 39:2; 52:5). That year was the
@@ -125,6 +130,6 @@ would fit in.
 > of Jerusalem in 586, because of the small number of deportees. For the deportation of 597 our sources in 2 Ki 24:14
 > and 16 mention 10,000 and 8,000 deportees respectively. Therefore, the deportation of 3,023 according to Jer 52:28 in
 > the preceding year (the 7th year of Nebuchadnezzar, 599/598, autumn-to-autumn) must have been in connection with the
-> harassment of Jehoiakim by "bands of the Chaldeans" to which 2 Ki 24:2 refers [@horn1967babylonian, 26].
+> harassment of Jehoiakim by "bands of the Chaldeans" to which 2 Ki 24:2 refers.
 
 ## References

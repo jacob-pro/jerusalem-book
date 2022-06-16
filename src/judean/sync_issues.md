@@ -1,7 +1,7 @@
 # Issues Synchronising Babylonian and Judean Chronology
 
 At first, it would appear that there are significant contradictions, both internally within the Bible, and when
-synchronising with the Babylonian texts, that make it very hard to put together a coherent timeline of events. The key
+synchronising with the Babylonian texts, which make it very hard to put together a coherent timeline of events. The key
 issues include:
 
 ## Battle of Carchemish

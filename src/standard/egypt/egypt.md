@@ -1,6 +1,8 @@
 # Egyptian Chronology
 
-The 26th dynasty of Egypt, also known as the Saite period, runs in parallel to the Neo-Babylonian era.
+The 26th dynasty of Egypt, also known as the Saite period, runs in parallel to the Neo-Babylonian era. If we can first
+establish the Egyptian chronology then there are a number of synchronisation points we can use to verify our chronology
+for Babylonia.
 
 ## Synchronisation Points
 

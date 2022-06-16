@@ -46,7 +46,7 @@ Jeremiah 52 ([NIV](https://www.biblegateway.com/passage/?search=Jeremiah+52&vers
 
 ## Jeremiah 52
 
-Jeremiah 52 is very similar to 2 Kings 25; I have not repeated the identical key points.
+Jeremiah 52 is almost identical to 2 Kings 25; so I have not repeated the same key points.
 
 The differences between the two chapters include:
 

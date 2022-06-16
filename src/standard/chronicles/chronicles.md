@@ -19,7 +19,7 @@ BM – British Museum Number
 | Third year of Neriglissar Chronicle   | 6   | 25  | 25124 | Neriglissar 3     | Neriglissar 3     |
 | Nabonidus Chronicle                   | 7   | 26  | 35382 | Nabonidus Acc.    | Nabonidus 17?     |
 
-Concerning the early chronicles Grayson says [@grayson2000assyrian, 14]:
+Regarding the early chronicles Grayson says [@grayson2000assyrian, 14]:
 
 > In conclusion it may be stated that Chronicles 1-7 represent only a small part of a series of late Babylonian
 > chronicles which, like all chronicles of category A, were probably resumes or extracts made from running accounts

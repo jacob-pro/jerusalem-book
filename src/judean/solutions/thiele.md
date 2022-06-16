@@ -70,17 +70,18 @@ Thiele states that Josiah was killed at Megiddo in Tammuz (IV), afterwards Jehoa
 
 ### Battle of Carchemish and the Subjugation of Judah
 
+Regarding Carchemish Thiele says [@thiele1983mysterious, 183]:
+
 > Nabopolassar stayed at home in his twenty-first year, beginning with Nisan, 605, but sent Nebuchadnezzar with the army
 > against Carchemish. A disastrous defeat was inflicted on the Egyptians. A remnant that fled to Hamath was wiped out
 > with the result that "Nebuchadnezzar conquered the whole area of the Hatti-country." This includes all of Aram and the
 > territory south to the borders of Egypt. Babylon rather than Egypt was now the master in Palestine. This was the
 > attack mentioned in Daniel 1:1 that took place in the third year of Jehoiakim and in which Daniel and his companions
 > were taken to Babylon. It should be noticed that this was the third year of Jehoiakim according to Tishri reckoning,
-> but the fourth year according to Nisan years as mentioned in Jeremiah 46:2. [@thiele1983mysterious, 183]
+> but the fourth year according to Nisan years as mentioned in Jeremiah 46:2.
 
-It would unfortunately appear Thiele is referencing the earlier translation of
-[BM 21946](../../standard/chronicles/bm21946.md), which has Ḫatti-country in Obv. 8. However as noted by Malamat
-[@malamat1975twilight, 130]:
+But this is unlikely, Thiele is referencing the older publication of [BM 21946](../../standard/chronicles/bm21946.md),
+which incorrectly translates 'Ḫatti-country', as noted by Malamat [@malamat1975twilight, 130]:
 
 > the Chronicle itself does not bear out any widespread conquests in the West while Nebuchadnezzar was still Crown
 > Prince. Immediately after the victory at Carchemish, as we now know, Nebuchadnezzar conquered only the "entire land of
@@ -96,13 +97,17 @@ Like Tadmor, Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's ac
 
 ### Captures of Jehoiachin and Zedekiah
 
+Regarding Jehoiachin's capture [@thiele1983mysterious, 186]:
+
 > The biblical account places the capture of Jerusalem in the eighth year of Nebuchadnezzar (2 Kings 24:12), but the
 > Babylonian account places it in the seventh year. The Babylonian account is in accord with Nisan regnal years and the
 > biblical account starts the years of Nebuchadnezzar with Tishri. The last half of the Babylonian Nisan year overlaps
 > the first half of the Hebrew Tishri year. Thus Jerusalem fell to Nebuchadnezzar in his seventh year according to his
 > own reckoning but in his eighth year according to the reckoning in Kings. The overlap was from Tishri in the fall
 > of598 to Nisan in the spring of 597. Since Jerusalem fell in Adar, the last month of the Babylonian year, this was in
-> the spring of 597. [@thiele1983mysterious, 186]
+> the spring of 597.
+
+And likewise for Zedekiah [@thiele1983mysterious, 190]:
 
 > The last event in the checkered history of the southern kingdom was the siege and destruction of Jerusalem by
 > Nebuchadnezzar. This siege began on the tenth day of the tenth month of Zedekiah's ninth year (2 Kings 25:1; Jer.
@@ -116,15 +121,17 @@ Like Tadmor, Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's ac
 > 41:1-2). The month of Tishri began on 7 October 586. It must have been shortly after that, that the remnant left by
 > Nebuzaradan with Gedaliah took Jeremiah and forced him to accompany them to Egypt (Jer. 43:2-7). Word of the fall of
 > Jerusalem reached the captives in Babylon on the fifth day of the tenth month of the twelfth year of their captivity
-> (Ezek. 33:21), 8 January 585. Zedekiah's reign thus was from 597 to 586. [@thiele1983mysterious, 190]
+> (Ezek. 33:21), 8 January 585. Zedekiah's reign thus was from 597 to 586.
 
 Thiele does not seem to offer any explanation for how the captives described in Jeremiah 52:28-30 fit in with the sieges
-(there is no reference in his scripture index [@thiele1983mysterious, 253]).
+— there is no reference to this in his scripture index [@thiele1983mysterious, 253].
 
 ### Release of Jehoiachin
 
+Thiele counts Jehoiachin's captivity on a Tishri calendar [@thiele1983mysterious, 190]:
+
 > It should be noted that, according to the reckoning of Kings, the thirty-seventh year of Jehoiachin's captivity was
 > from Tishri 562, to Tishri 561. But according to Ezekiel's and Jeremiah's method of reckoning, the thirty-seventh year
-> of the captivity would not begin until Nisan 561. [@thiele1983mysterious, 190]
+> of the captivity would not begin until Nisan 561.
 
 ## References

@@ -48,7 +48,7 @@ As defined by Thiele [@thiele1983mysterious 43]:
 ## Start of the Regnal Year
 
 Whilst we know the Babylonians began their calendar year at Nisanu in Spring
-([see Calendar](../introduction/calendar.md)), the situation in Judah is more complex [@thiele1983mysterious, 44]:
+([see Calendar](../introduction/calendar.md)), the situation in Judah was more complex [@thiele1983mysterious, 44]:
 
 > Among the Hebrews there were two calendar years, one beginning with Nisan in the spring and the other with Tishri in
 > the fall. With which of these months did the Hebrews begin reckoning their regnal years? And did both Israel and Judah

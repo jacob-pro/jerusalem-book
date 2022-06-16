@@ -65,15 +65,19 @@ t = Tishri-to-Tishri years
 
 ### Battle of Megiddo
 
+Young claims that it was after Josiah's reign the Judean system changed to non-accession reckoning [@young2004did, 35]:
+
 > The Babylonian Chronicles allow the date of his death to be calculated as the fourth month of 609 bc, which was in the
 > year 610t. This was thirtyone years after the beginning of Josiah’s reign in 641t, so the reign length as given in 2
 > Kgs 22:1 is by accession reckoning, showing, incidentally, that somewhere between 2 Kgs 22:1 and 24:1 the counting
-> system changed from accession to non-accession. [@young2004did, 35]
+> system changed from accession to non-accession.
 
 ### Battle of Carchemish
 
+Regarding Carchemish [@young2004did, 36]:
+
 > In Jer 46:2, the Battle of Carchemish is dated in the fourth year of Jehoiakim, 609t – 3 (acc) = 606t. The battle
-> occurred in 605n/605t, which is in the latter half of the year given by Jeremiah. [@young2004did, 36]
+> occurred in 605n/605t, which is in the latter half of the year given by Jeremiah.
 
 ### Subjugation of Judah
 
@@ -81,11 +85,11 @@ Young does not appear to offer any explanation for when the subjugation of Judah
 
 ### Sieges of Jerusalem
 
-Young's chronology would have Jehoiakim in his 12th year at the time of his death, he does not explain how this fits in
+Young's chronology would place Jehoiakim in his 12th year at the time of his death, he does not explain how this fits in
 with 2 Kings 23:36.
 
 Young reads the deportations in Jeremiah 52:28-30 as corresponding to the same years as the captives were taken in 2
-Kings, however he does not appear to justify the difference in numbers:
+Kings, however he does not appear to justify the difference in numbers [@young2004did, 36]:
 
 > The writings of Jeremiah end with chapter 51 (Jer 51:64), so his methods of dating are not automatically applicable to
 > the contents of chapter 52. The contents of that chapter, except for verses 28 through 30, are all parallel to
@@ -103,16 +107,16 @@ Kings, however he does not appear to justify the difference in numbers:
 > eighteenth (accession) year of Jer 52:29 corresponds to the nineteenth (non-accession) year of 2 Kgs 25:8. These are
 > not mistakes, as some have assumed. They are a valuable clue that the synchronisms to Nebuchadnezzar in 2 Kings were
 > to be taken in a non-accession sense, and this conclusion could have been reached from these texts alone without going
-> through the more thorough analysis of the present article. [@young2004did, 36]
+> through the more thorough analysis of the present article.
 
 ### Release of Jehoiachin
 
-Young counts the 37 years of Jehoiachin on a Tishri-to-Tishri calendar:
+Young counts the 37 years of Jehoiachin on a Tishri-to-Tishri calendar [@young2004did, 32]:
 
 > The final synchronism in these chapters is 2 Kgs 25:27, which says that Jehoiachin, in the thirty-seventh year of his
 > captivity, was released from prison by Evil-Merodach in the twelfth month of the year that he became king. The
 > Babylonian Tablets establish this date as April 2, 561, shortly before Evil-Merodach’s first full year that began in
 > Nisan of 561. The thirty-seventh year of Jehoiachin’s exile was 598t – 36 (acc) = 562t, which is consistent with the
-> date given in the Babylonian Tablets. [@young2004did, 32]
+> date given in the Babylonian Tablets.
 
 ## References

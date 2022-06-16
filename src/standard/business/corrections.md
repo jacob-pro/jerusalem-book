@@ -1,7 +1,7 @@
 # Errors and Corrections
 
 Since there are thousands of dateable texts in the survey it is not surprising that there will have been some errors in
-the process of copying, translating, and collating the texts. Walker writes [@walker1996corrections]:
+the process of copying, translating, and collating the texts; Walker writes [@walker1996corrections]:
 
 > Note that in Neo-Babylonian texts there is always the possibility of confusion (because of inaccuracy in either
 > reading or writing) between months IV, VII, and XI, between months V and X, and between months IX and XII. The
@@ -10,11 +10,10 @@ the process of copying, translating, and collating the texts. Walker writes [@wa
 > chronology should be collated again and again, preferably by different Assyriologists experienced in working with
 > Neo-Babylonian texts.
 
-I have applied a number of corrections to my own copy of Everling's survey which using Git can be tracked here:
-[CHRON.CHN](https://github.com/jacob-pro/jerusalem-book/blob/master/business_tablets/CHRON.CHN) (try using the 'blame'
-and 'history' features).
+I have applied a number of corrections to my own copy of Everling's survey which can be tracked here:
+[CHRON.CHN](https://github.com/jacob-pro/jerusalem-book/blob/master/business_tablets/CHRON.CHN)
 
-## Change List
+## List of Additions and Corrections
 
 ### MLC 1739
 

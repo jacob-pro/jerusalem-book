@@ -6,7 +6,7 @@ Abraham Malamat (1922–2010) was a professor of Jewish history at the Hebrew Un
 The key assumptions of his chronology include [@malamat1975twilight, 124]:
 
 - The Judean kings are reckoned on an accession year system.
-- A Tishri to Tishri year was used for regnal years in Judah (although the months of the year are still counted from
+- A Tishri-to-Tishri year was used for regnal years in Judah (although the months of the year are still counted from
   Nisan).
 
 ## Timeline
@@ -74,7 +74,7 @@ Tammuz (IV) of Nabopolassar's 17th year. Malamat therefore argues that the battl
 > the advance of the rushing Egyptian army should be estimated at about 25-30 km per diem.
 
 The length of the march, and therefore timing of the battle of Megiddo is significant because it has an impact on the
-likelihood of a Tishri to Tishri year in Judah, as explained by Clines [@clines1972regnal, 29]:
+likelihood of a Tishri-to-Tishri year in Judah, as explained by Clines [@clines1972regnal, 29]:
 
 > In determining the date of his \[Jehoiakim's\] accession, the events which must be brought into relationship are:
 > <br>1. Battle of Megiddo, death of Josiah, accession of Jehoahaz. <br>2. March of Egyptians from Megiddo to Euphrates.
@@ -83,7 +83,7 @@ likelihood of a Tishri to Tishri year in Judah, as explained by Clines [@clines1
 > The chronological data are twofold: <br>a. No. 3 occurred in Tammuz (25 June-23 July), 609 (BM 21901, Rev. 66-67).
 > <br>b. 'Three months' intervened between No. 1 and No. 4 (2 Kings 23:31; 2 Chr. 36:2).
 
-However Clines believes it is more likely that Josiah died, Jehoahaz ruled for 3 months, and then Jehoiakim acceded to
+However, Clines believes it is more likely that Josiah died, Jehoahaz ruled for 3 months, and then Jehoiakim acceded to
 the throne before Tishri 1, rather than after it, and as such this would move his accession year back by one. If this
 were the case it would cause a conflict since Jehoiakim would have died in his 12th rather than 11th year as described
 in 2 Kings 23:36 and 2 Chronicles 36:5. [@clines1972regnal, 32]
@@ -92,7 +92,7 @@ in 2 Kings 23:36 and 2 Chronicles 36:5. [@clines1972regnal, 32]
 
 According to [BM 21946](../../standard/chronicles/bm21946.md) Obv. 1-10 the battle of Carchemish took place sometime
 during the first 4 months of Nabopolassar's 21st year, in Malamat's chronology this would correspond to Jehoiakim's 3rd
-year, rather than his 4th as described in Jeremiah 46:2.
+year, rather than his 4th as described in Jeremiah 46:2 [@malamat1975twilight, 127]:
 
 > On the Babylonian source, see _CCK_, pp. 66ff. (BM 21946). Jer. 46:2 places the Battle of Carchemish in Jehoiakim's
 > fourth regnal year, the only substantial instance of a date conflicting with our Tishri reckoning, which would put
@@ -105,19 +105,19 @@ year, rather than his 4th as described in Jeremiah 46:2.
 > Babylonian campaign, which latter took place in the winter of 605/604 B.C., after the enthronement of Nebuchadnezzar.
 > were regarded in Judah as one continuous military episode, which thus would have fallen already in Jehoiakim's fourth
 > regnal year; but Jeremiah's prophecy specifically deals with the defeat of "the army of Pharaoh Necho" which no longer
-> took part in events half a year after the Battle of Carchemish. [@malamat1975twilight, 127]
+> took part in events half a year after the Battle of Carchemish.
 
 ### Subjugation of Judah
 
-Malamat does not offer a definitive date for Nebuchadnezzar's subjugation of Judah:
+Malamat does not offer a definitive date for Nebuchadnezzar's subjugation of Judah, but offers a number of suggestions
+[@malamat1975twilight, 129]:
 
 > The Babylonian subjugation of Judah was not long in coming. The exact date is still a matter of controversy, and even
 > Nebuchadnezzar's Chronicle is indefinite. Military campaigns to the West are recorded for each of the years between
-> 605 and 601 B.C., but no specific names of subjected states are mentioned (except Ashkelon).  
-> [@malamat1975twilight, 129]
+> 605 and 601 B.C., but no specific names of subjected states are mentioned (except Ashkelon).
 
-The first solution (corresponding to Obv. line 8 of [BM 21946](../../standard/chronicles/bm21946.md)) is the only one
-that works with Jehoiakim's 3rd year as per Daniel 1:1:
+The first proposal (corresponding to Obv. line 8 of [BM 21946](../../standard/chronicles/bm21946.md)) is the only one
+that works with Jehoiakim's 3rd year as per Daniel 1:1 [@malamat1975twilight, 129]:
 
 > a\) Judah was conquered immediately after the Egypdan defeat at the Battle of Carchemish. This is supported by the
 > opening of the Book of Daniel (1:1-4) relating the siege of Jerusalem by Nebuchadnezzar in the third year of Jehoiakim
@@ -130,26 +130,26 @@ that works with Jehoiakim's 3rd year as per Daniel 1:1:
 > Though Josephus's data largely agree with those of the Babylonian Chronicle, the Chronicle itself does not bear out
 > any widespread conquests in the West while Nebuchadnezzar was still Crown Prince. Immediately after the victory at
 > Carchemish, as we now know, Nebuchadnezzar conquered only the "entire land of Ha\[ma\]th", and not the "entire land of
-> Hatti" (that is, Syria-Palestine), as formerly read. [@malamat1975twilight, 129]
+> Hatti" (that is, Syria-Palestine), as formerly read.
 
 #### Issues
 
-Nebuchadnezzar would not yet be King until later in that year, so Daniel 1:1 would need to be read proleptically
-[@mercer1989daniel, 183] [@clines1972regnal, 23].
+Nebuchadnezzar would not yet be King until later in that year, so Daniel 1:1 would have to be read proleptically as
+suggested by Mercer [@mercer1989daniel, 183] and Clines [@clines1972regnal, 23].
 
 Clines questions whether there is enough time between the battle of Carchemish and Nebuchadnezzar's return to Babylon
-(month VI) following Nabopolassar's death [@mercer1989daniel, 187]:
+(month VI) following Nabopolassar's death [@clines1972regnal, 24] [@mercer1989daniel, 187]:
 
 > It involves the interposition of a Babylonian march to Jerusalem from Hamath (no place further south is mentioned in
 > the Babylonian Chronicle) and a siege of the city in the short interval between May-June (Carchemish) and c. August 25
 > (news of Nabopolassar's death). Very little time, if any, would be available for the siege itself, when the days spent
 > in marching are reckoned up (see below, under II.2). We do not know where Nebuchadrezzar was when he received news of
 > his father's death, but it must be recalled that only 3 weeks elapsed between Nabopolassar's death and
-> Nebuchadrazzar's arrival in Babylon. [@clines1972regnal, 24]
+> Nebuchadrazzar's arrival in Babylon.
 
 #### Alternatives
 
-Alternatively Malamat suggests in the 1st year of Nebuchadnezzar (Obv. 15-17) [@malamat1975twilight, 130]:
+Alternatively Malamat suggests the 1st year of Nebuchadnezzar (Obv. 15-17) [@malamat1975twilight, 130]:
 
 > b\) Judah submitted a year later, when Nebuchadnezzar devastated Ashkelon, in Kislev of his first regnal year
 > (December 604 B.C.). This date corresponds exactly with the ninth month of the fifth regnal year of Jehoiakim, when a
@@ -171,17 +171,16 @@ Or in his 2nd year (Obv. 21-23)
 > subsequent missing section of the tablet might then relate to the submission of Jehoiakim (cf. II Chron. 36:6-7; Dan.
 > 1:1-2—both apparently relating to this event).
 
+But these would be in the 5th or 6th year of Jehoiakim [@malamat1967last, 142]:
+
 > In Dan. 1:1, with the slight emendation of 'In the _third_ year' to 'In the _sixth_ year' (שש < שלוש) of the reign of
 > Jehoiakim, the date of Nebuchadnezzar's siege of Jerusalem would correspond with that suggested above for the
-> subjugation of Judah, i.e. the autumn or winter of 603 B.C. [@malamat1967last, 142]
-
-But these would be in the 5th or 6th year of Jehoiakim, so do not fit Daniel 1:1, and they also take place after
-Nebuchadnezzar `marched about victoriously in Hattu` in his accession year (Obv. Line 12-14).
+> subjugation of Judah, i.e. the autumn or winter of 603 B.C.
 
 ### Captures of Jehoiachin and Zedekiah
 
 Malamat attempts to reconcile the differing dates and numbers of exiles between Jeremiah 52 and 2 Kings 24-25, by
-viewing them as separate events:
+treating them as separate events [@malamat1975twilight, 133]:
 
 > The biblical sources on the exile of Jehoiachin are in outward contradiction, in both the extent of the exile and its
 > exact date. According to II Kings 24, the exile encompassed 10,000 (_vs_. 14) or 7,000 (_vs_. 16) persons, mostly

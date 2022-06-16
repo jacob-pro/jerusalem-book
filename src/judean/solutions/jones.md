@@ -1,6 +1,6 @@
 # Jones's Chronology
 
-Dr. Floyd Nolen Jones is a Southern Baptist minister and former geologist [@jones2021ministries].
+Dr. Floyd Nolen Jones is a Southern Baptist minister [@jones2021ministries].
 
 The key assumptions of his chronology include:
 
@@ -36,21 +36,24 @@ The key assumptions of his chronology include:
 
 ### Battle of Megiddo
 
+Jones dates the battle of Megiddo at the end of the previous year [@jones2019chronology, 188]:
+
 > Thiele placed the Josiah-Neco confrontation in the 17th year of Nabopolassar (609 BC). But then he added that Josiah
 > perished in the month of Tammuz (June–July) as Chronicles 3:66–67 gives that month as the beginning of the
-> Assyrian-Egyptian counterattack against Haran.2 This decision resulted in his placing the three-month reign of
-> Jehoahaz (2 Kings 23:31) from Tammuz (June–July) to sometime in September or October, yet neither is correct.<br><br>
-> Thiele failed to consider logistics. It could have easily taken as much as several months for Neco to regroup and rest
-> his troops after the Battle of Megiddo, then march his massive army some 425± miles over often rugged to mountainous
+> Assyrian-Egyptian counterattack against Haran. This decision resulted in his placing the three-month reign of Jehoahaz
+> (2 Kings 23:31) from Tammuz (June–July) to sometime in September or October, yet neither is correct.<br><br> Thiele
+> failed to consider logistics. It could have easily taken as much as several months for Neco to regroup and rest his
+> troops after the Battle of Megiddo, then march his massive army some 425± miles over often rugged to mountainous
 > terrain in order to join with the Assyrian’s under Ashur-uballit II. After again resting his soldiers (they must be
 > fit to fight man-to-man with swords, spears and bows), the two kings must lay out battle plans, recross the Euphrates
 > River, march their immense joint forces some 70 miles to Haran, and finally launch the attack. Thus, Josiah could
 > hardly have been killed in the month of Tammuz. Accordingly, he was slain months earlier.<br><br> Moreover, charting
 > the data quickly clarifies the matter (see next page and Chart 5c). From this, it will be seen that Josiah had to have
 > died near mid-March (Adar) but shortly before Nisan 1 of 609 BC (Tuesday, March 20th, Gregorian).
-> [@jones2019chronology, 188]
 
 ### Battle of Carchemish and Subjugation of Judah
+
+Jones interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession [@jones2019chronology, 125]:
 
 > First, it will be observed that the fourth year of Jehoiakim is placed in the year of the Battle of Carchemish (605
 > BC) in agreement with Jer. 46:2. However, Jer. 25:1 also speaks of the fourth year of Jehoiakim saying: “that was the
@@ -59,11 +62,10 @@ The key assumptions of his chronology include:
 > being found elsewhere in Scripture, the phrase is unique and the feminine singular form of the adjective modifying the
 > word “year” can mean either “first or beginning”. Thus the phrase in Jer. 25:1 is seen as not referring to
 > Nebuchadnezzar’s official first year but to his initial year on the throne, the year of his accession.
-> [@jones2019chronology, 125]
 
 Jones places Nebuchadnezzar's first invasion of Judah in the 3rd year of Jehoiakim as stated in Daniel 1:1, which would
 actually be in the year prior to Nebuchadnezzar's accession. He believes this is necessary to fit 3 years of Daniel's
-training (Daniel 1:5):
+training [@jones2019chronology, 189, 190]:
 
 > The first step in resolving this issue revolves around the fact that it simply would not be possible that Daniel and
 > his three friends could be so highly elevated in the affairs of the government of Babylonia in chapter 2 (Dan.
@@ -73,7 +75,7 @@ training (Daniel 1:5):
 > Accordingly, the context of chapter 2 clearly follows _after_ chapter 1 chronologically. Since chapter 1 encompasses
 > most of a three year span (cp. vv. 4, 5, 18), then the events in chapter 2 must have occurred after Daniel’s
 > schooling. Thus, the second year of Nebuchadnezzar’s reign must take place after Daniel’s and the other princes of
-> Judah’s “graduation”. [@jones2019chronology, 189]
+> Judah’s “graduation”.
 
 > It follows then that Daniel 1:1 does not conflict with Jeremiah 25:1 as is often claimed. Observe that Daniel 1:1 does
 > not say that the third year of the reign of Jehoiakim is the first year of Nebuchadnezzar’s reign. As illustrated,
@@ -81,7 +83,7 @@ training (Daniel 1:5):
 > second year of dominion. Moreover, Daniel 1:1 is merely a statement of identification, i.e., the Nebuchadnezzar who
 > came and besieged Jerusalem in Jehoiakim’s third year is the same man who ascended to the throne and became sole rex
 > the following year (Jer. 25:1). The apparent contradiction has been resolved by simply allowing the Scriptures to
-> speak for themselves, apart from profane materials. [@jones2019chronology, 190]
+> speak for themselves, apart from profane materials.
 
 #### Criticism
 
@@ -99,10 +101,13 @@ Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, 31]:
 
 ### Captures of Jehoiachin and Zedekiah
 
+Jones explains that while Jehoiachin was captured at the end of Nebuchadnezzar's 7th year, Zedekiah wasn't installed
+until the beginning of the 8th year [@jones2019chronology, 126]:
+
 > However, the Hebrew account seems to conflict with the Babylonian record. It declares that the second deportation
 > which brought Jehoiachin to Babylon, whereupon Zedekiah was placed on the throne in Jerusalem, occurred in the 8th
 > year of Nebuchadnezzar.<br><br> The “discrepancy” resolves itself when it is seen that the Babylonian account has
-> Jerusalem falling into their hands on 2 Adar.2 Now Adar is the 12th and final month of the 7th year. It naturally
+> Jerusalem falling into their hands on 2 Adar. Now Adar is the 12th and final month of the 7th year. It naturally
 > follows that selecting a vassal, establishing a new government, cutting in pieces the gold vessels in the Temple (2
 > Kings 24:13) and preparing the vast booty for transport before returning to Babylon requires time. Moreover, 2 Kings
 > 24:14–16 tells us that the populace was divided and all the leaders, the most affluent, the surviving warriors of
@@ -111,9 +116,9 @@ Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, 31]:
 > required time. <br><br> Indeed, the Hebrew Text reveals the precise length of that interval! In 2 Chron. 36:9–10 we
 > learn that, after a reign of three months and ten days, “when the year was expired” Jeconiah (Jehoiachin) was brought
 > to Babylon. Hence, this very brief but undefined time after 1 Nisan of the next year would fall in the eighth year of
-> Nebuchadnezzar [@jones2019chronology, 126]
+> Nebuchadnezzar
 
-On the deportations at the end of Jeremiah, in the 7th and 18th year of Nebuchadnezzar:
+On the deportations described at the end of Jeremiah Jones says [@jones2019chronology, 127]:
 
 > Yet, inconceivably, the later portion of Jeremiah 52 seems to record the fall of Jerusalem as having taken place in
 > the 18th year of Nebuchadnezzar rather than in his 19th (which was Zedekiah’s 11th). To begin with, these verses are
@@ -136,17 +141,19 @@ On the deportations at the end of Jeremiah, in the 7th and 18th year of Nebuchad
 > Chaldeans, Syrians, etc. whom the king of Babylon sent against Judah prior to his coming (2 Kings 24:2). That in the
 > 18th year would correspond to when the Chaldeans broke off the siege of Jerusalem to meet Pharaoh’s approaching army.
 > Afterward, it may have been deemed prudent to march the swelling number of Egyptian and Jewish prisoners in the camp
-> off to Babylon. [@jones2019chronology, 127]
+> off to Babylon.
 
 ### Release of Jehoiachin
+
+Regarding Jehoiachin's release [@jones2019chronology, 128]:
 
 > Moreover, in the first year of his reign, Evil Merodach (Amel-Marduk), Nebuchadnezzar’s son and successor, liberated
 > Jehoiachin from prison and raised him to a position of honor at the palace (562 BC, the 18th Jubilee — Jer. 52:31–34).
 > Evil Merodach’s kind, respectful treatment of Jehoiachin after 37 years’ imprisonment further substantiates the
-> correctness of the above assertions. [@jones2019chronology, 128]
+> correctness of the above assertions.
 
-Jones appears to be counting 37 years on the Anno Mundi (Year After Creation) calendar which begins its new year in
-Tishri.
+Jones attempts to the stretch the period across 37 years by counting on the Anno Mundi (Year After Creation) calendar
+which begins its new year in Tishri [@jones2019chronology, 309]:
 
 > This resulted in fixing the year of “the captivity” as AM 3407. The relevant Scriptures relating to the reigns of the
 > kings of Judah were then charted in terms of AM years. This resulted in fixing the year of “the captivity” as AM 3407.
@@ -154,6 +161,6 @@ Tishri.
 > first year of the reign of Evil-merodach, son and successor of Nebuchadnezzar (2 Kings 25:27, cp. 2 Kings 24:12, 15).
 > Counting back from 3443 AM, 3418 was found to be Nebuchadnezzar’s 19th year – the very year the Scriptures say he
 > razed Jerusalem (Jer. 52:12–15). As stated above, this destruction took place in Zedekiah’s 11th year (2 Kings
-> 25:1–7), thus confirming the synchronization of Judah and Babylon in 3418. [@jones2019chronology, 309]
+> 25:1–7), thus confirming the synchronization of Judah and Babylon in 3418.
 
 ## References
