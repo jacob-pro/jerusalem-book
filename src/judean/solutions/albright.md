@@ -36,29 +36,23 @@ The key assumptions of his chronology include [@albright1956nebuchadnezzar, 32]:
 
 ### Battle of Megiddo
 
-Albright dates the death of Josiah at Megiddo to Spring of Nabopolassar's 17th year, just prior to the Egyptian attack
-on Harran in month IV [@albright1956nebuchadnezzar, 31]:
+Albright dates the battle of Megiddo in the few months prior to the Egyptian attack on Harran in month IV
+[@albright1956nebuchadnezzar, 31]:
 
 > First, I see no escape from dating the Battle of Megiddo in the spring of 609, since there was a massive Egyptian
 > attack on Harran later that summer, whereas not a word is said about Egyptian military movements in 608.
 
-### Battle of Carchemish
-
-Jeremiah 25:1 'the fourth year of Jehoiakim son of Josiah king of Judah, which was the first year of Nebuchadnezzar'
-must therefore be read as referring to Nebuchadnezzar's accession year.
-
 ### Subjugation of Judah
 
-Albright seems to think that Judah was not occupied until after the capture of Ashkelon —
-[BM 21946](../../standard/chronicles/bm21946.md) Obv. 18, perhaps in the 2nd year of Nebuchadnezzar
+Albright seems to think that Judah was not occupied until after the capture of Ashkelon
+([BM 21946, Obv. 18](../../standard/chronicles/bm21946.md)), perhaps in the 2nd year of Nebuchadnezzar
 [@albright1956nebuchadnezzar, 31]:
 
 > It is most unlikely that the Chaldaeans occupied Judah before the capture and destruction of Ascalon in December, 604,
 > and since the next two years were apparently devoted to continued fighting in Greater Syria, I should consider it
 > unlikely that Judah was actually invaded until some time in 603/2.
 
-This doesn't explain Obv. 17 where `All the kings of Hattu came into his presence and he received their vast tribute.`
-in the first year, or how Daniel 1:1 would fit in here (it would be the 6th year of Jehoiakim).
+He doesn't attempt to reconcile this date (around the 6th year of Jehoiakim) with Daniel 1:1.
 
 ### Captures of Jehoiachin and Zedekiah
 

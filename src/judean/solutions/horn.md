@@ -55,16 +55,17 @@ The key assumptions of his chronology [@horn1967babylonian, 23-24] include:
 
 ### Battle of Megiddo
 
+Horn dates the battle of Megiddo to the same month as the attack on Harran [@horn1967babylonian, 19]:
+
 > Those, however, who believe that a civil year beginning in autumn was used in Judah to reckon the regnal years of the
 > kings, are forced to assume that Jehoahaz was not deposed until after Tishri I (Sept. 21), because data contained in
 > the Babylonian Chronicles, not yet discussed, make it certain that Jehoiakim, the successor of Jehoahaz, began his
 > first regnal year in 608, either in the spring or in the autumn, and that his first year cannot have started in the
-> autumn of 609\. According to this reasoning the Battle of Megiddo cannot have taken place earlier than in Tammuz, the
+> autumn of 609. According to this reasoning the Battle of Megiddo cannot have taken place earlier than in Tammuz, the
 > same month in which the Assyrian and Egyptian armies crossed the Euphrates. In no other way could Jehoahaz have
-> reigned for three months and still be deposed after Tishri I. [@horn1967babylonian, 19]
+> reigned for three months and still be deposed after Tishri I.
 
-But was there enough time for Neco and the Egyptian army to travel from Megiddo to Carchemish before the end of Tammuz
-(month IV)?
+Regarding the movement of the Egyptian army he says [@horn1967babylonian, 17]:
 
 > The campaign against Haran by the Assyrians and Egyptians began with the crossing of the Euphrates in Tamrnuz (June 25
 > to July 23) and ended with their retreat in Elul (Aug. 23 to Sept. 20). This means that the campaign could have begun
@@ -72,7 +73,7 @@ But was there enough time for Neco and the Egyptian army to travel from Megiddo 
 > approximately 340 miles and must have taken the Egyptian army nearly a month to cover. This leads to the conclusion
 > that the Battle of Megiddo could hardly have ended later than the middle of June, if the advance toward Haran started
 > in the latter part of Tammuz. It could have been earlier, if the crossing of the Euphrates took place in the early
-> part of Tammuz. [@horn1967babylonian, 17]
+> part of Tammuz.
 
 ### Battle of Carchemish
 
@@ -105,8 +106,8 @@ But this leads to a discrepancy with Jeremiah 46:2 [@horn1967babylonian, 25]:
 
 ### Subjugation of Judah
 
-Horn does not appear to explain where the subjugation of Judah during Jehoiakim's reign (2 Kings 24:1, Daniel 1:1),
-would fit into his timeline.
+Horn does not appear to explain where the subjugation of Judah (2 Kings 24:1 and Daniel 1:1) would fit into his
+timeline.
 
 ### Captures of Jehoiachin and Zedekiah
 

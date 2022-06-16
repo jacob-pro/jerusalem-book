@@ -40,6 +40,9 @@ The key assumptions of his chronology include:
 
 ### Battle of Megiddo
 
+Hyatt dates the battle of Megiddo a month or more prior to the Egyptian attack on Harran (month VI)
+[@hyatt1966beginning, 207]:
+
 > In the month Du'uzu of the seventeenth year of Nabopolassar, which corresponds to June 25—July 23 of 609 B. C., the
 > city of Harran was attacked by Ashur-uballit, king of Assyria, and "a large Egyptian army." This city had been
 > conquered by the Babylonians in the previous year, when the Egyptians may have been present in Syria. The course of
@@ -62,11 +65,13 @@ The key assumptions of his chronology include:
 > Harran and a part of the attack on that city. 2 Kings xxiii 33-34 says that it was in Riblah in the land of Hamath
 > that Neco put Jehoahaz in bonds, and laid a large tribute on Judah. He then made Jehoiakim king of Judah and took
 > Jehoahaz with him, eventually to Egypt. These events ought to be dated soon after the initial success at Harran while
-> the Pharaoh was still in Syria, not after the approach of the Babylonian army of Nabopolassar.10 Such actions by the
+> the Pharaoh was still in Syria, not after the approach of the Babylonian army of Nabopolassar. Such actions by the
 > Egyptian king would hardly have been possible at the latter time. Hence, we should date the dethronement of Jehoahaz
-> and the accession of Jehoiakim in July or early August, 609. [@hyatt1966beginning, 207]
+> and the accession of Jehoiakim in July or early August, 609.
 
 ### Battle of Carchemish
+
+Regarding the battle of Carchemish [@hyatt1956new, 279]:
 
 > The new documents confirm the fact that there was a battle of Carchemish in 605 in which the Babylonians defeated the
 > Egyptians. This battle is mentioned in Jer 46:2 and by Josephus (_Ant. Jud._ X. vi. 1; _Contra Apionem_ I. 19), and
@@ -82,9 +87,11 @@ The key assumptions of his chronology include:
 > 605). However, he was soon back in Hatti; the new account says that he marched unopposed in Hatti until Shebat
 > (February 604). Then he "took the heavy tribute of Hatti to Babylon" (Obv. 1. 13). Two months later he was in Babylon
 > to observe the _akitu_ festival and take the hands of Bel and the son of Bel, apparently signalizing his enthronement.
-> [@hyatt1956new, 279]
 
 ### Subjugation of Judah
+
+Hyatt suggests Jehoiakim submitted to Babylon either shortly after the battle of Carchemish, or in the following year
+[@hyatt1956new, 280]:
 
 > It was probably in 605, or in the following year, that Jehoiakim submitted to the Babylonian king, as recorded in II
 > Kings 24:1; II Chron 36:6 is probably a reminiscence of the submission, with some exaggeration. Josephus indicates
@@ -116,12 +123,12 @@ The key assumptions of his chronology include:
 > again to Hatti. This time he scoured the desert to the east of Syria-Palestine and "took much plunder from the Arabs,
 > their possessions, animals, and gods" (Rev. 1. 10). He returned to his own land in Adar (February-March 598), and it
 > was at the end of the same year (December) that he started the invasion that led to the capture of Jerusalem.
-> [@hyatt1956new, 280]
 
-Hyatt doesn't appear to directly explain how he believes this fits in with Daniel 1:1, but he is placing the subjugation
-of Judah in the 4th or 5th years of Jehoiakim, rather than the 3rd as specified in Daniel.
+He doesn't attempt to reconcile this date (the 4th or 5th year of Jehoiakim) with Daniel 1:1.
 
 ### Captures of Jehoiachin and Zedekiah
+
+The captures of the Judean kings are explained in the context of accession vs non-accession dating [@hyatt1956new, 278]:
 
 > The date, 2 Adar of Nebuchadrezzar's 7th year (March 16, 597) is not contrary to the biblical accounts. II Kings 24:12
 > gives the date as the 8th year of Nebuchadrezzar, whereas Jer 52:28 has the 7th year. It is obvious that Kings uses a
@@ -134,9 +141,8 @@ of Judah in the 4th or 5th years of Jehoiakim, rather than the 3rd as specified 
 > march to Jerusalem and the beginning of the siege, the siege itself could not have lasted much more than two months,
 > possibly less. According to II Kings 24:8 Jehoiachin had a reign of three months, while II Chron 36:9 gives him three
 > months and ten days. From these data, it would appear that Jehoiakim died before the beginning of the siege.
-> [@hyatt1956new, 278]
 
-Hyatt doesn't appear to offer any explanation for the difference in the number of exiles between Jeremiah 52 and 2 Kings
-24-25.
+However, Hyatt doesn't appear to offer any explanation for the difference in the number of exiles between Jeremiah 52
+and 2 Kings 24-25.
 
 ## References

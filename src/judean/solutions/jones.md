@@ -36,7 +36,7 @@ The key assumptions of his chronology include:
 
 ### Battle of Megiddo
 
-Jones dates the battle of Megiddo at the end of the previous year [@jones2019chronology, 188]:
+Jones dates the battle of Megiddo in the year prior to the attack on Harran [@jones2019chronology, 188]:
 
 > Thiele placed the Josiah-Neco confrontation in the 17th year of Nabopolassar (609 BC). But then he added that Josiah
 > perished in the month of Tammuz (June–July) as Chronicles 3:66–67 gives that month as the beginning of the
@@ -51,9 +51,10 @@ Jones dates the battle of Megiddo at the end of the previous year [@jones2019chr
 > the data quickly clarifies the matter (see next page and Chart 5c). From this, it will be seen that Josiah had to have
 > died near mid-March (Adar) but shortly before Nisan 1 of 609 BC (Tuesday, March 20th, Gregorian).
 
-### Battle of Carchemish and Subjugation of Judah
+### Subjugation of Judah and the Battle of Carchemish
 
-Jones interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession [@jones2019chronology, 125]:
+Jones interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession year rather than 1st year
+[@jones2019chronology, 125]:
 
 > First, it will be observed that the fourth year of Jehoiakim is placed in the year of the Battle of Carchemish (605
 > BC) in agreement with Jer. 46:2. However, Jer. 25:1 also speaks of the fourth year of Jehoiakim saying: “that was the
@@ -63,9 +64,9 @@ Jones interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession [@jone
 > word “year” can mean either “first or beginning”. Thus the phrase in Jer. 25:1 is seen as not referring to
 > Nebuchadnezzar’s official first year but to his initial year on the throne, the year of his accession.
 
-Jones places Nebuchadnezzar's first invasion of Judah in the 3rd year of Jehoiakim as stated in Daniel 1:1, which would
-actually be in the year prior to Nebuchadnezzar's accession. He believes this is necessary to fit 3 years of Daniel's
-training [@jones2019chronology, 189, 190]:
+Jones places Nebuchadnezzar's subjugation of Judah in the 3rd year of Jehoiakim in line with Daniel 1:1, which would
+correspond to the year prior to Nebuchadnezzar's accession and the battle of Carchemish. He believes this is necessary
+to fit 3 years of Daniel's training [@jones2019chronology, 189, 190]:
 
 > The first step in resolving this issue revolves around the fact that it simply would not be possible that Daniel and
 > his three friends could be so highly elevated in the affairs of the government of Babylonia in chapter 2 (Dan.
@@ -87,7 +88,7 @@ training [@jones2019chronology, 189, 190]:
 
 #### Criticism
 
-Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, 31]:
+Against this date for Judah's subjugation Foley argues [@foley2014time, 31]:
 
 > Jones (2004, 189) takes the view that the only possible solution to this first problem is that Nebuchadnezzar must
 > have besieged Jerusalem and Daniel must have been exiled in 606 BC. However, this solution creates as many problems as
@@ -101,8 +102,8 @@ Against Jones' dating for Daniel 1:1 Ian Foley argues [@foley2014time, 31]:
 
 ### Captures of Jehoiachin and Zedekiah
 
-Jones explains that while Jehoiachin was captured at the end of Nebuchadnezzar's 7th year, Zedekiah wasn't installed
-until the beginning of the 8th year [@jones2019chronology, 126]:
+Jones claims that while Jehoiachin was captured at the end of Nebuchadnezzar's 7th year, Zedekiah wasn't installed until
+the beginning of the 8th year [@jones2019chronology, 126]:
 
 > However, the Hebrew account seems to conflict with the Babylonian record. It declares that the second deportation
 > which brought Jehoiachin to Babylon, whereupon Zedekiah was placed on the throne in Jerusalem, occurred in the 8th
@@ -152,8 +153,8 @@ Regarding Jehoiachin's release [@jones2019chronology, 128]:
 > Evil Merodach’s kind, respectful treatment of Jehoiachin after 37 years’ imprisonment further substantiates the
 > correctness of the above assertions.
 
-Jones attempts to the stretch the period across 37 years by counting on the Anno Mundi (Year After Creation) calendar
-which begins its new year in Tishri [@jones2019chronology, 309]:
+Jones attempts to the stretch the captivity across 37 years by counting on the Anno Mundi (Year After Creation) calendar
+which uses Tishri-to-Tishri reckoning [@jones2019chronology, 309]:
 
 > This resulted in fixing the year of “the captivity” as AM 3407. The relevant Scriptures relating to the reigns of the
 > kings of Judah were then charted in terms of AM years. This resulted in fixing the year of “the captivity” as AM 3407.

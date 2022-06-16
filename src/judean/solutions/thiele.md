@@ -64,13 +64,15 @@ The key assumptions of his chronology include [@thiele1983mysterious, 180]:
 
 ### Battle of Megiddo
 
-Thiele states that Josiah was killed at Megiddo in Tammuz (IV), afterwards Jehoahaz rules for 3 months into Tishri
-(month VII) [@thiele1983mysterious, 182]. He does not appear to explain how the Egyptian army made the ~400 mile
-[@clines1972regnal, 30] journey from Megiddo to Carchemish within this timeframe.
+Thiele claims that Josiah was killed at Megiddo in month IV (the same month as the attack on Harran) and that afterwards
+Jehoahaz ruled for 3 months into Tishri (month VII) [@thiele1983mysterious, 182].
+
+He does not appear to explain how the Egyptian army could have made the ~400 mile journey from Megiddo to Harran within
+this timeframe [@clines1972regnal, 30].
 
 ### Battle of Carchemish and the Subjugation of Judah
 
-Regarding Carchemish Thiele says [@thiele1983mysterious, 183]:
+Thiele dates the subjugation of Judah at the same time as the battle of Carchemish [@thiele1983mysterious, 183]:
 
 > Nabopolassar stayed at home in his twenty-first year, beginning with Nisan, 605, but sent Nebuchadnezzar with the army
 > against Carchemish. A disastrous defeat was inflicted on the Egyptians. A remnant that fled to Hamath was wiped out
@@ -80,14 +82,15 @@ Regarding Carchemish Thiele says [@thiele1983mysterious, 183]:
 > were taken to Babylon. It should be noticed that this was the third year of Jehoiakim according to Tishri reckoning,
 > but the fourth year according to Nisan years as mentioned in Jeremiah 46:2.
 
-But this is unlikely, Thiele is referencing the older publication of [BM 21946](../../standard/chronicles/bm21946.md),
-which incorrectly translates 'Ḫatti-country', as noted by Malamat [@malamat1975twilight, 130]:
+However, Thiele is referencing the older publication of [BM 21946](../../standard/chronicles/bm21946.md#notes), which
+incorrectly translates 'Hamath' as 'Ḫatti-country', Malamat arguest against this interpretation [@malamat1975twilight,
+130]:
 
 > the Chronicle itself does not bear out any widespread conquests in the West while Nebuchadnezzar was still Crown
 > Prince. Immediately after the victory at Carchemish, as we now know, Nebuchadnezzar conquered only the "entire land of
 > Ha\[ma\]th", and not the "entire land of Hatti" (that is, Syria-Palestine), as formerly read.
 
-Like Tadmor, Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession rather than first year
+Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession year rather than 1st year
 [@thiele1983mysterious, 184]:
 
 > The battle of Carchemish at the Euphrates in the fourth year of Jehoiakim is now definitively dated by Babylonian

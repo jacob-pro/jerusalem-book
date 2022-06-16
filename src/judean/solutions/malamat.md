@@ -56,9 +56,8 @@ The key assumptions of his chronology include [@malamat1975twilight, 124]:
 
 ### Battle of Megiddo
 
-According to [BM 21901](../../standard/chronicles/bm21901.md) line 66, the Egyptian army crossed the river Euphrates in
-Tammuz (IV) of Nabopolassar's 17th year. Malamat therefore argues that the battle of Megiddo took place in Sivan (III)
-[@malamat1967last, 139] [@malamat1975twilight, 125]:
+Malamat argues that the battle of Megiddo took place in month III, just before the attack on Harran [@malamat1967last,
+139] [@malamat1975twilight, 125]:
 
 > Josiah evidently died in Sivan or possibly at the start of Tammuz, as indicated by correlating the biblical account (2
 > Kings 23:29; 2 Chron. 35:20-23) with that of the Babylonian Chronicle of Nabopolassar, father of Nebuchadnezzar. The
@@ -83,16 +82,13 @@ likelihood of a Tishri-to-Tishri year in Judah, as explained by Clines [@clines1
 > The chronological data are twofold: <br>a. No. 3 occurred in Tammuz (25 June-23 July), 609 (BM 21901, Rev. 66-67).
 > <br>b. 'Three months' intervened between No. 1 and No. 4 (2 Kings 23:31; 2 Chr. 36:2).
 
-However, Clines believes it is more likely that Josiah died, Jehoahaz ruled for 3 months, and then Jehoiakim acceded to
-the throne before Tishri 1, rather than after it, and as such this would move his accession year back by one. If this
-were the case it would cause a conflict since Jehoiakim would have died in his 12th rather than 11th year as described
-in 2 Kings 23:36 and 2 Chronicles 36:5. [@clines1972regnal, 32]
+Clines argues against Malamat's scheme for Jehoiakim's reign, claiming it was more likely that Josiah's death, Jehoahaz'
+3 months rule, and Jehoiakim's accession all occurred before Tishri, rather than after it [@clines1972regnal, 32].
 
 ### Battle of Carchemish
 
-According to [BM 21946](../../standard/chronicles/bm21946.md) Obv. 1-10 the battle of Carchemish took place sometime
-during the first 4 months of Nabopolassar's 21st year, in Malamat's chronology this would correspond to Jehoiakim's 3rd
-year, rather than his 4th as described in Jeremiah 46:2 [@malamat1975twilight, 127]:
+In Malamat's chronology the battle of Carchemish took place in Jehoiakim's 3rd year, rather than his 4th as described in
+Jeremiah 46:2 [@malamat1975twilight, 127]:
 
 > On the Babylonian source, see _CCK_, pp. 66ff. (BM 21946). Jer. 46:2 places the Battle of Carchemish in Jehoiakim's
 > fourth regnal year, the only substantial instance of a date conflicting with our Tishri reckoning, which would put
@@ -116,8 +112,8 @@ Malamat does not offer a definitive date for Nebuchadnezzar's subjugation of Jud
 > Nebuchadnezzar's Chronicle is indefinite. Military campaigns to the West are recorded for each of the years between
 > 605 and 601 B.C., but no specific names of subjected states are mentioned (except Ashkelon).
 
-The first proposal (corresponding to Obv. line 8 of [BM 21946](../../standard/chronicles/bm21946.md)) is the only one
-that works with Jehoiakim's 3rd year as per Daniel 1:1 [@malamat1975twilight, 129]:
+The first proposal, corresponding to [BM 21946, Obv. 8](../../standard/chronicles/bm21946.md) matches the 3rd year of
+Jehoiakim in Daniel 1:1 [@malamat1975twilight, 129]:
 
 > a\) Judah was conquered immediately after the Egypdan defeat at the Battle of Carchemish. This is supported by the
 > opening of the Book of Daniel (1:1-4) relating the siege of Jerusalem by Nebuchadnezzar in the third year of Jehoiakim
@@ -134,11 +130,11 @@ that works with Jehoiakim's 3rd year as per Daniel 1:1 [@malamat1975twilight, 12
 
 #### Issues
 
-Nebuchadnezzar would not yet be King until later in that year, so Daniel 1:1 would have to be read proleptically as
+Nebuchadnezzar did not become king until later in that year, so Daniel 1:1 would have to be read proleptically as
 suggested by Mercer [@mercer1989daniel, 183] and Clines [@clines1972regnal, 23].
 
-Clines questions whether there is enough time between the battle of Carchemish and Nebuchadnezzar's return to Babylon
-(month VI) following Nabopolassar's death [@clines1972regnal, 24] [@mercer1989daniel, 187]:
+Clines questions whether there was enough time between the battle of Carchemish and Nebuchadnezzar's return to Babylon
+following Nabopolassar's death for this to be possible [@clines1972regnal, 24] [@mercer1989daniel, 187]:
 
 > It involves the interposition of a Babylonian march to Jerusalem from Hamath (no place further south is mentioned in
 > the Babylonian Chronicle) and a siege of the city in the short interval between May-June (Carchemish) and c. August 25
@@ -171,7 +167,7 @@ Or in his 2nd year (Obv. 21-23)
 > subsequent missing section of the tablet might then relate to the submission of Jehoiakim (cf. II Chron. 36:6-7; Dan.
 > 1:1-2—both apparently relating to this event).
 
-But these would be in the 5th or 6th year of Jehoiakim [@malamat1967last, 142]:
+These would be in the 5th or 6th year of Jehoiakim [@malamat1967last, 142]:
 
 > In Dan. 1:1, with the slight emendation of 'In the _third_ year' to 'In the _sixth_ year' (שש < שלוש) of the reign of
 > Jehoiakim, the date of Nebuchadnezzar's siege of Jerusalem would correspond with that suggested above for the

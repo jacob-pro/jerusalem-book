@@ -33,7 +33,7 @@ The key assumptions of his chronology include [@tadmor1956chronology, 226]:
 
 ## Discussion
 
-### Battles of Megiddo and Carchemish
+### Battle of Megiddo
 
 Tadmor dates the battle of Megiddo between month III and IV, just prior to Egyptian army's arrival at Harran in month IV
 [@tadmor1956chronology, 228]:
@@ -41,7 +41,9 @@ Tadmor dates the battle of Megiddo between month III and IV, just prior to Egypt
 > It was sometime in Sivan/Tammuz 609 that the "great Egyptian Army" (B.M. 21901, rev. 1. 66), setting out to rescue
 > Assurubalit II in Harran, encountered Josiah in Megiddo, defeated him and proceeded to the North.
 
-Tadmor interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession rather than 1st year  
+### Battle of Carchemish
+
+Tadmor interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession year rather than 1st year
 [@tadmor1956chronology, 227]:
 
 > Postulating a Nisan-to-Nisan year in Judah one has, consequently, to equate the 4th year of Jehoiakim with the
@@ -50,8 +52,7 @@ Tadmor interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession rathe
 
 ### Subjugation of Judah
 
-Tadmor dates the 3 years submission of Judah as beginning during Nebuchadnezzar's 1st year, or Jehoiakim's 5th year
-[@tadmor1956chronology, 229]:
+Tadmor dates subjugation of Judah to Nebuchadnezzar's 1st year or Jehoiakim's 5th year [@tadmor1956chronology, 229]:
 
 > The three years of Jehoiakim's submission to Babylon before he rebelled would be then (Judean years): 604/3-602/1. The
 > revolt in 601 might have been connected with the new ascendency of Egypt, whose new strength is evident from the
@@ -59,15 +60,16 @@ Tadmor dates the 3 years submission of Judah as beginning during Nebuchadnezzar'
 > new Babylonian campaign to Judah in Jehoiakim's 8th and Nebuchadnezzar's 4th year and the tribute paid to Babylon
 > accords with the new Babylonian chronicle, which tells of a submission of Hatti prior to the battle with Egypt.
 
-However, no attempt at reconciling Daniel 1:1 appears to have been made (which refers to the 3rd year rather than 5th of
-Jehoiakim).
+He doesn't attempt to reconcile this date (the 5th year of Jehoiakim) with Daniel 1:1.
 
 ### Captures of Jehoiachin and Zedekiah
 
 Tadmor's synchronistic table lists the siege of Jerusalem and capture of Jehoiachin as 2/XII of Nebuchadnezzar's 7th
 year, based on [BM 21946](../../standard/chronicles/bm21946.md) Rev. 11-13. But he claims that the exile of captives,
 and Zedekiah's accession did not actually take place until the beginning of the new year (Nisan, Nebuchadnezzar year 8)
-— which would match 2 Kings 24:12, and 2 Chronicles 36:10 [@tadmor1956chronology, 230]:
+— which would match 2 Kings 24:12, and 2 Chronicles 36:10.
+
+He is not however able to explain the difference in the number of captives in Jeremiah 52 [@tadmor1956chronology, 230]:
 
 > The statements in Jer. 52:28 and 52:29 that 3023 Judeans had been exiled in the 7th and 18th (instead of the correct
 > 8th and 19th) years of Nebuchadnezzar seem to derive from the same tradition, but no satisfactory explanation of its

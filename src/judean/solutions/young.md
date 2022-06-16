@@ -65,12 +65,16 @@ t = Tishri-to-Tishri years
 
 ### Battle of Megiddo
 
-Young claims that it was after Josiah's reign the Judean system changed to non-accession reckoning [@young2004did, 35]:
+Young dates the battle of Megiddo and death of Josiah to the same month as the attack on Harran (month IV). He also
+claims that it was after Josiah's reign the Judean system changed to non-accession reckoning [@young2004did, 35]:
 
 > The Babylonian Chronicles allow the date of his death to be calculated as the fourth month of 609 bc, which was in the
 > year 610t. This was thirtyone years after the beginning of Josiah’s reign in 641t, so the reign length as given in 2
 > Kgs 22:1 is by accession reckoning, showing, incidentally, that somewhere between 2 Kgs 22:1 and 24:1 the counting
 > system changed from accession to non-accession.
+
+He does not appear to explain how the Egyptian army could have made the ~400 mile journey from Megiddo to Harran within
+this timeframe [@clines1972regnal, 30].
 
 ### Battle of Carchemish
 
@@ -81,7 +85,8 @@ Regarding Carchemish [@young2004did, 36]:
 
 ### Subjugation of Judah
 
-Young does not appear to offer any explanation for when the subjugation of Judah took place (2 Kings 24:1, Daniel 1:1).
+Horn does not appear to explain where the subjugation of Judah (2 Kings 24:1 and Daniel 1:1) would fit into his
+timeline.
 
 ### Sieges of Jerusalem
 
