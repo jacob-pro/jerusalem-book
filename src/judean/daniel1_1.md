@@ -244,7 +244,7 @@ According to Clines [@clines1972regnal, 21]:
 In contrast, the siege in the first year of Jehoiachin in 2 Kings 24 is described in an order consistent with the
 Babylonian account:
 
-> **6** Then Jehoiakim was laid to rest with his forefathers...<br> > **8** Jehoiachin was 18 years old when he became
+> **6** Then Jehoiakim was laid to rest with his forefathers...<br>**8** Jehoiachin was 18 years old when he became
 > king, and he reigned for three months in Jerusalem... **9** He continued to do what was bad in Jehovah’s eyes,
 > according to all that his father had done. **10** During that time the servants of King Nebuchadnezzar of Babylon came
 > up against Jerusalem, and the city came under siege. (2 Kings 24:6,8-10, NWT)

@@ -78,7 +78,7 @@ Using the system of Olympiad numbers Africanus also dates the 20th year of Artax
 > which make 490 according to the Hebrew numeration, as they measure the years by the course of the moon ; so that, as
 > is easy to show, their year consists of 354 days, while the solar year has 365¼days.
 
-<sup>(1st olympiad = 776 BC, 83rd Olympiad = 448 BC, 4th year = 445 BC)</sup>
+(1st olympiad = 776 BC, 83rd Olympiad = 448 BC, 4th year = 445 BC)
 
 However, this is in direct contradiction with the Insight book chronology chapter, and the Watchtower's interpretation
 of Daniel's 70 weeks prophecy (Daniel 9:24) [@watch2018insight1, 463]:
