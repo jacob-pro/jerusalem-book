@@ -44,6 +44,9 @@ Despite citing Sack's book, the Watchtower neglects to mention his interpretatio
 
 <!-- TODO: Quote R.H. Sack -->
 
+See also [Sack's response](../../appendix/responses.md#r-h-sack) where he says he has been misrepresented by the
+Watchtower.
+
 The Watchtower claims that this overlap is not logical, that there must instead be 'additional years' in between. But
 since the Bible's internal chronology limits Nebuchadnezzar's reign to around 43 or 44 years anyway (because of
 Jehoiachin's 37 years of captivity), the alternative chronology as implied by the Watchtower could only really add one

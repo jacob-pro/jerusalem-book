@@ -51,6 +51,9 @@ Of the [astronomical texts relevant to the period](../../standard/astro.md) only
 and [No.4](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm32234.md) only a portion of the eclipse
 dates are predictions.
 
+See also [Steele's and Spek's responses](../../appendix/responses.md#j-m-steele) where they say they have been
+misrepresented by the Watchtower regarding the eclipse tablets.
+
 The citation of Brown in its full context [@brown2000mesopotamian, 202]:
 
 > So, although it is conceivable that the eclipse predictions dating to 731, 686, 684, 677, 668, and 649 BC were

@@ -65,4 +65,4 @@
 - [Appendix]()
   - [Letter Concerning VAT 4956 in the Watchtower 2011](appendix/letter_vat4956.md)
   - [Letter Concerning the Date of Josiah's Death](appendix/letter_josiah.md)
-  - [List of Misquotations]()
+  - [Responses from Scholars to Watchtower Quotations](appendix/responses.md)
