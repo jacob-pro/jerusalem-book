@@ -22,8 +22,8 @@ earliest known tablets for Amel-Marduk:
 > Cuneiform, Old Testament, Greek, Latin and Rabbinical Sources. With Plates, pages 3, 90, 106.
 
 However, this isn't entirely correct; according to both C.B.F. Walker's unpublished list of corrections
-[@walker1996corrections, 8] and the British Museum website [@bm80920] the date in BM 80920 is actually month 7 of
-Amel-Marduk's accession year, rather than month 4, so this tablet does not overlap.
+[@walker1996corrections, 8] and the British Museum website [@bm80920] the date in BM 80920 (Sack No. 56) is actually
+month 7 of Amel-Marduk's accession year, rather than month 4, so this tablet does not overlap.
 
 The Watchtower also claims that there is a tablet dated to month 10 of Nebuchadnezzar's 43rd year:
 
@@ -34,18 +34,31 @@ The Watchtower also claims that there is a tablet dated to month 10 of Nebuchadn
 
 But this isn't entirely correct either, according to the both Walker's list [@walker1996corrections, 3] and the museum
 website 'the year number is far from clear' [@bm55806], so it is not of much use for chronology. Hence, as already noted
-in the [business tablets](../../standard/business/business.md#amel-marduk) section, in the context of the standard
-chronology there are actually only two tablets overlapping by about a month:
+in the [business tablets](../../standard/business/business.md#amel-marduk) section, there are actually only two tablets
+overlapping by about a month:
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk.svg)
 
-Despite citing Sack's book, the Watchtower neglects to mention his interpretation of the small overlap as indicating
-'that Nebuchadrezzar bought his son into a co-regency before his death'.
+In their quotation of Sack the Watchtower omits the full context where he interprets the small overlap as indicating a
+co-regency [@sack1972amel, 3]:
 
-<!-- TODO: Quote R.H. Sack -->
+> However, two new unpublished British Museum texts, recently placed at my disposal, completely upset this convinient
+> arrangement. Part of one text (which may have included the name of the city in which it was composed) is unfortunately
+> broken off, but most of the date formula has happily survived. The texts (nos. 56 and 79 in the corpus), surprisingly
+> enough, are quite clearly dated to the months Du'uzu and Abu (i.e., the foruth and fifth months of the Babylonian
+> calendar year) of the accession year of Amel-Marduk, and thus clearly overlap the final, or forty-third year, of his
+> father Nebuchadnezzar. As Parker and Dobberstein have already shown, texts continue to be dated to the reign of
+> Nebuchadnezzar throughout the month of Ululu (sixth month) of his final year. Although most of the known contracts
+> dated to the sixth month are from the south (Uruk), nevertheless it hardly seems reasonable that it would have taken
+> well over two months for the news of Nebuchadnezzar's death to reach Uruk from Babylon (unless, indeed, this new text
+> dated in the month of Du'uzu might lead to the conclusion that he died earlier than was formerly thought). Evidence
+> from the accession year of Neriglissar more than negates this hypothesis. Furthermore, the existence of two texts
+> dated to the same day (Oct. 8, 562), with one bearing the name of Amēl-Marduk, and the other of Nebuchadnezzar, more
+> than likely points to the early days of October as the time when the king actually died. In view of this new (though
+> admittedly scanty) evidence, it seems much more probable that a kind of coregency existed prior to Nebuchadnezzar's
+> death. Perhaps future discoveries will clarify this point.
 
-See also [Sack's response](../../appendix/responses.md#r-h-sack) where he says he has been misrepresented by the
-Watchtower.
+See [Sack's response](../../appendix/responses.md#r-h-sack) where he says he has been misrepresented by the Watchtower.
 
 The Watchtower claims that this overlap is not logical, that there must instead be 'additional years' in between. But
 since the Bible's internal chronology limits Nebuchadnezzar's reign to around 43 or 44 years anyway (because of
@@ -54,8 +67,8 @@ additional year here:
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk2.svg)
 
-This would leave an unexplained 11-month gap between the last tablets dated to Nebuchadnezzar and first for Amel-Marduk,
-which seems unusual given the substantial quantity discovered from the rest of their reigns.
+This scheme would result in an unexplained 11-month gap between the last tablets dated to Nebuchadnezzar and first for
+Amel-Marduk, which seems unusual given the substantial quantity discovered from the rest of their reigns.
 
 ### Amel-Marduk to Neriglissar
 
@@ -76,8 +89,8 @@ This isn't entirely correct either, BM 75106 is actually dated to month 4 'not m
 
 ### Cyrus II to Cambyses II
 
-The Watchtower claims that the overlaps in the business tablets indicate that the record is not continuous, and thus not
-reliable for chronological purposes.
+The Watchtower claims that the overlaps in the business tablets indicate that the record is not continuous, and
+therefore not reliable for chronological purposes.
 
 > Why are these discrepancies significant? As mentioned earlier, gaps in the history documented by the Babylonian
 > chronicles suggest that we may not have a continuous chronological record. Could others have ruled between the reigns

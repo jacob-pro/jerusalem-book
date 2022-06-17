@@ -89,9 +89,9 @@ Earliest dated texts:
 - ?/V/Acc - Sippar, BM 58872 [@bm58872]
 - 20/V/Acc - Sippar, BM 75322 [@bm75322]
 
-Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R.H. Sack 'proposes that
-Nebuchadrezzar bought his son into a co-regency before his death', which Wiseman agrees 'is certainly possible'
-[@wiseman1974review, 451].
+Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R.H. Sack suggests that
+Nebuchadnezzar shared a brief co-regency with his son before his death [@sack1972amel, 3], which Wiseman agrees 'is
+certainly possible' [@wiseman1974review, 451].
 
 However, Weisberg disagrees in his review of Sack's book [@weisberg1976review, 68]:
 
