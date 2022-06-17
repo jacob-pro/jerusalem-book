@@ -46,7 +46,7 @@ co-regency [@sack1972amel, 3]:
 > arrangement. Part of one text (which may have included the name of the city in which it was composed) is unfortunately
 > broken off, but most of the date formula has happily survived. The texts (nos. 56 and 79 in the corpus), surprisingly
 > enough, are quite clearly dated to the months Du'uzu and Abu (i.e., the foruth and fifth months of the Babylonian
-> calendar year) of the accession year of Amel-Marduk, and thus clearly overlap the final, or forty-third year, of his
+> calendar year) of the accession year of Amēl-Marduk, and thus clearly overlap the final, or forty-third year, of his
 > father Nebuchadnezzar. As Parker and Dobberstein have already shown, texts continue to be dated to the reign of
 > Nebuchadnezzar throughout the month of Ululu (sixth month) of his final year. Although most of the known contracts
 > dated to the sixth month are from the south (Uruk), nevertheless it hardly seems reasonable that it would have taken
