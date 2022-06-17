@@ -1,14 +1,15 @@
 # Watchtower Interpretation of Daniel 1:1
 
-As listed in the [Watchtower Judean Chronology](solutions/watchtower.md) table the Watchtower dates the Nebuchadnezzar's
-invasion of Judah as described in 2 Kings 24:1 to sometime in the 8th year of Jehoiakim.
+As noted in the [Watchtower Judean Chronology](solutions/watchtower.md) section the Watchtower dates the
+Nebuchadnezzar's invasion of Judah as described in 2 Kings 24:1 to sometime in the 8th year of Jehoiakim.
 
-Unusually however the Watchtower then chooses to interpret the siege of Jerusalem described in Daniel 1:1 and 2
-Chronicles 36:6 as referring to the later siege resulting in Jehoiachin's capture (2 Kings 24:10, which was the 11th
-year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim becoming a vassal for 3 years (2 Kings
-24:1).
+Unusually the Watchtower has chosen to interpret Daniel 1:1 and 2 Chronicles 36:6 as referring to the siege resulting in
+Jehoiachin's capture (2 Kings 24:10; the 11th year of Jehoiakim), rather than the earlier invasion resulting in
+Jehoiakim becoming a vassal for 3 years (2 Kings 24:1).
 
-### Insight Book
+### _Insight_ Book
+
+Regarding Jehoiakim [@watch2018insight1, 1269]:
 
 > Second Kings 24:1 shows that Nebuchadnezzar brought pressure upon the Judean king “and so Jehoiakim became his servant
 > \[or vassal\] for three years. However, he \[Jehoiakim\] turned back and rebelled against him \[Nebuchadnezzar\].”
@@ -31,13 +32,16 @@ year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim beco
 > tradition (recorded by Josephus) that Nebuchadnezzar killed Jehoiakim and commanded that his dead body be thrown
 > outside Jerusalem’s walls. (Jewish Antiquities, X, 97 [vi, 3]) By whatever means Jehoiakim’s death came, it appears
 > that the copper fetters Nebuchadnezzar had brought along to bind Jehoiakim were not used as planned.—2Ch 36:6.
-> [@watch2018insight1, 1269]
+
+Regarding Daniel [@watch2018insight1, 576]:
 
 > Very little is known of his early life, but he \[Daniel\] tells of being taken to Babylon, likely as a teenage prince,
 > along with other royal offspring and nobles. (Da 1:3-6) This was in Jehoiakim’s third year (as tributary king to
 > Babylon), which third year started in the spring of 618 B.C.E. (Da 1:1) With Jehoiakim’s inglorious death, Jehoiachin,
 > his son, ruled for a few months before surrendering. Early in 617 B.C.E., Jehoiachin and other “foremost men,” also
-> young Daniel (2Ki 24:15), were taken into captivity by Nebuchadnezzar. [@watch2018insight1, 576]
+> young Daniel (2Ki 24:15), were taken into captivity by Nebuchadnezzar.
+
+Regarding Jehoiachin [@watch2018insight1, 1267]:
 
 > At the age of 18 Jehoiachin became king and continued the bad practices of his father. (2Ki 24:8, 9; 2Ch 36:9, ftn)
 > Jehoiachin’s father, Jehoiakim, had been under subjection to Babylonian King Nebuchadnezzar but rebelled in his third
@@ -49,9 +53,11 @@ year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim beco
 > according to a Babylonian chronicle). (2Ki 24:11, 12; 2Ch 36:9; Assyrian and Babylonian Chronicles, by A. Grayson,
 > 1975, p. 102) In fulfillment of Jehovah’s word through Jeremiah, he was taken into Babylonian exile. (Jer 22:24-27;
 > 24:1; 27:19, 20; 29:1, 2) Other members of the royal household, court officials, craftsmen, and warriors were also
-> exiled.—2Ki 24:14-16; [@watch2018insight1, 1267]
+> exiled.—2Ki 24:14-16
 
 ### Daniel Book
+
+Regarding Daniel 1:1 and the 8th year of Jehoiakim (621 BC) [@watch2006pay, 18]:
 
 > Daniel 1:1 reads: “In the third year of the kingship of Jehoiakim the king of Judah, Nebuchadnezzar the king of
 > Babylon came to Jerusalem and proceeded to lay siege to it.” Critics have found fault with this scripture because it
@@ -62,7 +68,9 @@ year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim beco
 > B.C.E.), Nebuchadnezzar invaded Judah and made Jehoiakim a vassal king under Babylon. (2 Kings 23:34; 24:1) To a Jew
 > living in Babylon, Jehoiakim’s “third year” would have been the third year of that king’s vassal service to Babylon.
 > Daniel wrote from that perspective. Jeremiah, however, wrote from the perspective of the Jews living right in
-> Jerusalem. So he referred to Jehoiakim’s kingship as starting when Pharaoh Necho made him king. [@watch2006pay, 18]
+> Jerusalem. So he referred to Jehoiakim’s kingship as starting when Pharaoh Necho made him king.
+
+Regarding the battle of Carchemish in the 4th year of Jehoiakim (625 BC) [@watch2006pay, 31]:
 
 > In 625 B.C.E., Egyptian Pharaoh Necho... led his army to Carchemish... The Babylonian army, led by Crown Prince
 > Nebuchadnezzar, inflicted a devastating blow on Pharaoh Necho’s forces. (Jeremiah 46:2) Riding on the momentum of his
@@ -71,9 +79,12 @@ year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim beco
 > campaign.<br><br> The next year, Nebuchadnezzar—now enthroned as king of Babylon—once again turned his attention to
 > his military campaigns in Syria and Palestine. It was during this period that he came to Jerusalem for the first time.
 > The Bible reports: “In his days Nebuchadnezzar the king of Babylon came up, and so Jehoiakim became his servant for
-> three years. However, he turned back and rebelled against him.”—2 Kings 24:1. [@watch2006pay, 31]
+> three years. However, he turned back and rebelled against him.”—2 Kings 24:1.
 
-### Let Your Kingdom Come
+### _Let Your Kingdom Come_
+
+_Let Your Kingdom Come_ connects this issue with the various interpretation's of Jeremiah's 70-year prophecy
+[@watch1981let, 188]:
 
 > Later writers quote Berossus as saying that after the battle of Carchemish Nebuchadnezzar extended Babylonian
 > influence into all Syria-Palestine and, when returning to Babylon (in his accession year, 605 B.C.E.), he took Jewish
@@ -84,12 +95,13 @@ year of Jehoiakim), rather than the earlier invasion resulting in Jehoiakim beco
 > Nebuchadnezzar took Jews captive in his seventh year, his 18th year and his 23rd year, not his accession year. Also,
 > Jewish historian Josephus states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of
 > Syria-Palestine “excepting Judea,” thus contradicting Berossus and conflicting with the claim that 70 years of Jewish
-> servitude began in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1. [@watch1981let, 188]
+> servitude began in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1.
 
 ## History of the Interpretation
 
 The idea behind interpreting Daniel 1:1 Jehoiakim as actually referring to the siege described in 2 Kings 24:10 may have
-originated with first-century historian Josephus, who dates the beginning of Jehoiakim's servitude to his 8th year:
+originated with first-century historian Josephus, who dates the beginning of Jehoiakim's servitude to his 8th year
+[@whiston1737complete, {Ant X 6-7}]:
 
 > 1\. NOW in the fourth year of the reign of Jehoiakim, one whose name was Nebuchadnezzar took the government over the
 > Babylonians, who at the same time went up with a great army to the city Carchemish, which was at Euphrates, upon a
@@ -117,10 +129,11 @@ originated with first-century historian Josephus, who dates the beginning of Jeh
 > him a grudge, because of his killing his father, and thereupon should make the country revolt from him; wherefore he
 > sent an army, and besieged Jehoiachin in Jerusalem; but because he was of a gentle and just disposition, he did not
 > desire to see the city endangered on his account, but he took his mother and kindred, and delivered them to the
-> commanders sent by the king of Babylon... [@whiston1737complete, {Ant X 6-7}]
+> commanders sent by the king of Babylon...
 
-The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 _Equipped for Every Good Work_;
-published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21946](../standard/chronicles/bm21946.md):
+The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 book _Equipped for Every Good
+Work_ [@watch1946equipped, 225], which was published a decade before the translation of the Nebuchadnezzar Chronicle
+[BM 21946](../standard/chronicles/bm21946.md):
 
 > But Daniel 1:1, 2 fixes the start of this first captivity in the "third year" of Jehoiakim, who started to reign in
 > Judah in 628 B.C. Would not this mean the captivity of Daniel and others started in 626 B.C., Jehoiakim's third year
@@ -132,9 +145,9 @@ published a decade before the translation of the Nebuchadnezzar Chronicle [BM 21
 > as tributary to Babylon the Judean king rebelled. (2 Ki. 24:1) That third year as tributary king to Nebuchadnezzar was
 > the eleventh and last of his total kingship, because the Babylonian monarch came against the rebellious Jewish king
 > and quickly completed the conquest during the three-month reign of Jehoiakim's successor Jehoiachin. Hence 618 B.C.
-> was the time of the first captivity and the starting point of history in the book of Daniel. [@watch1946equipped, 225]
+> was the time of the first captivity and the starting point of history in the book of Daniel.
 
-And then regarding Daniel 2:1:
+Regarding Daniel 2:1 it says [@watch1946equipped, 226]:
 
 > The time of this dream and its interpretation is stated as the second year of Nebuchadnezzar's reign. Actually,
 > Nebuchadnezzar had been reigning over Babylon alone much longer than two years. Why, at the time of this dream the
@@ -146,37 +159,38 @@ And then regarding Daniel 2:1:
 > rule and the taking over of power by Christ's kingdom came to Nebuchadnezzar, as recorded at chapter 2 . Here again,
 > as at Daniel 1:1, the peculiarity which the writer of this book has of making a secondary reckoning of the years of a
 > king's reign is demonstrated. He reckons by counting from epochal events within the reign that put the king in a new
-> relationship. [@watch1946equipped, 226]
+> relationship.
 
 ## Criticism
 
-### "Kingship", Daniel 1:1 and Daniel 2:1
+The Watchtower's interpretation has a number of serious flaws, especially in light of the more recent discoveries of the
+Babylonian chronicles.
 
-First the Watchtower Society is reading Daniel 1:1 in a strange way - where "kingship" is understood to refer not to the
+### 'Kingship' in Daniel 1:1 and Daniel 2:1
+
+First the Watchtower Society is reading Daniel 1:1 in a strange way - where 'kingship' is understood to refer not to the
 length of Jehoiakim's rule over Judah, but to his time as a vassal to Nebuchadnezzar. Against this interpretation Mercer
-argues:
+argues [@mercer1989daniel, 180]:
 
 > Several commentators take the third year of Jehoiakim as being the last of the three years of servitude to Babylon
 > mentioned in 2 Kgs 24:1. This solution is unlikely, for the text of Daniel states that Nebuchadnezzar besieged
 > Jerusalem "in the third year of the reign of Jehoiakim" (bšnṯ šlwš lmlḵwṯ), not "in the third year of the servitude of
 > Jehoiakim" (bšnṯ šlwš lᶜḇwḏh)—as one might expect if the statement in Dan 1:1 were derived from 2 Kgs 24:1.
-> [@mercer1989daniel, 180]
 
-This causes an even more substantial problem in that in Daniel 2:1, Daniel speaks with Nebuchadnezzar during 'the second
-year of his kingship' - which would be impossible if Daniel was taken captive sometime around the 7th or 8th year of
-Nebuchadnezzar. This forces the Watchtower to use another different interpretation for the meaning of 'kingship' in
-Daniel 2:
+This causes an even more substantial problem — in Daniel 2:1 he speaks with Nebuchadnezzar during 'the second year of
+his kingship' - this would be impossible if Daniel was taken captive sometime around the 7th or 8th year of
+Nebuchadnezzar. This forces the Watchtower to use yet another definition for 'kingship' [@watch2018insight2, 481]
+[@watch2018insight1, 576] [@watch2018insight1, 1186] [@watch2007highlights, 18] [@watch2006pay, 46]
 
 > The book of Daniel states that it was in “the second year” of Nebuchadnezzar’s kingship (probably counting from the
 > destruction of Jerusalem in 607 B.C.E. and therefore actually referring to his 20th regnal year) that Nebuchadnezzar
-> had the dream about the golden-headed image. [@watch2018insight2, 481] also [@watch2018insight1, 576] >
-> [@watch2018insight1, 1186] [@watch2007highlights, 18]
+> had the dream about the golden-headed image.
 
 > He had effectively become world ruler in 607 B.C.E. when Jehovah God allowed him to destroy Jerusalem and its temple.
 > In the second year of Nebuchadnezzar’s reign as world ruler (606/605 B.C.E.), God sent him a terrifying dream.
-> [@watch2006pay, 46]
 
-Regarding the translation of 'kingship' / 'reign' in Daniel Foley says:
+In support of a less specific translation of 'kingship' or 'reign' Foley says [@foley2014time, 33] [@foley2014time,
+{Appendix 6}]:
 
 > In understanding the first problem, it may be important that the Hebrew word translated reign in Daniel 1:1 (NIV) is
 > malchut which appears to be a less specific term for the years of reign than regnal years, since its use conveys the
@@ -187,7 +201,6 @@ Regarding the translation of 'kingship' / 'reign' in Daniel Foley says:
 > the month to month differences and sees his reign beginning in 608 BC and the current year being 605 BC, a difference
 > of three years. This approach may also help us to understand the second problem, since it should be noted that the
 > Hebrew word for reign in Daniel 2:1 is also malchut , so 603 BC must be the second year of Nebuchadnezzar.
-> [@foley2014time, 33]
 
 > Three major Hebrew words translate as “reign” in the NIV. The first of these is yom, the word that means “days” or
 > “years”; for example, 1 Chronicles 7:2 translated “during the reign of David” is more literally translated “during the
@@ -196,29 +209,29 @@ Regarding the translation of 'kingship' / 'reign' in Daniel Foley says:
 > Daniel in Daniel 9:2 with reference to the first year of the reign of Darius the Mede. The third word, malchut ,
 > occurs ninety times and seems to be a somewhat less specific word for “kingship” or alternatively for periods of reign
 > calculated using exclusive reckoning. In the book of Daniel it is used in Daniel 1:1, 2:1, 5:26, 6:28 (twice), 8:1,
-> and 8:23. [@foley2014time, {Appendix 6}]
+> and 8:23.
 
-However, he still concludes that:
+However, Foley ultimately concludes that Daniel was taken during Nebuchadnezzar's accession year [@foley2014time, 34]:
 
 > it would seem most likely that Daniel was taken from Jerusalem late in 605 BC for the purpose of being trained in
-> Babylonian ways. He completed this training very successfully, probably in 602 BC [@foley2014time, 34]
+> Babylonian ways. He completed this training very successfully, probably in 602 BC
 
 ### Death of Jehoiakim
 
-As acknowledged in the Insight book [@watch2018insight2, 480], [BM 21946](../standard/chronicles/bm21946.md) states that
-`In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu`, and then that
+As acknowledged in the Insight book [@watch2018insight2, 480], [BM 21946](../standard/chronicles/bm21946.md#translation)
+states that `In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu`, and then that
 `on the second day of the month Adar [XII] he captured the city (and) seized (its) king.`
 
 According to 2 Chronicles 36:9 and 2 Kings 24:8, Jehoiachin reigned in Jerusalem for 3 months and 10 days, subtracting
 this from the end of his rule on 2/XII, his rule must have began (and Jehoiakim must have died) around the end of month
 VIII, which would be before Nebuchadnezzar marched to Jerusalem. [@hyatt1956new, 278]
 
-How can Daniel 1:2 where "Jehovah gave King Jehoiakim of Judah into his hand" (NWT) and 2 Chronicles 36:6 where
+How can Daniel 1:2 where 'Jehovah gave King Jehoiakim of Judah into his hand' (NWT) and 2 Chronicles 36:6 where
 'Nebuchadnezzar of Babylon came up against him \[Jehoiakim\] in order to bind him with two copper fetters to take him
 off to Babylon' (NWT) make sense in this context given that Jehoiakim had already died before Nebuchadnezzar marched
 against the city?
 
-According to Clines:
+According to Clines [@clines1972regnal, 21]:
 
 > Some kind of an attack upon Jerusalem during the reign of Jehoiakim is demanded by the evidence of 2 Chr. 36:6f.,
 > which recounts that Nebuchadrezzar took Jehoiakim in fetters to BabyIon, and also carried off some of the temple
@@ -227,7 +240,6 @@ According to Clines:
 > sound, it is reasonable to suppose that at some time during his reign 'Jehoiakim took part of the temple treasure \[to
 > Babylon\] as a _qatrē_-offering or as _biltu_ ('tribute') to buy off the Babylonians'. 2 Kings 24:1, 'Nebuchadnezzar
 > came up, and Jehoiakim became his servant three years', may in turn be related to the same circumstances.
-> [@clines1972regnal, 21]
 
 In contrast, the siege in the first year of Jehoiachin in 2 Kings 24 is described in an order consistent with the
 Babylonian account:
@@ -241,14 +253,14 @@ Babylonian account:
 
 > **1** In Jehoiakim’s days King Nebuchadnezzar of Babylon came against him, and Jehoiakim became his servant for three
 > years. However, he turned against him and rebelled. **2** Then Jehovah began to send against him marauder bands of
-> Chaldeans, Syrians, Moabites, and Ammonites. He kept sending them against Judah to destroy it...<br> > **6** Then
+> Chaldeans, Syrians, Moabites, and Ammonites. He kept sending them against Judah to destroy it...<br> **6** Then
 > Jehoiakim was laid to rest with his forefathers and his son Jehoiachin became king in his place. (2 Kings 24:1,2,6,10
 > NWT)
 
-According to the Watchtower Society Jehoiakim began his three years servitude in his 8th year 'early in 620 B.C.E.'
-[@watch2018insight1, 1269] and then rebelled at the end of the three years resulting in the siege of Jerusalem in "618
-B.C.E." [@watch2018insight1, 1267]. The Insight book also states that it "appears that Jehoiakim died during the siege
-of the city" (or as shown above, he actually died just before it began).
+According to the Watchtower Jehoiakim began his three years servitude in his 8th year 'early in 620 B.C.E.'
+[@watch2018insight1, 1269] and then rebelled at the end of the three years resulting in the siege of Jerusalem in '618
+B.C.E.' [@watch2018insight1, 1267]. The Insight book also states that it 'appears that Jehoiakim died during the siege
+of the city' (or as proven above, he actually died just before it began).
 
 When therefore would the multiple attacks of marauder bands have occurred if Jehoiakim's rebellion (at the end of three
 years servitude) is immediately followed by his death and the accession of Jehoiachin?
@@ -272,15 +284,15 @@ And likewise for the captives taken:
 | Siege resulting in Jehoiachin's capture  | 24:14 He took into exile all Jerusalem, **all the princes, all the mighty warriors, and every craftsman and metalworker**—he took 10,000 into exile. **No one was left behind except the poorest people** of the land. |                                                                         |                                                                                                                                                                                                                                                                                                                 |
 | Siege resulting in Zedekiah's capture    | 25:11 Nebuzaradan the chief of the guard took into exile **the rest of the people who were left in the city**, the deserters who had gone over to the king of Babylon, and the rest of the population.                 | 36:20 He carried off captive to Babylon **those who escaped the sword** |                                                                                                                                                                                                                                                                                                                 |
 
-Against this argument the Watchtower states in the Kingdom Come book:
+Against this argument the Watchtower states in the Kingdom Come book [@watch1981let, 188]:
 
 > Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews captive in his seventh year, his 18th year and his
-> 23rd year, not his accession year. [@watch1981let, 188]
+> 23rd year, not his accession year.
 
-However, it is already seen that Jeremiah does not contain a complete count of the captives since it contradicts the
-number (and also year, depending on interpretation) of captives described in 2 Kings 24:14 (3023 in the 7th year vs
-10,000+ in the 8th year), so Jeremiah 52 surely should not be treated as an exhaustive list of all captives taken by
-Nebuchadnezzar. [@watch2018insight1, 415]
+However, it is already been demonstrated that Jeremiah does not contain a complete count of the captives since it
+contradicts the number (and also year, depending on interpretation) of captives described in 2 Kings 24:14 (3023 in the
+7th year vs 10,000+ in the 8th year), so Jeremiah 52 surely should not be treated as an exhaustive list of all captives
+taken by Nebuchadnezzar. [@watch2018insight1, 415]
 
 ### Nebuchadnezzar's Conquest of Hattu
 
@@ -353,26 +365,27 @@ It therefore seems very unlikely that Jehoiakim did not become a vassal of Nebuc
 the Watchtower, instead is it was likely to be sometime as early as the autumn of Nebuchadnezzar's accession year (the
 4th year of Jehoiakim).
 
-Against this argument the Kingdom Come book says:
+Against this argument the Kingdom Come book says [@watch1981let, 188]:
 
 > Though Berossus claims that Nebuchadnezzar took Jewish captives in his accession year, there are no cuneiform
 > documents supporting this.
 
 However, the tributes described in the chronicles should be interpreted as including captives, such as in 7th year when
-Nebuchadnezzar took 'vast tribute', which we already know must have included captives (Jer 52:28, 2 Kings 24:14).
+Nebuchadnezzar took 'vast tribute', which we already know must have included captives (Jer 52:28, 2 Kings 24:14),
+according to Larsson [@larsson1967when]:
 
 > In the 'accession year' Nebuchadrezzar went back again to the Hatti land and until the month of Sebat marched
 > unopposed through the Hatti land; in the month of Sebat he took the heavy tribute of the Hatti territory to
 > Babylon.<br><br> It is certain that this 'heavy tribute' consisted not only of treasure but also of prisoners from the
 > conquered countries. To refrain from doing so would have been altogether too alien from the customs of the kings of
-> Babylon and Assyria. [@larsson1967when]
+> Babylon and Assyria.
 
 ## Alternative Solutions
 
 Dates for the start of Jehoiakim's servitude proposed by other authors:
 
 - [Tadmor](./solutions/tadmor.md#subjugation-of-judah): 1st year of Nebuchadnezzar.
-- [Jones](./solutions/jones.md#battle-of-carchemish-and-subjugation-of-judah): 20th year of Nabopolassar (the year
+- [Jones](./solutions/jones.md#subjugation-of-judah-and-the-battle-of-carchemish): 20th year of Nabopolassar (the year
   before Nebuchadnezzar's accession).
 - [Malamat](./solutions/malamat.md#subjugation-of-judah): Accession, 1st or 2nd years of Nebuchadnezzar.
 - [Thiele](./solutions/thiele.md#battle-of-carchemish-and-the-subjugation-of-judah): 21st year of Nabopolassar (after
@@ -382,10 +395,9 @@ Dates for the start of Jehoiakim's servitude proposed by other authors:
 - Mercer [@mercer1989daniel, 192]: Midsummer of Nebuchadnezzar's accession year.
 - Larsson [@larsson1967when, 419]: Accession year of Nebuchadnezzar.
 
-If we took the [Watchtower Judean chronology](./solutions/watchtower.md) but instead dated the subjugation of Jehoiakim
-to the accession year of Nebuchadnezzar, then this would fall in the forth year of Jehoiakim, which would actually be
-the **third** year if we assumed Daniel were converting Jehoiakim's reign to the Babylonian accession year system —
-successfully integrating Daniel 1:1.
+If we took the [Watchtower Judean chronology](./solutions/watchtower.md) but instead dated the subjugation of Judah to
+the accession year of Nebuchadnezzar, then this would fall in the forth year of Jehoiakim, or the **third** year when
+counting using the Babylonian accession year system, fitting perfectly with Daniel 1:1.
 
 ### Daniel's Training
 
@@ -399,13 +411,15 @@ training (Daniel 1:5), but this would be a maximum of about 2 ½ years actual le
 | 2nd            | Daniel interprets Nebuchadnezzar's dream | 3rd               |
 
 Does this matter? Do the events in chapter 2 do have to follow the 3 years training or could they have taken place
-concurrently?
+concurrently? According to Jones [@jones2019chronology, 189]:
 
 > it simply would not be possible that Daniel and his three friends could be so highly elevated in the affairs of the
 > government of Babylonia in chapter 2 (Dan. 2:48, 49) and afterward still have to appear before King Nebuchadnezzar to
 > obtain his approval by proving their abilities “to stand in the king’s palace” (Dan. 1:4, 18–20) as though they were
 > yet mere students. But such would be the case were the happenings of chapter 2 imbedded somewhere within the
-> three-year time frame of chapter 1. [@jones2019chronology, 189]
+> three-year time frame of chapter 1.
+
+Clines says [@clines1972regnal, 28]:
 
 > Further, it may be urged that the dates in Daniel are not self-consistent, and that it is not worth attempting to
 > justify the date in Dan. 1:1. If Daniel was taken to Babylon c. June-July 605, and immediately began his three-year
@@ -413,25 +427,31 @@ concurrently?
 > April, 602) in which the king had his dream (2:1) and Daniel, already graduated (1:18ff.), gave its interpretation.
 > This conclusion could be avoided only if it were maintained that the '3 years' of 1:15 (sic) are counted inclusively;
 > but against that must be set the evidence for a fixed period of 3 full years' education, at least in the Persian
-> court. [@clines1972regnal, 28]
+> court.
+
+Mercer says [@mercer1989daniel, 187]:
 
 > Some commentators hold that the three years of Dan 1:5 were not three full years (e-g., Driver, p. 17; Young, pp.
 > 55-56). They would say that Daniel was trained during the latter part of Nebuchadnezzar's accession year, all of his
 > first year, and part of his second year. That then would harmonize Dan 1:5 and 2:1. The fact that the three years were
 > a specific period of time set up for education would suggest, however, that the years were three whole years, not a
 > part of three. There is also some evidence that in the Persian period the length of training was indeed three full
-> years (Montgomery, p. 122). [@mercer1989daniel, 187]
+> years (Montgomery, p. 122).
 
 > It should be noted, however, that Dan 2 does not necessarily follow Dan 1 chronologically. In addition, the text of
 > Dan 2 suggests that he was not finished with his training. After all, Daniel was evidently not among those who were
 > unable to interpret the dream (vv. 2-1 1; cf. v. 27), nor had he even been informed of the matter (v. 15). Thus it is
 > entirely possible that Dan 2 records an incident that took place after the story in Dan 1:8-17, but before the end of
-> the three-year period. [@mercer1989daniel, 187]
+> the three-year period.
 
 ### Timing of Jehoiakim's Rebellion
 
+According to Tadmor [@tadmor1956chronology, 229]:
+
 > The revolt in 601 might have been connected with the new ascendency of Egypt, whose new strength is evident from the
-> defeat inflicted by Necho on the attacking armies of Babylon in that year. [@tadmor1956chronology, 229]
+> defeat inflicted by Necho on the attacking armies of Babylon in that year.
+
+According to Hyatt [@hyatt1956new, 280]:
 
 > In his 3rd and 4th years Nebuchadrezzar was back in Hatti. In the latter year he came into direct conflict with the
 > Egyptian army. After telling of his marching unopposed in Hatti, the chronicle goes on to say: "In the month Kislev
@@ -444,20 +464,22 @@ concurrently?
 > alliance with Egypt. II Kings 24:1 says that this occurred three years after Jehoiakim became the servant of
 > Nebuchadrezzar; three full years after the submission of Jehoiakim in either 605 or 604 would bring us to this date.
 > It is impossible to tell whether Jehoiakim's change of allegiance brought on the invasion by Nebuchadrezzar, or
-> whether Jehoiakim rebelled after he saw the success of Egypt. The latter seems more logical. [@hyatt1956new, 280]
+> whether Jehoiakim rebelled after he saw the success of Egypt. The latter seems more logical.
+
+According to Mercer [@mercer1989daniel, 188, 190]:
 
 > At an unspecified time in his fourth year (30 Mar. 601-18 Mar. 600), Nebuchadnezzar returned to Palestine. It was
 > during this campaign (in late 601) that Babylon and Egypt fought to a standstill, and Nebuchadnezzar withdrew to
 > Babylon with no tribute. It was also during this campaign that Jehoiakim of Judah, who had paid tribute for the past
 > three years, rebelled against the Babylonians. This understanding fits 2 Kgs 24:1, which states: "In his
 > \[Jehoiakim's\] days Nebuchadnezzar king of Babylon came up, and Jehohiakim became his servant for three years; but
-> then he turned and rebelled against him." [@mercer1989daniel, 188]
+> then he turned and rebelled against him."
 
 > The impetus behind Jehoiakim's rebellion was probably his renewal of ties with his original overlord, Necho of Egypt,
 > who had made him king (2 Kgs 23:34-35). Jehoiakim's ability to extradite gives evidence that he was at one time a
 > vassal of Egypt (cf. Jer 26:22-23). Necho also imposed a very modest amount of tribute. Jehoiakim was a part of the
 > pro-Egyptian party in Jerusalem and probably hoped that Necho would help him against the Babylonians. This renewed
-> alliance would explain Nebuchadnezzar's march to Egypt in 601. [@mercer1989daniel, 190]
+> alliance would explain Nebuchadnezzar's march to Egypt in 601.
 
 It would seem likely that Jehoiakim's rebellion was connected with the Egyptian war in Nebuchadnezzar's 4th year,
 counting back 3 full years during which Jehoiakim paid tribute to Nebuchadnezzar would mean that he must have become
