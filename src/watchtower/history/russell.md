@@ -54,11 +54,25 @@ II (first edition in 1889) to the ‘Gentile times’, he explains [@russell1889
 
 ### Ptolemy’s canon
 
-As we saw in the [Ptolemy’s canon](../../standard/canon.md) section, the canon shows the first year of Cyrus II is dated
+As we saw in the [Ptolemy’s canon](../../standard/canon.md) section, the canon in fact dates the first year of Cyrus II
 to 538 BC and not 536 BC as incorrectly claimed by Russell.
 
-Furthermore, if Russell had actually read the text he would have seen that the canon dates Nebuchadnezzar's 1st year to
-604 BC, which is incompatible with his belief in a 70-year exile.
+It is quite probable that Russell actually took the 536 BC date from Volume II of William Hales' _New Analysis of
+Chronology_ [@hales1830new2, 448] which he cited in the previous chapter of _Millennial Dawn_ in relation to the
+chronology of Nehemiah [@russell1889millennial2, 67].
+
+However, in the first volume, Hales explains that he has modified the Canon's date from 538 BC to 536 BC in order to fit
+his own interpretation of Jeremiah's prophecy [@hales1830new1, 166, 167]:
+
+> It must, however, be acknowledged, that accurate as these authentic copies of the Canon unquestionably are every where
+> else, in this single period a small correction is necessary, to accommodate it to Scripture; for, according to the
+> Canon, from the first of _Nabokolassar_, or _Nebuchadnezzar_, B.C. 604, to the first of _Cyrus_, B.C. 538, is an
+> interval of only 66 years; and therefore, if the Captivity began in the end of the third, or commencement of the
+> fourth year of _Jehoiakim_, B.C. 605, Dan. i. 1; 2 Kings xxiv. 1; Jer. xxv. 1; from thence, to the accession of
+> _Cyrus_, was only 67 years complete, or 68 current. <br>...<br> _Scaliger_, _Petavius_, _Usher_, _Prideaux_, Jackson,
+> &c. have adopted this interpolation as indispensably necessary to reconcile the Canon to Holy Writ, which is
+> effectually done thereby; for from the commencement of the Captivity, B.C. 605, to the corrected first of Cyrus, B.C.
+> 536, is 69 years complete, or 70 years current,
 
 ### Year Zero
 
