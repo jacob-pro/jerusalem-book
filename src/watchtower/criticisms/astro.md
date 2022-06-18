@@ -18,9 +18,10 @@ The 'Astronomical tablets' section [@watch2011when2, 24] starts by referencing t
 
 > What are they? Cuneiform tablets that contain descriptions of the positions of the sun, moon, planets, and stars,
 > coupled with such historical information as the regnal year of a particular king. For instance, the astronomical diary
-> shown below records a lunar eclipse that occurred in the first month of the first year of King Mukin-zeri’s reign.
-> ¹¹<br><br>11. Astronomical Diaries and Related Texts From Babylonia, Volume V, edited by Hermann Hunger, published
-> 2001, pages 2-3.
+> shown below records a lunar eclipse that occurred in the first month of the first year of King Mukin-zeri’s reign. ¹¹
+>
+> 11\. Astronomical Diaries and Related Texts From Babylonia, Volume V, edited by Hermann Hunger, published 2001, pages
+> 2-3.
 
 However, this tablet is largely irrelevant due to the fact it is broken and missing the section that would have covered
 the era surrounding Jerusalem's destruction. Despite citing ADT V, they neglect to actually mention any of the relevant
@@ -36,9 +37,10 @@ _The Watchtower_ suggests that the astronomical tablets contain retrocalculation
 > backwards when the text was compiled.” (Italics ours.)¹³ Professor David Brown, who believes that the astronomical
 > charts included predictions made shortly before the recorded events, acknowledges that it is conceivable that some of
 > these were “retrocalculations undertaken by scribes in the 4th and later centuries BC.”¹⁴ If these are
-> retrocalculations, could they really be considered absolutely reliable unless corroborated by other
-> evidence?<br><br>13. Astronomical Diaries and Related Texts From Babylonia, Volume V, page 391.<br>14. Mesopotamian
-> Planetary Astronomy-Astrology, by David Brown, published 2000, pages 164, 201-202.
+> retrocalculations, could they really be considered absolutely reliable unless corroborated by other evidence?
+>
+> 13\. Astronomical Diaries and Related Texts From Babylonia, Volume V, page 391.<br>14. Mesopotamian Planetary
+> Astronomy-Astrology, by David Brown, published 2000, pages 164, 201-202.
 
 However, the context of Steele's quote shows that he is only referring to a particular category of eclipse tablets; the
 full quote [@hunger2001adt, 391] starts with:

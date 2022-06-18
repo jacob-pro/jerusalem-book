@@ -94,15 +94,16 @@ But this leads to a discrepancy with Jeremiah 46:2 [@horn1967babylonian, 25]:
 > river Euphrates at Carchemish and which Nebuchadrezzar king of Babylon had defeated) in the 4th year of Jehoiakim the
 > son of Josiah, king of Judah." If the portion of the verse referring to the Battle of Carchemisch is considered a
 > parenthetical clause, all chronological difficulties are removed, and this passage falls in line with the rest of the
-> dated historical statements of Jeremiah mentioning Nebuchadnezzar. <br><br> In this case one has to assume that the
-> parenthetical clause was inserted in the introduction to Jeremiah's message to point out that the prophetic oracle was
-> pronounced over the Egyptian army which had been badly mauled several months before, perhaps as long ago as a year. It
-> is true that in this way the passage shows an artificial and unnatural grammatical construction, for which reason this
-> interpretation may not appeal to many scholars, but one should at least admit the possibiIity that the text can be
-> interpreted in such a way that the chronological difficulties, which otherwise exist, can be removed. That translators
-> from the LXX to our time have applied the date as referring to the battle is no proof that the traditional reading is
-> correct. Since numerous parallels of similar parenthetical clauses have been recognized in many other Biblical
-> passages, this one need not be rejected as an isolated case.
+> dated historical statements of Jeremiah mentioning Nebuchadnezzar.
+>
+> In this case one has to assume that the parenthetical clause was inserted in the introduction to Jeremiah's message to
+> point out that the prophetic oracle was pronounced over the Egyptian army which had been badly mauled several months
+> before, perhaps as long ago as a year. It is true that in this way the passage shows an artificial and unnatural
+> grammatical construction, for which reason this interpretation may not appeal to many scholars, but one should at
+> least admit the possibiIity that the text can be interpreted in such a way that the chronological difficulties, which
+> otherwise exist, can be removed. That translators from the LXX to our time have applied the date as referring to the
+> battle is no proof that the traditional reading is correct. Since numerous parallels of similar parenthetical clauses
+> have been recognized in many other Biblical passages, this one need not be rejected as an isolated case.
 
 ### Subjugation of Judah
 
@@ -125,12 +126,14 @@ Horn claims that the deportations in Jeremiah 52 refer to a separate event [@hor
 
 > The fall and final destruction of Jerusalem is dated in 2 Ki 25:8 and in Jer 52:12 in the 19th year of Nebuchadnezzar,
 > which coincided with the 11th year of Zedekiah of Judah (2 Ki 25:2; Jer 39:2; 52:5). That year was the
-> autumn-to-autumn year 587/586, as has already been pointed out.<br><br> The two deportations of Jews recorded in Jer
-> 52:28-30 which took place in the 7th and 18th years of Nebuchadnezzar must have been secondary and minor deportations,
-> and cannot refer to deportations which took place after Jehoiachin's capture in 597 and after the fall and destruction
-> of Jerusalem in 586, because of the small number of deportees. For the deportation of 597 our sources in 2 Ki 24:14
-> and 16 mention 10,000 and 8,000 deportees respectively. Therefore, the deportation of 3,023 according to Jer 52:28 in
-> the preceding year (the 7th year of Nebuchadnezzar, 599/598, autumn-to-autumn) must have been in connection with the
-> harassment of Jehoiakim by "bands of the Chaldeans" to which 2 Ki 24:2 refers.
+> autumn-to-autumn year 587/586, as has already been pointed out.
+>
+> The two deportations of Jews recorded in Jer 52:28-30 which took place in the 7th and 18th years of Nebuchadnezzar
+> must have been secondary and minor deportations, and cannot refer to deportations which took place after Jehoiachin's
+> capture in 597 and after the fall and destruction of Jerusalem in 586, because of the small number of deportees. For
+> the deportation of 597 our sources in 2 Ki 24:14 and 16 mention 10,000 and 8,000 deportees respectively. Therefore,
+> the deportation of 3,023 according to Jer 52:28 in the preceding year (the 7th year of Nebuchadnezzar, 599/598,
+> autumn-to-autumn) must have been in connection with the harassment of Jehoiakim by "bands of the Chaldeans" to which 2
+> Ki 24:2 refers.
 
 ## References

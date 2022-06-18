@@ -52,11 +52,13 @@ method of counting used in Persia is not currently known [@depuydt1995evidence, 
 > Babylonian system. Babylonia's influence on Persia is no doubt momentous. Paraphrasing Horace (Ep. 2.1.156), one could
 > justifiably say, _Babylonia captaferum victorem cepit_. But in this same spirit, Oppenheim observes that the
 > historian's task should also be "to gauge the extent and intensity of the impact of the older civilization on the new
-> empire in the Ancient Near East, rooted as it was in Iranian soil" (1985, 530). <br><br> Although Babylonian dominance
-> seems overwhelming with regard to dating methods, this paper has scoured sources from all over the Achaemenid Empire
-> in an attempt to detect signs of accession dating in Persia. In particular, the statements in Thucydides and Nehemiah
-> raise a challenge as to how else to explain the sources. But the paper also reveals how woefully scant the evidence
-> is. It is difficult to imagine what type of source could ever emerge to bring certainty in the matter here discussed.
+> empire in the Ancient Near East, rooted as it was in Iranian soil" (1985, 530).
+>
+> Although Babylonian dominance seems overwhelming with regard to dating methods, this paper has scoured sources from
+> all over the Achaemenid Empire in an attempt to detect signs of accession dating in Persia. In particular, the
+> statements in Thucydides and Nehemiah raise a challenge as to how else to explain the sources. But the paper also
+> reveals how woefully scant the evidence is. It is difficult to imagine what type of source could ever emerge to bring
+> certainty in the matter here discussed.
 
 So with information given by the ancient historians alone (of Cyrus reign beginning in 560/559 BC, and lasting 29
 years), we can only really say he captured Babylon somewhere around 541-539 BC. Also, to further complicate the issue
@@ -128,12 +130,13 @@ The Watch Tower says [@watch2011when1, 28] [@watch2018insight1, 453]:
 > Babel, by F. X. Kugler, Münster, 1907, Vol. I, pp. 70, 71) These two lunar eclipses can evidently be identified with
 > the lunar eclipses that were visible at Babylon on July 16, 523 B.C.E., and on January 10, 522 B.C.E. (Oppolzer’s
 > Canon of Eclipses, translated by O. Gingerich, 1962, p. 335) Thus, this tablet points to the spring of 523 B.C.E. as
-> the beginning of the seventh year of Cambyses II. <br><br> Since the seventh year of Cambyses II began in spring of
-> 523 B.C.E., his first year of rule was 529 B.C.E. and his accession year, and the last year of Cyrus II as king of
-> Babylon, was 530 B.C.E. The latest tablet dated in the reign of Cyrus II is from the 5th month, 23rd day of his 9th
-> year. (Babylonian Chronology, 626 B.C.–A.D. 75, by R. Parker and W. Dubberstein, 1971, p. 14) As the ninth year of
-> Cyrus II as king of Babylon was 530 B.C.E., his first year according to that reckoning was 538 B.C.E. and his
-> accession year was 539 B.C.E.
+> the beginning of the seventh year of Cambyses II.
+>
+> Since the seventh year of Cambyses II began in spring of 523 B.C.E., his first year of rule was 529 B.C.E. and his
+> accession year, and the last year of Cyrus II as king of Babylon, was 530 B.C.E. The latest tablet dated in the reign
+> of Cyrus II is from the 5th month, 23rd day of his 9th year. (Babylonian Chronology, 626 B.C.–A.D. 75, by R. Parker
+> and W. Dubberstein, 1971, p. 14) As the ninth year of Cyrus II as king of Babylon was 530 B.C.E., his first year
+> according to that reckoning was 538 B.C.E. and his accession year was 539 B.C.E.
 
 BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the
 [Astronomical Texts](../../standard/astro.md) section, and covered in my

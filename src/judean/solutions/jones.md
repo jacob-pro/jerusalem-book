@@ -41,15 +41,17 @@ Jones dates the battle of Megiddo in the year prior to the attack on Harran [@jo
 > Thiele placed the Josiah-Neco confrontation in the 17th year of Nabopolassar (609 BC). But then he added that Josiah
 > perished in the month of Tammuz (June–July) as Chronicles 3:66–67 gives that month as the beginning of the
 > Assyrian-Egyptian counterattack against Haran. This decision resulted in his placing the three-month reign of Jehoahaz
-> (2 Kings 23:31) from Tammuz (June–July) to sometime in September or October, yet neither is correct.<br><br> Thiele
-> failed to consider logistics. It could have easily taken as much as several months for Neco to regroup and rest his
-> troops after the Battle of Megiddo, then march his massive army some 425± miles over often rugged to mountainous
+> (2 Kings 23:31) from Tammuz (June–July) to sometime in September or October, yet neither is correct.
+>
+> Thiele failed to consider logistics. It could have easily taken as much as several months for Neco to regroup and rest
+> his troops after the Battle of Megiddo, then march his massive army some 425± miles over often rugged to mountainous
 > terrain in order to join with the Assyrian’s under Ashur-uballit II. After again resting his soldiers (they must be
 > fit to fight man-to-man with swords, spears and bows), the two kings must lay out battle plans, recross the Euphrates
 > River, march their immense joint forces some 70 miles to Haran, and finally launch the attack. Thus, Josiah could
-> hardly have been killed in the month of Tammuz. Accordingly, he was slain months earlier.<br><br> Moreover, charting
-> the data quickly clarifies the matter (see next page and Chart 5c). From this, it will be seen that Josiah had to have
-> died near mid-March (Adar) but shortly before Nisan 1 of 609 BC (Tuesday, March 20th, Gregorian).
+> hardly have been killed in the month of Tammuz. Accordingly, he was slain months earlier.
+>
+> Moreover, charting the data quickly clarifies the matter (see next page and Chart 5c). From this, it will be seen that
+> Josiah had to have died near mid-March (Adar) but shortly before Nisan 1 of 609 BC (Tuesday, March 20th, Gregorian).
 
 ### Subjugation of Judah and the Battle of Carchemish
 
@@ -59,10 +61,12 @@ Jones interprets Jeremiah 25:1 as referring to Nebuchadnezzar's accession year r
 > First, it will be observed that the fourth year of Jehoiakim is placed in the year of the Battle of Carchemish (605
 > BC) in agreement with Jer. 46:2. However, Jer. 25:1 also speaks of the fourth year of Jehoiakim saying: “that was the
 > first year of Nebuchadrezzar king of Babylon” (see diagram on page 126). How may this apparent discrepancy be
-> reconciled?<br><br> The Hebrew words for “first year” in Jer. 25:1 are השנה הראשנית (hashshanah haroshniyth). Not
-> being found elsewhere in Scripture, the phrase is unique and the feminine singular form of the adjective modifying the
-> word “year” can mean either “first or beginning”. Thus the phrase in Jer. 25:1 is seen as not referring to
-> Nebuchadnezzar’s official first year but to his initial year on the throne, the year of his accession.
+> reconciled?
+>
+> The Hebrew words for “first year” in Jer. 25:1 are השנה הראשנית (hashshanah haroshniyth). Not being found elsewhere in
+> Scripture, the phrase is unique and the feminine singular form of the adjective modifying the word “year” can mean
+> either “first or beginning”. Thus the phrase in Jer. 25:1 is seen as not referring to Nebuchadnezzar’s official first
+> year but to his initial year on the throne, the year of his accession.
 
 Jones places Nebuchadnezzar's subjugation of Judah in the 3rd year of Jehoiakim in line with Daniel 1:1, which would
 correspond to the year prior to Nebuchadnezzar's accession and the battle of Carchemish. He believes this is necessary
@@ -107,42 +111,49 @@ the beginning of the 8th year [@jones2019chronology, 126]:
 
 > However, the Hebrew account seems to conflict with the Babylonian record. It declares that the second deportation
 > which brought Jehoiachin to Babylon, whereupon Zedekiah was placed on the throne in Jerusalem, occurred in the 8th
-> year of Nebuchadnezzar.<br><br> The “discrepancy” resolves itself when it is seen that the Babylonian account has
-> Jerusalem falling into their hands on 2 Adar. Now Adar is the 12th and final month of the 7th year. It naturally
-> follows that selecting a vassal, establishing a new government, cutting in pieces the gold vessels in the Temple (2
-> Kings 24:13) and preparing the vast booty for transport before returning to Babylon requires time. Moreover, 2 Kings
-> 24:14–16 tells us that the populace was divided and all the leaders, the most affluent, the surviving warriors of
-> valor, masons, smiths, and carpenters – at least 10,000 of the cream of Judah’s citizenry – were separated from the
-> poorest of the common people and then carried away to the Chaldean homeland. Such an undertaking would also have
-> required time. <br><br> Indeed, the Hebrew Text reveals the precise length of that interval! In 2 Chron. 36:9–10 we
-> learn that, after a reign of three months and ten days, “when the year was expired” Jeconiah (Jehoiachin) was brought
-> to Babylon. Hence, this very brief but undefined time after 1 Nisan of the next year would fall in the eighth year of
-> Nebuchadnezzar
+> year of Nebuchadnezzar.
+>
+> The “discrepancy” resolves itself when it is seen that the Babylonian account has Jerusalem falling into their hands
+> on 2 Adar. Now Adar is the 12th and final month of the 7th year. It naturally follows that selecting a vassal,
+> establishing a new government, cutting in pieces the gold vessels in the Temple (2 Kings 24:13) and preparing the vast
+> booty for transport before returning to Babylon requires time. Moreover, 2 Kings 24:14–16 tells us that the populace
+> was divided and all the leaders, the most affluent, the surviving warriors of valor, masons, smiths, and carpenters –
+> at least 10,000 of the cream of Judah’s citizenry – were separated from the poorest of the common people and then
+> carried away to the Chaldean homeland. Such an undertaking would also have required time.
+>
+> Indeed, the Hebrew Text reveals the precise length of that interval! In 2 Chron. 36:9–10 we learn that, after a reign
+> of three months and ten days, “when the year was expired” Jeconiah (Jehoiachin) was brought to Babylon. Hence, this
+> very brief but undefined time after 1 Nisan of the next year would fall in the eighth year of Nebuchadnezzar
 
 On the deportations described at the end of Jeremiah 52 Jones says [@jones2019chronology, 127]:
 
 > Yet, inconceivably, the later portion of Jeremiah 52 seems to record the fall of Jerusalem as having taken place in
 > the 18th year of Nebuchadnezzar rather than in his 19th (which was Zedekiah’s 11th). To begin with, these verses are
 > not recorded in 2 Kings 25. Jeremiah 52:28–34 seems to be an addendum – possibly written by Ezra in Babylon after
-> Jeremiah’s death (It is noteworthy that it is not part of the text of the LXX.).<br><br> Being so small a number, most
-> suppose verses 28–30 are referring to only the adult males of importance. Yet, how can we conclude that only 4,600
-> Jews were carried away in all of Nebuchadnezzar’s expeditions when we know at least 10,000 of prominence were carried
-> away at one time with Jeconiah in 597 BC (2 Kings 24:12–16)?<br><br> Indeed, the very fact that 2 Kings 24:12–16
-> records the removal of these 10,000 in the eighth year of Nebuchadnezzar demands that Jer. 52:28 where 3,023 were said
-> to have been carried away in that monarch’s seventh year is referring to a completely separate event. The differing
-> numbers should alert us that it is not merely a matter of attempting to reconcile Nebuchadnezzar’s seventh with his
-> eighth year by “Hebrew reckoning” or “Babylonian reckoning” that is in view here. Two different happenings are before
-> us.<br><br> It follows that if these are not equivalent, and thus should not be associated, then the same is true for
-> trying to force the “18th year” of Jer. 52:29 to match the “19th year” of Jer. 52:12 and 2 Kings 25:8. Hence, it seems
-> most reasonable to conclude with Ussher that there were three significant deportations – in 606 BC (when
-> Nebuchadnezzar was general-of-the-army and crown prince, Dan.1:1), as well as his 8th, and 19th regnal years — which
-> are to be distinguished from the minor ones that Jer. 52:28–30 lists in his 7th, 18th, and 23rd years. These latter,
-> then, were likely added after the fact to complete the historical record.<br><br> If so, the first minor deportation,
-> reported by Jeremiah to have transpired in Nebuchadnezzar’s 7th year, would have been those seized by the bands of
-> Chaldeans, Syrians, etc. whom the king of Babylon sent against Judah prior to his coming (2 Kings 24:2). That in the
-> 18th year would correspond to when the Chaldeans broke off the siege of Jerusalem to meet Pharaoh’s approaching army.
-> Afterward, it may have been deemed prudent to march the swelling number of Egyptian and Jewish prisoners in the camp
-> off to Babylon.
+> Jeremiah’s death (It is noteworthy that it is not part of the text of the LXX.).
+>
+> Being so small a number, most suppose verses 28–30 are referring to only the adult males of importance. Yet, how can
+> we conclude that only 4,600 Jews were carried away in all of Nebuchadnezzar’s expeditions when we know at least 10,000
+> of prominence were carried away at one time with Jeconiah in 597 BC (2 Kings 24:12–16)?
+>
+> Indeed, the very fact that 2 Kings 24:12–16 records the removal of these 10,000 in the eighth year of Nebuchadnezzar
+> demands that Jer. 52:28 where 3,023 were said to have been carried away in that monarch’s seventh year is referring to
+> a completely separate event. The differing numbers should alert us that it is not merely a matter of attempting to
+> reconcile Nebuchadnezzar’s seventh with his eighth year by “Hebrew reckoning” or “Babylonian reckoning” that is in
+> view here. Two different happenings are before us.
+>
+> It follows that if these are not equivalent, and thus should not be associated, then the same is true for trying to
+> force the “18th year” of Jer. 52:29 to match the “19th year” of Jer. 52:12 and 2 Kings 25:8. Hence, it seems most
+> reasonable to conclude with Ussher that there were three significant deportations – in 606 BC (when Nebuchadnezzar was
+> general-of-the-army and crown prince, Dan.1:1), as well as his 8th, and 19th regnal years — which are to be
+> distinguished from the minor ones that Jer. 52:28–30 lists in his 7th, 18th, and 23rd years. These latter, then, were
+> likely added after the fact to complete the historical record.
+>
+> If so, the first minor deportation, reported by Jeremiah to have transpired in Nebuchadnezzar’s 7th year, would have
+> been those seized by the bands of Chaldeans, Syrians, etc. whom the king of Babylon sent against Judah prior to his
+> coming (2 Kings 24:2). That in the 18th year would correspond to when the Chaldeans broke off the siege of Jerusalem
+> to meet Pharaoh’s approaching army. Afterward, it may have been deemed prudent to march the swelling number of
+> Egyptian and Jewish prisoners in the camp off to Babylon.
 
 ### Release of Jehoiachin
 

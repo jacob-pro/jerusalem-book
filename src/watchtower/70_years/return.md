@@ -55,16 +55,17 @@ Jerusalem, which would be 533 BC [@steinmann2008chronological]:
 > would have been unlikely that Cyrus’s treasurer Mithredath would have turned over the temple vessels to any Judean who
 > presented himself as leader of the returning Judeans, no matter how prominent he may have been (Ezra 1:8). Instead, it
 > is more reasonable to assume that the exiles first organized themselves and their leaders requested that one of them
-> be named governor of Yehud and entrusted with the vessels. <br><br> For these reasons, a five-year period of planning
-> and organization is not at all unreasonable. Furthermore, this five-year delay explains why, after making only a
-> beginning by laying the foundation, the Judeans were forced to stop. Had they returned immediately with the decree of
-> Cyrus still new, it is unlikely that their building program could have been successfully opposed in the court of Cyrus
-> as indicated by Ezra 4:5. It simply would be unlikely for the king or his officials to reverse policy so abruptly and
-> quickly. If, however, the Judeans returned in 533 BC and began to build in 532 BC during their second year in
-> Jerusalem, the decree would have been some six years old—long enough in the past that it was capable of being opposed
-> and allowing for the opposition to persuade Persian authorities to halt the work. Thus from the text of Ezra and the
-> evidence of the sabbatical year cycles of the post-exilic era we can be reasonably certain that Sheshbazzar and
-> Zerubbabel and the people with them returned in 533 BC.
+> be named governor of Yehud and entrusted with the vessels.
+>
+> For these reasons, a five-year period of planning and organization is not at all unreasonable. Furthermore, this
+> five-year delay explains why, after making only a beginning by laying the foundation, the Judeans were forced to stop.
+> Had they returned immediately with the decree of Cyrus still new, it is unlikely that their building program could
+> have been successfully opposed in the court of Cyrus as indicated by Ezra 4:5. It simply would be unlikely for the
+> king or his officials to reverse policy so abruptly and quickly. If, however, the Judeans returned in 533 BC and began
+> to build in 532 BC during their second year in Jerusalem, the decree would have been some six years old—long enough in
+> the past that it was capable of being opposed and allowing for the opposition to persuade Persian authorities to halt
+> the work. Thus from the text of Ezra and the evidence of the sabbatical year cycles of the post-exilic era we can be
+> reasonably certain that Sheshbazzar and Zerubbabel and the people with them returned in 533 BC.
 
 Furthermore, as we have already seen the Watch Tower is assuming that the Bible writers were counting the reign of
 Nebuchadnezzar, king of Babylon, inclusive of his accession year [@watch2018insight2, 481] (see section
@@ -95,12 +96,13 @@ the other possibilities? The Watch Tower offers two reasons, however both are in
 > in 538 B.C. as his first regnal year, the exiled Jews could have made the journey back to their land before its
 > seventieth year of sabbath-keeping began, which would have been contrary to Jehovah’s prophecy. Or they might have had
 > to journey through the rainy winter months of the year, which would be from October through March. This would not be
-> too good. <br><br> By the calculation above, Cyrus’ first regnal year would end on March 5 of 537 B.C., or toward the
-> end of the rainy season. Doubtless he considerately issued his decree near the end of the rainy season, shortly before
-> March 5 of 537 B.C., and in that way the exiled Israelites could make arrangements to travel in the convenient dry
-> season from April through September. They evidently made the four-month-long journey from Babylon during the dry
-> months, for by October they were back and settled in their beloved homeland, before the first day of their seventh
-> lunar month.—Ezra 3:1.
+> too good.
+>
+> By the calculation above, Cyrus’ first regnal year would end on March 5 of 537 B.C., or toward the end of the rainy
+> season. Doubtless he considerately issued his decree near the end of the rainy season, shortly before March 5 of 537
+> B.C., and in that way the exiled Israelites could make arrangements to travel in the convenient dry season from April
+> through September. They evidently made the four-month-long journey from Babylon during the dry months, for by October
+> they were back and settled in their beloved homeland, before the first day of their seventh lunar month.—Ezra 3:1.
 
 The first is the speculation that Cyrus must have issued his decree at the end of the rainy season - even if this were
 true, we have seen above that this does not mean the Jews must have returned in 537 BC, for example Cyrus could have

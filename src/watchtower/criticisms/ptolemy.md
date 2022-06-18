@@ -96,13 +96,17 @@ that by omitting certain kings its chronology might not be accurate [@watch2011w
 > Tablets?” (see below) shows a portion of the canon and compares this with an ancient cuneiform document. Notice that
 > Ptolemy lists only four kings between the Babylonian rulers Kandalanu and Nabonidus. However, the Uruk King List​—a
 > part of the cuneiform record—​reveals that seven kings ruled in between. Were their reigns brief and negligible? One
-> of them, according to cuneiform economic tablets, ruled for seven years.⁸ <br><br> There is also strong evidence from
-> cuneiform documents that prior to the reign of Nabopolassar (the first king of the Neo-Babylonian period), another
-> king (Ashur-etel-ilani) ruled for four years in Babylonia. Also, for more than a year, there was no king in the land.⁹
-> Yet, all of this is left out of Ptolemy’s canon. <br><br> Why did Ptolemy omit some rulers? Evidently, he did not
-> consider them to be legitimate rulers of Babylon.¹⁰ For example, he excluded Labashi-Marduk, a Neo-Babylonian king.
-> But according to cuneiform documents, the kings whom Ptolemy omitted actually ruled over Babylonia. <br><br> 8.
-> Sin-sharra-ishkun ruled for seven years, and 57 economic tablets of this king are dated from his accession year
+> of them, according to cuneiform economic tablets, ruled for seven years.⁸
+>
+> There is also strong evidence from cuneiform documents that prior to the reign of Nabopolassar (the first king of the
+> Neo-Babylonian period), another king (Ashur-etel-ilani) ruled for four years in Babylonia. Also, for more than a year,
+> there was no king in the land.⁹ Yet, all of this is left out of Ptolemy’s canon.
+>
+> Why did Ptolemy omit some rulers? Evidently, he did not consider them to be legitimate rulers of Babylon.¹⁰ For
+> example, he excluded Labashi-Marduk, a Neo-Babylonian king. But according to cuneiform documents, the kings whom
+> Ptolemy omitted actually ruled over Babylonia.
+>
+> 8\. Sin-sharra-ishkun ruled for seven years, and 57 economic tablets of this king are dated from his accession year
 > through year seven. See Journal of Cuneiform Studies, Volume 35, 1983, pages 54-59. <br> 9. The economic tablet C.B.M.
 > 2152 is dated in the fourth year of Ashur-etel-ilani. (Legal and Commercial Transactions Dated in the Assyrian,
 > Neo-Babylonian and Persian Periods​—Chiefly From Nippur, by A.T. Clay, 1908, page 74.) Also the Harran Inscriptions of

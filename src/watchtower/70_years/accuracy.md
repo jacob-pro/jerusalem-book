@@ -21,13 +21,14 @@ however the Watch Tower has chosen to reject these [@watch1981let, 138] [@watch2
 > Instead of saying 70 years “at Babylon,” many translations read “for Babylon.” (NIV) Some historians therefore claim
 > that this 70-year period applies to the Babylonian Empire. According to secular chronology, the Babylonians dominated
 > the land of ancient Judah and Jerusalem for some 70 years, from about 609 B.C.E. until 539 B.C.E. when the capital
-> city of Babylon was captured. <br><br> The Bible, however, shows that the 70 years were to be a period of severe
-> punishment from God—aimed specifically at the people of Judah and Jerusalem, who were in a covenant to obey him.
-> (Exodus 19:3-6) When they refused to turn from their bad ways, God said: “I will summon ... Nebuchadnezzar king of
-> Babylon ... against this land and its inhabitants and against all the surrounding nations.” (Jeremiah 25:4, 5, 8, 9,
-> NIV) While nearby nations would also suffer Babylon’s wrath, the destruction of Jerusalem and the 70-year exile to
-> follow were called by Jeremiah “the punishment of my people,” for Jerusalem had “sinned greatly.”—Lamentations 1:8;
-> 3:42; 4:6, NIV.
+> city of Babylon was captured.
+>
+> The Bible, however, shows that the 70 years were to be a period of severe punishment from God—aimed specifically at
+> the people of Judah and Jerusalem, who were in a covenant to obey him. (Exodus 19:3-6) When they refused to turn from
+> their bad ways, God said: “I will summon ... Nebuchadnezzar king of Babylon ... against this land and its inhabitants
+> and against all the surrounding nations.” (Jeremiah 25:4, 5, 8, 9, NIV) While nearby nations would also suffer
+> Babylon’s wrath, the destruction of Jerusalem and the 70-year exile to follow were called by Jeremiah “the punishment
+> of my people,” for Jerusalem had “sinned greatly.”—Lamentations 1:8; 3:42; 4:6, NIV.
 
 ## Discussion in the _Awake!_ 2012
 
@@ -78,30 +79,34 @@ The quotation of Stern would appear to be grossly misleading, in full context he
 > Lamentations) and in the archaeological record. When Nebuchadnezzar first placed the city under siege in 597 B.C.E.,
 > the city quickly capitulated, thereby avoiding a general destruction. But in response to a revolt by Judah's King
 > Zedekiah, Nebuchadnezzar dispatched an army that, after an 18- month siege, captured and destroyed the city in 586
-> B.C.E. The evidence of this destruction is widely confirmed in Jerusalem excavations. <br><br> On his first swing
-> through Judah, Nebuchadnezzar had destroyed much of Philistia-Ekron, Tel Barash, Tell Jemmeh, Ruqeish and Tel Sera'.
-> Particularly devastated was Ashkelon, which the Babylonians sacked in 604 B.C.E. <br><br> Similar evidence of
-> Babylonian destruction can be found throughout the Beersheba Valley, in the Aravah (the valley south of the Dead Sea)
-> and in the Jordan River valley. From south to north, we can trace the effects of Babylonian might-at Tell el-Kheleifeh
-> on the coast of the Red Sea, at Ein Gedi on the shore of the Dead Sea, and further north at Dan, the source of the
-> Jordan River. The same is true in excavations at major northern sites Hazor; Megiddo, overlooking the Jezreel Valley;
-> and Dor, on the Mediterranean coast-and in central Judah, where, in addition to Jerusalem, we may look at Rarnat Rahel
-> and Lachish, among other sites. <br><br> But the strange thing is that above the remains left by these destructions,
-> we find no evidence of occupation until the Persian period, which began in about 538 B.C.E. For roughly half a
-> century-from 604 B.C.E. to 538 B.C.E.-there is a complete gap in evidence suggesting occupation. In all that time, not
-> a single town destroyed by the Babylonians was resettled. This is true even of the old Assyrian fortresses along the
-> Way of the Sea (the Via Maris); they were reoccupied only in the Persian period, as shown by the recently excavated
-> fort at Rishon le-Zion.
+> B.C.E. The evidence of this destruction is widely confirmed in Jerusalem excavations.
+>
+> On his first swing through Judah, Nebuchadnezzar had destroyed much of Philistia-Ekron, Tel Barash, Tell Jemmeh,
+> Ruqeish and Tel Sera'. Particularly devastated was Ashkelon, which the Babylonians sacked in 604 B.C.E.
+>
+> Similar evidence of Babylonian destruction can be found throughout the Beersheba Valley, in the Aravah (the valley
+> south of the Dead Sea) and in the Jordan River valley. From south to north, we can trace the effects of Babylonian
+> might-at Tell el-Kheleifeh on the coast of the Red Sea, at Ein Gedi on the shore of the Dead Sea, and further north at
+> Dan, the source of the Jordan River. The same is true in excavations at major northern sites Hazor; Megiddo,
+> overlooking the Jezreel Valley; and Dor, on the Mediterranean coast-and in central Judah, where, in addition to
+> Jerusalem, we may look at Rarnat Rahel and Lachish, among other sites.
+>
+> But the strange thing is that above the remains left by these destructions, we find no evidence of occupation until
+> the Persian period, which began in about 538 B.C.E. For roughly half a century-from 604 B.C.E. to 538 B.C.E.-there is
+> a complete gap in evidence suggesting occupation. In all that time, not a single town destroyed by the Babylonians was
+> resettled. This is true even of the old Assyrian fortresses along the Way of the Sea (the Via Maris); they were
+> reoccupied only in the Persian period, as shown by the recently excavated fort at Rishon le-Zion.
 
 And further on in his article [@stern2000babylonian, 51]:
 
 > The destruction of Judah is followed by the Persian period, when, following the eclipse of the Babylonians by the
-> comparatively benign Persians, the Jewish exiles were permitted to return to Palestine. <br><br> I do not mean to
-> imply that the country was uninhabited during the period between the Babylonian destruction and the Persian period.
-> There were undoubtedly some settlements, but the population was very small. Many towns and villages were either
-> completely or partly destroyed. The rest were barely functioning. International trade virtually ceased. Only two
-> regions appear to have been spared this fate-the northern part of Judah (the region of Benjamin) and probably the land
-> of Ammon, although the latter region awaits further investigation.
+> comparatively benign Persians, the Jewish exiles were permitted to return to Palestine.
+>
+> I do not mean to imply that the country was uninhabited during the period between the Babylonian destruction and the
+> Persian period. There were undoubtedly some settlements, but the population was very small. Many towns and villages
+> were either completely or partly destroyed. The rest were barely functioning. International trade virtually ceased.
+> Only two regions appear to have been spared this fate-the northern part of Judah (the region of Benjamin) and probably
+> the land of Ammon, although the latter region awaits further investigation.
 
 The _Awake!_ claims that their 607-537 BC period for a deserted Jerusalem is supported by Stern's 604-538 BC period
 during which cities destroyed by Babylon were not resettled. However, as can be seen Stern does not believe Jerusalem

@@ -19,19 +19,21 @@ Regarding Jehoiakim [@watch2018insight1, 1269]:
 > demolished Egyptian domination over Syria-Palestine by his victory at Carchemish (625 B.C.E. \[apparently after
 > Nisan\]). (Jer 46:2) Since Jehoiakim’s revolt against Babylon led to his downfall after about 11 years on the throne,
 > the beginning of his three-year vassalage to Babylon must have begun toward the end of his eighth year of rule, or
-> early in 620 B.C.E.<br><br> Daniel’s account (1:1, 2) states that Nebuchadnezzar came against Jerusalem and laid siege
-> to it and that Jehoiakim, along with some of the temple utensils, was given into the Babylonian king’s hand. However,
-> the account at 2 Kings 24:10-15 describes the siege of Jerusalem by the Babylonians and shows that Jehoiakim’s son
-> Jehoiachin, whose reign lasted only three months and ten days, was the one who finally capitulated and went out to the
-> Babylonians. It therefore appears that Jehoiakim died during the siege of the city, perhaps in the early part thereof.
-> Jehovah’s prophecy through Jeremiah (22:18, 19; 36:30) indicated that Jehoiakim was not to receive a decent burial;
-> his corpse was to lie unattended outside the gates of Jerusalem, exposed to the sun’s heat by day and the frost by
-> night. Just in what way Jehoiakim was ‘given into the hand of Nebuchadnezzar’ (Da 1:2) is not revealed. It may have
-> been in the sense of his dying under siege and of his son’s thereafter having to go out into captivity, so that
-> Jehoiakim’s line suffered the loss of the kingship at Nebuchadnezzar’s hands. There is no way to confirm the Jewish
-> tradition (recorded by Josephus) that Nebuchadnezzar killed Jehoiakim and commanded that his dead body be thrown
-> outside Jerusalem’s walls. (Jewish Antiquities, X, 97 [vi, 3]) By whatever means Jehoiakim’s death came, it appears
-> that the copper fetters Nebuchadnezzar had brought along to bind Jehoiakim were not used as planned.—2Ch 36:6.
+> early in 620 B.C.E.
+>
+> Daniel’s account (1:1, 2) states that Nebuchadnezzar came against Jerusalem and laid siege to it and that Jehoiakim,
+> along with some of the temple utensils, was given into the Babylonian king’s hand. However, the account at 2 Kings
+> 24:10-15 describes the siege of Jerusalem by the Babylonians and shows that Jehoiakim’s son Jehoiachin, whose reign
+> lasted only three months and ten days, was the one who finally capitulated and went out to the Babylonians. It
+> therefore appears that Jehoiakim died during the siege of the city, perhaps in the early part thereof. Jehovah’s
+> prophecy through Jeremiah (22:18, 19; 36:30) indicated that Jehoiakim was not to receive a decent burial; his corpse
+> was to lie unattended outside the gates of Jerusalem, exposed to the sun’s heat by day and the frost by night. Just in
+> what way Jehoiakim was ‘given into the hand of Nebuchadnezzar’ (Da 1:2) is not revealed. It may have been in the sense
+> of his dying under siege and of his son’s thereafter having to go out into captivity, so that Jehoiakim’s line
+> suffered the loss of the kingship at Nebuchadnezzar’s hands. There is no way to confirm the Jewish tradition (recorded
+> by Josephus) that Nebuchadnezzar killed Jehoiakim and commanded that his dead body be thrown outside Jerusalem’s
+> walls. (Jewish Antiquities, X, 97 [vi, 3]) By whatever means Jehoiakim’s death came, it appears that the copper
+> fetters Nebuchadnezzar had brought along to bind Jehoiakim were not used as planned.—2Ch 36:6.
 
 Regarding Daniel [@watch2018insight1, 576]:
 
@@ -76,10 +78,12 @@ Regarding the battle of Carchemish in the 4th year of Jehoiakim (625 BC) [@watch
 > Nebuchadnezzar, inflicted a devastating blow on Pharaoh Necho’s forces. (Jeremiah 46:2) Riding on the momentum of his
 > victory, Nebuchadnezzar swept over Syria and Palestine and, for all practical purposes, put an end to Egyptian
 > domination in this region. It was only the death of his father, Nabopolassar, that brought a temporary halt to his
-> campaign.<br><br> The next year, Nebuchadnezzar—now enthroned as king of Babylon—once again turned his attention to
-> his military campaigns in Syria and Palestine. It was during this period that he came to Jerusalem for the first time.
-> The Bible reports: “In his days Nebuchadnezzar the king of Babylon came up, and so Jehoiakim became his servant for
-> three years. However, he turned back and rebelled against him.”—2 Kings 24:1.
+> campaign.
+>
+> The next year, Nebuchadnezzar—now enthroned as king of Babylon—once again turned his attention to his military
+> campaigns in Syria and Palestine. It was during this period that he came to Jerusalem for the first time. The Bible
+> reports: “In his days Nebuchadnezzar the king of Babylon came up, and so Jehoiakim became his servant for three years.
+> However, he turned back and rebelled against him.”—2 Kings 24:1.
 
 ### _Let Your Kingdom Come_
 
@@ -89,13 +93,16 @@ _Let Your Kingdom Come_ connects this issue with the various interpretation's of
 > Later writers quote Berossus as saying that after the battle of Carchemish Nebuchadnezzar extended Babylonian
 > influence into all Syria-Palestine and, when returning to Babylon (in his accession year, 605 B.C.E.), he took Jewish
 > captives into exile. Thus they figure the 70 years as a period of servitude to Babylon beginning in 605 B.C.E. That
-> would mean that the 70-year period would expire in 535 B.C.E.<br><br> But there are a number of major problems with
-> this interpretation:<br><br> Though Berossus claims that Nebuchadnezzar took Jewish captives in his accession year,
-> there are no cuneiform documents supporting this. More significantly, Jeremiah 52:28-30 carefully reports that
-> Nebuchadnezzar took Jews captive in his seventh year, his 18th year and his 23rd year, not his accession year. Also,
-> Jewish historian Josephus states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of
-> Syria-Palestine “excepting Judea,” thus contradicting Berossus and conflicting with the claim that 70 years of Jewish
-> servitude began in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1.
+> would mean that the 70-year period would expire in 535 B.C.E.
+>
+> But there are a number of major problems with this interpretation:
+>
+> Though Berossus claims that Nebuchadnezzar took Jewish captives in his accession year, there are no cuneiform
+> documents supporting this. More significantly, Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews
+> captive in his seventh year, his 18th year and his 23rd year, not his accession year. Also, Jewish historian Josephus
+> states that in the year of the battle of Carchemish Nebuchadnezzar conquered all of Syria-Palestine “excepting Judea,”
+> thus contradicting Berossus and conflicting with the claim that 70 years of Jewish servitude began in Nebuchadnezzar’s
+> accession year.—Antiquities of the Jews X, vi, 1.
 
 ## History of the Interpretation
 
@@ -113,23 +120,25 @@ originated with first-century historian Josephus, who dates the beginning of Jeh
 > four years, which was the eighth of Jehoiakim's government over the Hebrews, the king of Babylon made an expedition
 > with mighty forces against the Jews, and required tribute of Jehoiakim, and threatened upon his refusal to make war
 > against him. He was aftrighted at his threatening, and bought his peace with money, and brought the tribute he was
-> ordered to bring for three years. <br><br> 2\. But on the third year, upon hearing that the king of the Babylonians
-> made an expedition against the Egyptians, he did not pay his tribute; yet was he disappointed of his hope, for the
-> Egyptians durst not fight at this time... <br><br> 3\. Now, a little time afterwards, the king of Babylon made an
-> expedition against Jehoiakim, whom he received \[into the city\], and this out of fear of the foregoing predictions of
-> this prophet, as supposing he should suffer nothing that was terrible, because he neither shut the gates, nor fought
-> against him; yet when he was come into the city, he did not observe the covenants he had made, but he slew such as
-> were in the flower of their age, and such as were of the greatest dignity, together with their king Jehoiakim, whom he
-> commanded to be thrown before the walls, without any burial; and made his son Jehoiachin king of the country, and of
-> the city: he also took the principal persons in dignity for captives, three thousand in number, and led them away to
-> Babylon; among which was the prophet Ezekiel, who was then but young. And this was the end of king Jehoiakim, when he
-> had lived thirty-six years, and of them reigned eleven. But Jehoiachin succeeded him in the kingdom, whose mother's
-> name was Nehushta; she was a citizen of Jerusalem. He reigned three months and ten days. 1\. BUT a terror seized on
-> the king of Babylon, who had given the kingdom to Jehoiachin, and that immediately; he was afraid that he should bear
-> him a grudge, because of his killing his father, and thereupon should make the country revolt from him; wherefore he
-> sent an army, and besieged Jehoiachin in Jerusalem; but because he was of a gentle and just disposition, he did not
-> desire to see the city endangered on his account, but he took his mother and kindred, and delivered them to the
-> commanders sent by the king of Babylon...
+> ordered to bring for three years.
+>
+> 2\. But on the third year, upon hearing that the king of the Babylonians made an expedition against the Egyptians, he
+> did not pay his tribute; yet was he disappointed of his hope, for the Egyptians durst not fight at this time...
+>
+> 3\. Now, a little time afterwards, the king of Babylon made an expedition against Jehoiakim, whom he received \[into
+> the city\], and this out of fear of the foregoing predictions of this prophet, as supposing he should suffer nothing
+> that was terrible, because he neither shut the gates, nor fought against him; yet when he was come into the city, he
+> did not observe the covenants he had made, but he slew such as were in the flower of their age, and such as were of
+> the greatest dignity, together with their king Jehoiakim, whom he commanded to be thrown before the walls, without any
+> burial; and made his son Jehoiachin king of the country, and of the city: he also took the principal persons in
+> dignity for captives, three thousand in number, and led them away to Babylon; among which was the prophet Ezekiel, who
+> was then but young. And this was the end of king Jehoiakim, when he had lived thirty-six years, and of them reigned
+> eleven. But Jehoiachin succeeded him in the kingdom, whose mother's name was Nehushta; she was a citizen of Jerusalem.
+> He reigned three months and ten days. 1\. BUT a terror seized on the king of Babylon, who had given the kingdom to
+> Jehoiachin, and that immediately; he was afraid that he should bear him a grudge, because of his killing his father,
+> and thereupon should make the country revolt from him; wherefore he sent an army, and besieged Jehoiachin in
+> Jerusalem; but because he was of a gentle and just disposition, he did not desire to see the city endangered on his
+> account, but he took his mother and kindred, and delivered them to the commanders sent by the king of Babylon...
 
 The earliest reference I could find in the Watch Tower Index for Daniel 1:1 was the 1946 book _Equipped for Every Good
 Work_ [@watch1946equipped, 225], which was published a decade before the translation of the Nebuchadnezzar Chronicle
@@ -375,10 +384,11 @@ Nebuchadnezzar took 'vast tribute', which we already know must have included cap
 according to Larsson [@larsson1967when]:
 
 > In the 'accession year' Nebuchadrezzar went back again to the Hatti land and until the month of Sebat marched
-> unopposed through the Hatti land; in the month of Sebat he took the heavy tribute of the Hatti territory to
-> Babylon.<br><br> It is certain that this 'heavy tribute' consisted not only of treasure but also of prisoners from the
-> conquered countries. To refrain from doing so would have been altogether too alien from the customs of the kings of
-> Babylon and Assyria.
+> unopposed through the Hatti land; in the month of Sebat he took the heavy tribute of the Hatti territory to Babylon.
+>
+> It is certain that this 'heavy tribute' consisted not only of treasure but also of prisoners from the conquered
+> countries. To refrain from doing so would have been altogether too alien from the customs of the kings of Babylon and
+> Assyria.
 
 ## Alternative Solutions
 

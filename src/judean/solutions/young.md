@@ -100,13 +100,14 @@ Kings, however he does not appear to justify the difference in numbers [@young20
 > the contents of chapter 52. The contents of that chapter, except for verses 28 through 30, are all parallel to
 > passages in the last two chapters of 2 Kings, so the methods already determined for these chapters in 2 Kings (Tishri,
 > non-accession reckoning) can be applied to the corresponding verses in Jeremiah 52. Verses 28 through 30 are
-> independent of the Book of Kings and are interesting enough to require special consideration. <br><br> Jer 52:28–30
-> gives the number of captives taken by Nebuchadnezzar in his seventh, eighteenth, and twenty-third years. There is one
-> thing certain about the counting of captives—the captives themselves are in no position to do it. Every king and
-> pharaoh must have had an official assigned to this task, so that the number of those vanquished could be recorded on a
-> stela or in the annals glorifying the king’s exploits. Thus the list of captives in Jer 52:28–30 could not have
-> originated in a Judean record—it came from the official records of Nebuchadnezzar. The years of the monarch would
-> therefore be the Nisan, accession years used in Babylon. This is an independent verification of the use of
+> independent of the Book of Kings and are interesting enough to require special consideration.
+>
+> Jer 52:28–30 gives the number of captives taken by Nebuchadnezzar in his seventh, eighteenth, and twenty-third years.
+> There is one thing certain about the counting of captives—the captives themselves are in no position to do it. Every
+> king and pharaoh must have had an official assigned to this task, so that the number of those vanquished could be
+> recorded on a stela or in the annals glorifying the king’s exploits. Thus the list of captives in Jer 52:28–30 could
+> not have originated in a Judean record—it came from the official records of Nebuchadnezzar. The years of the monarch
+> would therefore be the Nisan, accession years used in Babylon. This is an independent verification of the use of
 > non-accession years when Jeremiah and the author of the last two chapters of 2 Kings referred to Nebuchadnezzar: the
 > seventh (accession) year of Jer 52:28 corresponds to the eighth (non-accession) year of 2 Kgs 24:12, and the
 > eighteenth (accession) year of Jer 52:29 corresponds to the nineteenth (non-accession) year of 2 Kgs 25:8. These are

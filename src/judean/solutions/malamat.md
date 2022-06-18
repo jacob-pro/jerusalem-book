@@ -189,16 +189,19 @@ treating them as separate events [@malamat1975twilight, 133]:
 > (_vs_ 28). These have generally been regarded as contradicting traditions on one and the same matter, or it has been
 > thought that different chronological systems were employed in the Book of Kings and in Jeremiah 52, respectively
 > —though even then the numbers for the deportees disagree. The discrepancies between the two sources can be reconciled,
-> however, by proposing that the exile evolved in two successive deportations: <br><br> a\) The first phase (already
-> intimated in Jer. 13:18-19) was a limited deportation prior to or upon the surrender of Jerusalem —still in
-> Nebuchadnezzar's seventh year (Jer. 52:28). The particular appellative here, "Jews"—implying the provincial element of
-> Judah—is brought into perspective by the designation "from Jerusalem", applied to the exiles deported during the final
-> siege, in Nebuchadnezzar's 18th year (_vs_. 29; and see the Chronological Table). Several years after the destruction
-> of Jerusalem, in Nebuchadnezzar's 23rd year, the deportees are once again, and quite appropriately, called "Jews"
-> (_vs_. 30). <br><br> b\) The second, principal phase of the exile, described in the Book of Kings, comprised the cream
-> of Jerusalem and thousands of her defenders, including the armourers and sappers specifically mentioned as exiled from
-> the capital (Jer. 24:1; 29:2). The organization of this mass exile surely necessitated several weeks from the time of
-> the surrender of the city, on 2 Adar, and thus it would have fallen only in Nebuchadnezzar's eighth regnal year, by
-> which time he had already left the country.
+> however, by proposing that the exile evolved in two successive deportations:
+>
+> a\) The first phase (already intimated in Jer. 13:18-19) was a limited deportation prior to or upon the surrender of
+> Jerusalem —still in Nebuchadnezzar's seventh year (Jer. 52:28). The particular appellative here, "Jews"—implying the
+> provincial element of Judah—is brought into perspective by the designation "from Jerusalem", applied to the exiles
+> deported during the final siege, in Nebuchadnezzar's 18th year (_vs_. 29; and see the Chronological Table). Several
+> years after the destruction of Jerusalem, in Nebuchadnezzar's 23rd year, the deportees are once again, and quite
+> appropriately, called "Jews" (_vs_. 30).
+>
+> b\) The second, principal phase of the exile, described in the Book of Kings, comprised the cream of Jerusalem and
+> thousands of her defenders, including the armourers and sappers specifically mentioned as exiled from the capital
+> (Jer. 24:1; 29:2). The organization of this mass exile surely necessitated several weeks from the time of the
+> surrender of the city, on 2 Adar, and thus it would have fallen only in Nebuchadnezzar's eighth regnal year, by which
+> time he had already left the country.
 
 ## References
