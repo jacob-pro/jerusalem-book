@@ -1,6 +1,6 @@
 # Russell and Barbour (1875+)
 
-Charles Taze Russell was the founder of the Watchtower Society and Bible Student movement. His interpretation of Daniel
+Charles Taze Russell was the founder of the Watch Tower Society and Bible Student movement. His interpretation of Daniel
 4's 'seven times' as a 2520-year prophecy spanning 606 BC to 1914 AD was taken from the Adventist writer Nelson Barbour.
 
 In the September 1875 edition of _Herald of the Morning_ Barbour wrote [@barbour1875herald, 52]:
@@ -65,7 +65,7 @@ Furthermore, if Russell had actually read the text he would have seen that the c
 Russell made an error in his calculation counting 2520 years from 606 BC, since there was no year zero, he should
 actually have arrived at 1915 AD, not 1914.
 
-An article in the 1912 Watchtower [@watch1912ending] discusses this issue in detail, it starts with the statement that
+An article in _The Watchtower_ 1912 [@watch1912ending] discusses this issue in detail, it starts with the statement that
 'we may not be sure' if there was a year zero or not:
 
 > So matters continued with little effort to arrange an exact chronology of human history, until the Sixth Century A.D.
@@ -94,9 +94,9 @@ article ends with an extract from a sermon given by Russell in 1904 [@watch1912e
 > October, 1915. And the period of intense strife and anarchy "such as never was since there was a nation" may be the
 > final ending of the Gentile Times or the beginning of Messiah’s reign. \[See Vol. 2, SCRIPTURE STUDIES.\]
 
-In the March 1915 Watchtower changes to the _Studies in the Scriptures_ series were listed, including some replacements
-of '1914' with '1915' [@watch1915changes] [@russell1915studies2], indicating Russell had recognized his error, but also
-that the year 1914 had not met his prophetic expectations:
+In the March 1915 _Watchtower_ changes to the _Studies in the Scriptures_ series were listed, including some
+replacements of '1914' with '1915' [@watch1915changes] [@russell1915studies2], indicating Russell had recognized his
+error, but also that the year 1914 had not met his prophetic expectations:
 
 > We call attention to a few slight changes which have been made in four pages of Vol. II. and six pages of Vol. III.,
 > “Studies in the Scriptures.” These are all trivial and do not alter the real sense and lesson, but conform to the

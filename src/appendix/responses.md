@@ -1,4 +1,4 @@
-# Responses from Scholars to Watchtower Quotations
+# Responses from Scholars to Watch Tower Quotations
 
 ## R H Sack
 

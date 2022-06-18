@@ -1,4 +1,4 @@
-# Watchtower Judean Chronology
+# Watch Tower Judean Chronology
 
 ## Timeline
 
@@ -25,12 +25,12 @@
 | 582/562  | Nebuchadnezzar 43                       |                                   |                                       |                                                          | 36th |
 | 581/561  | Nebuchadnezzar 44?<br>Amel-Marduk Acc.³ |                                   |                                       | Release of Jehoiachin (month XII)                        | 37th |
 
-¹ As explained in the [Watchtower Chronology](../../watchtower/watchtower.md) section the Watchtower uses a different
+¹ As explained in the [Watch Tower Chronology](../../watchtower/watchtower.md) section the Watch Tower uses a different
 method for determining the destruction of Jerusalem and reign of Nebuchadnezzar, the first year listed is that used by
-the Watchtower, and the second would be the equivalent under the standard Babylonian chronology allowing easy comparison
-to the other chronologies in the section.
+the Watch Tower, and the second would be the equivalent under the standard Babylonian chronology allowing easy
+comparison to the other chronologies in the section.
 
-² See section [Watchtower Interpretation of Daniel 1:1](../daniel1_1.md).
+² See section [Watch Tower Interpretation of Daniel 1:1](../daniel1_1.md).
 
 ³ This is somewhat unclear, see [Release of Jehoiachin](#release-of-jehoiachin) below.
 
@@ -62,7 +62,7 @@ The _Insight_ book acknowledges and accepts this interpretation of the chronicle
 > Euphrates”—evidently to help him. “The king of Assyria” to whom Nechoh came may well have been Ashur-uballit II. Their
 > campaign against Haran did not succeed. The Assyrian Empire had ended.
 
-However, this now leads to a substantial contradiction with the rest of the Watchtower's chronology. The Insight book
+However, this now leads to a substantial contradiction with the rest of the Watch Tower's chronology. The Insight book
 requires that Jehoiakim's 1st year began in 628 BC (such that his 11th year coincided with Nebuchadnezzar's 7th)
 [@watch2018insight1, 698]:
 
@@ -79,13 +79,13 @@ Prior to Jehoiakim, the Insight book places Jehoahaz' 3-month reign at the start
 This leads an approximately 6 month gap between the death of Josiah no later than month IV, and the accession of
 Jehoahaz no earlier than month X (such that after adding 3 months Jehoiakim's 1st year began in 628 BC).
 
-There is further evidence for this issue given that the 1979 _Watchtower_ contradicts the Insight book, dating Josiah's
+There is further evidence for this issue given that _The Watchtower_ 1979 contradicts the Insight book, dating Josiah's
 death to 628 BC [@watch1979royal, 25]:
 
 > After the death of good King Josiah in 628 B.C.E., his three sons and a grandson proved to be bad in their dealings.
 
-I raised this issue in a [letter to the Watchtower](../../appendix/letter_josiah.md), however they declined to answer my
-question.
+I raised this issue in a [letter to the Watch Tower](../../appendix/letter_josiah.md), however they declined to answer
+my question.
 
 ### Battle of Carchemish
 
@@ -162,7 +162,7 @@ Similar comments are made regarding the number of exiles [@watch2018insight1, 41
 
 ### Release of Jehoiachin
 
-The Watchtower's chronology appears to be unclear and contradictory when it comes to the start of Amel-Marduk's reign
+The Watch Tower's chronology appears to be unclear and contradictory when it comes to the start of Amel-Marduk's reign
 and hence release of Jehoiachin. The _Insight_ book claims that Nebuchadnezzar ruled for 43 years ending in 582 BC
 [@watch2018insight2, 480]:
 

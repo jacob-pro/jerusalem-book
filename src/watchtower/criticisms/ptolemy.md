@@ -1,6 +1,6 @@
 # Criticism of Ptolemy's Canon
 
-Ever since its founding in the late 19th century the Watchtower has repeatedly flip-flopped in its use of Ptolemy's
+Ever since its founding in the late 19th century the Watch Tower has repeatedly flip-flopped in its use of Ptolemy's
 Canon.
 
 ## Three Worlds (1877) and Millennial Dawn II (1889)
@@ -17,14 +17,14 @@ and the Russell as the source of their chronology [@barbour1877three. 194] [@rus
 
 ## The Watchtower (1952 - 1968)
 
-The [Watchtower history section](../history/history.md) shows that from 1952 onwards the Watchtower began to use the
+The [Watch Tower history section](../history/history.md) shows that from 1952 onwards the Watch Tower began to use the
 date 539 BC for the fall of Babylon [@watch1968book, 490], supposedly based on the Nabonidus chronicle:
 
 > The fixing of 539 B.C.E. as the year when this historical event occurred is based on a stone document known as the
 > Nabonidus (Nabunaid) Chronicle.
 
 But the [Nabonidus Chronicle](../../standard/chronicles/bm35382.md) doesn't actually contain anything datable to the
-Julian calendar; the footnotes in each of these issues of the Watchtower instead cite Parker and Dubberstein's tables,
+Julian calendar; the footnotes in each of these issues of the Watch Tower instead cite Parker and Dubberstein's tables,
 which were in turn principally based upon Ptolemy's canon [@dubberstein1942babylonian, 8], and would have been used to
 map the date in the Nabonidus chronicle to 539 BC:
 
@@ -47,9 +47,9 @@ Despite having explicitly and implicitly based their chronology on Ptolemy's can
 > B.C.E., the year they assign for the start of Ashurbanipal’s reign. But from that point forward there is considerable
 > confusion.
 
-The Watchtower is correct to state that Ashurbanipal's accession year is accepted to be 669 BC, but that the length and
-circumstances of the end of his reign remain disputed [@oates1965assyrian, 135] [@reade1970accession, 1]. But they then
-suggest that using the chronology of Ptolemy's canon leads to an unexplained 'gap' in the reign of Sinsharishkun:
+_The Watchtower_ is correct to state that Ashurbanipal's accession year is accepted to be 669 BC, but that the length
+and circumstances of the end of his reign remain disputed [@oates1965assyrian, 135] [@reade1970accession, 1]. But they
+then suggest that using the chronology of Ptolemy's canon leads to an unexplained 'gap' in the reign of Sinsharishkun:
 
 > As might be expected, the above sources also give varied dates for the reign of Ashurbanipal’s probable successor,
 > Ashur-etillu-ilani. And so, too, for the reign of Sin-shar-ishkun, apparently the king at the time of Nineveh’s fall.
@@ -68,7 +68,7 @@ Nabopolassar's accession) [@reade1970accession, 2] [@naaman1991chronology, 246].
 - The chronicle [BM 25127](../../standard/chronicles/bm25127.md) (lines 1-14) names Sinsharishkun as being in command of
   the Assyrian army in the months prior to Nabopolassar's accession [@gadd1958harran, 71].
 
-The Watchtower itself points out that Sinsharishkun died during Nineveh's fall (see the chronicle
+_The Watchtower_ itself points out that Sinsharishkun died during Nineveh's fall (see the chronicle
 [BM 21901](../../standard/chronicles/bm21901.md)) which is dated to Nabopolassar's 14th year in 612 BC. So we can now
 see why Sinsharishkun's reign in Assyria must span approximately 16 years, it has not been 'extended' without evidence.
 
@@ -81,7 +81,7 @@ he was no longer king of the Babylonian cities anymore; there is no indication P
 
 ## The Watchtower (1971)
 
-In a 1971 article the Watchtower ended the illusion that the year 539 BC could be found from the Nabonidus chronicle.
+In a 1971 article _The Watchtower_ ended the illusion that the year 539 BC could be found from the Nabonidus chronicle.
 But despite having attempted to discredit Ptolemy's canon only two years before, they returned to directly referencing
 it as a source for their chronology [@watch1971testimony, 316]:
 
@@ -89,7 +89,7 @@ it as a source for their chronology [@watch1971testimony, 316]:
 
 ## Watchtower (2011)
 
-In the 2011 article 'When Was Ancient Jerusalem Destroyed?' the Watchtower returns to criticising the canon, implying
+In the 2011 article 'When Was Ancient Jerusalem Destroyed?' _The Watchtower_ returns to criticising the canon, implying
 that by omitting certain kings its chronology might not be accurate [@watch2011when1, 30-31]:
 
 > How does Ptolemy’s list compare with that cuneiform record? The box “How Does Ptolemy’s Canon Compare With Ancient
@@ -113,7 +113,7 @@ that by omitting certain kings its chronology might not be accurate [@watch2011w
 > included in Ptolemy’s canon also had the title “King of Assyria.” Economic tablets, cuneiform letters, and
 > inscriptions clearly reveal that kings Ashur-etel-ilani, Sin-shumu-lishir, and Sin-sharra-ishkun ruled over Babylonia.
 
-The Watchtower is being disingenuous here because the answers to why these kings were omitted by Ptolemy's canon is
+_The Watchtower_ is being disingenuous here because the answers to why these kings were omitted by Ptolemy's canon is
 available in the very sources they have cited. Ptolemy's canon only lists one Babylonian king per year, it does not
 include contested kings or those who just ruled for part of the year. When the full information from the texts is shown
 the solution is obvious:

@@ -1,6 +1,6 @@
 # Criticism of the Astronomical Texts
 
-## _Awake!_ 1972
+## Awake! 1972
 
 In the 1972 _Awake!_ [@watch1972when, 28], they make the claim that the author of VAT 4956 could have modified or
 inserted a false date into the text, however no evidence or citation to support this claim is provided:
@@ -10,7 +10,7 @@ inserted a false date into the text, however no evidence or citation to support 
 > scribe evidently changed words to conform with the abbreviated terminology common in his day. But he was both
 > inconsistent and inaccurate. So he could just as easily have inserted other information to suit his purposes.
 
-## _Watchtower_ 2011
+## Watchtower 2011
 
 ### Irrelevant texts
 
@@ -29,7 +29,7 @@ Nabopolassar, and Nebuchadnezzar II [@hunger2001adt].
 
 ### Claims of Retrocalculations
 
-The Watchtower suggests that the astronomical tablets contain retrocalculations [@watch2011when2, 24]:
+_The Watchtower_ suggests that the astronomical tablets contain retrocalculations [@watch2011when2, 24]:
 
 > But could the Babylonians project backward to calculate when eclipses had occurred in the past? “It is possible,”
 > states Professor John Steele, “that some of the earliest predictions could have been made by projecting the scheme
@@ -52,7 +52,7 @@ and [No.4](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm32
 dates are predictions.
 
 See also [Steele's and Spek's responses](../../appendix/responses.md#j-m-steele) where they say they have been
-misrepresented by the Watchtower regarding the eclipse tablets.
+misrepresented by _The Watchtower_ regarding the eclipse tablets.
 
 The citation of Brown in its full context [@brown2000mesopotamian, 202]:
 

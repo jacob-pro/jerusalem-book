@@ -7,7 +7,7 @@ The 'Gentile times' is an interpretation of a prophecy found in Luke 21:24 combi
 are believed to be 2520 years long, starting from the destruction of Jerusalem in 607 BC and ending in 1914 AD
 [@watch2014what, 215].
 
-According to the Watchtower 1986 [@watch1986questions]:
+According to _The Watchtower_ 1986 [@watch1986questions]:
 
 > Approved association with Jehovah’s Witnesses requires accepting the entire range of the true teachings of the Bible,
 > including those Scriptural beliefs that are unique to Jehovah’s Witnesses. What do such beliefs include? ... That 1914

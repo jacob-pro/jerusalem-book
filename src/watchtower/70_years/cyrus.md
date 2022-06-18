@@ -1,12 +1,12 @@
 # Reign of Cyrus II
 
 In order to determine when the 70 years of Jeremiah (25:11) ended and the Jews returned to Jerusalem (2 Chronicles
-36:23, Ezra 1:1) the Watchtower needs to date the reign of Cyrus II, and his conquest of Babylon. They have therefore
+36:23, Ezra 1:1) the Watch Tower needs to date the reign of Cyrus II, and his conquest of Babylon. They have therefore
 offered a couple of different sources:
 
 ## Olympiad Numbers
 
-According to the Watchtower [@watch2011when1, 28] [@watch2018insight1, 454]:
+According to the Watch Tower [@watch2011when1, 28] [@watch2018insight1, 454]:
 
 > Diodorus of Sicily (c. 80-20 B.C.E.) wrote that Cyrus became king of Persia in “the opening year of the Fifty-fifth
 > Olympiad.” (Historical Library, Book IX, 21) That year was 560 B.C.E. The Greek historian Herodotus (c. 485-425
@@ -80,7 +80,7 @@ Using the system of Olympiad numbers Africanus also dates the 20th year of Artax
 
 (1st olympiad = 776 BC, 83rd Olympiad = 448 BC, 4th year = 445 BC)
 
-However, this is in direct contradiction with the Insight book chronology chapter, and the Watchtower's interpretation
+However, this is in direct contradiction with the Insight book chronology chapter, and the Watch Tower's interpretation
 of Daniel's 70 weeks prophecy (Daniel 9:24) [@watch2018insight1, 463]:
 
 > The next date of major importance is the 20th year of Artaxerxes (Longimanus), the year Nehemiah received permission
@@ -99,17 +99,17 @@ Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection
 > Jesus’ birth would come about six months later in the fall of 2 B.C.E., his ministry would start about 30 years later
 > in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
 
-For the Watchtower's chronology to work it also means dismissing other reigns and dates given by the same historians
+For the Watch Tower's chronology to work it also means dismissing other reigns and dates given by the same historians
 [for the 26th dynasty of Egypt](../../standard/egypt/historians.md), since otherwise Necho could not have been Pharaoh
 at the time of the battle of Megiddo or Carchemish.
 
-In summary the Watchtower doesn't make clear why the Olympiad numbers given by the ancient historians for Cyrus' reign
+In summary the Watch Tower doesn't make clear why the Olympiad numbers given by the ancient historians for Cyrus' reign
 should be trusted, whilst at the same time implicitly rejecting the other dates that the historians provide for Persian,
 Egyptian, and Christian history.
 
 ## BM 33066
 
-The Watchtower says [@watch2011when1, 28] [@watch2018insight1, 453]:
+The Watch Tower says [@watch2011when1, 28] [@watch2018insight1, 453]:
 
 > A Babylonian astronomical clay tablet (BM 33066) confirms the date of Cyrus’ death in 530 B.C.E. Though this tablet
 > contains some errors regarding the astronomical positions, it contains the descriptions of two lunar eclipses that the
@@ -140,22 +140,22 @@ BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the
 [astro-tablets](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) project. It does indeed
 date the 7th year of Cambyses to 523 BC.
 
-The Watchtower offers the Babylonian [Business Tablets](../../standard/business/business.md) as the sole source for the
+The Watch Tower offers the Babylonian [Business Tablets](../../standard/business/business.md) as the sole source for the
 length of Cyrus' reign as king of Babylon, the last tablets being dated to his 9th year. Counting backwards Babylon must
 have fallen to Cyrus in 539 BC.
 
 ### Problems
 
 As we will see later in the [Criticism of Standard Babylonian Chronology](../criticisms/criticisms.md) section, the
-Watchtower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
+Watch Tower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
 
-- It is not clear how the Watchtower can justify using
+- It is not clear how the Watch Tower can justify using
   [BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) (which has a number of serious
   inaccuracies [@britton2008remarks, 7]) to be a valid source of chronological information, whilst rejecting the dates
   of [seven other astronomical texts](../../standard/astro.md).
 - Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make sense given that
-  the Watchtower also claims that the business tablets do not constitute a 'continuous chronological record', especially
-  when the texts between [Cyrus II and Cambyses II overlap](../../standard/business/business.md#cambyses-ii)
+  the Watch Tower also claims that the business tablets do not constitute a 'continuous chronological record',
+  especially when the texts between [Cyrus II and Cambyses II overlap](../../standard/business/business.md#cambyses-ii)
   [@watch2011when2, 23].
 
 ## References

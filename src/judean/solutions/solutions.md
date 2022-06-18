@@ -13,9 +13,9 @@ a result come to different dates for the destruction of Jerusalem, including:
 | William F. Albright | The Nebuchadnezzar and Neriglissar Chronicles [@albright1956nebuchadnezzar]                     | 18                          | 587     |
 | John P. Hyatt       | New Light on Nebuchadrezzar and Judean History [@hyatt1956new]                                  | 18                          | 587     |
 | Roger C. Young      | When Did Jerusalem Fall? [@young2004did]                                                        | 18                          | 587     |
-| Watchtower Society  | Insight on the Scriptures [@watch2018insight1] [@watch2018insight2]                             | 18                          | 607\*   |
+| Watch Tower Society | Insight on the Scriptures [@watch2018insight1] [@watch2018insight2]                             | 18                          | 607\*   |
 
-\* While the Watchtower claims Jerusalem was captured in Nebuchadnezzar's 18th regnal year [@watch2018insight2, 481],
+\* While the Watch Tower claims Jerusalem was captured in Nebuchadnezzar's 18th regnal year [@watch2018insight2, 481],
 they reject the standard chronology for Babylonia.
 
 We will see that all the proposed solutions fail to definitively satisfy all the chronological data, which explains why

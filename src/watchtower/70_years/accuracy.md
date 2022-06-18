@@ -8,7 +8,7 @@ for [the Neo-Babylonian period](../../standard/standard.md). There is no histori
 ## Alternative Interpretations
 
 There are some alternative interpretations of Jeremiah's prophecy that could in theory satisfy the historical evidence
-however the Watchtower has chosen to reject these [@watch1981let, 138] [@watch2011when1, 27]:
+however the Watch Tower has chosen to reject these [@watch1981let, 138] [@watch2011when1, 27]:
 
 > However, based primarily on such secular records, some persons figure that Jerusalem was destroyed in 587/6 B.C.E. and
 > that the Jews came under Babylonian domination in Nebuchadnezzar’s accession year, which they calculate as being 605
@@ -119,6 +119,6 @@ Jeremiah's prophecy is discussed in Chapter 9 'Prophecies That Came True' [@watc
 > shocking fulfillment of this prophecy.
 
 Whilst the chapter states that Jeremiah's prophecy is confirmed by archaeology, the provided evidence only demonstrates
-that Jerusalem was destroyed, not that there was a 70-year period between as claimed by the Watchtower.
+that Jerusalem was destroyed, not that there was a 70-year period between as claimed by the Watch Tower.
 
 ## References

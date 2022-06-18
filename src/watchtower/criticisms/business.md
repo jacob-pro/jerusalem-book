@@ -2,7 +2,7 @@
 
 ## Watchtower 2011
 
-The Watchtower 2011 [@watch2011when2, 23] claims that the dates found in the business tablets must indicate that the
+_The Watchtower_ 2011 [@watch2011when2, 23] claims that the dates found in the business tablets must indicate that the
 record is not complete, and the chronology should be extended over a greater number of years than currently allowed for.
 
 ### Nebuchadnezzar II to Amel-Marduk
@@ -25,7 +25,7 @@ However, this isn't entirely correct; according to both C.B.F. Walker's unpublis
 [@walker1996corrections, 8] and the British Museum website [@bm80920] the date in BM 80920 (Sack No. 56) is actually
 month 7 of Amel-Marduk's accession year, rather than month 4, so this tablet does not overlap.
 
-The Watchtower also claims that there is a tablet dated to month 10 of Nebuchadnezzar's 43rd year:
+_The Watchtower_ also claims that there is a tablet dated to month 10 of Nebuchadnezzar's 43rd year:
 
 > **What do the documents show?** There are further discrepancies in the transition of one king to another. For example,
 > the documents show that Nebuchadnezzar II was still ruling in his tenth month​—six months after his successor is
@@ -39,7 +39,7 @@ overlapping by about a month:
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk.svg)
 
-In their quotation of Sack the Watchtower omits the full context where he interprets the small overlap as indicating a
+In their quotation of Sack _The Watchtower_ omits the full context where he interprets the small overlap as indicating a
 co-regency [@sack1972amel, 3]:
 
 > However, two new unpublished British Museum texts, recently placed at my disposal, completely upset this convinient
@@ -58,11 +58,12 @@ co-regency [@sack1972amel, 3]:
 > admittedly scanty) evidence, it seems much more probable that a kind of coregency existed prior to Nebuchadnezzar's
 > death. Perhaps future discoveries will clarify this point.
 
-See [Sack's response](../../appendix/responses.md#r-h-sack) where he says he has been misrepresented by the Watchtower.
+See [Sack's response](../../appendix/responses.md#r-h-sack) where he says he has been misrepresented by _The
+Watchtower_.
 
-The Watchtower claims that this overlap is not logical, that there must instead be 'additional years' in between. But
+_The Watchtower_ claims that this overlap is not logical, that there must instead be 'additional years' in between. But
 since the Bible's internal chronology limits Nebuchadnezzar's reign to around 43 or 44 years anyway (because of
-Jehoiachin's 37 years of captivity), the alternative chronology as implied by the Watchtower could only really add one
+Jehoiachin's 37 years of captivity), the alternative chronology as implied by _The Watchtower_ could only really add one
 additional year here:
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk2.svg)
@@ -72,7 +73,7 @@ Amel-Marduk, which seems unusual given the substantial quantity discovered from 
 
 ### Amel-Marduk to Neriglissar
 
-The Watchtower suggests a similar scenario for Amel-Marduk to Neriglissar:
+_The Watchtower_ suggests a similar scenario for Amel-Marduk to Neriglissar:
 
 > A similar discrepancy exists with the transition between Amel-Marduk and his successor, Neriglissar.⁹<br><br>9.
 > Tablets BM 75106 and BM 61325 are dated in the seventh and tenth months of what is considered the last (second) year
@@ -89,7 +90,7 @@ This isn't entirely correct either, BM 75106 is actually dated to month 4 'not m
 
 ### Cyrus II to Cambyses II
 
-The Watchtower claims that the overlaps in the business tablets indicate that the record is not continuous, and
+_The Watchtower_ claims that the overlaps in the business tablets indicate that the record is not continuous, and
 therefore not reliable for chronological purposes.
 
 > Why are these discrepancies significant? As mentioned earlier, gaps in the history documented by the Babylonian
@@ -101,10 +102,10 @@ therefore not reliable for chronological purposes.
 > if each king followed the other in the same year, without any breaks in between.
 
 But strangely absent from the article is any mention of the overlapping tablets between
-[Cyrus II and Cambyses II](../../standard/business/business.md#cambyses-ii), if we assume the Watchtower's hypothesis is
-correct, it would imply either Cyrus II ruled for more than 9 years, or there could have been another ruler between.
+[Cyrus II and Cambyses II](../../standard/business/business.md#cambyses-ii), if we assume _The Watchtower_'s hypothesis
+is correct, it would imply either Cyrus II ruled for more than 9 years, or there could have been another ruler between.
 
-This leads to a massive contradiction, because in part 1 of the same article, the Watchtower quotes the very same
+This leads to a massive contradiction, because in part 1 of the same article, _The Watchtower_ quotes the very same
 overlapping business tablets as a key source for deducing the length of Cyrus II's reign to be 9 years long, and with it
 establish their entire chronology [@watch2011when1, 28].
 

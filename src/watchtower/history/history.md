@@ -1,4 +1,4 @@
-# History of the Watchtower Chronology
+# History of the Watch Tower Chronology
 
 As explained in the section [Significance to Jehovah’s Witnesses](../../introduction/significance.md) the date of
 Jerusalem's destruction is significant within Jehovah's Witness eschatology as the basis of their 'Gentile Times' belief
@@ -42,7 +42,7 @@ this date:
 > Nebuchadnezzar's own accession and invasion of Judah, B.C. 606, the end is much later, being A.D. 1914; just one half
 > century, or jubilean period, from our probable date of the opening of the Millennium.
 
-This section will now track how the Watchtower's interpretation of the 'Gentile Times' prophecy developed and changed
+This section will now track how the Watch Tower's interpretation of the 'Gentile Times' prophecy developed and changed
 over time, starting with Charles Taze Russell's publications in the late 19th century.
 
 ## References

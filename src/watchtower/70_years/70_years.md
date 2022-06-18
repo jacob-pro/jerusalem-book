@@ -1,6 +1,6 @@
 # Jeremiah’s 70-Year Prophecy
 
-The key to the Watchtower's 'Bible chronology' is their interpretation of the prophecy written in Jeremiah 25:11
+The key to the Watch Tower's 'Bible chronology' is their interpretation of the prophecy written in Jeremiah 25:11
 [@watch2018insight1, 463], describing a 70-year period where Judah will serve the king of Babylon [@watch2011when1, 26]:
 
 > Years before the destruction, the Jewish prophet Jeremiah provided an essential clue to the time frame given in the

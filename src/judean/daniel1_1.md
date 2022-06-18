@@ -1,10 +1,10 @@
-# Watchtower Interpretation of Daniel 1:1
+# Watch Tower Interpretation of Daniel 1:1
 
-As noted in the [Watchtower Judean Chronology](solutions/watchtower.md) section the Watchtower dates the
-Nebuchadnezzar's invasion of Judah as described in 2 Kings 24:1 to sometime in the 8th year of Jehoiakim.
+As noted in the [Watch Tower Judean Chronology](solutions/watchtower.md) section the Watch Tower dates Nebuchadnezzar's
+invasion of Judah as described in 2 Kings 24:1 to sometime in the 8th year of Jehoiakim.
 
-Unusually the Watchtower has chosen to interpret Daniel 1:1 and 2 Chronicles 36:6 as referring to the siege resulting in
-Jehoiachin's capture (2 Kings 24:10; the 11th year of Jehoiakim), rather than the earlier invasion resulting in
+Unusually the Watch Tower has chosen to interpret Daniel 1:1 and 2 Chronicles 36:6 as referring to the siege resulting
+in Jehoiachin's capture (2 Kings 24:10; the 11th year of Jehoiakim), rather than the earlier invasion resulting in
 Jehoiakim becoming a vassal for 3 years (2 Kings 24:1).
 
 ### _Insight_ Book
@@ -131,7 +131,7 @@ originated with first-century historian Josephus, who dates the beginning of Jeh
 > desire to see the city endangered on his account, but he took his mother and kindred, and delivered them to the
 > commanders sent by the king of Babylon...
 
-The earliest reference I could find in the Watchtower index for Daniel 1:1 was the 1946 book _Equipped for Every Good
+The earliest reference I could find in the Watch Tower Index for Daniel 1:1 was the 1946 book _Equipped for Every Good
 Work_ [@watch1946equipped, 225], which was published a decade before the translation of the Nebuchadnezzar Chronicle
 [BM 21946](../standard/chronicles/bm21946.md):
 
@@ -163,14 +163,14 @@ Regarding Daniel 2:1 it says [@watch1946equipped, 226]:
 
 ## Criticism
 
-The Watchtower's interpretation has a number of serious flaws, especially in light of the more recent discoveries of the
-Babylonian chronicles.
+The Watch Tower's interpretation has a number of serious flaws, especially in light of the more recent discoveries of
+the Babylonian chronicles.
 
 ### 'Kingship' in Daniel 1:1 and Daniel 2:1
 
-First the Watchtower Society is reading Daniel 1:1 in a strange way - where 'kingship' is understood to refer not to the
-length of Jehoiakim's rule over Judah, but to his time as a vassal to Nebuchadnezzar. Against this interpretation Mercer
-argues [@mercer1989daniel, 180]:
+First the Watch Tower Society is reading Daniel 1:1 in a strange way - where 'kingship' is understood to refer not to
+the length of Jehoiakim's rule over Judah, but to his time as a vassal to Nebuchadnezzar. Against this interpretation
+Mercer argues [@mercer1989daniel, 180]:
 
 > Several commentators take the third year of Jehoiakim as being the last of the three years of servitude to Babylon
 > mentioned in 2 Kgs 24:1. This solution is unlikely, for the text of Daniel states that Nebuchadnezzar besieged
@@ -179,7 +179,7 @@ argues [@mercer1989daniel, 180]:
 
 This causes an even more substantial problem — in Daniel 2:1 he speaks with Nebuchadnezzar during 'the second year of
 his kingship' - this would be impossible if Daniel was taken captive sometime around the 7th or 8th year of
-Nebuchadnezzar. This forces the Watchtower to use yet another definition for 'kingship' [@watch2018insight2, 481]
+Nebuchadnezzar. This forces the Watch Tower to use yet another definition for 'kingship' [@watch2018insight2, 481]
 [@watch2018insight1, 576] [@watch2018insight1, 1186] [@watch2007highlights, 18] [@watch2006pay, 46]
 
 > The book of Daniel states that it was in “the second year” of Nebuchadnezzar’s kingship (probably counting from the
@@ -257,7 +257,7 @@ Babylonian account:
 > Jehoiakim was laid to rest with his forefathers and his son Jehoiachin became king in his place. (2 Kings 24:1,2,6,10
 > NWT)
 
-According to the Watchtower Jehoiakim began his three years servitude in his 8th year 'early in 620 B.C.E.'
+According to the Watch Tower Jehoiakim began his three years servitude in his 8th year 'early in 620 B.C.E.'
 [@watch2018insight1, 1269] and then rebelled at the end of the three years resulting in the siege of Jerusalem in '618
 B.C.E.' [@watch2018insight1, 1267]. The Insight book also states that it 'appears that Jehoiakim died during the siege
 of the city' (or as proven above, he actually died just before it began).
@@ -284,7 +284,7 @@ And likewise for the captives taken:
 | Siege resulting in Jehoiachin's capture  | 24:14 He took into exile all Jerusalem, **all the princes, all the mighty warriors, and every craftsman and metalworker**—he took 10,000 into exile. **No one was left behind except the poorest people** of the land. |                                                                         |                                                                                                                                                                                                                                                                                                                 |
 | Siege resulting in Zedekiah's capture    | 25:11 Nebuzaradan the chief of the guard took into exile **the rest of the people who were left in the city**, the deserters who had gone over to the king of Babylon, and the rest of the population.                 | 36:20 He carried off captive to Babylon **those who escaped the sword** |                                                                                                                                                                                                                                                                                                                 |
 
-Against this argument the Watchtower states in the Kingdom Come book [@watch1981let, 188]:
+Against this argument the Watch Tower states in the Kingdom Come book [@watch1981let, 188]:
 
 > Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews captive in his seventh year, his 18th year and his
 > 23rd year, not his accession year.
@@ -362,7 +362,7 @@ Hattu in his accession, 1st-4th, and 6th years, and even more significantly in t
 > All the kings of Hattu came into his presence and he received their **vast tribute**.
 
 It therefore seems very unlikely that Jehoiakim did not become a vassal of Nebuchadnezzar until his 8th year as dated by
-the Watchtower, instead is it was likely to be sometime as early as the autumn of Nebuchadnezzar's accession year (the
+the Watch Tower, instead is it was likely to be sometime as early as the autumn of Nebuchadnezzar's accession year (the
 4th year of Jehoiakim).
 
 Against this argument the Kingdom Come book says [@watch1981let, 188]:
@@ -395,7 +395,7 @@ Dates for the start of Jehoiakim's servitude proposed by other authors:
 - Mercer [@mercer1989daniel, 192]: Midsummer of Nebuchadnezzar's accession year.
 - Larsson [@larsson1967when, 419]: Accession year of Nebuchadnezzar.
 
-If we took the [Watchtower Judean chronology](./solutions/watchtower.md) but instead dated the subjugation of Judah to
+If we took the [Watch Tower Judean chronology](./solutions/watchtower.md) but instead dated the subjugation of Judah to
 the accession year of Nebuchadnezzar, then this would fall in the forth year of Jehoiakim, or the **third** year when
 counting using the Babylonian accession year system, fitting perfectly with Daniel 1:1.
 

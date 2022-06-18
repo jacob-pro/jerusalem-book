@@ -2,16 +2,16 @@
 
 ## Background
 
-The Watchtower accepts the year 539 BC as the date of the fall of Babylon to Cyrus II [@watch2018insight1, 453]
+The Watch Tower accepts the year 539 BC as the date of the fall of Babylon to Cyrus II [@watch2018insight1, 453]
 [@watch2011when1, 28]. The [Nabonidus Chronicle](../../standard/chronicles/bm35382.md) describes the fall in detail; the
 Babylonian army was defeated in the 7th month (III, Lines 12-18), and Cyrus entered the city of Babylon on the 3rd day
-of the 8th month (III, Line 18), these dates are accepted by the Watchtower [@watch2018insight1, 568]
+of the 8th month (III, Line 18), these dates are accepted by the Watch Tower [@watch2018insight1, 568]
 [@watch2018insight2, 459]. Cyrus' accession was therefore around the end of October 539 BC, and his first year as king
 of Babylon would have begun in the spring of 538 BC.
 
-## The Watchtower's Date
+## The Watch Tower's Date
 
-The Watchtower lists the year 537 BC as the time that the Jews returned to Jerusalem [@watch2018insight1, 458]
+The Watch Tower lists the year 537 BC as the time that the Jews returned to Jerusalem [@watch2018insight1, 458]
 [@watch2018insight1, 568]:
 
 > During Cyrus’ first year his decree releasing the Jews from exile was given. And, as considered in the article on
@@ -66,17 +66,17 @@ Jerusalem, which would be 533 BC [@steinmann2008chronological]:
 > evidence of the sabbatical year cycles of the post-exilic era we can be reasonably certain that Sheshbazzar and
 > Zerubbabel and the people with them returned in 533 BC.
 
-Furthermore, as we have already seen the Watchtower is assuming that the Bible writers were counting the reign of
+Furthermore, as we have already seen the Watch Tower is assuming that the Bible writers were counting the reign of
 Nebuchadnezzar, king of Babylon, inclusive of his accession year [@watch2018insight2, 481] (see section
-[Watchtower Judean Chronology](../../judean/solutions/watchtower.md)). We must therefore ask if the Bible writers were
+[Watch Tower Judean Chronology](../../judean/solutions/watchtower.md)). We must therefore ask if the Bible writers were
 doing the same when they refer 'the first year of Cyrus'; could the edict have been issued as early as the period from
 October 539 BC up to Nisan in 538 BC?
 
 ## Issues
 
-As we have seen the date that the exiles returned to Jerusalem is used by the Watchtower to calculate the destruction of
-Jerusalem (by counting back 70 years). How can the Watchtower be so sure that this date was 537 BC and not one of the
-other possibilities? The Watchtower offers two reasons, however both are invalid [@watch2018insight1, 800]
+As we have seen the date that the exiles returned to Jerusalem is used by the Watch Tower to calculate the destruction
+of Jerusalem (by counting back 70 years). How can the Watch Tower be so sure that this date was 537 BC and not one of
+the other possibilities? The Watch Tower offers two reasons, however both are invalid [@watch2018insight1, 800]
 [@watch1964comely, 80]:
 
 > The 70th year of Jerusalem’s desolation, the last enforced sabbath on the land, would end in the autumn of 537 B.C.E.
@@ -108,8 +108,8 @@ issued his decree in the first few months of his first year, such that the Jews 
 travel to Jerusalem before the 7th month of 538 BC (as described by The Cambridge Ancient History).
 
 The second reason given is that 'The desolation had to last until the 70th year ended' however this is based upon
-circular reasoning, since the Watchtower only knows when the 70 years began by counting backwards from when they ended.
-As stated in the Watchtower 2011 [@watch2011when1, {27-28}]:
+circular reasoning, since the Watch Tower only knows when the 70 years began by counting backwards from when they ended.
+As stated in the Watch Tower 2011 [@watch2011when1, {27-28}]:
 
 > When Did “the Seventy Years” Start? <br>...<br> So this event evidently marked the starting point of the 70 years. And
 > what year was that? To answer, we need to see when that period ended.
