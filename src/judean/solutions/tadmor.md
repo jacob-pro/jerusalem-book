@@ -1,6 +1,6 @@
 # Tadmor's Chronology
 
-Hayim Tadmor (1923-2006) was professor of Assyriology at the Hebrew University of Jerusalem [@independent2006hayim].
+Hayim Tadmor (1923–2006) was professor of Assyriology at the Hebrew University of Jerusalem [@independent2006hayim].
 
 The key assumptions of his chronology include [@tadmor1956chronology, 226]:
 

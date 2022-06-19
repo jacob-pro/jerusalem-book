@@ -63,6 +63,7 @@
       - [Alternative Dating of VAT 4956](watchtower/criticisms/vat4956.md)
 - [Controversy](controversy/controversy.md)
   - [Max Hatton](controversy/hatton.md)
+  - [Raymond Franz](controversy/franz.md)
 - [Appendix]()
   - [Letter Concerning VAT 4956 in the Watch Tower 2011](appendix/letter_vat4956.md)
   - [Letter Concerning the Date of Josiah's Death](appendix/letter_josiah.md)

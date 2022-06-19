@@ -1,6 +1,6 @@
 # Albright's Chronology
 
-William Foxwell Albright (1891-1971) was a biblical archaeologist and Middle Eastern scholar [@britannica2021albright].
+William Foxwell Albright (1891–1971) was a biblical archaeologist and Middle Eastern scholar [@britannica2021albright].
 
 The key assumptions of his chronology include [@albright1956nebuchadnezzar, 32]:
 

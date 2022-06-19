@@ -1,6 +1,6 @@
 # Thiele's Chronology
 
-Edwin R. Thiele (1895-1986) was a Seventh-day Adventist missionary in China, editor, archaeologist, writer, and Old
+Edwin R. Thiele (1895–1986) was a Seventh-day Adventist missionary in China, editor, archaeologist, writer, and Old
 Testament professor [@car1996thiele].
 
 The key assumptions of his chronology include [@thiele1983mysterious, 180]:

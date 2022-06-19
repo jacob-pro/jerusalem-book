@@ -1,6 +1,6 @@
 # Hyatt's Chronology
 
-John Phillip Hyatt (1909-1972) was an Old Testament professor [@vanderbilt_john].
+John Phillip Hyatt (1909–1972) was an Old Testament professor [@vanderbilt_john].
 
 The key assumptions of his chronology include:
 

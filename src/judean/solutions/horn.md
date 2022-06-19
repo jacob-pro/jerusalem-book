@@ -1,6 +1,6 @@
 # Horn's Chronology
 
-Siegfried Herbert Horn (1908-1993) was a Seventh-day Adventist biblical archaeology professor [@andrews_horn].
+Siegfried Herbert Horn (1908–1993) was a Seventh-day Adventist biblical archaeology professor [@andrews_horn].
 
 The key assumptions of his chronology [@horn1967babylonian, 23-24] include:
 
