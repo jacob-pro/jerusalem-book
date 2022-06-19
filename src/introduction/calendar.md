@@ -31,7 +31,7 @@ one day [@ossendrijver2016translating, 131].
 
 ## Julian and Gregorian Calendars
 
-The Julian calendar was introduced by Julius Caesar in 45 BCE [@united2019introduction]. However, the primary calendar
+The Julian calendar was introduced by Julius Caesar in 45 BC [@united2019introduction]. However, the primary calendar
 used today is the Gregorian calendar, named after Pope Gregory XII who introduced it in October 1582. It is a minor
 refinement to the Julian calendar with the aim of bringing the length of an average year closer to an actual solar year,
 it does so by modifying the rules used for choosing leap years.

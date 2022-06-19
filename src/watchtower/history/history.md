@@ -11,14 +11,13 @@ period was published in 1823 by John Aquila Brown in _The Even-Tide_ [@watchtowe
 > chapter 4 to be 2,520 years in length. But he did not clearly discern the date with which the prophetic time period
 > began or when it would end. He did, however, connect these “seven times” with the Gentile Times of Luke 21:24.
 
-This statement is actually only partially true since Brown did in fact give a beginning and end date [@brown1823even,
-135]:
+Brown applied the 2520-year period starting from Nebuchadnezzar's first year (604 BC) to 1917 AD [@brown1823even, 135]:
 
 > Commencing, therefore, the calculation of the “seven times,” from the first year of Nebuchadnezzar A.C. 604, whose
 > kingdom is the golden head of the image, and is represented by the towering and palmy “tree,” previously to its
 > desolation, the termination of these 2520 years will fall out in the year 1917.
 
-Brown also did not connect the 'seven times' of Daniel 4 to Luke 21:24 as claimed in _Proclaimers_, instead he
+Brown did not actually link the 'seven times' of Daniel 4 to Luke 21:24 as claimed in _Proclaimers_, instead he
 identified the 'Gentile Times' with the ‘time, times, and a half’ of Daniel [@brown1823even, {XI}]:
 
 > The “times of the Gentiles,” during which Jerusalem is to be trodden down of the Gentiles, as declared by Christ, and

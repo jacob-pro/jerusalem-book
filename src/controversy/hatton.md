@@ -16,7 +16,7 @@ In 1964, he attended the Australian Institute of Archaeology Annual Lecture Seri
 [Adad-Guppi Stele](../standard/nabon24.md). At this point he decided that Watch Tower's claims were unsupported by the
 evidence, and submitted a resignation letter on August 16, 1964.
 
-Shortly later in 1965, he distributed his research under the title '1914, The Touchstone of the Watchtower', criticising
+Shortly later in 1965, he distributed his research under the title _1914, The Touchstone of the Watchtower_, criticising
 the chronology of the Watch Tower [@hatton1965touchstone]. The Watch Tower society did not like this, and he was sent a
 letter notifying him that he had been 'disfellowshipped' (excommunicated).
 
