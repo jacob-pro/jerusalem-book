@@ -10,8 +10,8 @@ occurred just weeks after the release of a _Watchtower_ article setting out this
 24]. Later in 1983, he released the first edition of _Crisis of Conscience_ describing his experiences
 [@franz2004crisis].
 
-<object data="../letters/1981_11_06_Gadsden_Franz.pdf" type="application/pdf" width="100%" height="400px" class="pdf">
-    <embed src="../letters/1981_11_06_Gadsden_Franz.pdf" width="100%" height="400px"/> 
+<object data="../letters/1981_11_06_Gadsden_Franz.pdf" type="application/pdf" width="100%" height="500px" class="pdf">
+    <embed src="../letters/1981_11_06_Gadsden_Franz.pdf" width="100%" height="500px"/> 
 </object>
 
 Interestingly, prior to joining the Governing Body, Franz had worked in the writing department at Brooklyn Bethel (Watch

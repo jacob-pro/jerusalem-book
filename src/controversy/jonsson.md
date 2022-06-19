@@ -1,7 +1,6 @@
 # Carl Olof Jonsson
 
-Carl Olof Jonsson (1937–) was an 'elder' (clergyman) in a Swedish congregation of Jehovah's Witnesses during the 1960s
-and 1970s.
+Carl Olof Jonsson (1937–) was an 'elder' in a Swedish congregation of Jehovah's Witnesses during the 1960s and 1970s.
 
 In 1968, whilst serving a 'pioneer' (full-time evangeliser), he was challenged during a Bible study to prove that the
 Watch Tower's date for the destruction of Jerusalem (607 BC) was correct [@jonsson2014gentile, 7]. Over the next few
@@ -23,8 +22,8 @@ In September 1978 he met with various representatives of the Watch Tower [@jonss
 > gathered. Rolf Svensson also told me that the Society did not need or want individual Jehovah’s Witnesses to become
 > involved in research of this kind.
 
-It wasn't until February 1980 that he received a response actually regarding the question of chronology
-[@jonsson2014gentile, 12]:
+It wasn't until February 1980 that he received a response that actually attempted to deal with his questions regarding
+chronology [@jonsson2014gentile, 12]:
 
 > Eventually the Watch Tower Society did attempt to refute the evidence against the 607 B.C.E. date, but this was not
 > done until a special representative of the Governing Body in Sweden had written to the Society asking them to provide
