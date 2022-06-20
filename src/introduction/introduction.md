@@ -8,9 +8,13 @@ The aim of this book is to answer the following questions:
 
 ## About the Author
 
-My name is Jacob Halsey, I am a software engineer, my interest in this topic stems from being encouraged by friends and
-family to research the biblical prophecies of Daniel, and from having read the 'Daniel Book' [@watch2006pay] many years
-ago. I am not (and have never been) a baptised member of Jehovah's Witnesses myself, all opinions expressed are my own.
+My name is Jacob Halsey, I am a software engineer. My interest in this topic stems from having read the 'Daniel Book'
+[@watch2006pay] many years ago, and from being encouraged by friends and family to research the biblical prophecies of
+Daniel. I am not (and have never been) a baptised member of Jehovah's Witnesses myself; all opinions expressed are my
+own.
+
+I must also emphasise that I am not a specialist in Assyriology, astronomy, or Biblical studies, and instead defer to
+all the cited sources.
 
 ## About the Book
 
@@ -18,8 +22,9 @@ This book is generated from markdown files using the [mdBook](https://github.com
 [Pandoc](https://github.com/jgm/pandoc) utilities.
 
 The source files are freely available on [GitHub](https://github.com/jacob-pro/jerusalem-book). If you notice any
-errors, have suggestions for improvements, or any other question please raise a ticket on the
-[issues page](https://github.com/jacob-pro/jerusalem-book/issues).
+errors, have suggestions for improvements, or any other question please open an issue
+[here](https://github.com/jacob-pro/jerusalem-book/issues). If you would like to show support for my work please star ☆
+this project on GitHub.
 
 If you are unable to access the materials referenced in this book please look into
 [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) and [Library Genesis](https://en.wikipedia.org/wiki/Library_Genesis).

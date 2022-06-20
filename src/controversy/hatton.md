@@ -1,6 +1,6 @@
 # Max Hatton
 
-Max Hatton was a member of Jehovah's Witnesses, baptised in West Australia 1959 [@hatton2009personal].
+Max Hatton was a member of Jehovah's Witnesses, baptised in West Australia in 1959 [@hatton2009personal].
 
 Sometime during the early 1960s he encountered a Seventh-day Adventist who questioned the Watch Tower's chronology
 surrounding the 'Gentile times' prophecy. Subsequently, he began an in depth study of the chronology in order to defend

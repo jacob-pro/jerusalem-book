@@ -8,8 +8,7 @@ numerous books defending the Watch Tower society, including its blood policy, th
 and most notably its chronology.
 
 In his series _Assyrian, Babylonian, Egyptian, and Persian Chronology Compared with the Chronology of the Bible_ Furuli
-attempted to justify the Watch Tower's 607 BC for the destruction of Jerusalem. However, it was not well reviewed
-[@grabbe2004review]:
+attempted to justify the Watch Tower's chronology. However, it was not well reviewed [@grabbe2004review]:
 
 > Once again we have an amateur who wants to rewrite scholarship. F.’s expertise is admittedly in Semitic languages, and
 > his PhD (in progress) is on the Hebrew verbal system. He notes, ‘My disadvantage is that I am neither a professional
@@ -26,6 +25,8 @@ attempted to justify the Watch Tower's 607 BC for the destruction of Jerusalem. 
 > his rather naive argument that the 70 years of Judaean captivity must be a literal 70 years of desolation of the land
 > because some biblical passages make such a statement. A second volume is promised; we shall see if it is any more
 > convincing.
+
+TODO: Discussion of Volume II: Assyrian, Babylonian and Egyptian Chronology (2007)
 
 In 2020, he published the book _My Beloved Religion — And the Governing Body_ criticising the Governing Body of
 Jehovah's Witnesses [@furuli2020my]. This attracted attention in the Norwegian press [@gilge2020tar] [@gilge2020tror],
