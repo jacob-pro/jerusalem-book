@@ -66,7 +66,7 @@
   - [Carl Olof Jonsson](controversy/jonsson.md)
   - [Raymond Franz](controversy/franz.md)
   - [Rolf Furuli](controversy/furuli.md)
-  - [Gerard Gertoux](controversy/gertoux.md)
+  - [Gérard Gertoux](controversy/gertoux.md)
 - [Appendix]()
   - [Letter Concerning VAT 4956 in the Watch Tower 2011](appendix/letter_vat4956.md)
   - [Letter Concerning the Date of Josiah's Death](appendix/letter_josiah.md)
