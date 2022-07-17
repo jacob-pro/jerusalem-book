@@ -86,7 +86,7 @@ The tablets therefore show that Nebuchadnezzar II ruled for 43 years.
 
 Earliest dated texts:
 
-- ?/V/Acc - Sippar, BM 58872 [@bm58872]
+- ?/V/Acc - Sippar, BM 58872 [@bm58872] (Sack No. 79 [@sack1972amel, 106])
 - 20/V/Acc - Sippar, BM 75322 [@bm75322]
 
 Note that these texts would overlap with the dates for Nebuchadnezzar II by one month. R.H. Sack suggests that

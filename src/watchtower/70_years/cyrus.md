@@ -96,7 +96,7 @@ of Daniel's 70 weeks prophecy (Daniel 9:24) [@watch2018insight1, 463]:
 > Cornelius, 490 years from the year 455 B.C.E.—Ac 10:30-33, 44-48; 11:1.
 
 Africanus also dates the birth of Jesus to 3/2 BC and his death and resurrection to 29/30 AD [@finegan1998handbook,
-158]). However, this is also in contradiction with the Insight book which says [@watch2018insight2, 58]:
+158]. However, this is also in contradiction with the _Insight_ book which says [@watch2018insight2, 58]:
 
 > Jesus’ birth would come about six months later in the fall of 2 B.C.E., his ministry would start about 30 years later
 > in the fall of 29 C.E., and his death would come in the year 33 C.E. (on Nisan 14 in the spring, as stated).
@@ -105,9 +105,9 @@ For the Watch Tower's chronology to work it also means dismissing other reigns a
 [for the 26th dynasty of Egypt](../../standard/egypt/historians.md), since otherwise Necho could not have been Pharaoh
 at the time of the battle of Megiddo or Carchemish.
 
-In summary the Watch Tower doesn't make clear why the Olympiad numbers given by the ancient historians for Cyrus' reign
-should be trusted, whilst at the same time implicitly rejecting the other dates that the historians provide for Persian,
-Egyptian, and Christian history.
+In summary the Watch Tower doesn't justify how the Olympiad numbers given by the ancient historians for Cyrus' reign
+(6th century BC) should be trusted, when they are simultaneously rejecting the other dates that the historians provided
+for more recent Persian, Egyptian, and Christian history.
 
 ## BM 33066
 
@@ -143,22 +143,23 @@ BM 33066 (Strm. Kambys. 400) (LBAT 1477) is one of the tablets mentioned in the
 [astro-tablets](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) project. It does indeed
 date the 7th year of Cambyses to 523 BC.
 
-The Watch Tower offers the Babylonian [Business Tablets](../../standard/business/business.md) as the sole source for the
-length of Cyrus' reign as king of Babylon, the last tablets being dated to his 9th year. Counting backwards Babylon must
-have fallen to Cyrus in 539 BC.
+The Watch Tower offers the Babylonian [business tablets](../../standard/business/business.md) as the sole source for the
+length of Cyrus' reign as king of Babylon, the last tablets being dated to his 9th year. Counting backwards, Babylon
+must have fallen to Cyrus in 539 BC.
 
 ### Problems
 
 As we will see later in the [Criticism of Standard Babylonian Chronology](../criticisms/criticisms.md) section, the
-Watch Tower using these sources as a base for their 'Biblical chronology' contradicts their own arguments; in short:
+Watch Tower using these sources as a base for their 'Biblical chronology' contradicts their own arguments.
 
-- It is not clear how the Watch Tower can justify using
-  [BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) (which has a number of serious
-  inaccuracies [@britton2008remarks, 7]) to be a valid source of chronological information, whilst rejecting the dates
-  of [seven other astronomical texts](../../standard/astro.md).
-- Using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make sense given that
-  the Watch Tower also claims that the business tablets do not constitute a 'continuous chronological record',
-  especially when the texts between [Cyrus II and Cambyses II overlap](../../standard/business/business.md#cambyses-ii)
-  [@watch2011when2, 23].
+First, the Watch Tower does not justify how it can use
+[BM 33066](https://github.com/jacob-pro/astro-tablets/blob/master/documents/bm33066.md) as a valid source of
+chronological information; a text which has a number of serious inaccuracies [@britton2008remarks, 7], whilst rejecting
+the dates of [seven other astronomical texts](../../standard/astro.md).
+
+Second, using the latest dated business tablet as the only evidence for the end of Cyrus' reign doesn't make sense given
+that the Watch Tower also claims that the business tablets do not constitute a
+'[continuous chronological record](../criticisms/business.md#watchtower-2011)', especially when the texts between
+[Cyrus II and Cambyses II themselves overlap](../../standard/business/business.md#cambyses-ii) [@watch2011when2, 23].
 
 ## References

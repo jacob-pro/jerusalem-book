@@ -34,10 +34,12 @@ _The Watchtower_ also claims that there is a tablet dated to month 10 of Nebucha
 >
 > 8\. The tablet in the British Museum (BM 55806) is dated to the tenth month, 43rd year.
 
-But this isn't entirely correct either, according to the both Walker's list [@walker1996corrections, 3] and the museum
-website 'the year number is far from clear' [@bm55806], so it is not of much use for chronology. Hence, as already noted
-in the [business tablets](../../standard/business/business.md#amel-marduk) section, there are actually only two tablets
-overlapping by about a month:
+But this isn't accurate either, according to the both Walker's list [@walker1996corrections, 3] and the museum website
+'the year number is far from clear' [@bm55806], so it is of little use for chronology.
+
+So there are actually only two remaining texts from Amel-Marduk's reign that overlap with Nebuchadnezzar by a period of
+about one month — BM 58872 (Sack No. 79) and BM 75322. (See the
+[business tablets](../../standard/business/business.md#amel-marduk) section for further discussion).
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk.svg)
 
@@ -65,8 +67,8 @@ Watchtower_.
 
 _The Watchtower_ claims that this overlap is not logical, that there must instead be 'additional years' in between. But
 since the Bible's internal chronology limits Nebuchadnezzar's reign to around 43 or 44 years anyway (because of
-Jehoiachin's 37 years of captivity), the alternative chronology as implied by _The Watchtower_ could only really add one
-additional year here:
+[Jehoiachin's 37 years of captivity](../../judean/biblical/2kings.md)), the alternative chronology as implied by _The
+Watchtower_ could only really add one additional year here:
 
 ![](../../graphics/transitions/nebuchadnezzar_amel_marduk2.svg)
 
@@ -88,8 +90,11 @@ _The Watchtower_ suggests a similar scenario for Amel-Marduk to Neriglissar:
 > the tablet is Ajaru (second month).<br>
 
 This isn't entirely correct either, BM 75106 is actually dated to month 4 'not month 7 as stated in CBT' [@bm75106]
-[@walker1996corrections, 7] so is not an issue, but nevertheless two anomalous tablets do overlap — see the
-[business tablets](../../standard/business/business.md#neriglissar) section for further discussion.
+[@walker1996corrections, 7] so can be excluded.
+
+Nevertheless, of the approximately 75 texts from the last year of Amel-Marduk and first year of Neriglissar, it is true
+that there are two texts with anomalous dates (BM 61325 and BM 75489) that have not yet been explained — see the
+[business tablets](../../standard/business/business.md#neriglissar) section for further details.
 
 ### Cyrus II to Cambyses II
 
@@ -105,11 +110,13 @@ therefore not reliable for chronological purposes.
 > if each king followed the other in the same year, without any breaks in between.
 
 But strangely absent from the article is any mention of the overlapping tablets between
-[Cyrus II and Cambyses II](../../standard/business/business.md#cambyses-ii), if we assume _The Watchtower_'s hypothesis
-is correct, it would imply either Cyrus II ruled for more than 9 years, or there could have been another ruler between.
+[Cyrus II and Cambyses II](../../standard/business/business.md#cambyses-ii), if we assume the Watch Tower's hypothesis
+is correct, it would indicate that either Cyrus II must have ruled for more than 9 years, or that there was an
+additional ruler in-between.
 
-This leads to a massive contradiction, because in part 1 of the same article, _The Watchtower_ quotes the very same
-overlapping business tablets as a key source for deducing the length of Cyrus II's reign to be 9 years long, and with it
-establish their entire chronology [@watch2011when1, 28].
+However, this leads to a substantial contradiction, because in part 1 of the same _Watchtower_ article, these
+overlapping business tablets are cited as the main source for deducing the length of Cyrus II's reign
+[to be 9 years long](../70_years/cyrus.md#bm-33066). The Watch Tower relies on these texts to establish the date of
+Babylon's fall, and in turn, the entire Watch Tower chronology [@watch2011when1, 28].
 
 ## References
