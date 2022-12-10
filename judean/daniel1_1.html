@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -162,7 +161,7 @@ capture (2 Kings 24:10; the 11th year of Jehoiakim), rather than the
 earlier invasion resulting in Jehoiakim becoming a vassal for 3 years (2
 Kings 24:1).</p>
 <h3 id="insight-book"><a class="header" href="#insight-book"><em>Insight</em> Book</a></h3>
-<p>Regarding Jehoiakim [1, p. 1269]:</p>
+<p>Regarding Jehoiakim [<a href="#ref-watch2018insight1">1</a>, p. 1269]:</p>
 <blockquote>
 <p>Second Kings 24:1 shows that Nebuchadnezzar brought pressure upon the
 Judean king “and so Jehoiakim became his servant [or vassal] for
@@ -202,7 +201,7 @@ and commanded that his dead body be thrown outside Jerusalem’s walls.
 death came, it appears that the copper fetters Nebuchadnezzar had
 brought along to bind Jehoiakim were not used as planned.—2Ch 36:6.</p>
 </blockquote>
-<p>Regarding Daniel [1, p. 576]:</p>
+<p>Regarding Daniel [<a href="#ref-watch2018insight1">1</a>, p. 576]:</p>
 <blockquote>
 <p>Very little is known of his early life, but he [Daniel] tells of
 being taken to Babylon, likely as a teenage prince, along with other
@@ -213,7 +212,7 @@ Jehoiachin, his son, ruled for a few months before surrendering. Early
 in 617 B.C.E., Jehoiachin and other “foremost men,” also young Daniel
 (2Ki 24:15), were taken into captivity by Nebuchadnezzar.</p>
 </blockquote>
-<p>Regarding Jehoiachin [1, p. 1267]:</p>
+<p>Regarding Jehoiachin [<a href="#ref-watch2018insight1">1</a>, p. 1267]:</p>
 <blockquote>
 <p>At the age of 18 Jehoiachin became king and continued the bad
 practices of his father. (2Ki 24:8, 9; 2Ch 36:9, ftn) Jehoiachin’s
@@ -235,8 +234,8 @@ Other members of the royal household, court officials, craftsmen, and
 warriors were also exiled.—2Ki 24:14-16</p>
 </blockquote>
 <h3 id="daniel-book"><a class="header" href="#daniel-book">Daniel Book</a></h3>
-<p>Regarding Daniel 1:1 and the 8th year of Jehoiakim (621 BC) [2, p.
-18]:</p>
+<p>Regarding Daniel 1:1 and the 8th year of Jehoiakim (621 BC)
+[<a href="#ref-watch2006pay">2</a>, p. 18]:</p>
 <blockquote>
 <p>Daniel 1:1 reads: “In the third year of the kingship of Jehoiakim the
 king of Judah, Nebuchadnezzar the king of Babylon came to Jerusalem
@@ -257,7 +256,7 @@ of the Jews living right in Jerusalem. So he referred to Jehoiakim’s
 kingship as starting when Pharaoh Necho made him king.</p>
 </blockquote>
 <p>Regarding the battle of Carchemish in the 4th year of Jehoiakim (625 BC)
-[2, p. 31]:</p>
+[<a href="#ref-watch2006pay">2</a>, p. 31]:</p>
 <blockquote>
 <p>In 625 B.C.E., Egyptian Pharaoh Necho… led his army to Carchemish… The
 Babylonian army, led by Crown Prince Nebuchadnezzar, inflicted a
@@ -275,7 +274,8 @@ However, he turned back and rebelled against him.”—2 Kings 24:1.</p>
 </blockquote>
 <h3 id="let-your-kingdom-come"><a class="header" href="#let-your-kingdom-come"><em>Let Your Kingdom Come</em></a></h3>
 <p><em>Let Your Kingdom Come</em> connects this issue with the various
-interpretation’s of Jeremiah’s 70-year prophecy [3, p. 188]:</p>
+interpretation’s of Jeremiah’s 70-year prophecy
+[<a href="#ref-watch1981let">3</a>, p. 188]:</p>
 <blockquote>
 <p>Later writers quote Berossus as saying that after the battle of
 Carchemish Nebuchadnezzar extended Babylonian influence into all
@@ -298,7 +298,8 @@ in Nebuchadnezzar’s accession year.—Antiquities of the Jews X, vi, 1.</p>
 <p>The idea behind interpreting Daniel 1:1 Jehoiakim as actually referring
 to the siege described in 2 Kings 24:10 may have originated with
 first-century historian Josephus, who dates the beginning of Jehoiakim’s
-servitude to his 8th year [4, pp. Ant X 6–7]:</p>
+servitude to his 8th year [<a href="#ref-whiston1737complete">4</a>, pp. Ant X
+6–7]:</p>
 <blockquote>
 <p>1. NOW in the fourth year of the reign of Jehoiakim, one whose name
 was Nebuchadnezzar took the government over the Babylonians, who at
@@ -349,9 +350,10 @@ kindred, and delivered them to the commanders sent by the king of
 Babylon…</p>
 </blockquote>
 <p>The earliest reference I could find in the Watch Tower Index for Daniel
-1:1 was the 1946 book <em>Equipped for Every Good Work</em> [5, p. 225],
-which was published a decade before the translation of the
-Nebuchadnezzar Chronicle <a href="../standard/chronicles/bm21946.html">BM 21946</a>:</p>
+1:1 was the 1946 book <em>Equipped for Every Good Work</em>
+[<a href="#ref-watch1946equipped">5</a>, p. 225], which was published a decade
+before the translation of the Nebuchadnezzar Chronicle <a href="../standard/chronicles/bm21946.html">BM
+21946</a>:</p>
 <blockquote>
 <p>But Daniel 1:1, 2 fixes the start of this first captivity in the
 “third year” of Jehoiakim, who started to reign in Judah in 628 B.C.
@@ -373,7 +375,7 @@ three-month reign of Jehoiakim’s successor Jehoiachin. Hence 618 B.C.
 was the time of the first captivity and the starting point of history
 in the book of Daniel.</p>
 </blockquote>
-<p>Regarding Daniel 2:1 it says [5, p. 226]:</p>
+<p>Regarding Daniel 2:1 it says [<a href="#ref-watch1946equipped">5</a>, p. 226]:</p>
 <blockquote>
 <p>The time of this dream and its interpretation is stated as the second
 year of Nebuchadnezzar’s reign. Actually, Nebuchadnezzar had been
@@ -402,22 +404,26 @@ chronicles.</p>
 <p>First the Watch Tower Society is reading Daniel 1:1 in a strange way -
 where ‘kingship’ is understood to refer not to the length of Jehoiakim’s
 rule over Judah, but to his time as a vassal to Nebuchadnezzar. Against
-this interpretation Mercer argues [6, p. 180]:</p>
+this interpretation Mercer argues [<a href="#ref-mercer1989daniel">6</a>, p.
+180]:</p>
 <blockquote>
 <p>Several commentators take the third year of Jehoiakim as being the
 last of the three years of servitude to Babylon mentioned in 2 Kgs
 24:1. This solution is unlikely, for the text of Daniel states that
 Nebuchadnezzar besieged Jerusalem “in the third year of the reign of
-Jehoiakim” (bšnṯ šlwš lmlḵwṯ), not “in the third year of the servitude
-of Jehoiakim” (bšnṯ šlwš lᶜḇwḏh)—as one might expect if the statement
-in Dan 1:1 were derived from 2 Kgs 24:1.</p>
+Jehoiakim” (bšnṯ šlwš lmlḵwṯ), not “in the third year of the
+servitude of Jehoiakim” (bšnṯ šlwš lᶜḇwḏh)—as one might expect if
+the statement in Dan 1:1 were derived from 2 Kgs 24:1.</p>
 </blockquote>
 <p>This causes an even more substantial problem — in Daniel 2:1 he speaks
 with Nebuchadnezzar during ‘the second year of his kingship’ - this
 would be impossible if Daniel was taken captive sometime around the 7th
 or 8th year of Nebuchadnezzar. This forces the Watch Tower to use yet
-another definition for ‘kingship’ [7, p. 481] [1, p. 576] [1, p.
-1186] [8, p. 18] [2, p. 46]</p>
+another definition for ‘kingship’ [<a href="#ref-watch2018insight2">7</a>, p.
+481] [<a href="#ref-watch2018insight1">1</a>, p. 576]
+[<a href="#ref-watch2018insight1">1</a>, p. 1186]
+[<a href="#ref-watch2007highlights">8</a>, p. 18] [<a href="#ref-watch2006pay">2</a>, p.
+46]</p>
 <blockquote>
 <p>The book of Daniel states that it was in “the second year” of
 Nebuchadnezzar’s kingship (probably counting from the destruction of
@@ -432,7 +438,8 @@ Nebuchadnezzar’s reign as world ruler (606/605 B.C.E.), God sent him a
 terrifying dream.</p>
 </blockquote>
 <p>In support of a less specific translation of ‘kingship’ or ‘reign’ Foley
-says [9, p. 33] [9, p. Appendix 6]:</p>
+says [<a href="#ref-foley2014time">9</a>, p. 33] [<a href="#ref-foley2014time">9</a>, p.
+Appendix 6]:</p>
 <blockquote>
 <p>In understanding the first problem, it may be important that the
 Hebrew word translated reign in Daniel 1:1 (NIV) is malchut which
@@ -467,30 +474,28 @@ Daniel it is used in Daniel 1:1, 2:1, 5:26, 6:28 (twice), 8:1, and
 8:23.</p>
 </blockquote>
 <p>However, Foley ultimately concludes that Daniel was taken during
-Nebuchadnezzar’s accession year [9, p. 34]:</p>
+Nebuchadnezzar’s accession year [<a href="#ref-foley2014time">9</a>, p. 34]:</p>
 <blockquote>
 <p>it would seem most likely that Daniel was taken from Jerusalem late in
 605 BC for the purpose of being trained in Babylonian ways. He
 completed this training very successfully, probably in 602 BC</p>
 </blockquote>
 <h3 id="death-of-jehoiakim"><a class="header" href="#death-of-jehoiakim">Death of Jehoiakim</a></h3>
-<p>As acknowledged in the Insight book [7, p. 480], <a href="../standard/chronicles/bm21946.html#translation">BM
-21946</a> states that
-<code>In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu</code>,
-and then that
-<code>on the second day of the month Adar [XII] he captured the city (and) seized (its) king.</code></p>
+<p>As acknowledged in the Insight book [<a href="#ref-watch2018insight2">7</a>, p.
+480], <a href="../standard/chronicles/bm21946.html#translation">BM 21946</a> states
+that <code>In the month Kislev [IX] the king of Akkad mustered his army and marched to Hattu</code>, and then that <code>on the second day of the month Adar [XII] he captured the city (and) seized (its) king.</code></p>
 <p>According to 2 Chronicles 36:9 and 2 Kings 24:8, Jehoiachin reigned in
 Jerusalem for 3 months and 10 days, subtracting this from the end of his
 rule on 2/XII, his rule must have began (and Jehoiakim must have died)
 around the end of month VIII, which would be before Nebuchadnezzar
-marched to Jerusalem. [10, p. 278]</p>
+marched to Jerusalem. [<a href="#ref-hyatt1956new">10</a>, p. 278]</p>
 <p>How can Daniel 1:2 where ‘Jehovah gave King Jehoiakim of Judah into his
 hand’ (NWT) and 2 Chronicles 36:6 where ‘Nebuchadnezzar of Babylon came
 up against him [Jehoiakim] in order to bind him with two copper
 fetters to take him off to Babylon’ (NWT) make sense in this context
 given that Jehoiakim had already died before Nebuchadnezzar marched
 against the city?</p>
-<p>According to Clines [11, p. 21]:</p>
+<p>According to Clines [<a href="#ref-clines1972regnal">11</a>, p. 21]:</p>
 <blockquote>
 <p>Some kind of an attack upon Jerusalem during the reign of Jehoiakim is
 demanded by the evidence of 2 Chr. 36:6f., which recounts that
@@ -527,11 +532,12 @@ Then Jehoiakim was laid to rest with his forefathers and his son
 Jehoiachin became king in his place. (2 Kings 24:1,2,6,10 NWT)</p>
 </blockquote>
 <p>According to the Watch Tower Jehoiakim began his three years servitude
-in his 8th year ‘early in 620 B.C.E.’ [1, p. 1269] and then rebelled
-at the end of the three years resulting in the siege of Jerusalem in
-‘618 B.C.E.’ [1, p. 1267]. The Insight book also states that it
-‘appears that Jehoiakim died during the siege of the city’ (or as proven
-above, he actually died just before it began).</p>
+in his 8th year ‘early in 620 B.C.E.’ [<a href="#ref-watch2018insight1">1</a>, p.
+1269] and then rebelled at the end of the three years resulting in the
+siege of Jerusalem in ‘618 B.C.E.’ [<a href="#ref-watch2018insight1">1</a>, p.
+1267]. The Insight book also states that it ‘appears that Jehoiakim
+died during the siege of the city’ (or as proven above, he actually died
+just before it began).</p>
 <p>When therefore would the multiple attacks of marauder bands have
 occurred if Jehoiakim’s rebellion (at the end of three years servitude)
 is immediately followed by his death and the accession of Jehoiachin?</p>
@@ -613,7 +619,7 @@ it does not seem to be consistent to place Daniel 1:2 and 2 Chronicles
 </tbody>
 </table>
 <p>Against this argument the Watch Tower states in the Kingdom Come book
-[3, p. 188]:</p>
+[<a href="#ref-watch1981let">3</a>, p. 188]:</p>
 <blockquote>
 <p>Jeremiah 52:28-30 carefully reports that Nebuchadnezzar took Jews
 captive in his seventh year, his 18th year and his 23rd year, not his
@@ -624,7 +630,7 @@ a complete count of the captives since it contradicts the number (and
 also year, depending on interpretation) of captives described in 2 Kings
 24:14 (3023 in the 7th year vs 10,000+ in the 8th year), so Jeremiah 52
 surely should not be treated as an exhaustive list of all captives taken
-by Nebuchadnezzar. [1, p. 415]</p>
+by Nebuchadnezzar. [<a href="#ref-watch2018insight1">1</a>, p. 415]</p>
 <h3 id="nebuchadnezzars-conquest-of-hattu"><a class="header" href="#nebuchadnezzars-conquest-of-hattu">Nebuchadnezzar’s Conquest of Hattu</a></h3>
 <p>The Nebuchadnezzar Chronicle <a href="../standard/chronicles/bm21946.html">BM
 21946</a> provides a detailed account of
@@ -708,9 +714,9 @@ taking the <strong>vast tribute</strong> he brought it into Babylon.</p>
 </blockquote>
 <p>Notably in the 7th year the chronicle describes the siege of Jerusalem
 where Jehoiachin is captured, and identifies it as being in the area of
-‘Hattu’. However, from the chronicle we can also see that Nebuchadnezzar
-also marched through Hattu in his accession, 1st-4th, and 6th years, and
-even more significantly in the 1st year:</p>
+‘Hattu’. However, from the chronicle we can also see that
+Nebuchadnezzar also marched through Hattu in his accession, 1st-4th, and
+6th years, and even more significantly in the 1st year:</p>
 <blockquote>
 <p>All the kings of Hattu came into his presence and he received their
 <strong>vast tribute</strong>.</p>
@@ -719,7 +725,8 @@ even more significantly in the 1st year:</p>
 of Nebuchadnezzar until his 8th year as dated by the Watch Tower,
 instead is it was likely to be sometime as early as the autumn of
 Nebuchadnezzar’s accession year (the 4th year of Jehoiakim).</p>
-<p>Against this argument the Kingdom Come book says [3, p. 188]:</p>
+<p>Against this argument the Kingdom Come book says
+[<a href="#ref-watch1981let">3</a>, p. 188]:</p>
 <blockquote>
 <p>Though Berossus claims that Nebuchadnezzar took Jewish captives in his
 accession year, there are no cuneiform documents supporting this.</p>
@@ -727,7 +734,8 @@ accession year, there are no cuneiform documents supporting this.</p>
 <p>However, the tributes described in the chronicles should be interpreted
 as including captives, such as in 7th year when Nebuchadnezzar took
 ‘vast tribute’, which we already know must have included captives (Jer
-52:28, 2 Kings 24:14), according to Larsson [12]:</p>
+52:28, 2 Kings 24:14), according to Larsson
+[<a href="#ref-larsson1967when">12</a>]:</p>
 <blockquote>
 <p>In the ‘accession year’ Nebuchadrezzar went back again to the Hatti
 land and until the month of Sebat marched unopposed through the Hatti
@@ -755,8 +763,10 @@ to Nebuchadnezzar’s accession).</li>
 years of Nebuchadnezzar.</li>
 <li><a href="./solutions/hyatt.html#subjugation-of-judah">Hyatt</a>: Accession or 1st
 years of Nebuchadnezzar.</li>
-<li>Mercer [6, p. 192]: Midsummer of Nebuchadnezzar’s accession year.</li>
-<li>Larsson [12, p. 419]: Accession year of Nebuchadnezzar.</li>
+<li>Mercer [<a href="#ref-mercer1989daniel">6</a>, p. 192]: Midsummer of
+Nebuchadnezzar’s accession year.</li>
+<li>Larsson [<a href="#ref-larsson1967when">12</a>, p. 419]: Accession year of
+Nebuchadnezzar.</li>
 </ul>
 <p>If we took the <a href="./solutions/watchtower.html">Watch Tower Judean
 chronology</a> but instead dated the subjugation
@@ -796,7 +806,7 @@ accession year then we can count inclusively 3 years of training (Daniel
 </table>
 <p>Does this matter? Do the events in chapter 2 do have to follow the 3
 years training or could they have taken place concurrently? According to
-Jones [13, p. 189]:</p>
+Jones [<a href="#ref-jones2019chronology">13</a>, p. 189]:</p>
 <blockquote>
 <p>it simply would not be possible that Daniel and his three friends
 could be so highly elevated in the affairs of the government of
@@ -807,7 +817,7 @@ though they were yet mere students. But such would be the case were
 the happenings of chapter 2 imbedded somewhere within the three-year
 time frame of chapter 1.</p>
 </blockquote>
-<p>Clines says [11, p. 28]:</p>
+<p>Clines says [<a href="#ref-clines1972regnal">11</a>, p. 28]:</p>
 <blockquote>
 <p>Further, it may be urged that the dates in Daniel are not
 self-consistent, and that it is not worth attempting to justify the
@@ -821,7 +831,7 @@ maintained that the ‘3 years’ of 1:15 (sic) are counted inclusively;
 but against that must be set the evidence for a fixed period of 3 full
 years’ education, at least in the Persian court.</p>
 </blockquote>
-<p>Mercer says [6, p. 187]:</p>
+<p>Mercer says [<a href="#ref-mercer1989daniel">6</a>, p. 187]:</p>
 <blockquote>
 <p>Some commentators hold that the three years of Dan 1:5 were not three
 full years (e-g., Driver, p. 17; Young, pp. 55-56). They would say
@@ -844,13 +854,13 @@ after the story in Dan 1:8-17, but before the end of the three-year
 period.</p>
 </blockquote>
 <h3 id="timing-of-jehoiakims-rebellion"><a class="header" href="#timing-of-jehoiakims-rebellion">Timing of Jehoiakim’s Rebellion</a></h3>
-<p>According to Tadmor [14, p. 229]:</p>
+<p>According to Tadmor [<a href="#ref-tadmor1956chronology">14</a>, p. 229]:</p>
 <blockquote>
 <p>The revolt in 601 might have been connected with the new ascendency of
 Egypt, whose new strength is evident from the defeat inflicted by
 Necho on the attacking armies of Babylon in that year.</p>
 </blockquote>
-<p>According to Hyatt [10, p. 280]:</p>
+<p>According to Hyatt [<a href="#ref-hyatt1956new">10</a>, p. 280]:</p>
 <blockquote>
 <p>In his 3rd and 4th years Nebuchadrezzar was back in Hatti. In the
 latter year he came into direct conflict with the Egyptian army. After
@@ -873,7 +883,7 @@ tell whether Jehoiakim’s change of allegiance brought on the invasion
 by Nebuchadrezzar, or whether Jehoiakim rebelled after he saw the
 success of Egypt. The latter seems more logical.</p>
 </blockquote>
-<p>According to Mercer [6, pp. 188, 190]:</p>
+<p>According to Mercer [<a href="#ref-mercer1989daniel">6</a>, pp. 188, 190]:</p>
 <blockquote>
 <p>At an unspecified time in his fourth year (30 Mar. 601-18 Mar. 600),
 Nebuchadnezzar returned to Palestine. It was during this campaign (in
@@ -901,51 +911,81 @@ during which Jehoiakim paid tribute to Nebuchadnezzar would mean that he
 must have become vassal somewhere around the accession or 1st year of
 Nebuchadnezzar.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch2018insight1">
 <p>[1] <em>Insight on the Scriptures - Volume 1: Aaron-Jehoshua</em>, vol. 1.
 Watch Tower Bible and Tract Society, 2018, [Online]. Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+<div id="ref-watch2006pay">
 <p>[2] <em>Pay Attention to Daniel’s Prophecy!</em> Watch Tower Bible and Tract
 Society, 2006, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/publication/r1/lp-e/dp">https://wol.jw.org/en/wol/publication/r1/lp-e/dp</a>.</p>
+</div>
+<div id="ref-watch1981let">
 <p>[3] <em>Let your Kingdom Come</em>. Watch Tower Bible; Tract Society, 1981,
 [Online]. Available:
 <a href="https://wol.jw.org/en/wol/publication/r1/lp-e/kc">https://wol.jw.org/en/wol/publication/r1/lp-e/kc</a>.</p>
+</div>
+<div id="ref-whiston1737complete">
 <p>[4] W. Whiston, <em>The Complete Works of Flavius Josephus. Translated by
 William Whiston.</em> 1737, [Online]. Available:
 <a href="http://www.ultimatebiblereferencelibrary.com/Complete_Works_of_Josephus.pdf">http://www.ultimatebiblereferencelibrary.com/Complete_Works_of_Josephus.pdf</a>.</p>
+</div>
+<div id="ref-watch1946equipped">
 <p>[5] <em>Equipped for Every Good Work</em>. Watch Tower Bible; Tract Society,
 1946, [Online]. Available:
 <a href="https://ia600902.us.archive.org/5/items/WatchtowerLibrary/manuals/1946_eqd_E.pdf">https://ia600902.us.archive.org/5/items/WatchtowerLibrary/manuals/1946_eqd_E.pdf</a>.</p>
+</div>
+<div id="ref-mercer1989daniel">
 <p>[6] M. K. Mercer, “Daniel 1:1 and Jehoiakim’s Three Years of
 Servitude,” <em>Andrews University Seminary Studies (AUSS)</em>, vol. 27, no.
 3, p. 9, 1989, [Online]. Available:
 <a href="https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1885&amp;context=auss">https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1885&amp;context=auss</a>.</p>
+</div>
+<div id="ref-watch2018insight2">
 <p>[7] <em>Insight on the Scriptures - Volume 2: Jehovah-Zuzim and Index</em>,
 vol. 2. Watch Tower Bible and Tract Society, 2018, [Online].
 Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+<div id="ref-watch2007highlights">
 <p>[8] “Highlights From the Book of Daniel,” <em>The Watchtower Announcing
 Jehovah’s Kingdom</em>, pp. 17–20, Sep. 2007, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/d/r1/lp-e/2007644">https://wol.jw.org/en/wol/d/r1/lp-e/2007644</a>.</p>
+</div>
+<div id="ref-foley2014time">
 <p>[9] I. Foley, <em>The Time Is Near: Volume 1—A Reference Commentary on
 the Visions of Daniel</em>. Balboa Press AU, 2014, [Online]. Available:
 <a href="https://books.google.co.uk/books?id=ueTDBAAAQBAJ">https://books.google.co.uk/books?id=ueTDBAAAQBAJ</a>.</p>
+</div>
+<div id="ref-hyatt1956new">
 <p>[10] J. P. Hyatt, “New Light on Nebuchadrezzar and Judean History,”
 <em>Journal of Biblical Literature</em>, vol. 75, no. 4, pp. 277–284, 1956,
 [Online]. Available: <a href="http://www.jstor.org/stable/3261261">http://www.jstor.org/stable/3261261</a>.</p>
+</div>
+<div id="ref-clines1972regnal">
 <p>[11] D. J. Clines, “Regnal year reckoning in the last years of the
 Kingdom of Judah,” <em>Australian Journal of Biblical Archaeology</em>, vol. 2,
 pp. 9–34, 1972, [Online]. Available:
 <a href="https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf">https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf</a>.</p>
+</div>
+<div id="ref-larsson1967when">
 <p>[12] G. Larsson, “When Did the Babylonian Captivity Begin?” <em>The
 Journal of Theological Studies</em>, vol. 18, no. 2, pp. 417–423, 1967,
 [Online]. Available: <a href="http://www.jstor.org/stable/23957777">http://www.jstor.org/stable/23957777</a>.</p>
+</div>
+<div id="ref-jones2019chronology">
 <p>[13] F. N. Jones, <em>Chronology of the Old Testament: A Return to the
 Basics</em>, 21st ed. Master Books, 2019, [Online]. Available:
 <a href="https://www.floydnolenjonesministries.com/files/135786316.pdf">https://www.floydnolenjonesministries.com/files/135786316.pdf</a>.</p>
+</div>
+<div id="ref-tadmor1956chronology">
 <p>[14] H. Tadmor, “Chronology of the Last Kings of Judah,” <em>Journal of
 Near Eastern Studies</em>, vol. 15, no. 4, pp. 226–230, 1956, [Online].
 Available: <a href="http://www.jstor.org/stable/542196">http://www.jstor.org/stable/542196</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -979,18 +1019,18 @@ Available: <a href="http://www.jstor.org/stable/542196">http://www.jstor.org/sta
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 

@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -159,8 +158,8 @@ Times’.</p>
 <p>The ‘Gentile times’ is an interpretation of a prophecy found in Luke
 21:24 combined with Daniel chapter 4. These times are believed to be
 2520 years long, starting from the destruction of Jerusalem in 607 BC
-and ending in 1914 AD [1, p. 215].</p>
-<p>According to <em>The Watchtower</em> 1986 [2]:</p>
+and ending in 1914 AD [<a href="#ref-watch2014what">1</a>, p. 215].</p>
+<p>According to <em>The Watchtower</em> 1986 [<a href="#ref-watch1986questions">2</a>]:</p>
 <blockquote>
 <p>Approved association with Jehovah’s Witnesses requires accepting the
 entire range of the true teachings of the Bible, including those
@@ -171,11 +170,11 @@ the time for Christ’s foretold presence.</p>
 </blockquote>
 <p>In addition, the ‘end of the Gentile Times’ in 1914 is also used as a
 foundation for a number of other interpretations of prophesy in the
-‘Time of the End’ [3, p. 286]:</p>
+‘Time of the End’ [<a href="#ref-watch2006pay">3</a>, p. 286]:</p>
 <p>Daniel 12:7: ‘a time, times and half a time’ is interpreted as a period
 of 1260 days running from December 1914 (release of 1915 year text) to
 21 June 1918 (the sentencing of J.F. Rutherford and other directors of
-the Watch Tower Society) [4, p. 9].</p>
+the Watch Tower Society) [<a href="#ref-watch1993daniel">4</a>, p. 9].</p>
 <p>Daniel 12:11: ‘1290 days’ is counted from the January 1919 (the proposal
 of the League of Nations) until September 1922 (Bible student convention
 at Cedar Point, Ohio, U.S.A).</p>
@@ -183,18 +182,28 @@ at Cedar Point, Ohio, U.S.A).</p>
 above) until May 1926 (adoption of ‘A Testimony to the Rulers of the
 World’, at the London convention).</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch2014what">
 <p>[1] <em>What Does the Bible Really Teach?</em> Watch Tower Bible and Tract
 Society, 2014, [Online]. Available:
 <a href="https://www.jw.org/en/library/books/bible-teach/">https://www.jw.org/en/library/books/bible-teach/</a>.</p>
+</div>
+<div id="ref-watch1986questions">
 <p>[2] “Questions From Readers,” <em>The Watchtower Announcing Jehovah’s
 Kingdom</em>, pp. 30–31, Apr. 1986, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1986249">https://wol.jw.org/en/wol/d/r1/lp-e/1986249</a>.</p>
+</div>
+<div id="ref-watch2006pay">
 <p>[3] <em>Pay Attention to Daniel’s Prophecy!</em> Watch Tower Bible and Tract
 Society, 2006, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/publication/r1/lp-e/dp">https://wol.jw.org/en/wol/publication/r1/lp-e/dp</a>.</p>
+</div>
+<div id="ref-watch1993daniel">
 <p>[4] “Daniel’s Prophetic Days and Our Faith,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 7–12, Nov. 1993, [Online].
 Available: <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1993802">https://wol.jw.org/en/wol/d/r1/lp-e/1993802</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -228,18 +237,18 @@ Available: <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1993802">https://wol.jw.
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 

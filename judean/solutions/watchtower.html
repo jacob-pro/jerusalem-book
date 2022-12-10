@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -349,7 +348,8 @@ in the section.</p>
 Jehoiachin</a> below.</p>
 <h2 id="discussion"><a class="header" href="#discussion">Discussion</a></h2>
 <h3 id="battle-of-megiddo"><a class="header" href="#battle-of-megiddo">Battle of Megiddo</a></h3>
-<p>In the <em>Insight</em> book Josiah’s death is dated 629 BC [1, p. 118]:</p>
+<p>In the <em>Insight</em> book Josiah’s death is dated 629 BC
+[<a href="#ref-watch2018insight2">1</a>, p. 118]:</p>
 <blockquote>
 <p>Toward the close of Josiah’s 31-year reign (659-629 B.C.E.), Pharaoh
 Necho led his army northward to the aid of the Assyrians. For a reason
@@ -364,10 +364,13 @@ arrival there.</p>
 crossed the Euphrates to help the king of Assyria in Duzu (month IV) of
 the 17th year of Nabopolassar, therefore Josiah must have died prior to
 this when he intercepted Necho at Megiddo, which would therefore be
-around month III 629 BC [2, p. 228] [3, p. 139] [4, p. 31] [5, p.
-29] [6, p. 17] [7, p. 208].</p>
+around month III 629 BC [<a href="#ref-tadmor1956chronology">2</a>, p. 228]
+[<a href="#ref-malamat1967last">3</a>, p. 139]
+[<a href="#ref-albright1956nebuchadnezzar">4</a>, p. 31]
+[<a href="#ref-clines1972regnal">5</a>, p. 29] [<a href="#ref-horn1967babylonian">6</a>, p.
+17] [<a href="#ref-hyatt1966beginning">7</a>, p. 208].</p>
 <p>The <em>Insight</em> book acknowledges and accepts this interpretation of the
-chronicle [8, p. 205]:</p>
+chronicle [<a href="#ref-watch2018insight1">8</a>, p. 205]:</p>
 <blockquote>
 <p>This chronicle states, under the 17th year of Nabopolassar (629
 B.C.E.): “In the month Duʼuzu, Ashur-uballit, king of Assyria, (and) a
@@ -386,7 +389,7 @@ campaign against Haran did not succeed. The Assyrian Empire had ended.</p>
 <p>However, this now leads to a substantial contradiction with the rest of
 the Watch Tower’s chronology. The Insight book requires that Jehoiakim’s
 1st year began in 628 BC (such that his 11th year coincided with
-Nebuchadnezzar’s 7th) [8, p. 698]:</p>
+Nebuchadnezzar’s 7th) [<a href="#ref-watch2018insight1">8</a>, p. 698]:</p>
 <blockquote>
 <p>Three months later (in 628 B.C.E.) Nechoh removed Josiah’s son and
 successor Jehoahaz from the Judean throne and replaced him with his
@@ -394,7 +397,7 @@ brother Eliakim (renamed Jehoiakim), carrying Jehoahaz captive to
 Egypt. (2Ki 23:31-35; 2Ch 36:1-4; compare Eze 19:1-4.)</p>
 </blockquote>
 <p>Prior to Jehoiakim, the Insight book places Jehoahaz’ 3-month reign at
-the start of 628 BC [8, p. 1265]:</p>
+the start of 628 BC [<a href="#ref-watch2018insight1">8</a>, p. 1265]:</p>
 <blockquote>
 <p>Jehoahaz was 23 years old when made king, and he ruled badly for three
 months in the early part of the year 628 B.C.E., until he was
@@ -407,8 +410,8 @@ later than month IV, and the accession of Jehoahaz no earlier than month
 X (such that after adding 3 months Jehoiakim’s 1st year began in 628
 BC).</p>
 <p>There is further evidence for this issue given that <em>The Watchtower</em>
-1979 contradicts the Insight book, dating Josiah’s death to 628 BC [9,
-p. 25]:</p>
+1979 contradicts the Insight book, dating Josiah’s death to 628 BC
+[<a href="#ref-watch1979royal">9</a>, p. 25]:</p>
 <blockquote>
 <p>After the death of good King Josiah in 628 B.C.E., his three sons and
 a grandson proved to be bad in their dealings.</p>
@@ -417,8 +420,9 @@ a grandson proved to be bad in their dealings.</p>
 Tower</a>, however they declined to answer
 my question.</p>
 <h3 id="battle-of-carchemish"><a class="header" href="#battle-of-carchemish">Battle of Carchemish</a></h3>
-<p>The Insight book dates the battle of Carchemish to 625 BC [8, p. 1268]
-[8, p. 418] [1, p. 480]:</p>
+<p>The Insight book dates the battle of Carchemish to 625 BC
+[<a href="#ref-watch2018insight1">8</a>, p. 1268] [<a href="#ref-watch2018insight1">8</a>,
+p. 418] [<a href="#ref-watch2018insight2">1</a>, p. 480]:</p>
 <blockquote>
 <p>The fourth year of the reign of Jehoiakim (625 B.C.E.) saw
 Nebuchadnezzar defeat Pharaoh Necho in a battle over the domination of
@@ -442,7 +446,8 @@ year of Judean King Jehoiakim (625 B.C.E.).—Jer 46:2.</p>
 </blockquote>
 <h3 id="capture-of-jehoiachin"><a class="header" href="#capture-of-jehoiachin">Capture of Jehoiachin</a></h3>
 <p>The capture of Jehoiachin is explained in the context of accession vs
-non-accession dating [1, p. 480] [10, p. 88]:</p>
+non-accession dating [<a href="#ref-watch2018insight2">1</a>, p. 480]
+[<a href="#ref-watch1969babylonian">10</a>, p. 88]:</p>
 <blockquote>
 <p>Later, the rebellion of Judean King Jehoiakim against Nebuchadnezzar
 evidently resulted in a siege being laid against Jerusalem by the
@@ -461,7 +466,7 @@ Nebuchadrezzar) in his seventh regnal year (or eighth year from his
 accession to the throne). (Jer. 52:28; 2 Ki. 24:12)</p>
 </blockquote>
 <p>Regarding the difference in the numbers of captives between 2 Kings and
-Jeremiah 52 [8, p. 415]:</p>
+Jeremiah 52 [<a href="#ref-watch2018insight1">8</a>, p. 415]:</p>
 <blockquote>
 <p>But it was more than a decade later, in 617 B.C.E., that the first
 captives from Jerusalem were taken into exile at Babylon.
@@ -469,8 +474,8 @@ Nebuchadnezzar came against the rebellious city and carried off the
 upper class of the population, including King Jehoiachin and his
 mother, and men such as Ezekiel, Daniel, Hananiah, Mishael, and
 Azariah, together with “the princes and all the valiant, mighty
-men—ten thousand he was taking into exile—and also every craftsman and
-builder of bulwarks. No one had been left behind except the lowly
+men—ten thousand he was taking into exile—and also every craftsman
+and builder of bulwarks. No one had been left behind except the lowly
 class of the people . . . Court officials and the foremost men of the
 land he led away as exiled people from Jerusalem to Babylon. As for
 all the valiant men, seven thousand, and the craftsmen and the
@@ -486,14 +491,15 @@ those who were family heads—their wives and children, numbering
 thousands, not being included in the figure.</p>
 </blockquote>
 <p>However, Green argues against the idea that Jeremiah 52:28 only refers
-to the adult males [11, p. 64]:</p>
+to the adult males [<a href="#ref-green1982chronology">11</a>, p. 64]:</p>
 <blockquote>
 <p>Bright’s theory that the 3,023 in Jeremiah refer only to adult males
 does not narrow the gap because all the classification listed in Kings
 are certainly men.</p>
 </blockquote>
 <h3 id="capture-of-zedekiah"><a class="header" href="#capture-of-zedekiah">Capture of Zedekiah</a></h3>
-<p>Likewise for the capture of Zedekiah [1, p. 481]:</p>
+<p>Likewise for the capture of Zedekiah [<a href="#ref-watch2018insight2">1</a>, p.
+481]:</p>
 <blockquote>
 <p>Sometime later Zedekiah rebelled against Nebuchadnezzar, allying
 himself with Egypt for military protection. (Eze 17:15; compare Jer
@@ -509,7 +515,8 @@ Zedekiah’s reign (Nebuchadnezzar’s 19th year if counting from his
 accession year or his 18th regnal year), a breach was made in
 Jerusalem’s wall.</p>
 </blockquote>
-<p>Similar comments are made regarding the number of exiles [8, p. 416]:</p>
+<p>Similar comments are made regarding the number of exiles
+[<a href="#ref-watch2018insight1">8</a>, p. 416]:</p>
 <blockquote>
 <p>Zedekiah’s sons, the princes of Judah, court officials, certain
 priests, and many other prominent citizens were put to death at the
@@ -523,7 +530,7 @@ counted. —Jer 52:29.</p>
 <p>The Watch Tower’s chronology appears to be unclear and contradictory
 when it comes to the start of Amel-Marduk’s reign and hence release of
 Jehoiachin. The <em>Insight</em> book claims that Nebuchadnezzar ruled for 43
-years ending in 582 BC [1, p. 480]:</p>
+years ending in 582 BC [<a href="#ref-watch2018insight2">1</a>, p. 480]:</p>
 <blockquote>
 <p>Second ruler of the Neo-Babylonian Empire; son of Nabopolassar and
 father of Awil-Marduk (Evil-merodach), who succeeded him to the
@@ -531,7 +538,8 @@ throne. Nebuchadnezzar ruled as king for 43 years (624-582 B.C.E.)</p>
 </blockquote>
 <p>But it also claims that Amel-Marduk’s accession year (in which
 Jehoiachin was released) spanned the year 581 BC to 580 BC, leaving an
-unexplained gap between [8, p. 773] [8, p. 1267]:</p>
+unexplained gap between [<a href="#ref-watch2018insight1">8</a>, p. 773]
+[<a href="#ref-watch2018insight1">8</a>, p. 1267]:</p>
 <blockquote>
 <p>The Babylonian king who succeeded Nebuchadnezzar to the throne in 581
 B.C.E. In the year of his becoming king, Evil-merodach extended
@@ -548,46 +556,70 @@ the other captive kings. Thereafter he ate at Evil-merodach’s table
 and received a daily allowance.—2Ki 25:27-30; Jer 52:31-34.</p>
 </blockquote>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch2018insight2">
 <p>[1] <em>Insight on the Scriptures - Volume 2: Jehovah-Zuzim and Index</em>,
 vol. 2. Watch Tower Bible and Tract Society, 2018, [Online].
 Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+<div id="ref-tadmor1956chronology">
 <p>[2] H. Tadmor, “Chronology of the Last Kings of Judah,” <em>Journal of
 Near Eastern Studies</em>, vol. 15, no. 4, pp. 226–230, 1956, [Online].
 Available: <a href="http://www.jstor.org/stable/542196">http://www.jstor.org/stable/542196</a>.</p>
+</div>
+<div id="ref-malamat1967last">
 <p>[3] A. Malamat, “The Last Kings of Judah and the Fall of Jerusalem: An
 Historical—Chronological Study,” <em>Israel Exploration Journal</em>, vol. 18,
 no. 3, pp. 137–156, 1968, [Online]. Available:
 <a href="http://www.jstor.org/stable/27925138">http://www.jstor.org/stable/27925138</a>.</p>
+</div>
+<div id="ref-albright1956nebuchadnezzar">
 <p>[4] W. F. Albright, “The Nebuchadnezzar and Neriglissar Chronicles,”
 <em>Bulletin of the American Schools of Oriental Research</em>, no. 143, pp.
 28–33, 1956, [Online]. Available:
 <a href="https://www.jstor.org/stable/1355927">https://www.jstor.org/stable/1355927</a>.</p>
+</div>
+<div id="ref-clines1972regnal">
 <p>[5] D. J. Clines, “Regnal year reckoning in the last years of the
 Kingdom of Judah,” <em>Australian Journal of Biblical Archaeology</em>, vol. 2,
 pp. 9–34, 1972, [Online]. Available:
 <a href="https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf">https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf</a>.</p>
+</div>
+<div id="ref-horn1967babylonian">
 <p>[6] S. H. Horn, “The Babylonian Chronicle and the Ancient Calendar of
 the Kingdom of Judah,” <em>Andrews University Seminary Studies (AUSS)</em>,
 vol. 5, no. 1, p. 2, 1967, [Online]. Available:
 <a href="https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1051&amp;context=auss">https://digitalcommons.andrews.edu/cgi/viewcontent.cgi?article=1051&amp;context=auss</a>.</p>
+</div>
+<div id="ref-hyatt1966beginning">
 <p>[7] J. P. Hyatt, “The Beginning of Jeremiah’s Prophecy,” <em>Zeitschrift
 für die alttestamentliche Wissenschaft</em>, vol. 78, no. 2, pp. 204–214,
 1966, [Online]. Available:
 <a href="https://www.degruyter.com/document/doi/10.1515/zatw.1966.78.2.204/html">https://www.degruyter.com/document/doi/10.1515/zatw.1966.78.2.204/html</a>.</p>
+</div>
+<div id="ref-watch2018insight1">
 <p>[8] <em>Insight on the Scriptures - Volume 1: Aaron-Jehoshua</em>, vol. 1.
 Watch Tower Bible and Tract Society, 2018, [Online]. Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+<div id="ref-watch1979royal">
 <p>[9] “The Royal ‘Shepherd’ of Bible Prophecy,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 24–31, Sep. 1979, [Online].
 Available: <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1979648">https://wol.jw.org/en/wol/d/r1/lp-e/1979648</a>.</p>
+</div>
+<div id="ref-watch1969babylonian">
 <p>[10] “Babylonian Chronology—How Reliable?” <em>The Watchtower Announcing
 Jehovah’s Kingdom</em>, pp. 88–92, Feb. 1969, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1969086">https://wol.jw.org/en/wol/d/r1/lp-e/1969086</a>.</p>
+</div>
+<div id="ref-green1982chronology">
 <p>[11] A. R. Green, “The Chronology of the Last Days of Judah: Two
 Apparent Discrepancies,” <em>Journal of Biblical Literature</em>, vol. 101, no.
 1, pp. 57–73, 1982, [Online]. Available:
 <a href="http://www.jstor.org/stable/3260440">http://www.jstor.org/stable/3260440</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -621,18 +653,18 @@ Apparent Discrepancies,” <em>Journal of Biblical Literature</em>, vol. 101, no
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

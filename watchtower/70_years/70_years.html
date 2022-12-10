@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -154,8 +153,9 @@
                     <main>
                         <h1 id="jeremiahs-70-year-prophecy"><a class="header" href="#jeremiahs-70-year-prophecy">Jeremiah’s 70-Year Prophecy</a></h1>
 <p>The key to the Watch Tower’s ‘Bible chronology’ is their interpretation
-of the prophecy written in Jeremiah 25:11 [1, p. 463], describing a
-70-year period where Judah will serve the king of Babylon [2, p. 26]:</p>
+of the prophecy written in Jeremiah 25:11 [<a href="#ref-watch2018insight1">1</a>,
+p. 463], describing a 70-year period where Judah will serve the king of
+Babylon [<a href="#ref-watch2011when1">2</a>, p. 26]:</p>
 <blockquote>
 <p>Years before the destruction, the Jewish prophet Jeremiah provided an
 essential clue to the time frame given in the Bible. He warned “all
@@ -169,7 +169,7 @@ bringing you back to this place.’” (Jeremiah 29:10)</p>
 </blockquote>
 <p>They believe that the 70 years began in the 7th month of Zedekiah’s 11th
 year / Nebuchadnezzar’s 18th year, when the land of Judah became
-unworked and deserted [2, p. 27]:</p>
+unworked and deserted [<a href="#ref-watch2011when1">2</a>, p. 27]:</p>
 <blockquote>
 <p>Thus, the 70 years were to be a period when the land of Judah and
 Jerusalem would enjoy “sabbath rests.” This meant that the land would
@@ -190,7 +190,8 @@ desolate and unworked, began to enjoy its Sabbath rest.</p>
 </blockquote>
 <p>They believe that the 70 years ended when the Jews had returned to
 Jerusalem, which they date to the 2nd year of Cyrus II in 537 BC
-(following the proclamation in the first year) [2, p. 28]:</p>
+(following the proclamation in the first year)
+[<a href="#ref-watch2011when1">2</a>, p. 28]:</p>
 <blockquote>
 <p>Ezra reflected on the prophecies of Jeremiah and linked the end of
 “the seventy years” to the time when “the LORD moved the heart of
@@ -201,20 +202,26 @@ fall of 537 B.C.E., the Jews had returned to Jerusalem to restore true
 worship.—Ezra 1:1-5; 2:1; 3:1-5.</p>
 </blockquote>
 <p>Then finally by counting back 70 years they arrive at 607 BC for the
-destruction of Jerusalem [2, p. 28]:</p>
+destruction of Jerusalem [<a href="#ref-watch2011when1">2</a>, p. 28]:</p>
 <blockquote>
 <p>According to Bible chronology, then, the 70 years was a literal period
 of time that ended in 537 B.C.E. Counting back 70 years, the start
 date of the period would be 607 B.C.E.</p>
 </blockquote>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch2018insight1">
 <p>[1] <em>Insight on the Scriptures - Volume 1: Aaron-Jehoshua</em>, vol. 1.
 Watch Tower Bible and Tract Society, 2018, [Online]. Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+<div id="ref-watch2011when1">
 <p>[2] “When Was Ancient Jerusalem Destroyed?—Part One,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 26–31, Oct. 2011, [Online].
 Available:
 <a href="https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/">https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -248,18 +255,18 @@ Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -153,12 +152,14 @@
                 <div id="content" class="content">
                     <main>
                         <h1 id="hillah-stele"><a class="header" href="#hillah-stele">Hillah Stele</a></h1>
-<p>Known as Nabonidus inscription No.8 [1, p. 351] [2, p. 270], or
-Inscription No. 1 [3].</p>
-<p>First Published: 1896 by V. Scheil [4] and also L. Messerschmidt
-[5].</p>
+<p>Known as Nabonidus inscription No.8 [<a href="#ref-tadmor1965inscriptions">1</a>,
+p. 351] [<a href="#ref-langdon1912neubabylonischen">2</a>, p. 270], or
+Inscription No. 1 [<a href="#ref-beaulieu1989reign">3</a>].</p>
+<p>First Published: 1896 by V. Scheil [<a href="#ref-schiel1896inscription">4</a>]
+and also L. Messerschmidt [<a href="#ref-messerschmidt1896die">5</a>].</p>
 <h2 id="translation"><a class="header" href="#translation">Translation</a></h2>
-<p>From Col. X [3, p. 107] see also [6, p. 311]:</p>
+<p>From Col. X [<a href="#ref-beaulieu1989reign">3</a>, p. 107] see also
+[<a href="#ref-pritchard1969ancient">6</a>, p. 311]:</p>
 <blockquote>
 <p>[As to the temples of the gods] whose storehouses [were empty?]
 and where they had not established their residence [since…..],
@@ -176,14 +177,13 @@ ordered their gathering.</p>
 </blockquote>
 <h2 id="key-information"><a class="header" href="#key-information">Key Information</a></h2>
 <p>The temple in Harran was destroyed during the 16th year of Nabopolassar:</p>
-<p><a href="nabon24.html">Adad Guppi Stele</a> Col i Lines 6-9:
-<code>Whereas in the 16th year of Nabopolassar, king of Babylon, Sin, king of the gods, with his city and his temple was angry and went up to heaven—the city and the people that (were) in it went to ruin.</code></p>
-<p><a href="chronicles/bm21901.html">Fall of Nineveh Chronicle</a> Lines 58, 63-64:
-<code>The sixteenth year: ... The king of Akkad reached Harran and [...] he captured the city. He carried off the vast booty of the city and the temple.</code></p>
+<p><a href="nabon24.html">Adad Guppi Stele</a> Col i Lines 6-9: <code>Whereas in the 16th year of Nabopolassar, king of Babylon, Sin, king of the gods, with his city and his temple was angry and went up to heaven—the city and the people that (were) in it went to ruin.</code></p>
+<p><a href="chronicles/bm21901.html">Fall of Nineveh Chronicle</a> Lines 58, 63-64: <code>The sixteenth year: ... The king of Akkad reached Harran and [...] he captured the city. He carried off the vast booty of the city and the temple.</code></p>
 <p>Later the <a href="nabon24.html">Adad Guppi Stele</a> Col i Lines 37-40 says:
 <code>Towards E-h̬ul-h̬ul the temple of Sin which (is) in Harran, the abode of his heart's delight, he was reconciled, he had regard. Sin, king of the gods, looked upon me and Nabu-na'id (my) only son, the issue of my womb, to the kingship</code>.</p>
 <p>According to Tadmor the inscription therefore counts 54 years from the
-16th year of Nabopolassar to the accession of Nabonidus [1, p. 355]:</p>
+16th year of Nabopolassar to the accession of Nabonidus
+[<a href="#ref-tadmor1965inscriptions">1</a>, p. 355]:</p>
 <blockquote>
 <p>The 54 years are counted from 610, the sixteenth year of Nabopalassar
 (when Sin “was angry with his city and his house and went up to
@@ -198,24 +198,38 @@ coming to the throne exactly 54 years after the destruction of Harran
 become reconciled.</p>
 </blockquote>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-tadmor1965inscriptions">
 <p>[1] H. Tadmor, <em>Inscriptions of Nabunaid: Historical Arrangement</em>,
 vol. 16. 1965, pp. 351–363, [Online]. Available:
 <a href="https://oi.uchicago.edu/research/publications/as/16-studies-honor-benno-landsberger-his-seventy-fifth-birthday-april-21-1963">https://oi.uchicago.edu/research/publications/as/16-studies-honor-benno-landsberger-his-seventy-fifth-birthday-april-21-1963</a>.</p>
+</div>
+<div id="ref-langdon1912neubabylonischen">
 <p>[2] S. Langdon and R. Zehnpfund, <em>Die neubabylonischen
-königsinschriften</em>, vol. 4. J. C. Hinrichs, 1912, [Online]. Available:
-<a href="http://idb.ub.uni-tuebingen.de/opendigi/Ci_I_136-4">http://idb.ub.uni-tuebingen.de/opendigi/Ci_I_136-4</a>.</p>
+königsinschriften</em>, vol. 4. J. C. Hinrichs, 1912, [Online].
+Available: <a href="http://idb.ub.uni-tuebingen.de/opendigi/Ci_I_136-4">http://idb.ub.uni-tuebingen.de/opendigi/Ci_I_136-4</a>.</p>
+</div>
+<div id="ref-beaulieu1989reign">
 <p>[3] P. A. Beaulieu, <em>The Reign of Nabonidus, King of Babylon, 556-539
 B.C.</em> Yale University Press, 1989.</p>
+</div>
+<div id="ref-schiel1896inscription">
 <p>[4] V. Schiel, “Inscription de Nabonide,” <em>Recueil de travaux relatifs
 à la philologie et à l’archéologie égyptiennes et assyriennes</em>, no. 18,
 pp. 15–29, 1896, [Online]. Available:
 <a href="https://digi.ub.uni-heidelberg.de/diglit/rectrav1896">https://digi.ub.uni-heidelberg.de/diglit/rectrav1896</a>.</p>
+</div>
+<div id="ref-messerschmidt1896die">
 <p>[5] L. Messerschmidt, “Die Stele Nabuna’ids,” <em>Mitteilungen der
 Vorderasiatischen Gesellschaft</em>, no. 1, pp. 1–84, 1896, [Online].
 Available: <a href="https://babel.hathitrust.org/cgi/pt?id=njp.32101032454850">https://babel.hathitrust.org/cgi/pt?id=njp.32101032454850</a>.</p>
+</div>
+<div id="ref-pritchard1969ancient">
 <p>[6] J. B. Pritchard, <em>Ancient Near Eastern texts relating to the Old
 Testament. Edited by James B. Pritchard. Third edition with supplement</em>.
 Princeton University Press, 1969.</p>
+</div>
+</div>
 
                     </main>
 
@@ -249,18 +263,18 @@ Princeton University Press, 1969.</p>
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../elasticlunr.min.js"></script>
+        <script src="../mark.min.js"></script>
+        <script src="../searcher.js"></script>
 
-        <script src="../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../clipboard.min.js"></script>
+        <script src="../highlight.js"></script>
+        <script src="../book.js"></script>
 
         <!-- Custom JS scripts -->
 

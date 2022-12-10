@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -160,7 +159,8 @@ basis of their ‘Gentile Times’ belief derived from Daniel Chapter 4’s
 ‘seven times’.</p>
 <p>According to the <em>Proclaimers</em> book the first known interpretation of
 the ‘seven times’ in Daniel 4 as a prophetic period was published in
-1823 by John Aquila Brown in <em>The Even-Tide</em> [1, p. 134]:</p>
+1823 by John Aquila Brown in <em>The Even-Tide</em>
+[<a href="#ref-watchtower1993proclaimers">1</a>, p. 134]:</p>
 <blockquote>
 <p>As early as 1823, John A. Brown, whose work was published in London,
 England, calculated the “seven times” of Daniel chapter 4 to be 2,520
@@ -169,17 +169,18 @@ the prophetic time period began or when it would end. He did, however,
 connect these “seven times” with the Gentile Times of Luke 21:24.</p>
 </blockquote>
 <p>Brown applied the 2520-year period starting from Nebuchadnezzar’s first
-year (604 BC) to 1917 AD [2, p. 135]:</p>
+year (604 BC) to 1917 AD [<a href="#ref-brown1823even">2</a>, p. 135]:</p>
 <blockquote>
 <p>Commencing, therefore, the calculation of the “seven times,” from the
 first year of Nebuchadnezzar A.C. 604, whose kingdom is the golden
 head of the image, and is represented by the towering and palmy
-“tree,” previously to its desolation, the termination of these 2520
-years will fall out in the year 1917.</p>
+“tree,” previously to its desolation, the termination of these
+2520 years will fall out in the year 1917.</p>
 </blockquote>
 <p>Brown did not actually link the ‘seven times’ of Daniel 4 to Luke 21:24
 as claimed in <em>Proclaimers</em>, instead he identified the ‘Gentile Times’
-with the ‘time, times, and a half’ of Daniel [2, p. XI]:</p>
+with the ‘time, times, and a half’ of Daniel [<a href="#ref-brown1823even">2</a>,
+p. XI]:</p>
 <blockquote>
 <p>The “times of the Gentiles,” during which Jerusalem is to be trodden
 down of the Gentiles, as declared by Christ, and by the Apostle Paul,
@@ -192,8 +193,8 @@ defines these times to be twelve hundred and sixty days or years.</p>
 century to apply a 2520-year prophetic period to a variety of different
 starting points and chronologies. A number of these interpretations
 terminated in 1914, the first of which was published in 1844 by E B
-Elliott [3, p. 265], long before Jehovah’s Witnesses began to use this
-date:</p>
+Elliott [<a href="#ref-elliott1847horae">3</a>, p. 265], long before Jehovah’s
+Witnesses began to use this date:</p>
 <blockquote>
 <p>And 1st, on the seven times of Nebuchadnezzar’s insanity and state of
 bestialism. These, calculated after the year-day system, on the
@@ -214,12 +215,16 @@ being A.D. 1914; just one half century, or jubilean period, from our
 probable date of the opening of the Millennium.</p>
 </blockquote>
 <p>This section will now track how the Watch Tower’s interpretation of the
-‘Gentile Times’ prophecy developed and changed over time, starting with
-Charles Taze Russell’s publications in the late 19th century.</p>
+‘Gentile Times’ prophecy developed and changed over time, starting
+with Charles Taze Russell’s publications in the late 19th century.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watchtower1993proclaimers">
 <p>[1] <em>Jehovah’s Witnesses: Proclaimers of God’s Kingdom</em>. Watch Tower
 Bible and Tract Society, 1993, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/publication/r1/lp-e/jv">https://wol.jw.org/en/wol/publication/r1/lp-e/jv</a>.</p>
+</div>
+<div id="ref-brown1823even">
 <p>[2] J. A. Brown, <em>The Even-Tide; Or, Last Triumph of the Blessed and
 Only Potentate, the King of Kings, and Lord of Lords; Being a
 Development of the Mysteries of Daniel and St. John, and of the
@@ -228,11 +233,15 @@ Offor, Newgate Street; Longman &amp; Co., and T. Hamilton, Paternoster Row;
 Hatchard &amp; Son, Piccadilly; L. B. Seeley, Fleet Street; and Nesbitt,
 Castle Street, Oxford Street, 1823, [Online]. Available:
 <a href="https://www.scribd.com/document/299825677/The-Even-Tide-by-John-Aquila-Brown-1823">https://www.scribd.com/document/299825677/The-Even-Tide-by-John-Aquila-Brown-1823</a>.</p>
+</div>
+<div id="ref-elliott1847horae">
 <p>[3] E. B. Elliott, <em>Horae Apocalypticae: Or a Commentary on the
 Apocalypse, Critical and Historical; Including Also an Examination of
 The Chief Prophecies of Daniel.</em>, 3rd ed. Seeley, Burnside, and Seeley;
 Fleet Street, London., 1847, [Online]. Available:
 <a href="https://books.google.co.uk/books?id=k787AAAAcAAJ">https://books.google.co.uk/books?id=k787AAAAcAAJ</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -266,18 +275,18 @@ Fleet Street, London., 1847, [Online]. Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

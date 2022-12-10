@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -154,8 +153,10 @@
                     <main>
                         <h1 id="thieles-chronology"><a class="header" href="#thieles-chronology">Thiele’s Chronology</a></h1>
 <p>Edwin R. Thiele (1895–1986) was a Seventh-day Adventist missionary in
-China, editor, archaeologist, writer, and Old Testament professor [1].</p>
-<p>The key assumptions of his chronology include [2, p. 180]:</p>
+China, editor, archaeologist, writer, and Old Testament professor
+[<a href="#ref-car1996thiele">1</a>].</p>
+<p>The key assumptions of his chronology include
+[<a href="#ref-thiele1983mysterious">2</a>, p. 180]:</p>
 <blockquote>
 <p>A careful examination indicates that all biblical writers of this
 period used the accession-year system for Hebrew, Babylonian, and
@@ -553,13 +554,14 @@ years for Hebrew kings and also for the rulers of Babylon and Persia.</p>
 <h3 id="battle-of-megiddo"><a class="header" href="#battle-of-megiddo">Battle of Megiddo</a></h3>
 <p>Thiele claims that Josiah was killed at Megiddo in month IV (the same
 month as the attack on Harran) and that afterwards Jehoahaz ruled for 3
-months into Tishri (month VII) [2, p. 182].</p>
+months into Tishri (month VII) [<a href="#ref-thiele1983mysterious">2</a>, p.
+182].</p>
 <p>He does not appear to explain how the Egyptian army could have made the
-~400 mile journey from Megiddo to Harran within this timeframe [3, p.
-30].</p>
+~400 mile journey from Megiddo to Harran within this timeframe
+[<a href="#ref-clines1972regnal">3</a>, p. 30].</p>
 <h3 id="battle-of-carchemish-and-the-subjugation-of-judah"><a class="header" href="#battle-of-carchemish-and-the-subjugation-of-judah">Battle of Carchemish and the Subjugation of Judah</a></h3>
 <p>Thiele dates the subjugation of Judah at the same time as the battle of
-Carchemish [2, p. 183]:</p>
+Carchemish [<a href="#ref-thiele1983mysterious">2</a>, p. 183]:</p>
 <blockquote>
 <p>Nabopolassar stayed at home in his twenty-first year, beginning with
 Nisan, 605, but sent Nebuchadnezzar with the army against Carchemish.
@@ -577,7 +579,7 @@ mentioned in Jeremiah 46:2.</p>
 <p>However, Thiele is referencing the older publication of <a href="../../standard/chronicles/bm21946.html#notes">BM
 21946</a>, which incorrectly
 translates ‘Hamath’ as ‘Ḫatti-country’, Malamat arguest against this
-interpretation [4, p. 130]:</p>
+interpretation [<a href="#ref-malamat1975twilight">4</a>, p. 130]:</p>
 <blockquote>
 <p>the Chronicle itself does not bear out any widespread conquests in the
 West while Nebuchadnezzar was still Crown Prince. Immediately after
@@ -586,7 +588,8 @@ only the “entire land of Ha[ma]th”, and not the “entire land of
 Hatti” (that is, Syria-Palestine), as formerly read.</p>
 </blockquote>
 <p>Thiele interprets Jeremiah 25:1 as referring to Nebuchadnezzar’s
-accession year rather than 1st year [2, p. 184]:</p>
+accession year rather than 1st year [<a href="#ref-thiele1983mysterious">2</a>, p.
+184]:</p>
 <blockquote>
 <p>The battle of Carchemish at the Euphrates in the fourth year of
 Jehoiakim is now definitively dated by Babylonian evidence (B.M.
@@ -598,7 +601,7 @@ his initial year on the throne. the year of his accession.</p>
 </blockquote>
 <h3 id="captures-of-jehoiachin-and-zedekiah"><a class="header" href="#captures-of-jehoiachin-and-zedekiah">Captures of Jehoiachin and Zedekiah</a></h3>
 <p>Jehoiachin’s capture is explained in the context of Nisan vs Tishri
-years [2, p. 186]:</p>
+years [<a href="#ref-thiele1983mysterious">2</a>, p. 186]:</p>
 <blockquote>
 <p>The biblical account places the capture of Jerusalem in the eighth
 year of Nebuchadnezzar (2 Kings 24:12), but the Babylonian account
@@ -612,7 +615,7 @@ overlap was from Tishri in the fall of 598 to Nisan in the spring of
 597. Since Jerusalem fell in Adar, the last month of the Babylonian
 year, this was in the spring of 597.</p>
 </blockquote>
-<p>And likewise for Zedekiah [2, p. 190]:</p>
+<p>And likewise for Zedekiah [<a href="#ref-thiele1983mysterious">2</a>, p. 190]:</p>
 <blockquote>
 <p>The last event in the checkered history of the southern kingdom was
 the siege and destruction of Jerusalem by Nebuchadnezzar. This siege
@@ -639,10 +642,10 @@ Zedekiah’s reign thus was from 597 to 586.</p>
 </blockquote>
 <p>Thiele does not offer any explanation for how the difference in the
 number of captives in Jeremiah 52:28-30 — there is no reference to this
-in his scripture index [2, p. 253].</p>
+in his scripture index [<a href="#ref-thiele1983mysterious">2</a>, p. 253].</p>
 <h3 id="release-of-jehoiachin"><a class="header" href="#release-of-jehoiachin">Release of Jehoiachin</a></h3>
 <p>Thiele counts Jehoiachin’s 37 years of captivity on a Tishri-to-Tishri
-calendar [2, p. 190]:</p>
+calendar [<a href="#ref-thiele1983mysterious">2</a>, p. 190]:</p>
 <blockquote>
 <p>It should be noted that, according to the reckoning of Kings, the
 thirty-seventh year of Jehoiachin’s captivity was from Tishri 562, to
@@ -651,19 +654,29 @@ reckoning, the thirty-seventh year of the captivity would not begin
 until Nisan 561.</p>
 </blockquote>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-car1996thiele">
 <p>[1] “Register of the Edwin R. Thiele Papers; Collection 89,” <em>Center
 for Adventist Research</em>. Andrews University, Oct. 1996, [Online].
 Available: <a href="https://www.andrews.edu/library/car/ThieleER.pdf">https://www.andrews.edu/library/car/ThieleER.pdf</a>.</p>
+</div>
+<div id="ref-thiele1983mysterious">
 <p>[2] E. R. Thiele, <em>The Mysterious Numbers of the Hebrew Kings</em>, 3rd
 ed. Kregel Publications, 1983.</p>
+</div>
+<div id="ref-clines1972regnal">
 <p>[3] D. J. Clines, “Regnal year reckoning in the last years of the
 Kingdom of Judah,” <em>Australian Journal of Biblical Archaeology</em>, vol. 2,
 pp. 9–34, 1972, [Online]. Available:
 <a href="https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf">https://biblicalarchaeology.org.uk/pdf/ajba/01-5_009.pdf</a>.</p>
+</div>
+<div id="ref-malamat1975twilight">
 <p>[4] A. Malamat, “The twilight of Judah: in the Egyptian-Babylonian
 maelstrom,” in <em>Congress volume edinburgh 1974</em>, 1975, pp. 123–145,
 [Online]. Available:
 <a href="https://brill.com/view/book/edcoll/9789004275515/B9789004275515-s010.xml">https://brill.com/view/book/edcoll/9789004275515/B9789004275515-s010.xml</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -697,18 +710,18 @@ maelstrom,” in <em>Congress volume edinburgh 1974</em>, 1975, pp. 123–145,
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

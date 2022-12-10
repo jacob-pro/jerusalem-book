@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -167,8 +166,8 @@ to meet him in battle, but Necho faced him and killed him at Megiddo.</p>
 </blockquote>
 <p><a href="../chronicles/bm21901.html">BM 21901</a> Lines 66-67:</p>
 <blockquote>
-<p>&lt;The seventeenth year&gt;: In the month Tammuz Ashur-uballit (II),
-king of Assyria, the large army of Egypt […] crossed the river
+<p>&lt;The seventeenth year&gt;: In the month Tammuz Ashur-uballit (II), king
+of Assyria, the large army of Egypt […] crossed the river
 (Euphrates) and marched against Harran to conquer (it). […] they
 [capture]d (it).</p>
 </blockquote>
@@ -209,8 +208,8 @@ Hophra (=Apries) is king of Egypt.</p>
 king of Egypt, during his 37th year.</p>
 <h2 id="chronology"><a class="header" href="#chronology">Chronology</a></h2>
 <p>Based on the <a href="stelae.html">Egyptian Stelae</a> and the <a href="historians.html">Ancient
-Historians</a> we can construct the following table [1, p.
-212]:</p>
+Historians</a> we can construct the following table
+[<a href="#ref-parker1957length">1</a>, p. 212]:</p>
 <table>
 <thead>
 <tr class="header">
@@ -246,11 +245,15 @@ Historians</a> we can construct the following table [1, p.
 </tbody>
 </table>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-parker1957length">
 <p>[1] R. A. Parker, “The Length of Reign of Amasis and the Beginning of
 the Twenty-Sixth Dynasty,” <em>Mitteilungen Des Deutschen Archaeologischen
 Instituts Abteilung Kairo</em>, vol. 15, pp. 208–212, 1957, [Online].
 Available:
 <a href="https://archive.org/details/egyptology-archive-vol.-15-1957/">https://archive.org/details/egyptology-archive-vol.-15-1957/</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -284,18 +287,18 @@ Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

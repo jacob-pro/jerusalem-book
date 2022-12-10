@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -155,8 +154,8 @@
                         <h1 id="the-kingdom-is-at-hand-1944"><a class="header" href="#the-kingdom-is-at-hand-1944">The Kingdom Is At Hand (1944)</a></h1>
 <p>A year later the Watch Tower published <em>The Kingdom Is At Hand</em> making
 further changes to the chronology.</p>
-<p>The date for Jerusalem’s destruction remains unchanged from 606 BC [1,
-p. 171]:</p>
+<p>The date for Jerusalem’s destruction remains unchanged from 606 BC
+[<a href="#ref-watch1944kingdom">1</a>, p. 171]:</p>
 <blockquote>
 <p>The following chronology shows the date of Jerusalem’s destruction as
 in the year 607 before Christ. This recognizes the fact that the
@@ -170,7 +169,7 @@ From the fall of 607 B.C. to the fall of B.C. 1 is exactly 606 years.
 years.”</p>
 </blockquote>
 <p>However, the dates for the fall of Babylon and Cyrus’ first year have
-been shifted back by 1 year [1, p. 195]:</p>
+been shifted back by 1 year [<a href="#ref-watch1944kingdom">1</a>, p. 195]:</p>
 <blockquote>
 <p>According to the most accurate histories, Darius the Mede and Cyrus
 the Persian, his nephew, jointly took the capital of the Babylonian
@@ -185,9 +184,13 @@ fall, but they are still insistent on two years rule for ‘Darius the
 Mede’ before Cyrus’ first year began. Unfortunately no evidence is
 provided to show where they got these dates from.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch1944kingdom">
 <p>[1] <em>The Kingdom Is At Hand</em>. Watch Tower Bible; Tract Society, 1944,
 [Online]. Available:
 <a href="https://ia600902.us.archive.org/5/items/WatchtowerLibrary/books/1944_kah_E.pdf">https://ia600902.us.archive.org/5/items/WatchtowerLibrary/books/1944_kah_E.pdf</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -221,18 +224,18 @@ provided to show where they got these dates from.</p>
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

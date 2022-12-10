@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -157,7 +156,7 @@
 Free</em> made some changes to the chronology surrounding the ‘Gentile
 times’, attempting to maintain the 606 BC to 1914 AD dates whilst
 dealing with the year zero issue created by Russell and Barbour’s
-miscalculation [1, pp. 237–239].</p>
+miscalculation [<a href="#ref-watch1943truth">1</a>, pp. 237–239].</p>
 <blockquote>
 <p>This makes it clear that the “seven times” began with Nebuchadnezzar’s
 overturning of Jehovah’s typical Theocracy at Jerusalem, in 606 B.C.
@@ -183,7 +182,7 @@ foretold that the ”times of the Gentiles”, that is, the ”seven times”,
 would continue and extend to the fall of A.D. 1914.</p>
 </blockquote>
 <p>But regarding the date of Cyrus’s first year, they remain unchanged on
-the year 536 BC [1, p. 151]:</p>
+the year 536 BC [<a href="#ref-watch1943truth">1</a>, p. 151]:</p>
 <blockquote>
 <p>It is well established that two years after the overthrow of Babylon
 in 538 B.C. by Darius the Mede and his nephew, Cyrus the Persian, the
@@ -214,16 +213,23 @@ administration operating in Jerusalem.</p>
 <h3 id="cyrus-first-year"><a class="header" href="#cyrus-first-year">Cyrus First Year</a></h3>
 <p>It is not ‘well established’ that ‘Darius the Mede’ overthrew Babylon in
 538 BC, he is not mentioned in any historical source other than the
-Bible [2, p. 581]. Nor is it ‘well established’ that Darius ruled for
-around two years before being succeeded by Cyrus. The <em>Truth</em> book
-provided no evidence for any of these claims.</p>
+Bible [<a href="#ref-watch2018insight1">2</a>, p. 581]. Nor is it ‘well
+established’ that Darius ruled for around two years before being
+succeeded by Cyrus. The <em>Truth</em> book provided no evidence for any of
+these claims.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch1943truth">
 <p>[1] <em>The Truth Shall Make You Free</em>. Watch Tower Bible; Tract Society,
 1943, [Online]. Available:
 <a href="https://ia600902.us.archive.org/5/items/WatchtowerLibrary/books/1943_myf_E.pdf">https://ia600902.us.archive.org/5/items/WatchtowerLibrary/books/1943_myf_E.pdf</a>.</p>
+</div>
+<div id="ref-watch2018insight1">
 <p>[2] <em>Insight on the Scriptures - Volume 1: Aaron-Jehoshua</em>, vol. 1.
 Watch Tower Bible and Tract Society, 2018, [Online]. Available:
 <a href="https://www.jw.org/en/library/books/Insight-on-the-Scriptures/">https://www.jw.org/en/library/books/Insight-on-the-Scriptures/</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -257,18 +263,18 @@ Watch Tower Bible and Tract Society, 2018, [Online]. Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

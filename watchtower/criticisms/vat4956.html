@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -154,9 +153,9 @@
                     <main>
                         <h1 id="alternative-dating-of-vat-4956"><a class="header" href="#alternative-dating-of-vat-4956">Alternative Dating of VAT 4956</a></h1>
 <p>The 2011 <em>Watchtower</em> article ‘When Was Ancient Jerusalem Destroyed?’
-claims that <a href="https://github.com/jacob-pro/astro-tablets/blob/master/documents/vat4956.md">VAT
-4956</a>
-can actually be dated to 588 BC [1, p. 26]:</p>
+claims that
+<a href="https://github.com/jacob-pro/astro-tablets/blob/master/documents/vat4956.md">VAT 4956</a>
+can actually be dated to 588 BC [<a href="#ref-watch2011when2">1</a>, p. 26]:</p>
 <blockquote>
 <p>Clearly, much of the astronomical data in VAT 4956 fits the year 588
 B.C.E. as the 37th year of Nebuchadnezzar II. This, therefore,
@@ -165,7 +164,7 @@ the Bible indicates.</p>
 </blockquote>
 <h2 id="exclusion-of-the-planetary-observations"><a class="header" href="#exclusion-of-the-planetary-observations">Exclusion of the Planetary Observations</a></h2>
 <p><em>The Watchtower</em> has chosen to exclude the planetary observations from
-their analysis [1, p. 28]:</p>
+their analysis [<a href="#ref-watch2011when2">1</a>, p. 28]:</p>
 <blockquote>
 <p>Though the cuneiform sign for the moon is clear and unambiguous, some
 of the signs for the names of the planets and their positions are
@@ -181,7 +180,7 @@ interpretations, these positions were not used in this survey to
 pinpoint the year intended by this astronomical diary.</p>
 </blockquote>
 <p>But the reference to Brown is taken out of context, he actually arranges
-the planet names into groups [2, p. 54]:</p>
+the planet names into groups [<a href="#ref-brown2000mesopotamian">2</a>, p. 54]:</p>
 <blockquote>
 <p>I have found that all the names attested for the seven planets in the
 period c. 750-612 BC can be placed into five categories. For example,
@@ -191,11 +190,12 @@ Moon respectively. They are never used for any other celestial bodies.
 They are what I am terming the “A-names” for these planets.</p>
 </blockquote>
 <p>Within the text of VAT 4956 all the planetary observations refer to the
-planets by their unambiguous ‘A-names’ [3, p. 144], so the exclusion
-is completely unjustified.</p>
+planets by their unambiguous ‘A-names’
+[<a href="#ref-ossendrijver2016translating">3</a>, p. 144], so the exclusion is
+completely unjustified.</p>
 <h2 id="exclusion-of-the-lunar-six-observations"><a class="header" href="#exclusion-of-the-lunar-six-observations">Exclusion of the Lunar Six Observations</a></h2>
 <p><em>The Watchtower</em> has also chosen to exclude the lunar six observations
-[1, p. 28]:</p>
+[<a href="#ref-watch2011when2">1</a>, p. 28]:</p>
 <blockquote>
 <p>18a. These time intervals (“lunar threes”) are the measurement of time
 from, for example, sunset to moonset on the first day of the month and
@@ -214,7 +214,8 @@ other celestial bodies was done with greater certainty.</p>
 </blockquote>
 <p>The reference to Steele is also out of context, he does not imply that
 the measurements are entirely unreliable rather he explains the typical
-range of accuracy for eclipse time measurements [4, p. 66]:</p>
+range of accuracy for eclipse time measurements
+[<a href="#ref-steele2000observations">4</a>, p. 66]:</p>
 <blockquote>
 <p>To summarize, it appears that the Babylonian astronomers used the same
 clepsydras to measure the time of first contact relative to sunrise or
@@ -231,7 +232,8 @@ typical Babylonian eclipse timing of about 40° (2 hours 40 minutes)
 has an accuracy of just under 7° (24 minutes).</p>
 </blockquote>
 <p>Steele clearly does not consider the eclipse timings useless, for
-example he uses them as one factor in dating a text [4, p. 39]:</p>
+example he uses them as one factor in dating a text
+[<a href="#ref-steele2000observations">4</a>, p. 39]:</p>
 <blockquote>
 <p>On 19 May 557 BC Mercury would have set during the eclipse and so
 would probably not have been visible. Also the timings given in the
@@ -257,17 +259,17 @@ observation on this tablet.</p>
 Watchtower</em> concern the timings of lunar eclipses, it would have been
 far more appropriate to cite pages 47-51 where Steele documents the
 accuracy of the lunar six timings themselves. The mean error is around
-1-2° (1° = 4 minutes) [4, p. 51].</p>
+1-2° (1° = 4 minutes) [<a href="#ref-steele2000observations">4</a>, p. 51].</p>
 <p>See also <a href="../../appendix/responses.html#j-m-steele">Steele’s response</a>
 where he says he has been misrepresented by <em>The Watchtower</em> regarding
 the lunar six measurements.</p>
 <p>The accuracy of the lunar six measurements is demonstrated by BM 33066,
-the timings alone are <a href="https://github.com/jacob-pro/astro-tablets/blob/master/results/bm33066_lunar_six_scores.txt">sufficient to date the 7th year of Cambyses II to
-523
+the timings alone are <a href="https://github.com/jacob-pro/astro-tablets/blob/master/results/bm33066_lunar_six_scores.txt">sufficient to date the 7th year of Cambyses II
+to 523
 BC</a>
 (-522), a date and tablet which <em>The Watchtower</em> accepts and cites as a
-source [5, p. 28]. Surely this would not be possible if the Babylonian
-clocks were wildly inaccurate?</p>
+source [<a href="#ref-watch2011when1">5</a>, p. 28]. Surely this would not be
+possible if the Babylonian clocks were wildly inaccurate?</p>
 <p>Therefore, <em>The Watchtower</em>’s complete dismissal of the lunar six
 timings is unwarranted.</p>
 <h2 id="start-of-the-year"><a class="header" href="#start-of-the-year">Start of the Year</a></h2>
@@ -284,9 +286,10 @@ XII2.”) Therefore, this made the new year actually not start until May
 on the tablet.</p>
 </blockquote>
 <p>The Babylonian year begins at the first lunar visibility within about 30
-days of the vernal equinox [3, p. 131]. Therefore, the possible start
-dates for this year are either March 5/6 or April 3/4. May 3rd is
-unlikely since it is significantly later than 30 days after the equinox.</p>
+days of the vernal equinox [<a href="#ref-ossendrijver2016translating">3</a>, p.
+131]. Therefore, the possible start dates for this year are either
+March 5/6 or April 3/4. May 3rd is unlikely since it is significantly
+later than 30 days after the equinox.</p>
 <table>
 <thead>
 <tr class="header">
@@ -347,11 +350,11 @@ that the 36th year had an intercalary month does not invalidate the
 April 3/4 start date, instead it rules out the March 5/6 start date.</p>
 <p>During this period intercalary months were inserted by royal decree such
 that the new year would not start much earlier than Spring (late March
-and early April) [6, p. 1], it would make no sense for a month to be
-added to a year that already begun midway through April. Furthermore, if
-we count further backwards from <em>The Watchtower</em>’s date for the 37th
-year, then it would force the 34th year to also begin in May, 41 days
-later than the equinox:</p>
+and early April) [<a href="#ref-dubberstein1956babylonian">6</a>, p. 1], it would
+make no sense for a month to be added to a year that already begun
+midway through April. Furthermore, if we count further backwards from
+<em>The Watchtower</em>’s date for the 37th year, then it would force the 34th
+year to also begin in May, 41 days later than the equinox:</p>
 <table>
 <thead>
 <tr class="header">
@@ -407,11 +410,12 @@ following table:</p>
 <p>The first problem I noticed is that <em>The Watchtower</em> is beginning the
 months too early. The Babylonian month started ‘at the first appearance
 of the lunar crescent after sunset’, or up to one day later if it was
-not observed [3, p. 131] [6, p. 1]. Comparing to the first
+not observed [<a href="#ref-ossendrijver2016translating">3</a>, p. 131]
+[<a href="#ref-dubberstein1956babylonian">6</a>, p. 1]. Comparing to the first
 visibility dates provided by Parker and Dubberstein and data computed
-using Alcyone PLSV [7], we can see <em>The Watchtower</em> starts four of
-five the months before the moon was visible (note all dates in the table
-refer to the date of sunset):</p>
+using Alcyone PLSV [<a href="#ref-alcyoneplsv">7</a>], we can see <em>The
+Watchtower</em> starts four of five the months before the moon was visible
+(note all dates in the table refer to the date of sunset):</p>
 <table>
 <colgroup>
 <col style="width: 21%" />
@@ -472,7 +476,7 @@ unlikely the Babylonians would have been able to observe the moon that
 early.</p>
 <h2 id="lunar-observations"><a class="header" href="#lunar-observations">Lunar Observations</a></h2>
 <p><em>The Watchtower</em> claims that the lunar observations fit 588 BC better
-than 586 BC [1, p. 28]:</p>
+than 586 BC [<a href="#ref-watch2011when2">1</a>, p. 28]:</p>
 <blockquote>
 <p>While not all of these sets of lunar positions match the year 568/567
 B.C.E., all 13 sets match calculated positions for 20 years earlier,
@@ -748,12 +752,12 @@ spherical bodies, but refers to something that the moon is “in” or
 spherical. At times a halo may not be perfectly round but may have
 irregularities that can extend beyond the standard 22°.</p>
 </blockquote>
-<p>But according to Hunger [8, p. 33]:</p>
+<p>But according to Hunger [<a href="#ref-sachs1988adt">8</a>, p. 33]:</p>
 <blockquote>
 <p>Akk. <em>tarbaṣu</em> “pen, fold”. Haloes are frequently described as
-“billowing” (<em>iqtur</em>, lit. “it smoked”). If a halo is not closed it is
-said to have a “gate” in a certain direction. The larger type of halo
-called <em>supu̅ru</em> is not so far attested in diaries.</p>
+“billowing” (<em>iqtur</em>, lit. “it smoked”). If a halo is not closed it
+is said to have a “gate” in a certain direction. The larger type of
+halo called <em>supu̅ru</em> is not so far attested in diaries.</p>
 </blockquote>
 <h2 id="planetary-observations"><a class="header" href="#planetary-observations">Planetary Observations</a></h2>
 <p>The majority of the planetary observations don’t even come close to
@@ -1062,32 +1066,50 @@ to produce acceptable results by distorting the calendar beyond what is
 probable, and even then it is not accurate to claim the 13 observations
 fit as well as they do for 568 BC.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-watch2011when2">
 <p>[1] “When Was Ancient Jerusalem Destroyed?—Part Two,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 22–28, Nov. 2011, [Online].
 Available:
 <a href="https://www.jw.org/en/library/magazines/wp20111101/When-Was-Ancient-Jerusalem-Destroyed-Part-Two/">https://www.jw.org/en/library/magazines/wp20111101/When-Was-Ancient-Jerusalem-Destroyed-Part-Two/</a>.</p>
+</div>
+<div id="ref-brown2000mesopotamian">
 <p>[2] D. Brown, <em>Mesopotamian Planetary Astronomy-astrology</em>. Styx
 Publications, 2000.</p>
+</div>
+<div id="ref-ossendrijver2016translating">
 <p>[3] M. Ossendrijver, “Translating Babylonian Astronomical Diaries and
 Procedure Texts,” <em>Translating Writings of Early Scholars in the Ancient
 Near East, Egypt, Greece and Rome: Methodological Aspects with
 Examples</em>, vol. 344, p. 125, 2016, [Online]. Available:
 <a href="https://www.degruyter.com/view/book/9783110448818/10.1515/9783110448818-005.xml">https://www.degruyter.com/view/book/9783110448818/10.1515/9783110448818-005.xml</a>.</p>
+</div>
+<div id="ref-steele2000observations">
 <p>[4] J. M. Steele, <em>Observations and Predictions of Eclipse Times by
 Early Astronomers</em>, vol. 4. Springer Science+Business Media, 2000.</p>
+</div>
+<div id="ref-watch2011when1">
 <p>[5] “When Was Ancient Jerusalem Destroyed?—Part One,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 26–31, Oct. 2011, [Online].
 Available:
 <a href="https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/">https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/</a>.</p>
+</div>
+<div id="ref-dubberstein1956babylonian">
 <p>[6] W. H. Dubberstein and R. A. Parker, <em>Babylonian Chronology 626
 B.C.-A.D. 75</em>. Brown University Press, 1956, [Online]. Available:
-<a href="https://webspace.science.uu.nl/%7Egent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf">https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf</a>.</p>
+<a href="https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf">https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf</a>.</p>
+</div>
+<div id="ref-alcyoneplsv">
 <p>[7] Alcyone, <em>Planetary, Stellar and Lunar Visibility</em>. [Online].
 Available:
 <a href="http://www.alcyone.de/planetary_lunar_and_stellar_visibility.html">http://www.alcyone.de/planetary_lunar_and_stellar_visibility.html</a>.</p>
+</div>
+<div id="ref-sachs1988adt">
 <p>[8] H. Hunger and A. J. Sachs, <em>Astronomical diaries and related texts
 from Babylonia. Vol. 1, Diaries from 652 B.C. to 262 B.C. : Plates</em>.
 Verlag der Österreichischen Akademie der Wissenschaften, 1988.</p>
+</div>
+</div>
 
                     </main>
 
@@ -1121,18 +1143,18 @@ Verlag der Österreichischen Akademie der Wissenschaften, 1988.</p>
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

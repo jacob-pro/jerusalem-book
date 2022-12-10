@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -158,7 +157,8 @@ repeatedly flip-flopped in its use of Ptolemy’s Canon.</p>
 <h2 id="three-worlds-1877-and-millennial-dawn-ii-1889"><a class="header" href="#three-worlds-1877-and-millennial-dawn-ii-1889">Three Worlds (1877) and Millennial Dawn II (1889)</a></h2>
 <p>As seen in the section on <a href="../history/russell.html">Russell and Barbour</a>,
 Ptolemy’s canon was supposedly used by Barbour and the Russell as the
-source of their chronology [1] [2, p. 79].</p>
+source of their chronology [<a href="#ref-barbour1877three">1</a>]
+[<a href="#ref-russell1889millennial2">2</a>, p. 79].</p>
 <blockquote>
 <p>The fact that the first year of Cyrus was B.C. 536, is based on
 Ptolemy’s canon, supported by the eclipses by which the dates of the
@@ -174,7 +174,8 @@ places it B.C. 536.</p>
 <h2 id="the-watchtower-1952---1968"><a class="header" href="#the-watchtower-1952---1968">The Watchtower (1952 - 1968)</a></h2>
 <p>The <a href="../history/history.html">Watch Tower history section</a> shows that from
 1952 onwards the Watch Tower began to use the date 539 BC for the fall
-of Babylon [3, p. 490], supposedly based on the Nabonidus chronicle:</p>
+of Babylon [<a href="#ref-watch1968book">3</a>, p. 490], supposedly based on the
+Nabonidus chronicle:</p>
 <blockquote>
 <p>The fixing of 539 B.C.E. as the year when this historical event
 occurred is based on a stone document known as the Nabonidus
@@ -184,8 +185,8 @@ occurred is based on a stone document known as the Nabonidus
 doesn’t actually contain anything datable to the Julian calendar; the
 footnotes in each of these issues of the Watch Tower instead cite Parker
 and Dubberstein’s tables, which were in turn principally based upon
-Ptolemy’s canon [4, p. 8], and would have been used to map the date in
-the Nabonidus chronicle to 539 BC:</p>
+Ptolemy’s canon [<a href="#ref-dubberstein1942babylonian">4</a>, p. 8], and would
+have been used to map the date in the Nabonidus chronicle to 539 BC:</p>
 <blockquote>
 <p>The general basis for the chronology of the period here treated is
 furnished by the Ptolemaic Canon, with help from classical sources.</p>
@@ -193,8 +194,8 @@ furnished by the Ptolemaic Canon, with help from classical sources.</p>
 <h2 id="the-watchtower-1969"><a class="header" href="#the-watchtower-1969">The Watchtower (1969)</a></h2>
 <p>Despite having explicitly and implicitly based their chronology on
 Ptolemy’s canon until this point, the 1969 article ‘Babylonian
-Chronology — How Reliable?’ [5, p. 90] starts to question its
-reliability:</p>
+Chronology — How Reliable?’ [<a href="#ref-watch1969babylonian">5</a>, p. 90]
+starts to question its reliability:</p>
 <blockquote>
 <p>On the other hand, those who hold to a strict Ptolemaic reckoning are
 obliged to explain a sizable gap of their own. This gap develops when
@@ -215,9 +216,10 @@ there is considerable confusion.</p>
 </blockquote>
 <p><em>The Watchtower</em> is correct to state that Ashurbanipal’s accession year
 is accepted to be 669 BC, but that the length and circumstances of the
-end of his reign remain disputed [6, p. 135] [7, p. 1]. But they
-then suggest that using the chronology of Ptolemy’s canon leads to an
-unexplained ‘gap’ in the reign of Sinsharishkun:</p>
+end of his reign remain disputed [<a href="#ref-oates1965assyrian">6</a>, p. 135]
+[<a href="#ref-reade1970accession">7</a>, p. 1]. But they then suggest that using
+the chronology of Ptolemy’s canon leads to an unexplained ‘gap’ in the
+reign of Sinsharishkun:</p>
 <blockquote>
 <p>As might be expected, the above sources also give varied dates for the
 reign of Ashurbanipal’s probable successor, Ashur-etillu-ilani. And
@@ -236,14 +238,16 @@ which the reigns of the late Assyrian kings (Ashurbanipal,
 Ashur-etil-ilani, Sinsharishkun and Sin-shumu-lishir) must overlap, not
 whether there is any gap between them. It is generally accepted that
 Sinsharishkun’s accession year occurred somewhere around 627 BC (the
-year prior to Nabopolassar’s accession) [7, p. 2] [8, p. 246]. The
-evidence includes:</p>
+year prior to Nabopolassar’s accession) [<a href="#ref-reade1970accession">7</a>,
+p. 2] [<a href="#ref-naaman1991chronology">8</a>, p. 246]. The evidence
+includes:</p>
 <ul>
 <li>The <a href="../../standard/im65066.html">Uruk King List</a> names Sinsharishkun
 as king in the year prior to Nabopolassar.</li>
 <li>The chronicle <a href="../../standard/chronicles/bm25127.html">BM 25127</a>
 (lines 1-14) names Sinsharishkun as being in command of the Assyrian
-army in the months prior to Nabopolassar’s accession [9, p. 71].</li>
+army in the months prior to Nabopolassar’s accession
+[<a href="#ref-gadd1958harran">9</a>, p. 71].</li>
 </ul>
 <p><em>The Watchtower</em> itself points out that Sinsharishkun died during
 Nineveh’s fall (see the chronicle <a href="../../standard/chronicles/bm21901.html">BM
@@ -252,21 +256,23 @@ Nabopolassar’s 14th year in 612 BC. So we can now see why
 Sinsharishkun’s reign in Assyria must span approximately 16 years, it
 has not been ‘extended’ without evidence.</p>
 <p>The dated texts from the first 7 years of Sinsharishkun’s reign are
-those found in the cities of Babylon, Nippur, Uruk, Sippar [10, p.
-17], it was during these 7 years that Nabopolassar king of Babylon and
-Sinsharishkun king of Assyria were at war. The cities were under siege
-and changed control multiple times [11, p. 85], but by Nabopolassar’s
-7th year Assyria had ‘lost its last foothold in Babylonia’ [8, pp. 251,
-265]. So while there is indeed a ‘gap’ in the texts dated to the later
-part of Sinsharishkun’s reign, but this is simply because he was no
-longer king of the Babylonian cities anymore; there is no indication
-Ptolemy’s canon is incorrect.</p>
+those found in the cities of Babylon, Nippur, Uruk, Sippar
+[<a href="#ref-everling2013materials">10</a>, p. 17], it was during these 7 years
+that Nabopolassar king of Babylon and Sinsharishkun king of Assyria were
+at war. The cities were under siege and changed control multiple times
+[<a href="#ref-oppenheim1955siege">11</a>, p. 85], but by Nabopolassar’s 7th year
+Assyria had ‘lost its last foothold in Babylonia’
+[<a href="#ref-naaman1991chronology">8</a>, pp. 251, 265]. So while there is
+indeed a ‘gap’ in the texts dated to the later part of Sinsharishkun’s
+reign, but this is simply because he was no longer king of the
+Babylonian cities anymore; there is no indication Ptolemy’s canon is
+incorrect.</p>
 <h2 id="the-watchtower-1971"><a class="header" href="#the-watchtower-1971">The Watchtower (1971)</a></h2>
 <p>In a 1971 article <em>The Watchtower</em> ended the illusion that the year 539
 BC could be found from the Nabonidus chronicle. But despite having
 attempted to discredit Ptolemy’s canon only two years before, they
 returned to directly referencing it as a source for their chronology
-[12, p. 316]:</p>
+[<a href="#ref-watch1971testimony">12</a>, p. 316]:</p>
 <blockquote>
 <p>Also other sources, including Ptolemy’s canon, point to the year 539
 B.C.E. as the date for Babylon’s fall.</p>
@@ -274,7 +280,8 @@ B.C.E. as the date for Babylon’s fall.</p>
 <h2 id="watchtower-2011"><a class="header" href="#watchtower-2011">Watchtower (2011)</a></h2>
 <p>In the 2011 article ‘When Was Ancient Jerusalem Destroyed?’ <em>The
 Watchtower</em> returns to criticising the canon, implying that by omitting
-certain kings its chronology might not be accurate [13, pp. 30–31]:</p>
+certain kings its chronology might not be accurate
+[<a href="#ref-watch2011when1">13</a>, pp. 30–31]:</p>
 <blockquote>
 <p>How does Ptolemy’s list compare with that cuneiform record? The box
 “How Does Ptolemy’s Canon Compare With Ancient Tablets?” (see below)
@@ -361,6 +368,8 @@ besieged and controlled various Babylonian cities, at no point was he
 the sole uncontested king of Babylonia, he died during Nabopolassar’s
 14th year.</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-barbour1877three">
 <p>[1] N. H. Barbour and C. T. Russell, <em>Three Worlds, and the Harvest of
 this World: A Brief Review of the Bible Plan of Redemption, which Spans
 Three Worlds: &quot;the World that Was&quot;, &quot;the World that Now Is&quot; and &quot;the
@@ -368,48 +377,74 @@ World to Come&quot;; with the Evidences that We are Now in the &quot;time of
 Harvest&quot; Or Closing Work of the Gospel Age</em>. N. H. Barbour. C. T.
 Russell, 1877, [Online]. Available:
 <a href="https://archive.org/details/N.H.BarbourThreeWorldsAndHarvestOfThisWorld.ABriefReviewOfThe">https://archive.org/details/N.H.BarbourThreeWorldsAndHarvestOfThisWorld.ABriefReviewOfThe</a>.</p>
+</div>
+<div id="ref-russell1889millennial2">
 <p>[2] C. T. Russell, <em>Millennial Dawn: The time is at hand</em>, 86th
 Thousand Edition., vol. 2. International Bible Students Association,
 1889, [Online]. Available:
 <a href="https://archive.org/details/millennial-dawn-vol.2-the-time-is-at-hand-premiere-edition-1889">https://archive.org/details/millennial-dawn-vol.2-the-time-is-at-hand-premiere-edition-1889</a>.</p>
+</div>
+<div id="ref-watch1968book">
 <p>[3] “The Book of Truthful Historical Dates,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 488–494, Aug. 1968, [Online].
 Available: <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1968601">https://wol.jw.org/en/wol/d/r1/lp-e/1968601</a>.</p>
+</div>
+<div id="ref-dubberstein1942babylonian">
 <p>[4] R. A. Parker and W. H. Dubberstein, <em>Babylonian Chronology 626
 B.C.-A.D. 45</em>. University of Chicago Press, 1942, [Online]. Available:
 <a href="https://oi.uchicago.edu/research/publications/saoc/saoc-24-babylonian-chronology-626-bc-%E2%80%93-ad-45">https://oi.uchicago.edu/research/publications/saoc/saoc-24-babylonian-chronology-626-bc-%E2%80%93-ad-45</a>.</p>
+</div>
+<div id="ref-watch1969babylonian">
 <p>[5] “Babylonian Chronology—How Reliable?” <em>The Watchtower Announcing
 Jehovah’s Kingdom</em>, pp. 88–92, Feb. 1969, [Online]. Available:
 <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1969086">https://wol.jw.org/en/wol/d/r1/lp-e/1969086</a>.</p>
+</div>
+<div id="ref-oates1965assyrian">
 <p>[6] J. Oates, “Assyrian Chronology, 631-612 BC,” <em>Iraq</em>, vol. 27, no.
 2, pp. 135–159, 1965, [Online]. Available:
 <a href="https://www.jstor.org/stable/4199788">https://www.jstor.org/stable/4199788</a>.</p>
+</div>
+<div id="ref-reade1970accession">
 <p>[7] J. Reade, “The accession of Sinsharishkun,” <em>Journal of Cuneiform
 Studies</em>, vol. 23, no. 1, pp. 1–9, 1970, [Online]. Available:
 <a href="https://www.journals.uchicago.edu/doi/abs/10.2307/1359277">https://www.journals.uchicago.edu/doi/abs/10.2307/1359277</a>.</p>
+</div>
+<div id="ref-naaman1991chronology">
 <p>[8] N. Na’aman, “Chronology and History in the Late Assyrian Empire
 (631—619 B.C.),” <em>Zeitschrift für Assyriologie und Vorderasiatische
 Archäologie</em>, vol. 81, nos. 1-2, pp. 243–267, 1991, [Online].
 Available: <a href="https://doi.org/10.1515/zava.1991.81.1-2.243">https://doi.org/10.1515/zava.1991.81.1-2.243</a>.</p>
+</div>
+<div id="ref-gadd1958harran">
 <p>[9] C. J. Gadd, “The Harran Inscriptions of Nabonidus,” <em>Anatolian
 Studies</em>, vol. 8, pp. 35–92, 1958, [Online]. Available:
 <a href="https://www.jstor.org/stable/3642415">https://www.jstor.org/stable/3642415</a>.</p>
+</div>
+<div id="ref-everling2013materials">
 <p>[10] J. Everling, “Materials for the Study of First Millennium B.C.
 Babylonian Texts. Volume 1. Chronological List of Babylonian Texts from
 the First Millennium B.C. Babylonia.” <em>The Online Book Series of The
 Department of Ancient History, The University of Pécs.</em>, 2013,
 [Online]. Available:
 <a href="http://okor.btk.pte.hu/sites/okor.btk.pte.hu/files/files/SEAL/sea-l_3_jeverling_materials_vol1.pdf">http://okor.btk.pte.hu/sites/okor.btk.pte.hu/files/files/SEAL/sea-l_3_jeverling_materials_vol1.pdf</a>.</p>
+</div>
+<div id="ref-oppenheim1955siege">
 <p>[11] A. L. Oppenheim, “&quot;Siege-Documents&quot; from Nippur,” <em>Iraq</em>, vol.
 17, no. 1, pp. 69–89, 1955, Accessed: May 15, 2022. [Online].
 Available: <a href="http://www.jstor.org/stable/4241717">http://www.jstor.org/stable/4241717</a>.</p>
+</div>
+<div id="ref-watch1971testimony">
 <p>[12] “Testimony of the Nabonidus Chronicle,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 315–316, May 1971, [Online].
 Available: <a href="https://wol.jw.org/en/wol/d/r1/lp-e/1971366">https://wol.jw.org/en/wol/d/r1/lp-e/1971366</a>.</p>
+</div>
+<div id="ref-watch2011when1">
 <p>[13] “When Was Ancient Jerusalem Destroyed?—Part One,” <em>The Watchtower
 Announcing Jehovah’s Kingdom</em>, pp. 26–31, Oct. 2011, [Online].
 Available:
 <a href="https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/">https://www.jw.org/en/library/magazines/wp20111001/When-Was-Ancient-Jerusalem-Destroyed-Part-One/</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -443,18 +478,18 @@ Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 

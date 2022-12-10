@@ -17,7 +17,6 @@
           gtag('config', 'G-VM3X4H2DZ8');
         </script>
 
-        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff" />
@@ -44,13 +43,13 @@
     </head>
     <body>
         <!-- Provide site root to javascript -->
-        <script type="text/javascript">
+        <script>
             var path_to_root = "../../";
             var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
         </script>
 
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
-        <script type="text/javascript">
+        <script>
             try {
                 var theme = localStorage.getItem('mdbook-theme');
                 var sidebar = localStorage.getItem('mdbook-sidebar');
@@ -66,7 +65,7 @@
         </script>
 
         <!-- Set the theme before any content is loaded, prevents flash -->
-        <script type="text/javascript">
+        <script>
             var theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
@@ -78,7 +77,7 @@
         </script>
 
         <!-- Hide / unhide sidebar before it is displayed -->
-        <script type="text/javascript">
+        <script>
             var html = document.querySelector('html');
             var sidebar = 'hidden';
             if (document.body.clientWidth >= 1080) {
@@ -109,7 +108,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
-                            <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                            <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
@@ -142,7 +141,7 @@
                 </div>
 
                 <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
-                <script type="text/javascript">
+                <script>
                     document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
                     document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
                     Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
@@ -160,13 +159,16 @@ from, can show us useful chronological information.</p>
 <p>For example the dates have been used for this purpose in the following
 publications:</p>
 <ul>
-<li>Babylonian Chronology 626 B.C.-A.D. 75 [1, p. 10]</li>
-<li>A Survey of Dated Babylonian Economic Texts, 721-626 B.C. [2]
-[3]</li>
-<li>Part II: A Survey of Babylonian Texts, 626-605 B.C. [4]</li>
+<li>Babylonian Chronology 626 B.C.-A.D. 75
+[<a href="#ref-dubberstein1956babylonian">1</a>, p. 10]</li>
+<li>A Survey of Dated Babylonian Economic Texts, 721-626 B.C.
+[<a href="#ref-brinkman1983documentary">2</a>]
+[<a href="#ref-brinkman1986supplement">3</a>]</li>
+<li>Part II: A Survey of Babylonian Texts, 626-605 B.C.
+[<a href="#ref-kennedy1986documentary">4</a>]</li>
 </ul>
-<p>A more complete survey has been published by J Everling [5],
-originally available
+<p>A more complete survey has been published by J Everling
+[<a href="#ref-everling2013materials">5</a>], originally available
 <a href="https://web.archive.org/web/20030207180625/http://www.nexus.hu:80/enkidu/enkidu.html">here</a>
 in text format. From the survey I have generated bar charts counting the
 tablets dated to each year of each King’s reign.</p>
@@ -174,36 +176,42 @@ tablets dated to each year of each King’s reign.</p>
 <p><img src="../../graphics/business/shamash-shum-ukin.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>28/V/20 - Borsippa, BM 134973 [6] (K.142 [2, p. 36])</li>
-<li>30/V/20 - Babylon, BM 40577 [7] (K.143 [2, p. 36])</li>
+<li>28/V/20 - Borsippa, BM 134973 [<a href="#ref-bm134973">6</a>] (K.142
+[<a href="#ref-brinkman1983documentary">2</a>, p. 36])</li>
+<li>30/V/20 - Babylon, BM 40577 [<a href="#ref-bm40577">7</a>] (K.143
+[<a href="#ref-brinkman1983documentary">2</a>, p. 36])</li>
 </ul>
 <p>The tablets therefore show that Shamash-shum-ukin ruled for 20 years.</p>
 <h3 id="kandalanu"><a class="header" href="#kandalanu">Kandalanu</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>6/X/1 - Babylon, VAT 2963 (L.1 [2, p. 39])</li>
-<li>10/XII/1 - Sippar?, BM 49326 [8] (L.2 [2, p. 39])</li>
+<li>6/X/1 - Babylon, VAT 2963 (L.1 [<a href="#ref-brinkman1983documentary">2</a>,
+p. 39])</li>
+<li>10/XII/1 - Sippar?, BM 49326 [<a href="#ref-bm49326">8</a>] (L.2
+[<a href="#ref-brinkman1983documentary">2</a>, p. 39])</li>
 </ul>
 <p><img src="../../graphics/business/kandalanu.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>25/II/21 - Borsippa, BM 26377 [9] (L.158a [3, p. 103])</li>
-<li>8/III/21 - Sippar?, BM 50270 [10] (L.159 [2, p. 49])</li>
-<li>?/VIII/21 - Babylon, BM 36514 [11] <strong>“After Kandalanu”</strong> [12, p.
-91]</li>
-<li>2/VIII/22 - Babylon, BM 40039 [13] <strong>“After Kandalanu”</strong> [12, p.
-91]</li>
+<li>25/II/21 - Borsippa, BM 26377 [<a href="#ref-bm26377">9</a>] (L.158a
+[<a href="#ref-brinkman1986supplement">3</a>, p. 103])</li>
+<li>8/III/21 - Sippar?, BM 50270 [<a href="#ref-bm50270">10</a>] (L.159
+[<a href="#ref-brinkman1983documentary">2</a>, p. 49])</li>
+<li>?/VIII/21 - Babylon, BM 36514 [<a href="#ref-bm36514">11</a>] <strong>“After
+Kandalanu”</strong> [<a href="#ref-wiseman1956chronicles">12</a>, p. 91]</li>
+<li>2/VIII/22 - Babylon, BM 40039 [<a href="#ref-bm40039">13</a>] <strong>“After
+Kandalanu”</strong> [<a href="#ref-wiseman1956chronicles">12</a>, p. 91]</li>
 </ul>
 <p>The tablets therefore show that Kandalanu died somewhere between month
 III and VIII of his 21st year, and that during the 22nd year there was
-no other king in Babylon [14, p. 244].</p>
+no other king in Babylon [<a href="#ref-naaman1991chronology">14</a>, p. 244].</p>
 <h3 id="nabopolassar"><a class="header" href="#nabopolassar">Nabopolassar</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>13?/II/Acc - ?, NCBT 557 [15]</li>
-<li>22/VI/Acc - Sippar? BM 49656 [16]</li>
+<li>13?/II/Acc - ?, NCBT 557 [<a href="#ref-goetze1944additions">15</a>]</li>
+<li>22/VI/Acc - Sippar? BM 49656 [<a href="#ref-bm49656">16</a>]</li>
 </ul>
-<p>According to Wiseman: [12, p. 93]</p>
+<p>According to Wiseman: [<a href="#ref-wiseman1956chronicles">12</a>, p. 93]</p>
 <blockquote>
 <p>The Chronicle (B.M. 25127, 11. I4-I5) expressly states that
 Nabopolassar sat on the throne of Babylon on the 26th of Marcheswan
@@ -214,34 +222,40 @@ become independent of Assyria before the final battle at Babylon.</p>
 <p><img src="../../graphics/business/nabopolassar.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>1/V/21 - KUR.A.DAN.ŠU, A5302 [1, p. 12]</li>
-<li>20/V/21 - ?, PTS 2761 (T.21.14 [4])</li>
+<li>1/V/21 - KUR.A.DAN.ŠU, A5302 [<a href="#ref-dubberstein1956babylonian">1</a>,
+p. 12]</li>
+<li>20/V/21 - ?, PTS 2761 (T.21.14 [<a href="#ref-kennedy1986documentary">4</a>])</li>
 </ul>
 <p>The tablets therefore show that Nabopolassar ruled for 21 years.</p>
 <h3 id="nebuchadnezzar-ii"><a class="header" href="#nebuchadnezzar-ii">Nebuchadnezzar II</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>12/VI/Acc - Uruk?, (YOS 17, 153 [17])</li>
-<li>18/VI/Acc - Sippar, BM 49524 [18] [12, p. 84]</li>
+<li>12/VI/Acc - Uruk?, (YOS 17, 153 [<a href="#ref-weisberg1980texts">17</a>])</li>
+<li>18/VI/Acc - Sippar, BM 49524 [<a href="#ref-bm49524">18</a>]
+[<a href="#ref-wiseman1956chronicles">12</a>, p. 84]</li>
 </ul>
 <p><img src="../../graphics/business/nebuchadnezzar_ii.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>21/VI/43 - Uruk, NCBT 286 [15, p. 44]</li>
-<li>26/VI/43 - Uruk, AO 06847 (TCL 12, 58 [19])</li>
+<li>21/VI/43 - Uruk, NCBT 286 [<a href="#ref-goetze1944additions">15</a>, p. 44]</li>
+<li>26/VI/43 - Uruk, AO 06847 (TCL 12, 58
+[<a href="#ref-contenau1927contrats">19</a>])</li>
 </ul>
 <p>The tablets therefore show that Nebuchadnezzar II ruled for 43 years.</p>
 <h3 id="amel-marduk"><a class="header" href="#amel-marduk">Amel-Marduk</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>?/V/Acc - Sippar, BM 58872 [20] (Sack No. 79 [21, p. 106])</li>
-<li>20/V/Acc - Sippar, BM 75322 [22]</li>
+<li>?/V/Acc - Sippar, BM 58872 [<a href="#ref-bm58872">20</a>] (Sack No. 79
+[<a href="#ref-sack1972amel">21</a>, p. 106])</li>
+<li>20/V/Acc - Sippar, BM 75322 [<a href="#ref-bm75322">22</a>]</li>
 </ul>
 <p>Note that these texts would overlap with the dates for Nebuchadnezzar II
 by one month. R.H. Sack suggests that Nebuchadnezzar shared a brief
-co-regency with his son before his death [21, p. 3], which Wiseman
-agrees ‘is certainly possible’ [23, p. 451].</p>
-<p>However, Weisberg disagrees in his review of Sack’s book [24, p. 68]:</p>
+co-regency with his son before his death [<a href="#ref-sack1972amel">21</a>, p.
+3], which Wiseman agrees ‘is certainly possible’
+[<a href="#ref-wiseman1974review">23</a>, p. 451].</p>
+<p>However, Weisberg disagrees in his review of Sack’s book
+[<a href="#ref-weisberg1976review">24</a>, p. 68]:</p>
 <blockquote>
 <p>a possible co-regency of Nebuchadnezzar and Amēl-Marduk does not seem
 conclusive. … The dates we have for the end of one rule and the
@@ -254,8 +268,10 @@ Amēl-Marduk might have picked up the news more quickly.</p>
 <p><img src="../../graphics/business/amel-marduk.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>17/V/2 - Babylon? (BE 8/1, 34. [25, p. 76])</li>
-<li>19/X/2 - Sippar, BM 61325 [26] (Cat.BM 7 [27, p. 36])</li>
+<li>17/V/2 - Babylon? (BE 8/1, 34. [<a href="#ref-clay1908babylonian">25</a>, p.
+76])</li>
+<li>19/X/2 - Sippar, BM 61325 [<a href="#ref-bm61325">26</a>] (Cat.BM 7
+[<a href="#ref-leichty1987catalogue">27</a>, p. 36])</li>
 </ul>
 <p>Note that the last date (month X) is an anomaly since of 23 texts from
 Amel-Marduks second year it is the only one dated later than month V.</p>
@@ -263,68 +279,79 @@ Amel-Marduks second year it is the only one dated later than month V.</p>
 <h3 id="neriglissar"><a class="header" href="#neriglissar">Neriglissar</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>4/II/Acc - Sippar, BM 75489 [28]</li>
-<li>21/V/Acc - Babylon, YBC 3765 [29, p. 67]</li>
+<li>4/II/Acc - Sippar, BM 75489 [<a href="#ref-bm75489">28</a>]</li>
+<li>21/V/Acc - Babylon, YBC 3765 [<a href="#ref-dougherty1929nabonidus">29</a>, p.
+67]</li>
 </ul>
 <p>Note that the first date (month II) is an anomaly since of 40 texts from
 Neriglissar’s accession year it is the only one dated prior to month V;
-it is possibly a mistake [30, p. 228].</p>
+it is possibly a mistake [<a href="#ref-van1998neriglissar">30</a>, p. 228].</p>
 <p><img src="../../graphics/business/neriglissar.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>2/I/4 - Shahrinu, BM 41401 [31]</li>
-<li>6/I/4 - Uruk, YBC 3433 [15, p. 44]</li>
+<li>2/I/4 - Shahrinu, BM 41401 [<a href="#ref-bm41401">31</a>]</li>
+<li>6/I/4 - Uruk, YBC 3433 [<a href="#ref-goetze1944additions">15</a>, p. 44]</li>
 </ul>
 <p>The tablets therefore show that Neriglissar ruled for 4 years.</p>
 <h3 id="labashi-marduk"><a class="header" href="#labashi-marduk">Labashi-Marduk</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>23/I/Acc - Uruk, NBC 4534 [15, p. 44]</li>
-<li>12/II/Acc - Sippar, BM 67271 [32]</li>
+<li>23/I/Acc - Uruk, NBC 4534 [<a href="#ref-goetze1944additions">15</a>, p. 44]</li>
+<li>12/II/Acc - Sippar, BM 67271 [<a href="#ref-bm67271">32</a>]</li>
 </ul>
 <p><img src="../../graphics/business/la-bashi-marduk.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>9/III/Acc - Sippar (EKBK 15 [33, p. 18])</li>
-<li>11/III/Acc - Uruk, YBC 3817 [15, p. 44]</li>
+<li>9/III/Acc - Sippar (EKBK 15 [<a href="#ref-strassmaier1893einige">33</a>, p.
+18])</li>
+<li>11/III/Acc - Uruk, YBC 3817 [<a href="#ref-goetze1944additions">15</a>, p.
+44]</li>
 </ul>
 <p>The tablets therefore show that Labashi-Marduk only ruled for part of
 his accession year.</p>
 <h3 id="nabonidus"><a class="header" href="#nabonidus">Nabonidus</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>15/II/Acc - Našušakuna, (Clay BE 8/1, 39 [25, p. 32])</li>
-<li>18/III/Acc - Sippar, BM 75214 [34]</li>
+<li>15/II/Acc - Našušakuna, (Clay BE 8/1, 39
+[<a href="#ref-clay1908babylonian">25</a>, p. 32])</li>
+<li>18/III/Acc - Sippar, BM 75214 [<a href="#ref-bm75214">34</a>]</li>
 </ul>
 <p><img src="../../graphics/business/nabonid.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>17/VII/17 - Uruk (GCBC 528, GCCI 1, 390 [35, p. 67])</li>
-<li>10/VIII/17 - Uruk, BM 74972 [36]</li>
+<li>17/VII/17 - Uruk (GCBC 528, GCCI 1, 390
+[<a href="#ref-dougherty1923archives">35</a>, p. 67])</li>
+<li>10/VIII/17 - Uruk, BM 74972 [<a href="#ref-bm74972">36</a>]</li>
 </ul>
 <p>The tablets therefore show that Nabonidus ruled for 17 years.</p>
 <h3 id="cyrus-ii"><a class="header" href="#cyrus-ii">Cyrus II</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>19/VII/Acc - Sippar, BM 56154 [37]</li>
-<li>?/VII/Acc - Sippar, (Strassmaier, Cyr 1890, 1 [38])</li>
+<li>19/VII/Acc - Sippar, BM 56154 [<a href="#ref-bm56154">37</a>]</li>
+<li>?/VII/Acc - Sippar, (Strassmaier, Cyr 1890, 1
+[<a href="#ref-strassmaier1890inschriftencyr">38</a>])</li>
 </ul>
 <p><img src="../../graphics/business/cyrus.svg" alt="" /></p>
 <p>Latest dated texts:</p>
 <ul>
-<li>19/VIII/9 - Hursagkalamma, (OECT 10, 123 [39, p. 12])</li>
-<li>26/XI/9 - Uruk, YBC 3985 (YOS 7, 84 [40, p. 45])</li>
+<li>19/VIII/9 - Hursagkalamma, (OECT 10, 123
+[<a href="#ref-mcewan1984late">39</a>, p. 12])</li>
+<li>26/XI/9 - Uruk, YBC 3985 (YOS 7, 84
+[<a href="#ref-tremayne1925records">40</a>, p. 45])</li>
 </ul>
 <p>The tablets therefore show that Cyrus ruled for 9 years.</p>
 <h3 id="cambyses-ii"><a class="header" href="#cambyses-ii">Cambyses II</a></h3>
 <p>Earliest dated texts:</p>
 <ul>
-<li>12/VI/Acc - Babylon, (Strassmaier, Camb 1890, 1 [41])</li>
-<li>16/VI/Acc - Babylon, (Strassmaier, Camb 1890, 2 [41])</li>
+<li>12/VI/Acc - Babylon, (Strassmaier, Camb 1890, 1
+[<a href="#ref-strassmaier1890inschriftencam">41</a>])</li>
+<li>16/VI/Acc - Babylon, (Strassmaier, Camb 1890, 2
+[<a href="#ref-strassmaier1890inschriftencam">41</a>])</li>
 </ul>
 <p>Note there is an overlap between the tablets dated to Cambyses in month
 VI, with the tablets dated in later months to Cyrus suggesting a
-co-regency [42, p. 93] although this is disputed [43].</p>
+co-regency [<a href="#ref-dandamayev1992iranians">42</a>, p. 93] although this is
+disputed [<a href="#ref-peat1989cyrus">43</a>].</p>
 <p><img src="../../graphics/business/cambyses.svg" alt="" /></p>
 <h2 id="list-of-abbreviations"><a class="header" href="#list-of-abbreviations">List of Abbreviations</a></h2>
 <p>A = tablets in the collections of the Oriental Institute, University of
@@ -336,130 +363,218 @@ Chicago</p>
 <p>VAT = tablets in the collections of the Staatliche Museen, Berlin</p>
 <p>YBC = tablets in the Babylonian Collection, Yale University Library</p>
 <h2 id="references"><a class="header" href="#references">References</a></h2>
+<div id="refs" class="references">
+<div id="ref-dubberstein1956babylonian">
 <p>[1] W. H. Dubberstein and R. A. Parker, <em>Babylonian Chronology 626
 B.C.-A.D. 75</em>. Brown University Press, 1956, [Online]. Available:
-<a href="https://webspace.science.uu.nl/%7Egent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf">https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf</a>.</p>
+<a href="https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf">https://webspace.science.uu.nl/~gent0113/babylon/downloads/babylonian_chronology_pd_1971.pdf</a>.</p>
+</div>
+<div id="ref-brinkman1983documentary">
 <p>[2] J. A. Brinkman and D. A. Kennedy, “Documentary Evidence for the
 Economic Base of Early Neo-Babylonian Society: A Survey of Dated
 Babylonian Economic Texts, 721-626 B.C.” <em>Journal of Cuneiform Studies</em>,
 vol. 35, no. 1, pp. 1–90, 1983, [Online]. Available:
 <a href="http://www.jstor.org/stable/3515942">http://www.jstor.org/stable/3515942</a>.</p>
+</div>
+<div id="ref-brinkman1986supplement">
 <p>[3] J. A. Brinkman and D. A. Kennedy, “Supplement to the Survey of
 Dated Neo-Babylonian Economic Texts, 721-626 B.C. (JCS 35 [1983]
 1-90),” <em>Journal of Cuneiform Studies</em>, vol. 38, no. 1, pp. 99–106,
 1986, [Online]. Available: <a href="http://www.jstor.org/stable/1359954">http://www.jstor.org/stable/1359954</a>.</p>
+</div>
+<div id="ref-kennedy1986documentary">
 <p>[4] D. A. Kennedy, “Documentary Evidence for the Economic Base of
 Early Neo-Babylonian Society: Part II: A Survey of Babylonian Texts,
 626-605 B.C.” <em>Journal of Cuneiform Studies</em>, vol. 38, no. 2, pp.
 172–244, 1986, [Online]. Available:
 <a href="http://www.jstor.org/stable/1359799">http://www.jstor.org/stable/1359799</a>.</p>
+</div>
+<div id="ref-everling2013materials">
 <p>[5] J. Everling, “Materials for the Study of First Millennium B.C.
 Babylonian Texts. Volume 1. Chronological List of Babylonian Texts from
 the First Millennium B.C. Babylonia.” <em>The Online Book Series of The
 Department of Ancient History, The University of Pécs.</em>, 2013,
 [Online]. Available:
 <a href="http://okor.btk.pte.hu/sites/okor.btk.pte.hu/files/files/SEAL/sea-l_3_jeverling_materials_vol1.pdf">http://okor.btk.pte.hu/sites/okor.btk.pte.hu/files/files/SEAL/sea-l_3_jeverling_materials_vol1.pdf</a>.</p>
+</div>
+<div id="ref-bm134973">
 <p>[6] “BM 134973,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1968-0422-8">https://www.britishmuseum.org/collection/object/W_1968-0422-8</a>.</p>
+</div>
+<div id="ref-bm40577">
 <p>[7] “BM 40577,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1881-0428-119">https://www.britishmuseum.org/collection/object/W_1881-0428-119</a>.</p>
+</div>
+<div id="ref-bm49326">
 <p>[8] “BM 49326,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0323-317">https://www.britishmuseum.org/collection/object/W_1882-0323-317</a>.</p>
+</div>
+<div id="ref-bm26377">
 <p>[9] “BM 26377,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1898-0514-195">https://www.britishmuseum.org/collection/object/W_1898-0514-195</a>.</p>
+</div>
+<div id="ref-bm50270">
 <p>[10] “BM 50270,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0323-1261">https://www.britishmuseum.org/collection/object/W_1882-0323-1261</a>.</p>
+</div>
+<div id="ref-bm36514">
 <p>[11] “BM 36514,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1880-0617-241">https://www.britishmuseum.org/collection/object/W_1880-0617-241</a>.</p>
+</div>
+<div id="ref-wiseman1956chronicles">
 <p>[12] D. J. Wiseman, <em>Chronicles of Chaldean Kings (626-556 B.C.): In
 the British Museum</em>. British Museum, 1956, [Online]. Available:
 <a href="http://digital.library.stonybrook.edu/cdm/ref/collection/iraqiarcheology/id/85">http://digital.library.stonybrook.edu/cdm/ref/collection/iraqiarcheology/id/85</a>.</p>
+</div>
+<div id="ref-bm40039">
 <p>[13] “BM 40039,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1881-0201-3">https://www.britishmuseum.org/collection/object/W_1881-0201-3</a>.</p>
+</div>
+<div id="ref-naaman1991chronology">
 <p>[14] N. Na’aman, “Chronology and History in the Late Assyrian Empire
 (631—619 B.C.),” <em>Zeitschrift für Assyriologie und Vorderasiatische
 Archäologie</em>, vol. 81, nos. 1-2, pp. 243–267, 1991, [Online].
 Available: <a href="https://doi.org/10.1515/zava.1991.81.1-2.243">https://doi.org/10.1515/zava.1991.81.1-2.243</a>.</p>
+</div>
+<div id="ref-goetze1944additions">
 <p>[15] A. Goetze, “Additions to Parker and Dubberstein’s Babylonian
 Chronology,” <em>Journal of Near Eastern Studies</em>, vol. 3, no. 1, pp.
 43–46, 1944, [Online]. Available:
 <a href="http://www.jstor.org/stable/542400">http://www.jstor.org/stable/542400</a>.</p>
+</div>
+<div id="ref-bm49656">
 <p>[16] “BM 49656,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0323-647">https://www.britishmuseum.org/collection/object/W_1882-0323-647</a>.</p>
+</div>
+<div id="ref-weisberg1980texts">
 <p>[17] D. B. Weisberg and R. P. Dougherty, <em>Texts from the Time of
 Nebuchadnezzar</em>, vol. 17. Yale University Press, 1980.</p>
+</div>
+<div id="ref-bm49524">
 <p>[18] “BM 49524,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0323-515">https://www.britishmuseum.org/collection/object/W_1882-0323-515</a>.</p>
+</div>
+<div id="ref-contenau1927contrats">
 <p>[19] G. Contenau, <em>Contrats neo-babyloniens</em>, vol. 12. P. Geuthner,
 1927.</p>
+</div>
+<div id="ref-bm58872">
 <p>[20] “BM 58872,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0714-3281">https://www.britishmuseum.org/collection/object/W_1882-0714-3281</a>.</p>
+</div>
+<div id="ref-sack1972amel">
 <p>[21] R. H. Sack, <em>Amēl-Marduk, 562-560 B.C. A Study Based on
 Cuneiform, Old Testament, Greek, Latin and Rabbinical Sources</em>, vol. 4.
 Butzon &amp; Bercker, 1972.</p>
+</div>
+<div id="ref-bm75322">
 <p>[22] “BM 75322,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1883-0118-AH-655">https://www.britishmuseum.org/collection/object/W_1883-0118-AH-655</a>.</p>
+</div>
+<div id="ref-wiseman1974review">
 <p>[23] D. J. Wiseman, <em>Bulletin of the School of Oriental and African
 Studies, University of London</em>, vol. 37, no. 2, pp. 450–452, 1974,
 [Online]. Available: <a href="http://www.jstor.org/stable/612590">http://www.jstor.org/stable/612590</a>.</p>
+</div>
+<div id="ref-weisberg1976review">
 <p>[24] D. B. Weisberg, <em>Journal of Near Eastern Studies</em>, vol. 35, no.
 1, pp. 67–69, 1976, [Online]. Available:
 <a href="http://www.jstor.org/stable/544838">http://www.jstor.org/stable/544838</a>.</p>
+</div>
+<div id="ref-clay1908babylonian">
 <p>[25] A. T. Clay, <em>The Babylonian Expedition of the University of
 Pennsylvania: Series A, Cuneiform Texts</em>, vol. 8. Department of
 archaeology, University of Pennsylvania, 1908, [Online]. Available:
 <a href="https://archive.org/details/cu31924026432462">https://archive.org/details/cu31924026432462</a>.</p>
+</div>
+<div id="ref-bm61325">
 <p>[26] “BM 61325,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0918-1300">https://www.britishmuseum.org/collection/object/W_1882-0918-1300</a>.</p>
+</div>
+<div id="ref-leichty1987catalogue">
 <p>[27] E. Leichty and A. K. Grayson, <em>Catalogue of the Babylonian
 Tablets in the British Museum. Volume VII: Tablets from Sippar 2</em>, vol.
 7. British Museum Publications, 1987.</p>
+</div>
+<div id="ref-bm75489">
 <p>[28] “BM 75489,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1883-0118-AH-824">https://www.britishmuseum.org/collection/object/W_1883-0118-AH-824</a>.</p>
+</div>
+<div id="ref-dougherty1929nabonidus">
 <p>[29] R. P. Dougherty, <em>Nabonidus and Belshazzar: A Study of the
 Closing Events of the Neo-Babylonian Empire</em>, vol. 15. Yale University
 Press, 1929, [Online]. Available:
 <a href="https://babel.hathitrust.org/cgi/pt?id=mdp.39015004069087">https://babel.hathitrust.org/cgi/pt?id=mdp.39015004069087</a>.</p>
+</div>
+<div id="ref-van1998neriglissar">
 <p>[30] G. van Driel, “Neriglissar,” <em>Reallexikon der Assyriologie</em>, vol.
 9, pp. 228–229, 1998.</p>
+</div>
+<div id="ref-bm41401">
 <p>[31] “BM 41401,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1881-0625-12">https://www.britishmuseum.org/collection/object/W_1881-0625-12</a>.</p>
+</div>
+<div id="ref-bm67271">
 <p>[32] “BM 67271,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0918-7267">https://www.britishmuseum.org/collection/object/W_1882-0918-7267</a>.</p>
+</div>
+<div id="ref-strassmaier1893einige">
 <p>[33] S. J. N, “Einige kleinere babylonische Keilschrifttexte aus dem
 Britischen Museum,” <em>Actes du huitième congrès international des
 Orientalistes, tenu en 1889 à Stockholm et à Christiania. Deuxième
 partie, Section I B.</em>, pp. 279–283, 1893, [Online]. Available:
 <a href="https://gallica.bnf.fr/ark:/12148/bpt6k9680937m.texteImage?lang=EN">https://gallica.bnf.fr/ark:/12148/bpt6k9680937m.texteImage?lang=EN</a>.</p>
+</div>
+<div id="ref-bm75214">
 <p>[34] “BM 75214,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1883-0118-AH-544">https://www.britishmuseum.org/collection/object/W_1883-0118-AH-544</a>.</p>
+</div>
+<div id="ref-dougherty1923archives">
 <p>[35] R. P. Dougherty, <em>Archives from Erech; Time of Nebuchadrezzar and
 Nabonidus</em>, vol. 1. Goucher College, 1923, [Online]. Available:
 <a href="https://web.archive.org/web/20200726142122/http://www.etana.org/sites/default/files/coretexts/20281.pdf">https://web.archive.org/web/20200726142122/http://www.etana.org/sites/default/files/coretexts/20281.pdf</a>.</p>
+</div>
+<div id="ref-bm74972">
 <p>[36] “BM 74972,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1883-0118-AH-295">https://www.britishmuseum.org/collection/object/W_1883-0118-AH-295</a>.</p>
+</div>
+<div id="ref-bm56154">
 <p>[37] “BM 56154,” <em>The British Museum</em>. [Online]. Available:
 <a href="https://www.britishmuseum.org/collection/object/W_1882-0714-515">https://www.britishmuseum.org/collection/object/W_1882-0714-515</a>.</p>
+</div>
+<div id="ref-strassmaier1890inschriftencyr">
 <p>[38] S. J. N, <em>Inschriften Von Cyrus, König Von Babylon (538-529 V.
 Chr).</em> Eduard Pfeiffer, 1890, [Online]. Available:
 <a href="https://web.archive.org/web/20200726144922/http://www.etana.org/sites/default/files/coretexts/20390.pdf">https://web.archive.org/web/20200726144922/http://www.etana.org/sites/default/files/coretexts/20390.pdf</a>.</p>
+</div>
+<div id="ref-mcewan1984late">
 <p>[39] G. J. P. McEwan and A. Museum, <em>Late Babylonian Texts in the
 Ashmolean Museum</em>, vol. 10. Clarendon Press, 1984.</p>
+</div>
+<div id="ref-tremayne1925records">
 <p>[40] A. Tremayne, <em>Records from Erech: time of Cyrus and Cambyses
 (538-521 B.C.)</em>, vol. 7. Yale University Press, 1925, [Online].
 Available:
 <a href="https://babylonian-collection.yale.edu/sites/default/files/files/yos7.pdf">https://babylonian-collection.yale.edu/sites/default/files/files/yos7.pdf</a>.</p>
+</div>
+<div id="ref-strassmaier1890inschriftencam">
 <p>[41] J. N. Strassmaier, B. T. A. Evretts, and B. Museum, <em>Inschriften
 von Cambyses, König von Babylon (529-521 v. Chr.)</em>. E. Pfeiffer, 1890,
 [Online]. Available:
 <a href="https://web.archive.org/web/20200726144248/http://www.etana.org/sites/default/files/coretexts/20389.pdf">https://web.archive.org/web/20200726144248/http://www.etana.org/sites/default/files/coretexts/20389.pdf</a>.</p>
+</div>
+<div id="ref-dandamayev1992iranians">
 <p>[42] M. A. Dandamayev, <em>Iranians in Achaemenid Babylonia</em>. Mazda
 Publishers, 1992, [Online]. Available:
 <a href="https://books.google.co.uk/books?id=stUkDwAAQBAJ">https://books.google.co.uk/books?id=stUkDwAAQBAJ</a>.</p>
+</div>
+<div id="ref-peat1989cyrus">
 <p>[43] J. Peat, “Cyrus &quot;King of Lands,&quot; Cambyses &quot;King of Babylon&quot;: The
 Disputed Co-Regency,” <em>Journal of Cuneiform Studies</em>, vol. 41, no. 2,
 pp. 199–216, 1989, [Online]. Available:
 <a href="http://www.jstor.org/stable/1359915">http://www.jstor.org/stable/1359915</a>.</p>
+</div>
+</div>
 
                     </main>
 
@@ -493,18 +608,18 @@ pp. 199–216, 1989, [Online]. Available:
 
 
 
-        <script type="text/javascript">
+        <script>
             window.playground_copyable = true;
         </script>
 
 
-        <script src="../../elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../mark.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../searcher.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../elasticlunr.min.js"></script>
+        <script src="../../mark.min.js"></script>
+        <script src="../../searcher.js"></script>
 
-        <script src="../../clipboard.min.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../highlight.js" type="text/javascript" charset="utf-8"></script>
-        <script src="../../book.js" type="text/javascript" charset="utf-8"></script>
+        <script src="../../clipboard.min.js"></script>
+        <script src="../../highlight.js"></script>
+        <script src="../../book.js"></script>
 
         <!-- Custom JS scripts -->
 
