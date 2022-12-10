@@ -6,8 +6,8 @@ Quoted in: _The Watchtower_ 'When Was Ancient Jerusalem Destroyed? — Part Two'
 
 Response by Sack [@medeiros2011responses, 2]:
 
-> From: Ronald Sack \<ronaldsa@bellsouth.net\><br> To: Adelmo Medeiros \<fadelmo@gmail.com\><br> Date: Thu, October 13, 2011
-> 04:46
+> From: Ronald Sack \<ronaldsa@bellsouth.net\><br> To: Adelmo Medeiros \<fadelmo@gmail.com\><br> Date: Thu, October 13,
+> 2011 04:46
 >
 > I have already responded to many who have asked this question. The Watchtower misrepresents me entirely. The date for
 > the destruction of Jerusalem is 587 BC The article in the Watchtower is unsigned and a complete misrepresentation of
@@ -43,8 +43,8 @@ Quoted in: _The Watchtower_ 'When Was Ancient Jerusalem Destroyed? — Part Two'
 
 Response by Spek [@medeiros2011responses, 5]:
 
-> From: Spek, R.J. van der \<r.j.vander.spek@vu.nl\><br> To: Adelmo Medeiros \<fadelmo@gmail.com\><br> Date: Mon, October
-> 24, 2011 05:20
+> From: Spek, R.J. van der \<r.j.vander.spek@vu.nl\><br> To: Adelmo Medeiros \<fadelmo@gmail.com\><br> Date: Mon,
+> October 24, 2011 05:20
 >
 > Dear mr. Medeiros,<br> Thanks for your e-mail. Someone from the Netherlands also contacted me about this question.
 >
