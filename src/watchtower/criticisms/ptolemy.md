@@ -122,11 +122,11 @@ available in the very sources they have cited. Ptolemy's canon only lists one Ba
 include contested kings or those who just ruled for part of the year. When the full information from the texts is shown
 the solution is obvious:
 
-| [Ptolemy's Canon](../../standard/canon.md) | [Chronicle](../../standard/chronicles/bm25127.md) | [Uruk King List](../../standard/im65066.md) | [Business Tablets](../../standard/business.md) |
-| ------------------------------------------ | ------------------------------------------------- | ------------------------------------------- | ---------------------------------------------- |
-| Kandalanu 21st                             |                                                   | Kandalanu 21 years                          | Kandalanu 21                                   |
-| Kandalanu 22nd                             | 'For one year there was no king in the land'      | Sin-shumu-lisir and Sinsharishkun 1 year    | `arki` ('After') Kandalanu 22                  |
-| Nabopolassar 1st                           | 'first year of Nabopolassar'                      | Nabopolassar 21 years                       | Nabopolassar 1st                               |
+| [Ptolemy's Canon](../../standard/canon.md) | [Chronicle](../../standard/chronicles/bm25127.md) | [Uruk King List](../../standard/im65066.md) | [Business Tablets](../../standard/business/business.md) |
+| ------------------------------------------ | ------------------------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| Kandalanu 21st                             |                                                   | Kandalanu 21 years                          | Kandalanu 21                                            |
+| Kandalanu 22nd                             | 'For one year there was no king in the land'      | Sin-shumu-lisir and Sinsharishkun 1 year    | `arki` ('After') Kandalanu 22                           |
+| Nabopolassar 1st                           | 'first year of Nabopolassar'                      | Nabopolassar 21 years                       | Nabopolassar 1st                                        |
 
 As already explained above, the reigns of the Assyrian king Sinsharishkun and Babylonian king Nabopolassar overlapped;
 whilst at various points during the first 7 years of his reign Sinsharishkun besieged and controlled various Babylonian
